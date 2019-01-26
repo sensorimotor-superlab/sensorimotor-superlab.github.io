@@ -1,3 +1,0 @@
-# Sensorimotor Superlab
-
-Welcome
