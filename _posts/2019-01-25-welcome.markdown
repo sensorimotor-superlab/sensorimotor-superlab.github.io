@@ -31,5 +31,3 @@ Here is this week's list:
 9. Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F. (2019). [Current Models of Speech Motor Control: A Control-Theoretic Overview of Architectures & Properties](https://www.biorxiv.org/content/early/2019/01/18/197285). bioRxiv, 197285.
 
 10. Yang, G.R., Joglekar, M.R., Song, H.F., Newsome, W.T., and Wang, X.-J. (2019). [Task representations in neural networks trained to perform many cognitive tasks](https://dx.doi.org/10.1038/s41593-018-0310-2). Nat. Neurosci.
-
-.
