@@ -1,0 +1,3 @@
+- add Andrew's logo to header and make sure it looks OK on mobile
+- ask all superlab members to send selfies and make a collage for the front page
+- 
