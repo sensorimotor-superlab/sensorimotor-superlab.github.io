@@ -11,24 +11,24 @@ Each Friday we will publish a list of 10 papers that we have seen over the past 
 
 Here is this week's list:
 
-1. Berniker, M., and Penny, S. (2018). A normative approach to neuromotor control. Biol. Cybern. [[link](https://dx.doi.org/10.1007/s00422-018-0777-7)]
+1. Berniker, M., and Penny, S. (2018). [A normative approach to neuromotor control](https://dx.doi.org/10.1007/s00422-018-0777-7). Biol. Cybern.
 
-2. Biswas, D., Arend, L.A., Stamper, S.A., Vágvölgyi, B.P., Fortune, E.S., and Cowan, N.J. (2018). Closed-Loop Control of Active Sensing Movements Regulates Sensory Slip. Curr. Biol. [link](https://dx.doi.org/10.1016/j.cub.2018.11.002)
+2. Biswas, D., Arend, L.A., Stamper, S.A., Vágvölgyi, B.P., Fortune, E.S., and Cowan, N.J. (2018). [Closed-Loop Control of Active Sensing Movements Regulates Sensory Slip](https://dx.doi.org/10.1016/j.cub.2018.11.002). Curr. Biol.
 
-3. Hardwick, R.M., Forrence, A.D., Krakauer, J.W., and Haith, A.M. (2018). Time-dependent competition between habitual and goal-directed response preparation. bioRxiv, 201095. [link](https://www.biorxiv.org/content/early/2018/10/05/201095)
+3. Hardwick, R.M., Forrence, A.D., Krakauer, J.W., and Haith, A.M. (2018). [Time-dependent competition between habitual and goal-directed response preparation](https://www.biorxiv.org/content/early/2018/10/05/201095). bioRxiv, 201095.
 
-4. Hoffman, B.U., Baba, Y., Griffith, T.N., Mosharov, E.V., Woo, S.-H., Roybal, D.D., Karsenty, G., Patapoutian, A., Sulzer, D., and Lumpkin, E.A. (2018). Merkel Cells Activate Sensory Neural Pathways through Adrenergic Synapses. Neuron 100, 1401–1413.e6. [link](https://www.cell.com/article/S0896627318309425/abstract)  
+4. Hoffman, B.U., Baba, Y., Griffith, T.N., Mosharov, E.V., Woo, S.-H., Roybal, D.D., Karsenty, G., Patapoutian, A., Sulzer, D., and Lumpkin, E.A. (2018). [Merkel Cells Activate Sensory Neural Pathways through Adrenergic Synapses](https://www.cell.com/article/S0896627318309425/abstract). Neuron 100, 1401–1413.e6.    
 **Norepinephrine is the Merkel cell neurotransmitter and adrenergic receptors are required to generate the classic slowly-adapting type I response.**
 
-5. McDougle, S.D., and Taylor, J.A. (2019). Dissociable cognitive strategies for sensorimotor learning. Nat. Commun. 10, 40. [link](https://doi-org.proxy1.lib.uwo.ca/10.1038/s41467-018-07941-0)
+5. McDougle, S.D., and Taylor, J.A. (2019). [Dissociable cognitive strategies for sensorimotor learning](https://doi-org.proxy1.lib.uwo.ca/10.1038/s41467-018-07941-0). Nat. Commun. 10, 40.
 
-6. Mhatre, N., Sivalinghem, S., and Mason, A.C. (2018). Posture controls mechanical tuning in the black widow spider mechanosensory system. bioRxiv, 484238. [link](https://www.biorxiv.org/content/10.1101/484238v1.abstract)
+6. Mhatre, N., Sivalinghem, S., and Mason, A.C. (2018). [Posture controls mechanical tuning in the black widow spider mechanosensory system](https://www.biorxiv.org/content/10.1101/484238v1.abstract). bioRxiv, 484238.
 
-7. Pandarinath, C., O’Shea, D.J., Collins, J., Jozefowicz, R., Stavisky, S.D., Kao, J.C., Trautmann, E.M., Kaufman, M.T., Ryu, S.I., Hochberg, L.R., et al. (2018). Inferring single-trial neural population dynamics using sequential auto-encoders. Nat. Methods. [link](https://doi.org/10.1038/s41592-018-0109-9)
+7. Pandarinath, C., O’Shea, D.J., Collins, J., Jozefowicz, R., Stavisky, S.D., Kao, J.C., Trautmann, E.M., Kaufman, M.T., Ryu, S.I., Hochberg, L.R., et al. (2018). [Inferring single-trial neural population dynamics using sequential auto-encoders.](https://doi.org/10.1038/s41592-018-0109-9) Nat. Methods.
 
-8. Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F. (2019). Current Models of Speech Motor Control: A Control-Theoretic Overview of Architectures & Properties. bioRxiv, 197285. [link](https://www.biorxiv.org/content/early/2019/01/18/197285)
+8. Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F. (2019). [Current Models of Speech Motor Control: A Control-Theoretic Overview of Architectures & Properties](https://www.biorxiv.org/content/early/2019/01/18/197285). bioRxiv, 197285.
 
-9. Yang, G.R., Joglekar, M.R., Song, H.F., Newsome, W.T., and Wang, X.-J. (2019). Task representations in neural networks trained to perform many cognitive tasks. Nat. Neurosci. [link](https://dx.doi.org/10.1038/s41593-018-0310-2)
+9. Yang, G.R., Joglekar, M.R., Song, H.F., Newsome, W.T., and Wang, X.-J. (2019). [Task representations in neural networks trained to perform many cognitive tasks](https://dx.doi.org/10.1038/s41593-018-0310-2). Nat. Neurosci.
 
-10. Dhakal, V., Feit, A.M., Kristensson, P.O., and Oulasvirta, A. (2018). Observations on Typing from 136 Million Keystrokes. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (ACM), p. 646. [link](https://dx.doi.org/10.1145/3173574.3174220)
+10. Dhakal, V., Feit, A.M., Kristensson, P.O., and Oulasvirta, A. (2018). [Observations on Typing from 136 Million Keystrokes](https://dx.doi.org/10.1145/3173574.3174220). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (ACM), p. 646.
 
