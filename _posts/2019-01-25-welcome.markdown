@@ -26,7 +26,7 @@ Here is this week's list:
 
 7. Mhatre, N., Sivalinghem, S., and Mason, A.C. (2018). [Posture controls mechanical tuning in the black widow spider mechanosensory system](https://www.biorxiv.org/content/10.1101/484238v1.abstract). bioRxiv, 484238.
 
-8. Pandarinath, C., O’Shea, D.J., Collins, J., Jozefowicz, R., Stavisky, S.D., Kao, J.C., Trautmann, E.M., Kaufman, M.T., Ryu, S.I., Hochberg, L.R., et al. (2018). [Inferring single-trial neural population dynamics using sequential auto-encoders.](https://doi.org/10.1038/s41592-018-0109-9) Nat. Methods.
+8. Pandarinath, C., O'Shea, D.J., Collins, J., Jozefowicz, R., Stavisky, S.D., Kao, J.C., Trautmann, E.M., Kaufman, M.T., Ryu, S.I., Hochberg, L.R., et al. (2018). [Inferring single-trial neural population dynamics using sequential auto-encoders.](https://doi.org/10.1038/s41592-018-0109-9) Nat. Methods.
 
 9. Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F. (2019). [Current Models of Speech Motor Control: A Control-Theoretic Overview of Architectures & Properties](https://www.biorxiv.org/content/early/2019/01/18/197285). bioRxiv, 197285.
 
