@@ -32,6 +32,3 @@ Here is this week's list:
 
 10. Yang, G.R., Joglekar, M.R., Song, H.F., Newsome, W.T., and Wang, X.-J. (2019). [Task representations in neural networks trained to perform many cognitive tasks](https://dx.doi.org/10.1038/s41593-018-0310-2). Nat. Neurosci.
 
-<a class="twitter-share-button"
-  href="https://twitter.com/intent/tweet?text=Hello%20world">
-Tweet</a>
