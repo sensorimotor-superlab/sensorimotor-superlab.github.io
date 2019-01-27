@@ -8,7 +8,7 @@ We are the Sensorimotor Superlab at [Western University](https://www.uwo.ca) in 
 
 The Superlab combines the labs of [Paul Gribble](https://www.gribblelab.org), [Andrew Pruszynski](http://www.pruszynskilab.com) and [Jörn Diedrichsen](http://www.diedrichsenlab.org).
 
-Every week we publish a reading list---papers from the recent literature that have caught our eye.
+Every Friday we publish a weekly reading list---papers from the literature that have caught our eye over the past week. They may be brand new publications or they may be oldies-but-goodies. They may be published in journals, they may be preprints on arXiv or bioRXiv. They may even be blog posts or github code repositories.
 
 Enjoy!
 
