@@ -11,7 +11,7 @@ Each Friday we will publish a list of 10 papers that we have seen over the past 
 
 Here is this week's list:
 
-1. Berniker, M., and Penny, S. (2018). A normative approach to neuromotor control. Biol. Cybern. [link](https://dx.doi.org/10.1007/s00422-018-0777-7)
+1. Berniker, M., and Penny, S. (2018). A normative approach to neuromotor control. Biol. Cybern. [[link](https://dx.doi.org/10.1007/s00422-018-0777-7)]
 
 2. Biswas, D., Arend, L.A., Stamper, S.A., Vágvölgyi, B.P., Fortune, E.S., and Cowan, N.J. (2018). Closed-Loop Control of Active Sensing Movements Regulates Sensory Slip. Curr. Biol. [link](https://dx.doi.org/10.1016/j.cub.2018.11.002)
 
