@@ -17,7 +17,8 @@ Here is this week's list:
 
 3. Hardwick, R.M., Forrence, A.D., Krakauer, J.W., and Haith, A.M. (2018). Time-dependent competition between habitual and goal-directed response preparation. bioRxiv, 201095. [link](https://www.biorxiv.org/content/early/2018/10/05/201095)
 
-4. Hoffman, B.U., Baba, Y., Griffith, T.N., Mosharov, E.V., Woo, S.-H., Roybal, D.D., Karsenty, G., Patapoutian, A., Sulzer, D., and Lumpkin, E.A. (2018). Merkel Cells Activate Sensory Neural Pathways through Adrenergic Synapses. Neuron 0. [link](https://www.cell.com/article/S0896627318309425/abstract)
+4. Hoffman, B.U., Baba, Y., Griffith, T.N., Mosharov, E.V., Woo, S.-H., Roybal, D.D., Karsenty, G., Patapoutian, A., Sulzer, D., and Lumpkin, E.A. (2018). Merkel Cells Activate Sensory Neural Pathways through Adrenergic Synapses. Neuron 100, 1401–1413.e6. [link](https://www.cell.com/article/S0896627318309425/abstract)
+
 **Norepinephrine is the Merkel cell neurotransmitter and adrenergic receptors are required to generate the classic slowly-adapting type I response.**
 
 5. McDougle, S.D., and Taylor, J.A. (2019). Dissociable cognitive strategies for sensorimotor learning. Nat. Commun. 10, 40. [link](https://doi-org.proxy1.lib.uwo.ca/10.1038/s41467-018-07941-0)
@@ -31,3 +32,4 @@ Here is this week's list:
 9. Yang, G.R., Joglekar, M.R., Song, H.F., Newsome, W.T., and Wang, X.-J. (2019). Task representations in neural networks trained to perform many cognitive tasks. Nat. Neurosci. [link](https://dx.doi.org/10.1038/s41593-018-0310-2)
 
 10. Dhakal, V., Feit, A.M., Kristensson, P.O., and Oulasvirta, A. (2018). Observations on Typing from 136 Million Keystrokes. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (ACM), p. 646. [link](https://dx.doi.org/10.1145/3173574.3174220)
+
