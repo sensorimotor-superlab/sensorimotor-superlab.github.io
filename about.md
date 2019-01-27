@@ -12,4 +12,4 @@ Every Friday we publish a weekly reading list---papers from the literature that 
 
 Enjoy!
 
---Paul, Andrew and Jörn
+--Paul, Andrew, and Jörn
