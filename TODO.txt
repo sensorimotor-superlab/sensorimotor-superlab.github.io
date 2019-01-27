@@ -1,3 +1,4 @@
 - add Andrew's logo to header and make sure it looks OK on mobile
-- ask all superlab members to send selfies and make a collage for the front page
-- 
+- ask all superlab members to send selfies and make a collage for the front page?
+- two-column format for reading list? Citation on the left, and key graphic and/or comments/notes on the right?
+
