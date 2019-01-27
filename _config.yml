@@ -26,7 +26,7 @@ github_username:
 # Build settings
 markdown: kramdown
 #theme: minima
-gem "jekyll-remote-theme"
+gem: "jekyll-remote-theme"
 remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
