@@ -28,6 +28,16 @@
   }
 }
 
+.site-title img {
+  height: 100px;
+  width: auto;
+  
+  @include media-query($on-palm) {
+    height: 50px;
+    width: auto;
+  }
+}
+
 .site-nav {
   position: absolute;
   top: 9px;
