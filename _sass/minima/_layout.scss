@@ -33,7 +33,7 @@
   width: auto;
   
   @include media-query($on-palm) {
-    height: 50px;
+    height: 40px;
     width: auto;
   }
 }
