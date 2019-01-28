@@ -17,7 +17,7 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Check out this week's Sensorimotor Superlab reading list" data-url="{{ post.url | relative_url }}" data-via="wusmsl" data-hashtags="superlab" data-related="paulgribble,andpru,diedrichsenjorn" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Check out this week's Sensorimotor Superlab reading list, brought to you by @diedrichsenjorn, @andpru, and @paulgribble" data-url="{{ post.url | relative_url }}" data-via="wusmsl" data-hashtags="superlab" data-related="paulgribble,andpru,diedrichsenjorn" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 
   {%- if site.disqus.shortname -%}
@@ -26,4 +26,3 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
-
