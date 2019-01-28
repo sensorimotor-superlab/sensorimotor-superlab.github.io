@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the Sensorimotor Superlab Weekly Reading List"
 date:   2019-01-25 17:00:00 -0500
-categories: 
+categories: readinglist
 ---
 
 Each Friday we will publish a list of 10 papers that we have seen over the past week that have sparked our interest. They may be new or they may be oldies-but-goodies. They may be published in journals, or preprints on arXiv or bioRXiv. They may be blog posts or GitHub code repositories.
