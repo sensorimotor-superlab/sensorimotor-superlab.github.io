@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Polar Vortex"
+date:   2019-02-01 08:00:00 -0500
+categories: readinglist
+---
+
+1. de la Malla C, Brenner E, de Haan EHF, and Smeets JBJ (2019). [A visual illusion that influences perception and action through the dorsal pathway](https://dx.doi.org/10.1038/s42003-019-0293-x). Communications Biology 2, 38.
+
+2. Giri B, Miyawaki H, Mizuseki K., Cheng S., and Diba K. (2019). [Hippocampal reactivation extends for several hours following novel experience](https://dx.doi.org/10.1523/JNEUROSCI.1950-18.2018). J. Neurosci. 39(5):866-875
+
+3. Parra LC, Haufe S, and Dmochowski JP (2018). [Correlated Components Analysis - Extracting Reliable Dimensions in Multivariate Data](https://arxiv.org/abs/1801.08881). arXiv stat.ML.
+
+4. Suver MP, Matheson AMM, Sarkar S, Damiata M, Schoppik D, and Nagel KI (2018). [Encoding of wind direction by central neurons in Drosophila](https://www.biorxiv.org/content/10.1101/504753v1). bioRxiv, 504753.
+
+   This paper coins the term 'wedge projection neurons', units in the fly brain that integrate signals across the two antennae, and receive input from several kinds of second-order neurons to produce a linear-ish representation of wind direction.
+
+5. Whittington JCR and Bogacz R (2019). [Theories of Error Back-Propagation in the Brain](https://www.cell.com/article/S1364661319300129/abstract). Trends Cogn. Sci.
+
+6. Wong AL, Marvel CL, Taylor JA, and Krakauer JW (2019). [Can patients with cerebellar disease switch learning mechanisms to reduce their adaptation deficits?](https://dx.doi.org/10.1093/brain/awy334) Brain. 2019 Jan. 28
+
