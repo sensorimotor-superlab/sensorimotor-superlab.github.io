@@ -5,6 +5,8 @@ date:   2019-02-01 08:00:00 -0500
 categories: readinglist
 ---
 
+The cold weather is here. Stay in and read some papers! Here is our list this week:
+
 1. de la Malla C, Brenner E, de Haan EHF, and Smeets JBJ (2019). [A visual illusion that influences perception and action through the dorsal pathway](https://dx.doi.org/10.1038/s42003-019-0293-x). Communications Biology 2, 38.
 
 2. Giri B, Miyawaki H, Mizuseki K., Cheng S., and Diba K. (2019). [Hippocampal reactivation extends for several hours following novel experience](https://dx.doi.org/10.1523/JNEUROSCI.1950-18.2018). J. Neurosci. 39(5):866-875
