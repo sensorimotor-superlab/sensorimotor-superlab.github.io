@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ice Storm"
-date:   2019-02-01 08:00:00 -0500
+date:   2019-02-08 08:00:00 -0500
 categories: readinglist
 ---
 
