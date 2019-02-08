@@ -27,6 +27,6 @@ Here is our list for the week:
 
 7. [How the BBC Visual and Data Journalism team works with graphics in R.](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) Medium.
 
-   A nice looking ggplot theme for R, and beyond that, well documented code so that you can learn how to change ggplot defaults to develop your own theme for scientific plots in R. Linked in the article: the [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/) showing how to use their theme to produce common sorts of plots, and their [GitHub code repository](https://github.com/bbc/bbplot) in which you can find (and adapt) their source code. I firmly believe R is the fastest way to manuscript-ready scientific graphics.
+   A pleasing ggplot theme for R, and beyond that, well documented code so that you can learn how to change ggplot defaults to develop your own theme for scientific plots in R. Linked in the article: the [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/) showing how to use their theme to produce common plots, and their [GitHub code repository](https://github.com/bbc/bbplot) in which you can find (and adapt) their source code. I firmly believe R is the fastest way to manuscript-ready scientific graphics.
 
 
