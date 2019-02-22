@@ -5,7 +5,7 @@ date:   2019-02-22 08:00:00 -0500
 categories: readinglist
 ---
 
-Here is our list for this week:
+Here is what we've been reading this week:
 
 1. Cichy, R.M., and Kaiser, D. (2019). [Deep Neural Networks as Scientific Models.](https://www.sciencedirect.com/science/article/pii/S1364661319300348) Trends Cogn. Sci.
 
