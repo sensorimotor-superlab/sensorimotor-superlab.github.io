@@ -13,7 +13,7 @@ Here is what we've been reading this week:
 
 3. Darmohray, D.M., Jacobs, J.R., Marques, H.G., and Carey, M.R. (2019). [Spatial and Temporal Locomotor Learning in Mouse Cerebellum.](https://www.cell.com/article/S0896627319300650/abstract) Neuron
 
-   Also check out this [fantastic audio-visual visualization](https://twitter.com/meganinlisbon/status/1098133108279324673) of split-belt treadmill adaptation in mice, posted on twitter.
+   Also check out this [fantastic audio-visual visualization](https://twitter.com/meganinlisbon/status/1098133108279324673) of split-belt treadmill adaptation in mice, posted on twitter. Turn up the sound!
 
 4. Koch, G., Bonnì, S., Casula, E.P., Iosa, M., Paolucci, S., Pellicciari, M.C., Cinnera, A.M., Ponzo, V., Maiella, M., Picazio, S., et al. (2018). [Effect of Cerebellar Stimulation on Gait and Balance Recovery in Patients With Hemiparetic Stroke: A Randomized Clinical Trial.](https://dx.doi.org/10.1001/jamaneurol.2018.3639) JAMA Neurol.
 
