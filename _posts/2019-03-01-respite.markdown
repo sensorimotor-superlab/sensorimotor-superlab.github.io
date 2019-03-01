@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Respite"
+date:   2019-02-22 08:00:00 -0500
+categories: readinglist
+---
+
+It's been a tumultuous week here in Canada (politics), in the U.S. (politics) and in the U.K. as well (politics). Take a break and read some science. Here is what has caught our eye this week:
+
+1. Albert, S.T., Hadjiosif, A., Jang, J., Krakauer, J.W., and Shadmehr, R. (2019). [Holding the arm still through subcortical mathematical integration of cortical commands.](https://www.biorxiv.org/content/10.1101/556282v1) bioRxiv, 556282.
+
+2. Manning, K.Y., Llera, A., Dekaban, G.A., Bartha, R., Barreira, C., Brown, A., Fischer, L., Jevremovic, T., Blackney, K., Doherty, T.J., et al. (2018). [Linked MRI signatures of the brain’s acute and persistent response to concussion in female varsity rugby players.](https://dx.doi.org/10.1016/j.nicl.2018.101627) Neuroimage Clin.
+
+3. Merritt, D.M., Melkis, J.G., Kwok, B., Tran, C., and van der Kooy, D. (2019). [Analysis of Mutants Suggests Kamin Blocking in C. elegans is Due to Interference with Memory Recall Rather than Storage.](https://dx.doi.org/10.1038/s41598-019-38939-3) Sci. Rep. 9, 2371.
+
+4. Pilacinski, A., and Lindner, A. (2019). [Distinct contributions of human posterior parietal and dorsal premotor cortex to reach trajectory planning.](https://dx.doi.org/10.1038/s41598-019-39188-0) Sci. Rep. 9, 1962.
+
+5. Seely, J.S., Kaufman, M.T., Ryu, S.I., Shenoy, K.V., Cunningham, J.P., and Churchland, M.M. (2016). [Tensor Analysis Reveals Distinct Population Structure that Parallels the Different Computational Roles of Areas M1 and V1.](https://dx.doi.org/10.1371/journal.pcbi.1005164) PLoS Comput. Biol. 12, e1005164.
+
+6. Xu, J., Branscheidt, M., Schambra, H., Steiner, L., Widmer, M., Diedrichsen, J., Goldsmith, J., Lindquist, M., Kitago, T., Luft, A.R., et al. (2019). [Rethinking interhemispheric imbalance as a target for stroke neurorehabilitation.](https://dx.doi.org/10.1002/ana.25452) Ann. Neurol.
+
+7. Yabe, Y., Goodale, M.A., and MacDonald, P.A. (2019). [Investigating the perceived timing of sensory events triggering actions in patients with Parkinson’s disease and the effects of dopaminergic therapy.](https://www.sciencedirect.com/science/article/pii/S0010945219300619) Cortex.
+
