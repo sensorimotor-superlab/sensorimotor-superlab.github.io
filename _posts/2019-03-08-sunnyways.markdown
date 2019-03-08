@@ -9,6 +9,8 @@ Political drama continues here in Canada, and things are heating up in the U.S. 
 
 1. Marder, E. (2019). [Love writing](https://elifesciences.org/articles/45734). eLife 8, e45734.
 
+   A wonderful essay on the important of loving writing, as a scientist, and concrete suggestions about how to write better papers and grants.
+
 2. Arcaro, M., Schade, P.F., and Livingstone, M.S. (2019). [Body-map proto-organization in newborn macaques.](https://www.biorxiv.org/content/10.1101/565390v1) bioRxiv, 565390.
 
 3. Baechinger, M., Lehner, R., Thomas, F., Hanimann, S., Balsters, J.H., and Wenderoth, N. (2019). [Motor fatigability as evoked by repetitive movements results from a gradual breakdown of surround inhibition.](https://www.biorxiv.org/content/10.1101/569608v1.abstract) bioRxiv, 569608.
@@ -23,10 +25,10 @@ Political drama continues here in Canada, and things are heating up in the U.S. 
 
 7. Laplane, L., Mantovani, P., Adolphs, R., Chang, H., Mantovani, A., McFall-Ngai, M., Rovelli, C., Sober, E., and Pradeu, T. (2019). [Opinion: Why science needs philosophy.](https://dx.doi.org/10.1073/pnas.1900357116) PNAS 116, 3948–3952.
 
-8. Möller, M., and Bogacz, R. (2019). [Learning the payoffs and costs of actions.](https://dx.doi.org/10.1371/journal.pcbi.1006285) PLoS Comput Biol 15, e1006285.
+8. Li, N., Chen, T.-W., Guo, Z.V., Gerfen, C.R., and Svoboda, K. (2015). [A motor cortex circuit for motor planning and movement.](https://dx.doi.org/10.1038/nature14178) Nature 519, 51–56.
 
-9. Randolph, M., and Semmes, J. (1974). [Behavioral consequences of selective subtotal ablations in the postcentral gyrus ofMacaca mulatta.](https://doi.org/10.1016/0006-8993(74)90211-X) Brain Res. 70, 55–70.
+9. Möller, M., and Bogacz, R. (2019). [Learning the payoffs and costs of actions.](https://dx.doi.org/10.1371/journal.pcbi.1006285) PLoS Comput Biol 15, e1006285.
 
-10. Li, N., Chen, T.-W., Guo, Z.V., Gerfen, C.R., and Svoboda, K. (2015). [A motor cortex circuit for motor planning and movement.](https://dx.doi.org/10.1038/nature14178) Nature 519, 51–56.
+10. Randolph, M., and Semmes, J. (1974). [Behavioral consequences of selective subtotal ablations in the postcentral gyrus ofMacaca mulatta.](https://doi.org/10.1016/0006-8993(74)90211-X) Brain Res. 70, 55–70.
 
 
