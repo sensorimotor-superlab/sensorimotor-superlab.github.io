@@ -5,7 +5,7 @@ date:   2019-03-08 08:00:00 -0500
 categories: readinglist
 ---
 
-Political drama continues here in Canada, and things are heating up in the U.S. and Britain as well. Take a break and read some science. Here are some articles that interested us this week, including a wonderful essay by Eve Marder in eLife on the importance of writing in a scientist's life, and many concrete suggestions about how to write a clear paper.
+Political drama continues here in Canada, and things are heating up in the U.S. and Britain as well. Take a break and read some science. Here are some articles that interested us this week, including an essay by Eve Marder in eLife on the importance of writing in a scientist's life, and many concrete suggestions about how to write a clear paper.
 
 1. Marder, E. (2019). [Love writing](https://elifesciences.org/articles/45734). eLife 8, e45734.
 
