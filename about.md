@@ -10,6 +10,8 @@ The Superlab combines the labs of [Paul Gribble](https://www.gribblelab.org), [A
 
 Every Friday we publish a weekly reading list---papers from the literature that have caught our eye over the past week. They may be brand new publications or they may be oldies-but-goodies. They may be published in journals, they may be preprints on arXiv or bioRXiv. They may even be blog posts or GitHub code repositories.
 
+If you would like the reading list sent to you each week by email, please [subscribe here](https://superlab.ca/subscribe).
+
 Enjoy!
 
 --Paul, Andrew, and Jörn
