@@ -29,6 +29,6 @@ Political drama continues here in Canada, and things are heating up in the U.S. 
 
 9. Möller, M., and Bogacz, R. (2019). [Learning the payoffs and costs of actions.](https://dx.doi.org/10.1371/journal.pcbi.1006285) PLoS Comput Biol 15, e1006285.
 
-10. Randolph, M., and Semmes, J. (1974). [Behavioral consequences of selective subtotal ablations in the postcentral gyrus ofMacaca mulatta.](https://doi.org/10.1016/0006-8993(74)90211-X) Brain Res. 70, 55–70.
+10. Randolph, M., and Semmes, J. (1974). [Behavioral consequences of selective subtotal ablations in the postcentral gyrus of Macaca mulatta.](https://doi.org/10.1016/0006-8993(74)90211-X) Brain Res. 70, 55–70.
 
 
