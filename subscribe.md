@@ -1,9 +1,3 @@
----
-layout: page
-title: Subscribe
-permalink: /subscribe/
----
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -14,7 +8,7 @@ permalink: /subscribe/
 <div id="mc_embed_signup">
 <form action="https://superlab.us20.list-manage.com/subscribe/post?u=5123e51e6c72da00386654148&amp;id=6e6bd60a54" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-    <h2>Subscribe to our mailing list</h2>
+    <h2>Subscribe to our weekly reading list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
