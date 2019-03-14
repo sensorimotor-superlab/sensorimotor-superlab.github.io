@@ -9,41 +9,41 @@ New feature! Now you can subscribe to our weekly reading list and have it sent t
 
 Here is our reading list for the week.
 
----
 # 1
+---
 Iwaniuk, A.N., and Whishaw, I.Q. (1999). [How skilled are the skilled limb movements of the raccoon (Procyon lotor)?](https://dx.doi.org/10.1016/S0166-4328(98)00067-9) Behavioural Brain Research 99, 35–44.
 
-    This overlooked classic addresses the widely held belief that racoons should be considered as primates with respect to their highly skilled hand use. The apparent manipulatory ability of racoons is puzzling because they are far form primates on the evolutionary tree and their taxon cousins are not especially skilled in this respect. Iwaniuk and Whishaw take a close look and dispel the myth of racoon hand function concluding that "racoons are specialized, but not special"---basically, they use their hands like big squirrels and the big makes it look fancier than it is.
+This overlooked classic addresses the widely held belief that racoons should be considered as primates with respect to their highly skilled hand use. The apparent manipulatory ability of racoons is puzzling because they are far form primates on the evolutionary tree and their taxon cousins are not especially skilled in this respect. Iwaniuk and Whishaw take a close look and dispel the myth of racoon hand function concluding that "racoons are specialized, but not special"---basically, they use their hands like big squirrels and the big makes it look fancier than it is.
 
----
 # 2
+---
 Lillicrap, T.P., and Santoro, A. (2019). [Backpropagation through time and the brain.](https://dx.doi.org/10.1016/j.conb.2019.01.011) Curr. Opin. Neurobiol. 55, 82–89.
 
-    As Blake Richards said on Twitter, ["(1) We know the brain doesn't do backprop, but... (2) The brain still needs a solution to the credit assignment problem."](https://twitter.com/tyrell_turing/status/1105831064864505856) In this paper Adam Santoro and Tim Lillicrap present an overview of how the backpropagation through time algorithm is applied to the credit assignment problem in artificial neural network systems, and they argue that backpropagation through time should be considered as a normative guide for the credit assignment problem, in other words a kind of benchmark against which to compare theories about how the brain solves (or not) the credit assignment problem. See Adam's tweet thread about the paper [here](https://twitter.com/santoroAI/status/1105383355267379200).
+As Blake Richards said on Twitter, ["(1) We know the brain doesn't do backprop, but... (2) The brain still needs a solution to the credit assignment problem."](https://twitter.com/tyrell_turing/status/1105831064864505856) In this paper Adam Santoro and Tim Lillicrap present an overview of how the backpropagation through time algorithm is applied to the credit assignment problem in artificial neural network systems, and they argue that backpropagation through time should be considered as a normative guide for the credit assignment problem, in other words a kind of benchmark against which to compare theories about how the brain solves (or not) the credit assignment problem. See Adam's tweet thread about the paper [here](https://twitter.com/santoroAI/status/1105383355267379200).
 
----
 # 3
+---
 Andersen, L.M., and Lundqvist, D. (2019). [Somatosensory responses to nothing: An MEG study of expectations during omission of tactile stimulations.](https://dx.doi.org/10.1016/j.neuroimage.2018.09.014) Neuroimage 184, 78–89.
 
-    When somatosensory stimulation is expected (in this case, tactile stimulation of the index fingertip using an inflatable membrane), but it doesn't actually happen, there is nevertheless a neural "response" that was localized (using MEG) to the second somatosensory cortex, and the insula, at about 135 ms after the time of the expected stimulus.
+When somatosensory stimulation is expected (in this case, tactile stimulation of the index fingertip using an inflatable membrane), but it doesn't actually happen, there is nevertheless a neural "response" that was localized (using MEG) to the second somatosensory cortex, and the insula, at about 135 ms after the time of the expected stimulus.
 
 ---
 # 4
 Glaser, J.I., Benjamin, A.S., Farhoodi, R., and Kording, K.P. (2019). [The roles of supervised machine learning in systems neuroscience.](https://dx.doi.org/10.1016/j.pneurobio.2019.01.008) Prog Neurobiol 175, 126–137.
 
-    A high-level review of the roles of machine learning in systems neuroscience. The authors argue that machine learning is a useful tool to have at one's disposal as a modern neuroscientist, and they list four primary ways that machine learning can play a role: 1) solving engineering problems, 2) identifying predictive variables, 3) setting benchmarks for models of the brain, and 4) serving itself as a model for the brain.
+A high-level review of the roles of machine learning in systems neuroscience. The authors argue that machine learning is a useful tool to have at one's disposal as a modern neuroscientist, and they list four primary ways that machine learning can play a role: 1) solving engineering problems, 2) identifying predictive variables, 3) setting benchmarks for models of the brain, and 4) serving itself as a model for the brain.
 
 ---
 # 5
 Insanally, M.N., Carcea, I., Field, R.E., Rodgers, C.C., DePasquale, B., Rajan, K., DeWeese, M.R., Albanna, B.F., and Froemke, R.C. (2019). [Spike-timing-dependent ensemble encoding by non-classically responsive cortical neurons.](https://dx.doi.org/10.7554/eLife.42409) Elife 8.
 
-    Those neurons that are not classically "task dependent" may be playing a role in coding behaviour after all.
+Those neurons that are not classically "task dependent" may be playing a role in coding behaviour after all.
 
 ---
 # 6
 Perl, O., Ravia, A., Rubinson, M., Eisen, A., Soroka, T., Mor, N., Secundo, L., and Sobel, N. (2019). [Human non-olfactory cognition phase-locked with inhalation.](https://dx.doi.org/10.1038/s41562-019-0556-z) Nature Human Behaviour, 1.
 
-    You should have inhaled! People spontaneously inhale at the beginning of cognitive tasks, and this inhalation relates to a shift in functional brain architecture. Inhaling during a visuospatial perceptual task was related to increased task-related brain activity in task-related brain regions and resulted in improved performance accuracy.
+You should have inhaled! People spontaneously inhale at the beginning of cognitive tasks, and this inhalation relates to a shift in functional brain architecture. Inhaling during a visuospatial perceptual task was related to increased task-related brain activity in task-related brain regions and resulted in improved performance accuracy.
 
 ---
 # 7
