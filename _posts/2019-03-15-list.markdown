@@ -19,7 +19,7 @@ Here is our reading list for the week.
 
 3. Andersen, L.M., and Lundqvist, D. (2019). [Somatosensory responses to nothing: An MEG study of expectations during omission of tactile stimulations.](https://dx.doi.org/10.1016/j.neuroimage.2018.09.014) Neuroimage 184, 78–89.
 
-    When somatosensory stimulation is expected (in this case, tactile stimulation of the index fingertip using an inflatable membrane), but it doesn't actually happen, there is nevertheless a neural "response" that was localized (using MEG) to the second somatosensory cortex, and the insula, at about 135 ms after the time of the expected stimulus.
+    When somatosensory stimulation is expected (in this case, tactile stimulation of the index fingertip using an inflatable membrane), but it doesn't actually happen, there is nevertheless a neural "response" that is localized (using MEG) to the second somatosensory cortex, and the insula, at about 135 ms after the time of the expected stimulus.
 
 4. Glaser, J.I., Benjamin, A.S., Farhoodi, R., and Kording, K.P. (2019). [The roles of supervised machine learning in systems neuroscience.](https://dx.doi.org/10.1016/j.pneurobio.2019.01.008) Prog Neurobiol 175, 126–137.
 
