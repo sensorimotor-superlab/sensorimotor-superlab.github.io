@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Polar Vortex"
+title:  "List 2: Polar Vortex"
 date:   2019-02-01 08:00:00 -0500
 categories: readinglist
 ---
