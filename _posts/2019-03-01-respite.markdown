@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List 6: Respite"
+title:  "Reading List 6: Respite"
 date:   2019-03-01 08:00:00 -0500
 categories: readinglist
 ---

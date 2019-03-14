@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List 4: Snowpocalypse"
+title:  "Reading List 4: Snowpocalypse"
 date:   2019-02-15 08:00:00 -0500
 categories: readinglist
 ---

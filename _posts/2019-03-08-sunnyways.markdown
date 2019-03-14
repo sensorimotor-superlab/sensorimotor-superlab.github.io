@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "List 7: Sunny Ways"
+title:  "Reading List 7: Sunny Ways"
 date:   2019-03-08 08:00:00 -0500
 categories: readinglist
 ---
