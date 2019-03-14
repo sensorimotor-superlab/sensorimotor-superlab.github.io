@@ -31,7 +31,7 @@ Here is our reading list for the week.
 
 6. Perl, O., Ravia, A., Rubinson, M., Eisen, A., Soroka, T., Mor, N., Secundo, L., and Sobel, N. (2019). [Human non-olfactory cognition phase-locked with inhalation.](https://dx.doi.org/10.1038/s41562-019-0556-z) Nature Human Behaviour, 1.
 
-    You should have inhaled! People spontaneously inhale at the beginning of cognitive tasks, and this inhalation relates to a shift in functional brain architecture. Inhaling during a visuospatial perceptual task was related to increased task-related brain activity in task-related brain regions and resulted in improved performance accuracy.
+    People spontaneously inhale at the beginning of cognitive tasks, and this inhalation relates to a shift in functional brain architecture. Inhaling during a visuospatial perceptual task was related to increased task-related brain activity in task-related brain regions and resulted in improved performance accuracy.
 
 7. Gomes, A.R.R., Olivier, E., Killackey, H.P., Giroud, P., Berland, M., Knoblauch, K., Dehay, C., and Kennedy, H. (2019). [Refinement of the primate corticospinal pathway during prenatal development.](https://www.biorxiv.org/content/10.1101/575936v1) bioRxiv, 575936.
 
