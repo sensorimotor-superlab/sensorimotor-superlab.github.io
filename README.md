@@ -1,3 +1,3 @@
 # Sensorimotor Superlab Weekly Reading List
 
-We publish Fridays.
+We publish the list each Friday.
