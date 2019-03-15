@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reading List 5: Reading Week"
+title:  "Reading List 5"
 date:   2019-02-22 08:00:00 -0500
 categories: readinglist
 ---
