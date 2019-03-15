@@ -40,7 +40,3 @@ Here is our reading list for the week.
 9. Sakellaridi, S., Christopoulos, V.N., Aflalo, T., Pejsa, K.W., Rosario, E.R., Ouellette, D., Pouratian, N., and Andersen, R.A. (2019). [Intrinsic Variable Learning for Brain-Machine Interface Control by Human Anterior Intraparietal Cortex.](https://dx.doi.org/10.1016/j.neuron.2019.02.012) Neuron.
 
 10. Shadmehr, R., Reppert, T.R., Summerside, E.M., Yoon, T., and Ahmed, A.A. (2019). [Movement Vigor as a Reflection of Subjective Economic Utility.](https://www.sciencedirect.com/science/article/pii/S0166223619300190) Trends in Neurosciences.
-
----
-
-[archive of previous reading lists](https://superlab.ca)
