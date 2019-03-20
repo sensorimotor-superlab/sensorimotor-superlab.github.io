@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Reading List 9"
+date:   2019-03-22 06:00:00 -0500
+categories: readinglist
+---
+
+Here is our reading list for the week:
+
+## 1
+**xxx**  
+XXX, X. & XXX. X.  
+[XXX (1999)](https://XXX)
+
+XXX
+
+# Superlab Publications
+Here we list new papers by members of the sensoriomotor superlab:
+
+**Both Fast and Slow Learning Processes Contribute to Savings Following Sensorimotor Adaptation**  
+Coltman, S.K., Cashaback, J.G., and Gribble, P.L.  
+J. Neurophysiol. (2019) : [https://dx.doi.org/10.1152/jn.00794.2018](https://dx.doi.org/10.1152/jn.00794.2018)
+
+XXX
+
+**Neural Signatures of Reward and Sensory Error Feedback Processing in Motor Learning**  
+Palidis, D.J., Cashaback, J.G.A., and Gribble, P.L.  
+J. Neurophysiol. (2019) : [https://dx.doi.org/10.1152/jn.00792.2018](https://dx.doi.org/10.1152/jn.00792.2018)
+
+XXX
+
+**The effects of habits on motor skill learning**  
+Popp, N.J., Yokoi, A., Gribble, P.L., and Diedrichsen, J.  
+bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/338749v2](https://www.biorxiv.org/content/10.1101/338749v2)
+
+XXX
+
+**Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
+Reschechtko, S., Johannson, A.S., and Andrew Pruszynski, J.  
+bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/578450v1](https://www.biorxiv.org/content/10.1101/578450v1)
+
+XXX
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Click the [subscribe link](https://superlab.ca/subscribe) to sign up. We won’t spam you or share your email info with anyone else.
+
+# Archive
+You can look at an archive of our previous posts here: [archive](https://superlab.ca).
+
+
+
