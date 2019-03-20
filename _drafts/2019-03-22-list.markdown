@@ -36,7 +36,7 @@ bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/338749v2](https://www.
 XXX
 
 **Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
-Reschechtko, S., Johannson, A.S., and Andrew Pruszynski, J.  
+Reschechtko, S., Johannson, A.S., and Pruszynski, J.A.  
 bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/578450v1](https://www.biorxiv.org/content/10.1101/578450v1)
 
 XXX
