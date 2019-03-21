@@ -18,7 +18,7 @@ Montell, C.
 Current Biology 29, R202–R205 (2019)  
 [https://dx.doi.org/10.1016/j.cub.2019.02.004](https://dx.doi.org/10.1016/j.cub.2019.02.004)
 
-This is a Current Biology *Dispatch* by Craig Montell, highlighting two  papers that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals. High-speed video microscopy was used to monitor dynamic changes in the shape of proprioceptive neurons (e.g. dendritic folding) and how these deformations relate to proprioceptive neural activity and muscle contraction during different kinds of movements in the motor repertoire of Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements."
+This is a Current Biology *Dispatch* by Craig Montell, highlighting two  papers that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals. High-speed video microscopy was used to monitor dynamic changes in the shape of proprioceptive neurons (e.g. dendritic folding) and how these deformations relate to proprioceptive neural activity and muscle contraction during different kinds of movements in the motor repertoire of Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements." The videos (included in the online articles) are stunning.
 
 **Characterization of Proprioceptive System Dynamics in Behaving Drosophila Larvae Using High-Speed Volumetric Microscopy**  
 Vaadia, R.D., Li, W., Voleti, V., Singhania, A., Hillman, E.M.C., and Grueber, W.B.  
