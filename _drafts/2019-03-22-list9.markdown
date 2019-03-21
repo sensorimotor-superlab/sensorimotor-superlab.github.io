@@ -31,7 +31,7 @@ Marjaninejad, A., Urbina-Meléndez, D., Cohn, B.A., and Valero-Cuevas, F.J.
 Nature Machine Intelligence 1, 144–154 (2019)  
 [https://dx.doi.org/10.1038/s42256-019-0029-0](https://dx.doi.org/10.1038/s42256-019-0029-0)
 
-A robot limb driven by animal-like tendons uses a biologically-inspired algorithm to learn new movements without any prior knowledge or offline simulations to guide learning. The robot begins by learning a mapping relating control signals and movements using a period of motor babbling, after which functional behaviours are built up by reinforcing high-reward movements and refining the inverse map. The approach is more biologically plausible than optimization algorithms that seek to define "perfect" closed-loop control policies.
+A robot limb driven by animal-like tendons uses a biologically-inspired algorithm to learn new movements without any prior knowledge or offline simulations to guide learning. The robot learns a mapping relating control signals and movements through motor babbling, after which functional behaviours are built up by reinforcing high-reward movements and refining the inverse map. The approach is more biologically plausible than optimization algorithms that seek to define perfect closed-loop control policies.
 
 <hr>## 3
 **Step-to-step variations in human running reveal how humans run without falling**  
@@ -55,7 +55,7 @@ Saxena, S., and Cunningham, J.P.
 Curr. Opin. Neurobiol. 55, 103–111 (2019)  
 [https://dx.doi.org/10.1016/j.conb.2019.02.002](https://dx.doi.org/10.1016/j.conb.2019.02.002)
 
-The debate is not new: are we to understand cognitive and neural functions by studying individual neurons, or is a network-level approach what we need? Saxena & Cunningham review areas of study in which analysis of neuronal populations has benefited our understanding of computation in the brain. Novel techniques and approaches for studying populations of neurons breathe new life into the idea that the network is the "essential unit of computation" in the brain.
+The debate is not new: are we to understand cognitive and neural functions by studying individual neurons, or is a network-level approach needed? Saxena & Cunningham review areas of study in which analysis of neuronal populations has benefited our understanding of computation in the brain. Novel techniques and approaches for studying populations of neurons breathe new life into the idea that the network is the "essential unit of computation" in the brain.
 
 <hr>## 6
 **Independent working memory resources for egocentric and allocentric spatial information**  
@@ -103,7 +103,7 @@ Palidis, D.J., Cashaback, J.G.A., and Gribble, P.L.
 J. Neurophysiol. (2019)  
 [https://dx.doi.org/10.1152/jn.00792.2018](https://dx.doi.org/10.1152/jn.00792.2018)
 
-Motor adaptation can be driven by sensory errors when the sensed state of the effector violates the predicted consequences of motor commands, and also by reward learning processes which reinforce actions with utility and deter actions with low utility. Palidis et al. use EEG to demonstrate that a mid-frontal event related potential called the feedback related negativity is elicited specifically by reinforcement outcomes but not sensory error, while a more posterior potential called the P300 is modulated by both reinforcement outcomes and sensory error. These findings clarify the roles of sensory and reward-related error information in common neural correlates of error processing.
+Motor adaptation is driven by sensory errors when the sensed state of the effector violates the predicted consequences of motor commands, and also by reward learning processes which reinforce actions with utility and deter actions with low utility. Palidis et al. use EEG to demonstrate that a mid-frontal event related potential called the feedback related negativity is elicited specifically by reinforcement outcomes but not sensory error, while a more posterior potential called the P300 is modulated by both reinforcement outcomes and sensory error. These findings clarify the roles of sensory and reward-related error information in common neural correlates of error processing.
 
 <hr>**The effects of habits on motor skill learning**  
 Popp, N.J., Yokoi, A., Gribble, P.L., and Diedrichsen, J.  
