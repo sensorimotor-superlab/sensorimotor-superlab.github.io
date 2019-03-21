@@ -8,97 +8,98 @@ categories: readinglist
 Here is our reading list for the week:
 
 ## 1
-**Step-to-step variations in human running reveal how humans run without falling**  
-Seethapathi, N., and Srinivasan, M.  
-Elife 8 (2019) : [https://dx.doi.org/10.7554/eLife.38371](https://dx.doi.org/10.7554/eLife.38371)
-
-## 2
-**Perception in autism does not adhere to Weber’s law**  
-Hadad, B.-S., and Schwartz, S.  
-Elife 8 (2019) : [https://dx.doi.org/10.7554/eLife.42223](https://dx.doi.org/10.7554/eLife.42223)
-
-## 3
-**Autonomous functional movements in a tendon-driven limb via limited experience**  
-Marjaninejad, A., Urbina-Meléndez, D., Cohn, B.A., and Valero-Cuevas, F.J.  
-Nature Machine Intelligence 1, 144–154 (2019) : [https://dx.doi.org/10.1038/s42256-019-0029-0](https://dx.doi.org/10.1038/s42256-019-0029-0)
-
-## 4
-**Towards the neural population doctrine**  
-Saxena, S., and Cunningham, J.P.  
-Curr. Opin. Neurobiol. 55, 103–111 (2019) : [https://dx.doi.org/10.1016/j.conb.2019.02.002](https://dx.doi.org/10.1016/j.conb.2019.02.002)
-
-## 5
-**Independent working memory resources for egocentric and allocentric spatial information**  
-Aagten-Murphy, D., and Bays, P.M.  
-PLoS Comput Biol 15, e1006563 (2019) : [https://dx.doi.org/10.1371/journal.pcbi.1006563](https://dx.doi.org/10.1371/journal.pcbi.1006563)
-
-## 6
-**Reinforcement learning in artificial and biological systems**  
-Neftci, E.O., and Averbeck, B.B.  
-Nature Machine Intelligence 1, 133–143 (2019) : [https://dx.doi.org/10.1038/s42256-019-0025-4](https://dx.doi.org/10.1038/s42256-019-0025-4)
-
-## 7
-**Task errors drive memories that improve sensorimotor adaptation**  
-Leow, L.-A., Marinovic, W., de Rugy, A., and Carroll, T.J.  
-bioRxiv, 538348 (2019) : [https://www.biorxiv.org/content/10.1101/538348v2](https://www.biorxiv.org/content/10.1101/538348v2)
-
-## 8
-**Filtering Compensation for Delays and Prediction Errors during Sensorimotor Control**  
-Crevecoeur, F., and Gevers, M.  
-Neural Comput 31, 738–764 (2019) : [https://dx.doi.org/10.1162/neco_a_01170](https://dx.doi.org/10.1162/neco_a_01170)
-
-## 9
-**Starting and stopping movement by the primate brain**  
-Lemon, R., and Kraskov, A.  
-Brain and Neuroscience Advances 3, 2398212819837149 (2019) : [https://dx.doi.org/10.1177/2398212819837149](https://dx.doi.org/10.1177/2398212819837149)
-
-## 10
 **Coordinated Movement: Watching Proprioception Unfold**  
 Montell, C.  
 Current Biology 29, R202–R205 (2019) : [https://dx.doi.org/10.1016/j.cub.2019.02.004](https://dx.doi.org/10.1016/j.cub.2019.02.004)
 
-This is a Current Biology "Dispatch" by Craig Montell, a mini-review of two papers [1,2] that appear in the same issue, that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals (in this case, Drosophila larva). The researchers used high-speed video microscopy to monitor dynamic changes in the shape of proprioceptive neurons and how these deformations relate not just to proprioceptive neural activity but also to muscle contraction during different kinds of movements in the motor repertoire of freely moving Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements." The videos that show the real-time deformations of dendrites in the larval body wall are described as 
+This is a Current Biology *Dispatch* by Craig Montell, highlighting two  papers that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals. High-speed video microscopy was used to monitor dynamic changes in the shape of proprioceptive neurons (e.g. dendritic folding) and how these deformations relate to proprioceptive neural activity and muscle contraction during different kinds of movements in the motor repertoire of Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements." The videos that show the real-time deformations of dendrites in the larval body wall are described as 
 
 > "dramatic---like watching the first ever film from 1878, which revealed all four horse's hooves lift off the ground simultaneously during a gallop, an observation that was never caught in the early still photographs" (Montell pg. R204).
 
-[1] **Characterization of Proprioceptive System Dynamics in Behaving Drosophila Larvae Using High-Speed Volumetric Microscopy**  
+**Characterization of Proprioceptive System Dynamics in Behaving Drosophila Larvae Using High-Speed Volumetric Microscopy**  
 Vaadia, R.D., Li, W., Voleti, V., Singhania, A., Hillman, E.M.C., and Grueber, W.B.  
 Curr. Biol. (2019) : [https://dx.doi.org/10.1016/j.cub.2019.01.060](https://dx.doi.org/10.1016/j.cub.2019.01.060)
 
-[2] **Direction Selectivity in Drosophila Proprioceptors Requires the Mechanosensory Channel Tmc**  
+**Direction Selectivity in Drosophila Proprioceptors Requires the Mechanosensory Channel Tmc**  
 He, L., Gulyanon, S., Mihovilovic Skanata, M., Karagyozov, D., Heckscher, E.S., Krieg, M., Tsechpenakis, G., Gershow, M., and Tracey, W.D.  
 Curr. Biol. (2019) : [https://dx.doi.org/10.1016/j.cub.2019.02.025](https://dx.doi.org/10.1016/j.cub.2019.02.025)
 
+<hr>## 2
+**Autonomous functional movements in a tendon-driven limb via limited experience**  
+Marjaninejad, A., Urbina-Meléndez, D., Cohn, B.A., and Valero-Cuevas, F.J.  
+Nature Machine Intelligence 1, 144–154 (2019) : [https://dx.doi.org/10.1038/s42256-019-0029-0](https://dx.doi.org/10.1038/s42256-019-0029-0)
+
+A robot limb driven by animal-like tendons uses a biologically-inspired algorithm to learn new movements without any prior knowledge or offline simulations to guide learning. The robot begins by learning a mapping relating control signals and movements using a short period of motor babbling, after which functional behaviours are built up by reinforcing high-reward movements and refining the inverse map. The approach seems more biologically plausible than optimization algorithms that seek to define "perfect" closed-loop control policies.
+
+<hr>## 3
+**Step-to-step variations in human running reveal how humans run without falling**  
+Seethapathi, N., and Srinivasan, M.  
+Elife 8 (2019) : [https://dx.doi.org/10.7554/eLife.38371](https://dx.doi.org/10.7554/eLife.38371)
+
+<hr>## 4
+**Starting and stopping movement by the primate brain**  
+Lemon, R., and Kraskov, A.  
+Brain and Neuroscience Advances 3, 2398212819837149 (2019) : [https://dx.doi.org/10.1177/2398212819837149](https://dx.doi.org/10.1177/2398212819837149)
+
+<hr>## 5
+**Towards the neural population doctrine**  
+Saxena, S., and Cunningham, J.P.  
+Curr. Opin. Neurobiol. 55, 103–111 (2019) : [https://dx.doi.org/10.1016/j.conb.2019.02.002](https://dx.doi.org/10.1016/j.conb.2019.02.002)
+
+<hr>## 6
+**Independent working memory resources for egocentric and allocentric spatial information**  
+Aagten-Murphy, D., and Bays, P.M.  
+PLoS Comput Biol 15, e1006563 (2019) : [https://dx.doi.org/10.1371/journal.pcbi.1006563](https://dx.doi.org/10.1371/journal.pcbi.1006563)
+
+<hr>## 7
+**Task errors drive memories that improve sensorimotor adaptation**  
+Leow, L.-A., Marinovic, W., de Rugy, A., and Carroll, T.J.  
+bioRxiv, 538348 (2019) : [https://www.biorxiv.org/content/10.1101/538348v2](https://www.biorxiv.org/content/10.1101/538348v2)
+
+<hr>## 8
+**Filtering Compensation for Delays and Prediction Errors during Sensorimotor Control**  
+Crevecoeur, F., and Gevers, M.  
+Neural Comput 31, 738–764 (2019) : [https://dx.doi.org/10.1162/neco_a_01170](https://dx.doi.org/10.1162/neco_a_01170)
+
+<hr>## 9
+**Perception in autism does not adhere to Weber’s law**  
+Hadad, B.-S., and Schwartz, S.  
+Elife 8 (2019) : [https://dx.doi.org/10.7554/eLife.42223](https://dx.doi.org/10.7554/eLife.42223)
+
+<hr>## 10
+**Reinforcement learning in artificial and biological systems**  
+Neftci, E.O., and Averbeck, B.B.  
+Nature Machine Intelligence 1, 133–143 (2019) : [https://dx.doi.org/10.1038/s42256-019-0025-4](https://dx.doi.org/10.1038/s42256-019-0025-4)
 
 <br>
 # Superlab Publications
 Here we list new papers by members of the sensoriomotor superlab:
 
-**Both Fast and Slow Learning Processes Contribute to Savings Following Sensorimotor Adaptation**  
+<hr>**Both Fast and Slow Learning Processes Contribute to Savings Following Sensorimotor Adaptation**  
 Coltman, S.K., Cashaback, J.G., and Gribble, P.L.  
 J. Neurophysiol. (2019) : [https://dx.doi.org/10.1152/jn.00794.2018](https://dx.doi.org/10.1152/jn.00794.2018)
 
 XXX
 
-**Neural Signatures of Reward and Sensory Error Feedback Processing in Motor Learning**  
+<hr>**Neural Signatures of Reward and Sensory Error Feedback Processing in Motor Learning**  
 Palidis, D.J., Cashaback, J.G.A., and Gribble, P.L.  
 J. Neurophysiol. (2019) : [https://dx.doi.org/10.1152/jn.00792.2018](https://dx.doi.org/10.1152/jn.00792.2018)
 
 XXX
 
-**The effects of habits on motor skill learning**  
+<hr>**The effects of habits on motor skill learning**  
 Popp, N.J., Yokoi, A., Gribble, P.L., and Diedrichsen, J.  
 bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/338749v2](https://www.biorxiv.org/content/10.1101/338749v2)
 
 XXX
 
-**Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
+<hr>**Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
 Reschechtko, S., Johannson, A.S., and Pruszynski, J.A.  
 bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/578450v1](https://www.biorxiv.org/content/10.1101/578450v1)
 
 XXX
 
-**Movements following force-field adaptation are aligned with altered sense of limb position**  
+<hr>**Movements following force-field adaptation are aligned with altered sense of limb position**  
 Ohashi, H., Valle-Mena, R., Gribble, P.L., and Ostry, D.J.  
 Exp. Brain Res. (2019) : [https://dx.doi.org/10.1007/s00221-019-05509-y](https://dx.doi.org/10.1007/s00221-019-05509-y)
 
