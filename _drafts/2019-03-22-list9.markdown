@@ -48,9 +48,9 @@ Crevecoeur, F., and Gevers, M.
 Neural Comput 31, 738–764 (2019) : [https://dx.doi.org/10.1162/neco_a_01170](https://dx.doi.org/10.1162/neco_a_01170)
 
 ## 9
-**StretchfMRI: a new technique to quantify the contribution of the reticular formation to long-latency responses via fMRI**  
-Zonnino, A., Farrens, A.J., Ress, D., and Sergi, F.  
-bioRxiv, 582692 (2019) : [https://www.biorxiv.org/content/10.1101/582692v1.abstract](https://www.biorxiv.org/content/10.1101/582692v1.abstract)
+**Starting and stopping movement by the primate brain**  
+Lemon, R., and Kraskov, A.  
+Brain and Neuroscience Advances 3, 2398212819837149 (2019) : [https://dx.doi.org/10.1177/2398212819837149](https://dx.doi.org/10.1177/2398212819837149)
 
 ## 10
 **Coordinated Movement: Watching Proprioception Unfold**  

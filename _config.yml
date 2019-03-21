@@ -51,4 +51,5 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-
+# permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:categories/:title:output_ext
