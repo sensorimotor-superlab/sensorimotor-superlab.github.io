@@ -12,9 +12,7 @@ Here is our reading list for the week:
 Montell, C.  
 Current Biology 29, R202–R205 (2019) : [https://dx.doi.org/10.1016/j.cub.2019.02.004](https://dx.doi.org/10.1016/j.cub.2019.02.004)
 
-This is a Current Biology *Dispatch* by Craig Montell, highlighting two  papers that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals. High-speed video microscopy was used to monitor dynamic changes in the shape of proprioceptive neurons (e.g. dendritic folding) and how these deformations relate to proprioceptive neural activity and muscle contraction during different kinds of movements in the motor repertoire of Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements." The videos that show the real-time deformations of dendrites in the larval body wall are described as 
-
-> "dramatic---like watching the first ever film from 1878, which revealed all four horse's hooves lift off the ground simultaneously during a gallop, an observation that was never caught in the early still photographs" (Montell pg. R204).
+This is a Current Biology *Dispatch* by Craig Montell, highlighting two  papers that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals. High-speed video microscopy was used to monitor dynamic changes in the shape of proprioceptive neurons (e.g. dendritic folding) and how these deformations relate to proprioceptive neural activity and muscle contraction during different kinds of movements in the motor repertoire of Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements."
 
 **Characterization of Proprioceptive System Dynamics in Behaving Drosophila Larvae Using High-Speed Volumetric Microscopy**  
 Vaadia, R.D., Li, W., Voleti, V., Singhania, A., Hillman, E.M.C., and Grueber, W.B.  
@@ -103,7 +101,7 @@ XXX
 Ohashi, H., Valle-Mena, R., Gribble, P.L., and Ostry, D.J.  
 Exp. Brain Res. (2019) : [https://dx.doi.org/10.1007/s00221-019-05509-y](https://dx.doi.org/10.1007/s00221-019-05509-y)
 
-We know from previous work that one's sense of limb position changes after learning to reach in a force-field. Ohashi et al. extend this finding and show that (1) sensory change and motor adaptation were linked at each stage of learning, (2) when sensed limb position changed following force-field adaptation, movements following washout trials did not return to baseline, and (3) across participants, post-washout limb position was correlated with the magnitude of sensed limb position change. Ohashi et al. discuss the results in the context of the idea that sensory and motor changes are both integral parts of what we think of as motor learning.
+We know from previous work that sensed limb position changes after learning to reach in a force-field. Ohashi et al. extend this finding and show that (1) sensory change and motor adaptation were linked at each stage of learning, (2) when sensed limb position changed following force-field adaptation, movements following washout trials did not return to baseline, and (3) across participants, post-washout limb position was correlated with the magnitude of sensed limb position change. The authors discuss the results in the context of the idea that sensory and motor changes are both integral parts of what we think of as motor learning.
 
 <br>
 # Subscribe
