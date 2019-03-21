@@ -7,7 +7,7 @@ categories: readinglist
 
 Here are the articles that caught our attention this week.
 
-We also introduce a new feature, "Superlab Publications", which presents new articles published by members of the Sensorimotor Superlab.
+We also introduce a new feature, **Superlab Publications**, which presents new articles published by members of the Sensorimotor Superlab.
 
 Enjoy!  
 ---Paul, Andrew & Jörn
