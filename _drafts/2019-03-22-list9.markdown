@@ -47,11 +47,15 @@ Lemon, R., and Kraskov, A.
 Brain and Neuroscience Advances 3, 2398212819837149 (2019)  
 [https://dx.doi.org/10.1177/2398212819837149](https://dx.doi.org/10.1177/2398212819837149)
 
+Lemon and Kraskov review issues central to motor control including movement generation (or suppression), motor imagery, and the relationship between action observation and action execution. From Sherrington to Shenoy, they focus on non-human primate research, stressing its importance as a model for understanding human motor function in the healthy population, and improving translational approaches to neurological diseases.
+
 <hr>## 5
 **Towards the neural population doctrine**  
 Saxena, S., and Cunningham, J.P.  
 Curr. Opin. Neurobiol. 55, 103–111 (2019)  
 [https://dx.doi.org/10.1016/j.conb.2019.02.002](https://dx.doi.org/10.1016/j.conb.2019.02.002)
+
+The debate is not new: are we to understand cognitive and neural functions by studying individual neurons, or is a network-level approach what we need? Saxena & Cunningham review areas of study in which analysis of neuronal populations has benefited our understanding of computation in the brain. Novel techniques and approaches for studying populations of neurons breathe new life into the idea that the network is the "essential unit of computation" in the brain.
 
 <hr>## 6
 **Independent working memory resources for egocentric and allocentric spatial information**  
