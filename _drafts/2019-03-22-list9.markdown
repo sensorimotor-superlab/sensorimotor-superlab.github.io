@@ -34,6 +34,8 @@ A robot limb driven by animal-like tendons uses a biologically-inspired algorith
 Seethapathi, N., and Srinivasan, M.  
 Elife 8 (2019) : [https://dx.doi.org/10.7554/eLife.38371](https://dx.doi.org/10.7554/eLife.38371)
 
+How do humans run without falling down? Perturbations both from the external world (e.g. uneven terrain) and from internal factors such as sensory and motor noise perturb us continuously. The authors discover that small step-to-step variability contains considerable information about strategies used to run stably, and that deviations in a runner's centre of mass are corrected by changes in foot placement and forces in leg muscles, well in advance of foot touchdown. Also see this [twitter thread](https://twitter.com/nidhi_s91/status/1108418520168181762?s=11).
+
 <hr>## 4
 **Starting and stopping movement by the primate brain**  
 Lemon, R., and Kraskov, A.  
@@ -77,13 +79,13 @@ Here we list new papers by members of the sensoriomotor superlab:
 Coltman, S.K., Cashaback, J.G., and Gribble, P.L.  
 J. Neurophysiol. (2019) : [https://dx.doi.org/10.1152/jn.00794.2018](https://dx.doi.org/10.1152/jn.00794.2018)
 
-XXX
+Coltman et al. explore the mechanisms underlying savings using a two-state model to represent the fast and slow processes that contribute to force-field adaptation. While previous research has attributed savings to only changes in the fast process, the authors suggest that both fast and slow processes modulate learning rate. Importantly, this work cautions against fitting a two-state model to individual subject data without also considering how the model fits across a population of subjects.
 
 <hr>**Neural Signatures of Reward and Sensory Error Feedback Processing in Motor Learning**  
 Palidis, D.J., Cashaback, J.G.A., and Gribble, P.L.  
 J. Neurophysiol. (2019) : [https://dx.doi.org/10.1152/jn.00792.2018](https://dx.doi.org/10.1152/jn.00792.2018)
 
-XXX
+Motor adaptation can be driven by sensory errors when the sensed state of the effector violates the predicted consequences of motor commands, and also by reward learning processes which reinforce actions with utility and deter actions with low utility. Palidis et al. use EEG to demonstrate that a mid-frontal event related potential called the feedback related negativity is elicited specifically by reinforcement outcomes but not sensory error, while a more posterior potential called the P300 is modulated by both reinforcement outcomes and sensory error. These findings clarify the roles of sensory and reward-related error information in common neural correlates of error processing.
 
 <hr>**The effects of habits on motor skill learning**  
 Popp, N.J., Yokoi, A., Gribble, P.L., and Diedrichsen, J.  
@@ -95,7 +97,7 @@ XXX
 Reschechtko, S., Johannson, A.S., and Pruszynski, J.A.  
 bioRxiv (2019) : [https://www.biorxiv.org/content/10.1101/578450v1](https://www.biorxiv.org/content/10.1101/578450v1)
 
-XXX
+You are trying to loosen a rusty bolt: you know it will break free at some point, but you’re not sure when---and you don’t want to smash your hand when it does! The authors re-created self-triggered, but unpredictable, perturbations in the laboratory to investigate preparations for and responses to this ecologically common class of perturbations.
 
 <hr>**Movements following force-field adaptation are aligned with altered sense of limb position**  
 Ohashi, H., Valle-Mena, R., Gribble, P.L., and Ostry, D.J.  
