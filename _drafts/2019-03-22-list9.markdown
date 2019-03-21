@@ -5,7 +5,12 @@ date:   2019-03-22 06:00:00 -0500
 categories: readinglist
 ---
 
-Here is our reading list for the week:
+Here are the articles that caught our attention this week.
+
+We also introduce a new feature, "Superlab Publications", which presents new articles published by members of the Sensorimotor Superlab.
+
+Enjoy!  
+---Paul, Andrew & Jörn
 
 <hr>## 1
 **Coordinated Movement: Watching Proprioception Unfold**  
@@ -110,7 +115,7 @@ Popp, N.J., Yokoi, A., Gribble, P.L., and Diedrichsen, J.
 bioRxiv (2019)  
 [https://www.biorxiv.org/content/10.1101/338749v2](https://www.biorxiv.org/content/10.1101/338749v2)
 
-XXX
+Popp et al. investigated habit formation in motor sequence learning, using cognitive chunking as a clever way to induce specific habits during an initial training period that were either advantageous or disadvantageous to motor performance. They found that habits continued to influence movements throughout 3 weeks of unstructured practice even if they hindered performance. The work represents a new way to study how bad habits may be overcome, and beneficial habits strengthened.
 
 <hr>**Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
 Reschechtko, S., Johannson, A.S., and Pruszynski, J.A.  
