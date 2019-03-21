@@ -31,7 +31,7 @@ Marjaninejad, A., Urbina-Meléndez, D., Cohn, B.A., and Valero-Cuevas, F.J.
 Nature Machine Intelligence 1, 144–154 (2019)  
 [https://dx.doi.org/10.1038/s42256-019-0029-0](https://dx.doi.org/10.1038/s42256-019-0029-0)
 
-A robot limb driven by animal-like tendons uses a biologically-inspired algorithm to learn new movements without any prior knowledge or offline simulations to guide learning. The robot begins by learning a mapping relating control signals and movements using a short period of motor babbling, after which functional behaviours are built up by reinforcing high-reward movements and refining the inverse map. The approach seems more biologically plausible than optimization algorithms that seek to define "perfect" closed-loop control policies.
+A robot limb driven by animal-like tendons uses a biologically-inspired algorithm to learn new movements without any prior knowledge or offline simulations to guide learning. The robot begins by learning a mapping relating control signals and movements using a period of motor babbling, after which functional behaviours are built up by reinforcing high-reward movements and refining the inverse map. The approach is more biologically plausible than optimization algorithms that seek to define "perfect" closed-loop control policies.
 
 <hr>## 3
 **Step-to-step variations in human running reveal how humans run without falling**  
