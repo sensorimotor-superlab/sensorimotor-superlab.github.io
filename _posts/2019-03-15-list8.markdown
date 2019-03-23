@@ -40,7 +40,7 @@ A high-level review of the roles of machine learning in systems neuroscience. Th
 # 5
 **Spike-timing-dependent ensemble encoding by non-classically responsive cortical neurons**  
 Insanally, M.N., Carcea, I., Field, R.E., Rodgers, C.C., DePasquale, B., Rajan, K., DeWeese, M.R., Albanna, B.F., and Froemke, R.C.  
-[Elife 8 (2019](https://dx.doi.org/10.7554/eLife.42409)
+[Elife 8 (2019)](https://dx.doi.org/10.7554/eLife.42409)
 
 Those neurons that are not classically "task dependent" may be playing a role in coding behaviour after all.
 
