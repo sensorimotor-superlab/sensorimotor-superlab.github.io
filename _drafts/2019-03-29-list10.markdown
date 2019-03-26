@@ -30,6 +30,15 @@ Proc. R. Soc. B 285, 20180613 (2018)
 [@maxdonelan](https://twitter.com/maxdonelan)
 [tweet thread](https://twitter.com/maxdonelan/status/1034880537175814144)
 
+<hr>## 3
+**Current models of speech motor control: A control-theoretic overview of architectures and properties.**  
+Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F.  
+The Journal of the Acoustical Society of America 145, 1456–1481. (2019)
+[http://dx.doi.org/10.1121/1.5092807](http://dx.doi.org/10.1121/1.5092807)
+
+[@parrell](https://twitter.com/parrell)
+[tweet thread](https://twitter.com/parrell/status/1110289277836058624?s=11)
+
 
 <br>
 # Superlab Publications
