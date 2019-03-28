@@ -17,30 +17,87 @@ bioRxiv, 585414 (2019)
 [https://www.biorxiv.org/content/10.1101/585414v1](https://www.biorxiv.org/content/10.1101/585414v1)
 
 XXX
-[@EleanorPalser](https://twitter.com/EleanorPalser)
-[@JamesKilner](https://twitter.com/JamesKilner)
+[@EleanorPalser](https://twitter.com/EleanorPalser)  
+[@JamesKilner](https://twitter.com/JamesKilner)  
 [tweet thread](https://twitter.com/EleanorPalser/status/1108979926156242944)
 
 <hr>## 2
 **Scaling of sensorimotor delays in terrestrial mammals.**  
 More, H.L., and Donelan, J.M.  
-Proc. R. Soc. B 285, 20180613 (2018)
+Proc. R. Soc. B 285, 20180613 (2018)  
 [https://doi.org/10.1098/rspb.2018.0613](https://doi.org/10.1098/rspb.2018.0613)
 
-[@maxdonelan](https://twitter.com/maxdonelan)
+[@maxdonelan](https://twitter.com/maxdonelan)  
 [tweet thread](https://twitter.com/maxdonelan/status/1034880537175814144)
 
 <hr>## 3
 **Current models of speech motor control: A control-theoretic overview of architectures and properties.**  
 Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F.  
-The Journal of the Acoustical Society of America 145, 1456–1481. (2019)
+The Journal of the Acoustical Society of America 145, 1456–1481. (2019)  
 [http://dx.doi.org/10.1121/1.5092807](http://dx.doi.org/10.1121/1.5092807)
 
-[@parrell](https://twitter.com/parrell)
+[@parrell](https://twitter.com/parrell)  
 [tweet thread](https://twitter.com/parrell/status/1110289277836058624?s=11)
 
+<hr>## 4
+**Keep your hands apart: independent representations of ipsilateral and contralateral forelimbs in primary motor cortex**  
+Heming, E.A., Cross, K.P., Takei, T., Cook, D.J., and Scott, S.H.  
+bioRxiv, 587378 (2019) [https://www.biorxiv.org/content/10.1101/587378v1](https://www.biorxiv.org/content/10.1101/587378v1)
 
-<br>
+**Motor cortex signals corresponding to the two arms are shared across hemispheres, mixed among neurons, yet partitioned within the population response**  
+Ames, K.C., and Churchland, M.M.  
+bioRxiv, 552257 (2019)  
+[https://www.biorxiv.org/content/10.1101/552257v1](https://www.biorxiv.org/content/10.1101/552257v1)
+
+<hr>## 5
+**When Does One Decide How Heavy an Object Feels While Picking It Up?**  
+Plaisier, M.A., Kuling, I.A., Brenner, E., and Smeets, J.B.J.  
+Psychol. Sci., 0956797619837981 (2019)  
+[https://dx.doi.org/10.1177/0956797619837981](https://dx.doi.org/10.1177/0956797619837981)
+
+[@JBJSmeets](https://twitter.com/JBJSmeets)  
+[tweet thread](https://twitter.com/JBJSmeets/status/1111004606539202560)
+
+<br>## 6
+**Motor Learning**  
+Krakauer, J.W., Hadjiosif, A.M., Xu, J., Wong, A.L., and Haith, A.M.  
+Compr. Physiol. 9, 613–663 (2019)  
+[https://dx.doi.org/10.1002/cphy.c170043](https://dx.doi.org/10.1002/cphy.c170043)
+
+<br>## 7
+**Rapid target foraging with reach or gaze: The hand looks further ahead than the eye**  
+Diamond, J.S., Wolpert, D.M., and Flanagan, J.R.  
+PLoS Comput. Biol. 13, e1005504 (2017)  
+[https://dx.doi.org/10.1371/journal.pcbi.1005504](https://dx.doi.org/10.1371/journal.pcbi.1005504)
+
+[@DMWolpert](https://twitter.com/DMWolpert)  
+
+Yoon, T., Geary, R.B., Ahmed, A.A., and Shadmehr, R. (2018).
+**Control of movement vigor and decision making during foraging**  
+Proc. Natl. Acad. Sci. U.S.A. (2018)  
+[https://dx.doi.org/10.1073/pnas.1812979115](https://dx.doi.org/10.1073/pnas.1812979115)
+
+[@reziliusReza](https://twitter.com/reziliusReza)  
+[@AlayaAAhmed](https://twitter.com/AlayaAAhmed)
+
+<br>## 8
+**StretchfMRI: a new technique to quantify the contribution of the reticular formation to long-latency responses via fMRI**  
+Zonnino, A., Farrens, A.J., Ress, D., and Sergi, F.  
+bioRxiv, 582692 (2019)  
+[https://www.biorxiv.org/content/10.1101/582692v1](https://www.biorxiv.org/content/10.1101/582692v1)
+
+<br>## 9
+**Movement imitation via an abstract trajectory representation in dorsal premotor cortex**  
+Wong, A.L., Jax, S.A., Smith, L.L., Buxbaum, L.J., and Krakauer, J.W.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2597-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.2597-18.2019)
+
+[@WongAaronL](https://twitter.com/WongAaronL)  
+[@LaurelBuxbaum](https://twitter.com/LaurelBuxbaum)  
+[@blamlab](https://twitter.com/blamlab)
+
+
+
 # Superlab Publications
 Here we list new papers by members of the sensoriomotor superlab:
 
