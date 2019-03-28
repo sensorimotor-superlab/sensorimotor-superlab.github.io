@@ -54,7 +54,7 @@ Psychol. Sci., 0956797619837981 (2019)
 
 <hr>## 6
 **Motor Learning**  
-Krakauer, J.W., Hadjiosif, A.M., Xu, J., Wong, A.L., and Haith, A.M.  
+Krakauer, J.W. ([@blamlab](https://twitter.com/blamlab)), Hadjiosif, A.M., Xu, J., Wong, A.L. ([@WongAaronL](https://twitter.com/WongAaronL)), and Haith, A.M. ([@adrianhaith](https://twitter.com/adrianhaith))  
 Compr. Physiol. 9, 613–663 (2019)  
 [https://dx.doi.org/10.1002/cphy.c170043](https://dx.doi.org/10.1002/cphy.c170043)
 
