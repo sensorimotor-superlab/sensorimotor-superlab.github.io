@@ -78,6 +78,8 @@ Zonnino, A., Farrens, A.J., Ress, D., and Sergi, F.
 bioRxiv, 582692 (2019)  
 [https://www.biorxiv.org/content/10.1101/582692v1](https://www.biorxiv.org/content/10.1101/582692v1)
 
+Also see the [tweet thread](https://twitter.com/hurolab/status/1111041586559926272).
+
 <hr>## 9
 **Shared Cortex-Cerebellum Dynamics in the Execution and Learning of a Motor Task**  
 Wagner, M.J., Kim, T.H., Kadmon, J., Nguyen, N.D., Ganguli, S., Schnitzer, M.J., and Luo, L.  
