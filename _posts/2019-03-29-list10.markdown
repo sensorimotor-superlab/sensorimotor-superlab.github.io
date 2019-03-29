@@ -20,7 +20,7 @@ There has been a lot of work recently on the cardiac cycle, the autonomic nervou
 
 <hr>## 2
 **Keep your hands apart: independent representations of ipsilateral and contralateral forelimbs in primary motor cortex**  
-Heming, E.A., Cross, K.P., Takei, T., Cook, D.J., and Scott, S.H. ([@ScottLIMBlab](https://twitter.com/ScottLIMBlab))  
+Heming, E.A., Cross, K.P. ([@K_P_Cross](https://twitter.com/K_P_Cross)), Takei, T., Cook, D.J., and Scott, S.H. ([@ScottLIMBlab](https://twitter.com/ScottLIMBlab))  
 bioRxiv, 587378 (2019) [https://www.biorxiv.org/content/10.1101/587378v1](https://www.biorxiv.org/content/10.1101/587378v1)
 
 **Motor cortex signals corresponding to the two arms are shared across hemispheres, mixed among neurons, yet partitioned within the population response**  
