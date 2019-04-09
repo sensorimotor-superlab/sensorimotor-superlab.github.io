@@ -102,5 +102,7 @@ Now you can subscribe to our weekly reading list and have it sent to your email 
 <hr># Archive
 You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
 
-
+<br>
+<hr># Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.
 

@@ -29,3 +29,17 @@ Here is this week's list:
 9. Parrell, B., Lammert, A.C., Ciccarelli, G., and Quatieri, T.F. (2019). [Current Models of Speech Motor Control: A Control-Theoretic Overview of Architectures & Properties](https://www.biorxiv.org/content/early/2019/01/18/197285). bioRxiv, 197285.
 
 10. Yang, G.R., Joglekar, M.R., Song, H.F., Newsome, W.T., and Wang, X.-J. (2019). [Task representations in neural networks trained to perform many cognitive tasks](https://dx.doi.org/10.1038/s41593-018-0310-2). Nat. Neurosci.
+
+<br>
+<hr># Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+<br>
+<hr># Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+<br>
+<hr># Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.
+
+
