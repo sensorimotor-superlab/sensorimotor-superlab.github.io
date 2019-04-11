@@ -67,6 +67,13 @@ Singh, P., Lenka, A., Stezin, A., Jhunjhunwala, K., Pal, P.K., Ghosal, A., and M
 bioRxiv, 599308 (2019)  
 [https://www.biorxiv.org/content/10.1101/599308v1](https://www.biorxiv.org/content/10.1101/599308v1)
 
+<hr>## 10
+**A Visual Exploration of Gaussian Processes**: How to turn a collection of small building blocks into a versatile tool for solving regression problems  
+Görtler J, Kehlbeck R, Duessen O.  
+Distill (April 2, 2019)  
+[https://doi.org/10.23915/distill.00017](https://doi.org/10.23915/distill.00017)
+
+A very good blog-style post on gaussian processes. It's easy to read and has some nice interactive figures.
 
 <br>
 # Superlab Publications
