@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Reading List 12"
+date:   2019-04-12 06:00:00 -0500
+categories: readinglist
+---
+
+Here are the articles that caught our attention this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+
+<hr>## 1
+**Timing is (almost) everything in a comprehensive, spike-resolved flight motor program**  
+Conn, R., Putney, J., and Sponberg, S.  
+bioRxiv, 602961 (2019)  
+[https://www.biorxiv.org/content/10.1101/602961v1](https://www.biorxiv.org/content/10.1101/602961v1)
+
+<hr>## 2
+**Decoding hand kinematics from population responses in sensorimotor cortex during grasping.**  
+Okorokova, E.V., Goodman, J.M., Hatsopoulos, N.G., and Bensmaia, S.J.  
+arXiv [q-bio.NC] (2019)  
+[https://arxiv.org/abs/1904.03531](https://arxiv.org/abs/1904.03531)
+
+<hr>## 3
+**Extrinsic and intrinsic dynamics in movement intermittency.**  
+Susilaradeya, D., Xu, W., Hall, T.M., Galán, F., Alter, K., and Jackson, A.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.40145](https://dx.doi.org/10.7554/eLife.40145)
+
+<hr>## 4
+**Eye movements do not play an important role in the adaptation of hand tracking to a visuomotor rotation.**  
+Gouirand, N., Mathew, J., Brenner, E., and Danion, F.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00814.2018](https://dx.doi.org/10.1152/jn.00814.2018)
+
+<hr>## 5
+**Luring the Motor System: Impact of Performance-Contingent Incentives on Pre-Movement Beta-band Activity and Motor Performance.**  
+Savoie, F.-A., Hamel, R., Lacroix, A., Thénault, F., Whittingstall, K., and Bernier, P.-M.  
+J. Neurosci (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1887-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.1887-18.2019)
+
+<hr>## 6
+**Dopamine depletion affects vocal acoustics and disrupts sensorimotor adaptation in songbirds**  
+Saravanan, V., Hoffmann, L.A., Jacob, A.L., Berman, G.J., and Sober, S.J.  
+bioRxiv, 600874 (2019)  
+[https://www.biorxiv.org/content/10.1101/600874v1](https://www.biorxiv.org/content/10.1101/600874v1)
+
+<hr>## 7
+**Spatial and temporal structure of choice representations in primate prefrontal cortex**  
+Kollmorgen, S., Newsome, W.T., and Mante, V.  
+bioRxiv, 595520 (2019)  
+[https://www.biorxiv.org/content/10.1101/595520v1](https://www.biorxiv.org/content/10.1101/595520v1)
+
+<hr>## 8
+**Inferring the function performed by a recurrent neural network**  
+Chalk, M., Tkacik, G., and Marre, O.  
+bioRxiv, 598086 (2019)  
+[https://www.biorxiv.org/content/10.1101/598086v1](https://www.biorxiv.org/content/10.1101/598086v1)
+
+Also see this [tweet thread](https://twitter.com/KordingLab/status/1114152346190270466).
+
+<hr>## 9
+**Basal ganglia contributions during the learning of a visuomotor rotation: effect of dopamine, deep brain stimulation and reinforcement**  
+Singh, P., Lenka, A., Stezin, A., Jhunjhunwala, K., Pal, P.K., Ghosal, A., and Murthy, A.  
+bioRxiv, 599308 (2019)  
+[https://www.biorxiv.org/content/10.1101/599308v1](https://www.biorxiv.org/content/10.1101/599308v1)
+
+
+<br>
+# Superlab Publications
+Here we list new papers by members of the sensoriomotor superlab:
+
+<hr>
+**Sequence learning is driven by improvements in motor planning**  
+Ariani, G., and Diedrichsen, J.  
+J. Neurophysiol.  
+[https://dx.doi.org/10.1152/jn.00041.2019](https://dx.doi.org/10.1152/jn.00041.2019)
+
+<hr>
+**The effect of response complexity on simple reaction time occurs even with a highly predictable imperative stimulus**  
+Maslovat, D., Klapp, S.T., Forgaard, C.J., Chua, R., and Franks, I.M.  
+Neurosci. Lett. 704, 62–66 (2019)  
+[https://dx.doi.org/10.1016/j.neulet.2019.03.056](https://dx.doi.org/10.1016/j.neulet.2019.03.056)
+
+
+<br>
+<hr># Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+<br>
+<hr># Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+<br>
+<hr># Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.
+
+
+
