@@ -78,6 +78,8 @@ Ariani, G., and Diedrichsen, J.
 J. Neurophysiol.  
 [https://dx.doi.org/10.1152/jn.00041.2019](https://dx.doi.org/10.1152/jn.00041.2019)
 
+In two behavioral experiments, we used a sequence production task to uncover elementary components of skilled motor performance. We show that performance improvements are not fully explained by faster single-item selection, nor improved motor execution. Instead, much of the learning can be attributed to an enhanced ability to plan multiple sequence elements into the future.
+
 <hr>
 **The effect of response complexity on simple reaction time occurs even with a highly predictable imperative stimulus**  
 Maslovat, D., Klapp, S.T., Forgaard, C.J., Chua, R., and Franks, I.M.  
