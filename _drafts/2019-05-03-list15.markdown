@@ -41,12 +41,18 @@ Neuron (2019)
 [https://dx.doi.org/10.1016/j.neuron.2019.01.038](https://dx.doi.org/10.1016/j.neuron.2019.01.038)
 
 <hr>## 6
+**Neural Signatures of Prediction Errors in a Decision-Making Task Are Modulated by Action Execution Failures**  
+McDougle, S.D., Butcher, P.A., Parvin, D.E., Mushtaq, F., Niv, Y., Ivry, R.B., and Taylor, J.A.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219304099/abstract](https://www.cell.com/article/S0960982219304099/abstract)
+
+<hr>## 7
 **Obtaining and maintaining cortical hand representation as evidenced from acquired and congenital handlessness**  
 Wesselink, D.B., van den Heiligenberg, F.M., Ejaz, N., Dempsey-Jones, H., Cardinali, L., Tarall-Jozwiak, A., Diedrichsen, J., and Makin, T.R.  
 Elife 8 (2019)  
 [https://dx.doi.org/10.7554/eLife.37227](https://dx.doi.org/10.7554/eLife.37227)
 
-<hr>## 7
+<hr>## 8
 **Responses of somatosensory area 2 neurons to actively and passively generated limb movements**  
 London, B.M., and Miller, L.E.  
 J. Neurophysiol. 109, 1505–1513 (2013)  
@@ -54,7 +60,7 @@ J. Neurophysiol. 109, 1505–1513 (2013)
 
 From 2013—Clear and well-written, it’s enjoyable to read.
 
-<hr>## 8
+<hr>## 9
 **Titin force is enhanced in actively stretched skeletal muscle**  
 Powers, K., Schappacher-Tilp, G., Jinha, A., Leonard, T., Nishikawa, K., and Herzog, W.  
 J. Exp. Biol. 217, 3629–3636 (2014)  
