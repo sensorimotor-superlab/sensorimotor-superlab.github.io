@@ -22,6 +22,8 @@ Huber, M.E., Folinus, C., and Hogan, N.
 J. Neurophysiol. (2019)  
 [https://dx.doi.org/10.1152/jn.00514.2018](https://dx.doi.org/10.1152/jn.00514.2018)
 
+An intriguing result that is perhaps a first step towards finding out if/how observers extract information related to mechanical impedance from vision of motion.
+
 <hr>## 3
 **The influence of task outcome on implicit motor learning**  
 Kim, H.E., Parvin, D.E., and Ivry, R.B.  
@@ -34,11 +36,15 @@ Vetere, G., Tran, L.M., Moberg, S., Steadman, P.E., Restivo, L., Morrison, F.G.,
 Nature Neuroscience (2019)  
 [https://doi.org/10.1038/s41593-019-0389-0](https://doi.org/10.1038/s41593-019-0389-0)
 
+Sounds like science fiction for sure, and raises some interesting questions about the nature of experience and memory. An amazing technical tour-de-force worth reading. See the [tweet thread](https://twitter.com/franklandlab/status/1122898899906310144?s=11) for more.
+
 <hr>## 5
 **Spatial and Temporal Locomotor Learning in Mouse Cerebellum**  
 Darmohray, D.M., Jacobs, J.R., Marques, H.G., and Carey, M.R.  
 Neuron (2019)  
 [https://dx.doi.org/10.1016/j.neuron.2019.01.038](https://dx.doi.org/10.1016/j.neuron.2019.01.038)
+
+Another paper from the Carey lab ([@meganinlisbon](https://twitter.com/meganinlisbon)), which is doing some really amazing work on motor learning in a mouse model of split-belt treadmill locomotion.
 
 <hr>## 6
 **Neural Signatures of Prediction Errors in a Decision-Making Task Are Modulated by Action Execution Failures**  
