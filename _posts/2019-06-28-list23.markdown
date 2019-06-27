@@ -29,10 +29,10 @@ J. Neurophysiol. (2019)
 [https://dx.doi.org/10.1152/jn.00390.2018](https://dx.doi.org/10.1152/jn.00390.2018)
 
 <hr>## 4
-**Emergent modular neural control drives coordinated motor actions**  
-Lemke, S.M., Ramanathan, D.S., Guo, L., Won, S.J., and Ganguly, K.  
-Nat. Neurosci. 22, 1122–1131 (2019)  
-[https://dx.doi.org/10.1038/s41593-019-0407-2](https://dx.doi.org/10.1038/s41593-019-0407-2)
+**No evidence for motor recovery-related cortical reorganization after stroke using resting-state fMRI**  
+Branscheidt, M., Ejaz, N., Xu, J., Widmer, M., Harran, M.D., Cortés, J.C., Kitago, T., Celnik, P., Hernandez-Castillo, C., Diedrichsen, J., Luft A., Krakauer, J.W.  
+bioRxiv, 681320 (2019)  
+[https://www.biorxiv.org/content/10.1101/681320v1.abstract](https://www.biorxiv.org/content/10.1101/681320v1.abstract)
 
 <hr>## 5
 **Forget binning and get SMART: Getting more out of the time-course of response data**  
