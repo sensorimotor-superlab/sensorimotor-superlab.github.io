@@ -70,7 +70,7 @@ Perkel, J.M.
 Nature 572, 141 (2019)  
 [https://dx.doi.org/10.1038/d41586-019-02310-3](https://dx.doi.org/10.1038/d41586-019-02310-3)
 
-A dispatch from Nature on a relatively new and increasingly interesting programming language for scientific computing, called [Julia](https://julialang.org). The promise is the interactivity, convenience and rich open-source package environment you get in Python, R, and other interpreted languages, but with the speed you get in compiled languages like C and Fortran. It's a language to keep an eye on.
+A dispatch from Nature on a relatively new and increasingly interesting programming language for scientific computing, called [Julia](https://julialang.org). The promise is the interactivity, convenience and rich open-source package environment you get in Python, R, and other interpreted languages, but with the speed you get in compiled languages like C and Fortran. It's a language to keep an eye on. There was a recent conference called [JuliaCon](https://juliacon.org), here is a link to [videos of all of the talks](https://www.youtube.com/playlist?list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H).
 
 <br>
 <hr># Archive
