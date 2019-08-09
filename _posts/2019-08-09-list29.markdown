@@ -53,18 +53,12 @@ Sci Adv 5, eaaw5388 (2019)
 [https://dx.doi.org/10.1126/sciadv.aaw5388](https://dx.doi.org/10.1126/sciadv.aaw5388)
 
 <hr>## 8
-**An ultrafast system for signaling mechanical pain in human skin**  
-Nagi, S.S., Marshall, A.G., Makdani, A., Jarocka, E., Liljencrantz, J., Ridderström, M., Shaikh, S., O’Neill, F., Saade, D., Donkervoort, S., Reghan Foley, A., Minde, J., Trulsson, M., Cole, J., Bönnemann, C.G., Chesler, A. T., Bushnell, M. C., McGlone, F., and Olausson, H.  
-Science Advances 5, eaaw1297 (2019)  
-[https://dx.doi.org/10.1126/sciadv.aaw1297](https://dx.doi.org/10.1126/sciadv.aaw1297)
-
-<hr>## 9
 **Neural Anatomy and Optical Microscopy (NAOMi) Simulation for evaluating calcium imaging methods**  
 Charles, A.S., Song, A., Gauthier, J.L., Pillow, J.W., and Tank, D.W.  
 bioRxiv, 726174 (2019)  
 [https://www.biorxiv.org/content/10.1101/726174v1](https://www.biorxiv.org/content/10.1101/726174v1)
 
-<hr>## 10
+<hr>## 9
 **Practice induces a qualitative change in the memory representation for visuomotor learning**  
 Huberdeau, D.M., Krakauer, J.W., and Haith, A.M.  
 bioRxiv, 226415 (2017)  
