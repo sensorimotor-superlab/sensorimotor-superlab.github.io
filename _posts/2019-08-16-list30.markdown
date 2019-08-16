@@ -16,6 +16,8 @@ Matic, A., and Gomez-Marin, A.
 J. Neurosci. Methods, 108398 (2019)  
 [https://dx.doi.org/10.1016/j.jneumeth.2019.108398](https://dx.doi.org/10.1016/j.jneumeth.2019.108398)
 
+Powerful, low-cost computers and open source software may dramatically alter how and where movement science is conducted in the near future. Matic and Gomez-Martin present straightforward templates for designing finger or stylus tracking experiments on Android tablets. While planar recordings of stylus/finger movements sacrifice data richness compared to 3D and/or multi-segment recordings, the portability and low cost of tablets make this an attractive option when ease of setup is a primary concern.
+
 <hr>## 2
 **Tradeoffs in optimal control capture patterns of human sensorimotor control and adaptation**  
 Cluff, T., Crevecoeur, F., and Scott, S.H.  
