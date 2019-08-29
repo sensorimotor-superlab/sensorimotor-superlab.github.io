@@ -25,10 +25,12 @@ Neuron (2019)
 [https://www.cell.com/article/S0896627319306531/abstract](https://www.cell.com/article/S0896627319306531/abstract)
 
 <hr>## 3
-**Practicing one thing at a time: the secret to reward-based learning?**  
-van der Kooij, K., van Mastrigt, N., and Smeets, J.  
-bioRxiv, 745778 (2019)  
-[https://www.biorxiv.org/content/10.1101/745778v1](https://www.biorxiv.org/content/10.1101/745778v1)
+**Feeling fooled: Texture contaminates the neural code for tactile speed**  
+Delhaye, B.P., O’Donnell, M.K., Lieber, J.D., McLellan, K.R., and Bensmaia, S.J.  
+PLoS Biol. 17, e3000431 (2019)  
+[https://dx.doi.org/10.1371/journal.pbio.3000431](https://dx.doi.org/10.1371/journal.pbio.3000431)
+
+Also check out the [tweeprint](https://twitter.com/delhayeben/status/1166633803441496064).
 
 <hr>## 4
 **Early stages of sensorimotor map acquisition: learning with free exploration, without active movement or global structure**  
