@@ -42,7 +42,7 @@ Ohashi, H., and Ito, T.
 J. Neurophysiol. (2019)  
 [https://dx.doi.org/10.1152/jn.00028.2019](https://dx.doi.org/10.1152/jn.00028.2019)
 
-xxx
+Here Ohashi and Ito explore the links between sensory and motor systems in speech motor learning. They use a small robot arm to stretch the facial skin during a speech motor learning task involving adapting the production of vowel sounds to altered auditory feedback that shifts vowel formants. This somatosensory modulation doesn't affect the amount of adaptation in speech production (motor outflow) but perhaps surprisingly, does affect auditory perception of speech vowel sounds, suggesting that orofacial somatosensory inputs help shape the auditory perception of speech sounds. —PG
 
 <hr>## 5
 **Identifying Weights and Architectures of Unknown ReLU Networks**  
@@ -50,7 +50,7 @@ Rolnick, D., and Kording, K.P.
 arXiv [cs.LG] (2019)  
 [https://arxiv.org/abs/1910.00744](https://arxiv.org/abs/1910.00744)
 
-xxx
+Rolnick and Kording demonstrate something surprising, at least to me: it's possible, in some cases, to reconstruct the both the network architecture and the weights & biases of a multi-layer ReLU network, only by querying the network's outputs (!) As they say in their Abstract, this could have implications for the study of biological neural networks, as well as more immediate implications (e.g. security) for real-world situations involving artificial neural networks. —PG
 
 <hr>## 6
 **A Whole-body Sensory-Motor Gradient is Revealed in the Medial Wall of the Parietal Lobe**  
