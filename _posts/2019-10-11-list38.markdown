@@ -66,6 +66,8 @@ Makin, T.R., and Orban de Xivry, J.-J.
 Elife 8 (2019)  
 [https://dx.doi.org/10.7554/eLife.48175](https://dx.doi.org/10.7554/eLife.48175)
 
+Tamar Makin and Jean-Jacques Orban de Xivry in a friendly written paper Highlight 10 common statistical mistakes while providing one way of potentially avoiding them. —RM
+
 <hr>## 10
 **Insights from a survey-based analysis of the academic job market**  
 Fernandes, J.D., Sarabipour, S., Smith, C.T., Niemi, N.M., Jadavji, N.M., Kozik, A.J., Holehouse, A.S., Pejaver, V., Symmons, O., Bisson Filho, A.W., Haage, A.  
@@ -83,6 +85,8 @@ An interview with John Krakauer, who is, as usual, often hilarious and always in
 <hr># Contributors
 - Susan Coltman ([@SusanColtman04
 ](https://twitter.com/SusanColtman04))
+- Natalia Mangos
+- Rodrigo Maeda ([@rodrigo_maeda](https://twitter.com/rodrigo_maeda))
 - Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
 
 <br>
