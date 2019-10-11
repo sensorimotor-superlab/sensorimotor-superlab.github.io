@@ -85,7 +85,6 @@ An interview with John Krakauer, who is, as usual, often hilarious and always in
 <hr># Contributors
 - Susan Coltman ([@SusanColtman04
 ](https://twitter.com/SusanColtman04))
-- Natalia Mangos
 - Rodrigo Maeda ([@rodrigo_maeda](https://twitter.com/rodrigo_maeda))
 - Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
 
