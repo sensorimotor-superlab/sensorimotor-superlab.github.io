@@ -7,6 +7,8 @@ categories: readinglist
 
 Here are the articles that we are reading this week.
 
+If you are headed to Chicago this coming week for the Society for Neuroscience meeting, also check out the posters and talks by the superlab: [[2019_SFN_superlab.pdf](https://t.co/2jtiF9fWZS?amp=1)].
+
 Enjoy!  
 ---Paul, Andrew & Jörn
 
@@ -68,22 +70,20 @@ Jordan, M.I.
 Harvard Data Science Review (2019)  
 [https://hdsr.mitpress.mit.edu/pub/wot7mkc1](https://hdsr.mitpress.mit.edu/pub/wot7mkc1)
 
-A refreshing look at an overhyped field. Michael Jordan calls for a shift in attention from developing human-like intelligence to building systems that are based on basic statistical principles---i.e. statistical engineering.
+A refreshing look at an overhyped field. Michael Jordan calls for a shift in attention from developing human-like intelligence to building systems that are based on basic statistical principles---i.e. statistical engineering. —JD
 
 <hr>## 10
 **Power analysis**  
 Raman, I.M.  
 Elife 8 (2019)  
-[Available at: http://dx.doi.org/10.7554/eLife.52232](Available at: http://dx.doi.org/10.7554/eLife.52232)
+[https://dx.doi.org/10.7554/eLife.52232](https://dx.doi.org/10.7554/eLife.52232)
 
 An important essay by Indira Raman, a Professor of Neurobiology at Northwestern (USA), about power differentials in science, between men and women, between mentors and mentees, and how even the perception of power differentials can affect our behavior towards each other. The conclusion is that while some power differentials are inescapable, as mentors and teachers we have the ability, and indeed a moral imperative, to use our power to make good things happen, through a benevolent hierarchy. —PG
-
-
 
 <br>
 <hr># Contributors
 - Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
--
+- Jörn Diedrichsen ([@diedrichsenlab](https://twitter.com/diedrichsenlab))
 
 <br>
 <hr># Archive
