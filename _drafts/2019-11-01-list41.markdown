@@ -64,6 +64,8 @@ Richards, B.A., Lillicrap, T.P., Beaudoin, P., Bengio, Y., Bogacz, R., Christens
 Nat. Neurosci. 22, 1761–1770 (2019)  
 [https://www.nature.com/articles/s41593-019-0520-2](https://www.nature.com/articles/s41593-019-0520-2)
 
+Neural network modeling has provided fascinating insights into systems neuroscience. The authors advocate an increased focus on three elements of designing neural networks: the objective function, the learning rules, and the network architectures. By studying how computations emerge under different selections of these components, systems neuroscience will continue to benefit from deep learning.
+
 <hr>## 10
 **Application of the hierarchical bootstrap to multi-level data in neuroscience**  
 Saravanan, V., Berman, G.J., and Sober, S.J.  
@@ -87,7 +89,8 @@ bioRxiv, 724054 (2019)
 
 <br>
 <hr># Contributors
-- 
+- Jonathan Michaels ([@JonAMichaels](https://twitter.com/JonAMichaels))
+
 
 <br>
 <hr># Archive
