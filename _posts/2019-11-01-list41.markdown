@@ -30,6 +30,8 @@ Barany, D.A., Gómez-Granados, A., Schrayer, M., Cutts, S.A., and Singh, T.
 bioRxiv, 821074 (2019)  
 [https://www.biorxiv.org/content/10.1101/821074v1](https://www.biorxiv.org/content/10.1101/821074v1)
 
+Barany and colleagues investigate the interaction between dorsal and ventral visual streams during visuomotor control in a behavioral study with reaching movements to either static or moving targets. By independently manipulating whether participants should hit or avoid the targets, they show that participants tend to rely on online perceptual decision-making, especially for interception movements that induce a sense of urgency. Eye movements appeared to influence movement coordination strategies, thereby suggesting a link between the two streams for perception and action that is manipulated by task demands. —GA
+
 <hr>## 4
 **Reorganization of the Primate Dorsal Horn in Response to a Deafferentation Lesion Affecting Hand Function**  
 Fisher, K.M., Garner, J., and Darian-Smith, C.  
@@ -98,6 +100,7 @@ bioRxiv, 724054 (2019)
 - Jonathan Michaels ([@JonAMichaels](https://twitter.com/JonAMichaels))
 - Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
 - Olivier Codol [@OlivierCodol](https://twitter.com/OlivierCodol)
+- Giacomo Ariani [@GiacomoAriani](https://twitter.com/GiacomoAriani)
 
 <br>
 <hr># Archive
