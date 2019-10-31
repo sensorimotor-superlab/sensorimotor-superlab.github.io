@@ -16,6 +16,8 @@ Larry, N., Yarkoni, M., Lixenberg, A., and Joshua, M.
 Elife 8. (2019)  
 [https://dx.doi.org/10.7554/eLife.46870](https://dx.doi.org/10.7554/eLife.46870)
 
+The traditional view of cerebellar learning is that it performs supervised learning of sensorimotor information, at odds with recent behavioural evidence that reward impacts some forms of cerebellar learning. In a series of eye movement tasks in macaca fascicularis monkeys, the authors show that complex spikes rate of firing is sensitive to the reward magnitude of an associated cue—but not to reward delivery itself. This provides empirical evidence of how reward-based learning may occur alongside error-based learning. —OC
+
 <hr>## 2
 **Sustained Dopaminergic Plateaus and Noradrenergic Depressions Bias Transitions Into Exploitative Behavioral States**  
 Koralek, A.C., and Costa, R.M.  
@@ -95,7 +97,7 @@ bioRxiv, 724054 (2019)
 <hr># Contributors
 - Jonathan Michaels ([@JonAMichaels](https://twitter.com/JonAMichaels))
 - Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
-
+- Olivier Codol [@OlivierCodol](https://twitter.com/OlivierCodol)
 
 <br>
 <hr># Archive
