@@ -35,16 +35,20 @@ bioRxiv, 818716 (2019)
 [https://www.biorxiv.org/content/10.1101/818716v1](https://www.biorxiv.org/content/10.1101/818716v1)
 
 <hr>## 5
-**Postural Representations of the Hand in the Primate Sensorimotor Cortex**  
-Goodman, J.M., Tabot, G.A., Lee, A.S., Suresh, A.K., Rajan, A.T., Hatsopoulos, N.G., and Bensmaia, S.  
-Neuron (2019)  
-[https://www.cell.com/article/S0896627319307779/abstract](https://www.cell.com/article/S0896627319307779/abstract)
+**Comparing Functional Connectivity Matrices: A Geometry-Aware Approach applied to Participant Identification**  
+Venkatesh, M., Jaja, J., and Pessoa, L.  
+bioRxiv, 687830 (2019)  
+[https://www.biorxiv.org/content/10.1101/687830v2](https://www.biorxiv.org/content/10.1101/687830v2)
+
+Functional architecture across brain regions is commonly examined by comparing functional connectivity matrices across participants, or groups, often using Pearson correlation between matrices. Vankatesh et al. propose to instead compare functional connectivity matrices using a geodesic distance, a non-Euclidean distance metric that considers the manifold on which the data lies. They show that geodesic distance is superior to Pearson correlation in participant identification ("fingerprinting") using both resting state and task datasets. —EB
 
 <hr>## 6
 **The Low-Dimensional Neural Architecture of Cognitive Complexity Is Related to Activity in Medial Thalamic Nuclei**  
 Shine, J.M., Hearne, L.J., Breakspear, M., Hwang, K., Müller, E.J., Sporns, O., Poldrack, R.A., Mattingley, J.B., and Cocchi, L.  
 Neuron (2019)  
 [https://dx.doi.org/10.1016/j.neuron.2019.09.002](https://dx.doi.org/10.1016/j.neuron.2019.09.002)
+
+Shine et al. use  a cognitively challenging task to assess how complexity affects low-dimensional state-space of brain activity. They show that individual differences in task performance are related to engagement of low-dimensional manifold and that task errors are associated with the brain state deviating more from the manifold than correct trials. Additionally, they demonstrate that recruitment of medial thalamus relates to individual differences in cortical dimensionality across task complexity. —EB
 
 <hr>## 7
 **Neural signatures of loss of consciousness and its recovery by thalamic stimulation**  
@@ -64,7 +68,7 @@ Richards, B.A., Lillicrap, T.P., Beaudoin, P., Bengio, Y., Bogacz, R., Christens
 Nat. Neurosci. 22, 1761–1770 (2019)  
 [https://www.nature.com/articles/s41593-019-0520-2](https://www.nature.com/articles/s41593-019-0520-2)
 
-Neural network modeling has provided fascinating insights into systems neuroscience. The authors advocate an increased focus on three elements of designing neural networks: the objective function, the learning rules, and the network architectures. By studying how computations emerge under different selections of these components, systems neuroscience will continue to benefit from deep learning.
+Neural network modeling has provided fascinating insights into systems neuroscience. The authors advocate an increased focus on three elements of designing neural networks: the objective function, the learning rules, and the network architectures. By studying how computations emerge under different selections of these components, systems neuroscience will continue to benefit from deep learning. —JM
 
 <hr>## 10
 **Application of the hierarchical bootstrap to multi-level data in neuroscience**  
@@ -90,6 +94,7 @@ bioRxiv, 724054 (2019)
 <br>
 <hr># Contributors
 - Jonathan Michaels ([@JonAMichaels](https://twitter.com/JonAMichaels))
+- Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
 
 
 <br>
