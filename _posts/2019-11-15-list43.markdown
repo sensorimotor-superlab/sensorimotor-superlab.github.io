@@ -58,6 +58,10 @@ Lokesh, R., and Ranganathan, R.
 bioRxiv, 819771 (2019)  
 [https://www.biorxiv.org/content/10.1101/819771v1](https://www.biorxiv.org/content/10.1101/819771v1)
 
+Each time you bring your mug of coffee to your lips while reading our list this morning, your arm moves in subtly different ways from sip to sip. Precise repetition of motor actions is extremely uncommon in ecological behavior, but robot-assisted therapies often enforce very precise movements. In light of this contrast, Lokesh and Ranganathan investigate whether people can learn a novel motor task as effectively when such natural variability is curtailed using a robot. —SR
+
+Also see tweeprint: [https://twitter.com/rrangana1/status/1188097674622443520](https://twitter.com/rrangana1/status/1188097674622443520)
+
 <hr>## 9
 **From symbiont to parasite: the evolution of for-profit science publishing**  
 Walter, P., and Mullins, D.  
@@ -68,6 +72,10 @@ Mol. Biol. Cell 30, 2537–2542 (2019)
 **Computational Neuroscience**  
 Current Opinion in Neurobiology (2019)  
 [https://www.sciencedirect.com/journal/current-opinion-in-neurobiology/vol/58/](https://www.sciencedirect.com/journal/current-opinion-in-neurobiology/vol/58/)
+
+<br>
+<hr># Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
 
 <br>
 <hr># Archive
