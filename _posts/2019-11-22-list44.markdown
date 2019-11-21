@@ -17,12 +17,6 @@ Nature 575, 473–479 (2019)
 [https://dx.doi.org/10.1038/s41586-019-1687-0](https://dx.doi.org/10.1038/s41586-019-1687-0)
 
 <hr>## 2
-**Somatic and Dendritic Encoding of Spatial Variables in Retrosplenial Cortex Differs during 2D Navigation**  
-Voigts, J., and Harnett, M.T.  
-Neuron (2019)  
-[https://www.cell.com/article/S089662731930889X/abstract](https://www.cell.com/article/S089662731930889X/abstract)
-
-<hr>## 3
 **Layer 5 Circuits in V1 Differentially Control Visuomotor Behavior**  
 Tang, L., and Higley, M.J.  
 Neuron (2019)  
@@ -30,7 +24,7 @@ Neuron (2019)
 
 Also check out the [tweeprint](https://twitter.com/mjhigley/status/1196871549510397959?s=21).
 
-<hr>## 4
+<hr>## 3
 **Excitatory and Inhibitory Subnetworks Are Equally Selective during Decision-Making and Emerge Simultaneously during Learning**  
 Najafi, F., Elsayed, G.F., Cao, R., Pnevmatikakis, E., Latham, P.E., Cunningham, J.P., and Churchland, A.K.  
 Neuron (2019)  
@@ -38,11 +32,17 @@ Neuron (2019)
 
 Also check out the [tweeprint](https://twitter.com/farznaj/status/1196878629738663936?s=21).
 
-<hr>## 5
+<hr>## 4
 **How different effectors and action effects modulate the formation of separate motor memories**  
 Schween, R., Langsdorf, L., Taylor, J.A., and Hegele, M.  
 Sci. Rep. 9, 17040 (2019)  
 [https://dx.doi.org/10.1038/s41598-019-53543-1](https://dx.doi.org/10.1038/s41598-019-53543-1)
+
+<hr>## 5
+**Experts, but not novices, exhibit StartReact indicating experts use the reticulospinal system more than novices**  
+Bartels, B.M., Quezada, M.J., Ravichandran, V.J., and Honeycutt, C.F.  
+bioRxiv, 841791 (2019)  
+[https://www.biorxiv.org/content/10.1101/841791v1](https://www.biorxiv.org/content/10.1101/841791v1)
 
 <hr>## 6
 **Sensorimotor integration in the whisker somatosensory brain stem trigeminal loop**  
@@ -51,6 +51,18 @@ J. Neurophysiol. 122, 2061–2075 (2019)
 [https://dx.doi.org/10.1152/jn.00116.2019](https://dx.doi.org/10.1152/jn.00116.2019)
 
 <hr>## 7
+**Sensory cortical control of movement**  
+Karadimas, S.K., Satkunendrarajah, K., Laliberte, A.M., Ringuette, D., Weisspapir, I., Li, L., Gosgnach, S., and Fehlings, M.G.  
+Nat. Neurosci. (2019)  
+[https://doi.org/10.1038/s41593-019-0536-7](https://doi.org/10.1038/s41593-019-0536-7)
+
+<hr>## 8
+**Remapping in cerebral and cerebellar cortices is not restricted by somatotopy**  
+Hahamy, A., and Makin, T.R.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2599-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.2599-18.2019)
+
+<hr>## 9
 **Relationship between spiking activity and simultaneously recorded fluorescence signals in transgenic mice expressing GCaMP6**  
 Huang, L., Knoblich, U., Ledochowitsch, P., Lecoq, J., Clay Reid, R., de Vries, S.E.J., Buice, M.A., Murphy, G.J., Waters, J., Koch, C., et al.  
 bioRxiv, 788802 (2019)  
@@ -58,7 +70,7 @@ bioRxiv, 788802 (2019)
 
 Two-photon calcium imaging is seeing a great uptake in popularity as a way to measure large-scale neural activity in the brain. However, much like fMRI, the relationship between the measured signal and the signal of interest (neural spiking) is not known. Here, Huang et al. present heroic work where they recorded spiking and calcium florescence from 91 neurons in vivo from layer 2/3 primary visual cortex in transgenic mice. Along with a number of separate analyses, they demonstrate that calcium imaging has higher spike-detection rates at high-resolution imaging, but detection decays substantially when imaging at spatial resolutions that are more commonly employed (10-15% correct detection). Most exciting is that this data is freely available at [https://portal.brain-map.org/explore/circuits/oephys](https://portal.brain-map.org/explore/circuits/oephys). —SA
 
-<hr>## 8
+<hr>## 10
 **Variability in the analysis of a single neuroimaging dataset by many teams**  
 Botvinik-Nezer, R., Holzmeister, F., Camerer, C.F., Dreber, A., Huber, J., Johannesson, M., Kirchler, M., Iwanir, R., Mumford, J.A., Adcock, A., et al.  
 bioRxiv, 843193 (2019)  
@@ -66,23 +78,11 @@ bioRxiv, 843193 (2019)
 
 When analyzing fMRI data, we are faced with many choices: which software package to choose, how to define regions of interest, whether or not we should apply spatial smoothing etc. In this paper, 70 independent teams analyzed the same dataset testing predefined hypotheses, with their own analysis pipelines. Botvinik-Nezer and colleagues show that variation in scientific conclusions across teams is sizeable, and point out analytic choices related to biggest variability in results. —EB
 
-<hr>## 9
-**Experts, but not novices, exhibit StartReact indicating experts use the reticulospinal system more than novices**  
-Bartels, B.M., Quezada, M.J., Ravichandran, V.J., and Honeycutt, C.F.  
-bioRxiv, 841791 (2019)  
-[https://www.biorxiv.org/content/10.1101/841791v1](https://www.biorxiv.org/content/10.1101/841791v1)
-
-<hr>## 10
-**Remapping in cerebral and cerebellar cortices is not restricted by somatotopy**  
-Hahamy, A., and Makin, T.R.  
-J. Neurosci. (2019)  
-[https://dx.doi.org/10.1523/JNEUROSCI.2599-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.2599-18.2019)
-
 <hr>## 11
-**Sensory cortical control of movement**  
-Karadimas, S.K., Satkunendrarajah, K., Laliberte, A.M., Ringuette, D., Weisspapir, I., Li, L., Gosgnach, S., and Fehlings, M.G.  
-Nat. Neurosci. (2019)  
-[https://doi.org/10.1038/s41593-019-0536-7](https://doi.org/10.1038/s41593-019-0536-7)
+**Somatic and Dendritic Encoding of Spatial Variables in Retrosplenial Cortex Differs during 2D Navigation**  
+Voigts, J., and Harnett, M.T.  
+Neuron (2019)  
+[https://www.cell.com/article/S089662731930889X/abstract](https://www.cell.com/article/S089662731930889X/abstract)
 
 <hr>## 12
 **Continual Learning in a Multi-Layer Network of an Electric Fish**  
@@ -104,17 +104,21 @@ Maeda, R.S., Gribble, P.L., and Andrew Pruszynski, J.
 bioRxiv, 845933 (2019)  
 [https://www.biorxiv.org/content/10.1101/845933v1](https://www.biorxiv.org/content/10.1101/845933v1)
 
-Also check out the [tweeprint](https://twitter.com/rodrigo_maeda/status/1196451441084420097?s=20).
+New preprint with [@andpru](https://twitter.com/andpru) and [@paulgribble](https://twitter.com/paulgribble) using [@KINARMLab](https://twitter.com/KINARMLab) to go from feedback to feedforward control. Check out the [tweeprint](https://twitter.com/rodrigo_maeda/status/1196451441084420097?s=20). —RM
 
 **Influence of kinesthetic motor imagery and effector specificity on the long-latency stretch response**  
 Forgaard, C.J., Franks, I.M., Maslovat, D., and Chua, R.  
 J. Neurophysiol. 122, 2187–2200 (2019)  
 [https://dx.doi.org/10.1152/jn.00159.2019](https://dx.doi.org/10.1152/jn.00159.2019)
 
+In this final study of my PhD thesis, I used motor imagery and contralateral responses to test the relationship between the overt execution of a voluntary response in stretched muscle and instruction-dependent long-latency reflex (LLR) facilitation. A high proportion of overt response “leaks” were found where the mentally simulated or mirrored response appeared in stretched muscle. The first half of the LLR was categorically sensitive to the appearance of leaks, whereas the latter half displayed characteristics closely resembling activity in the ensuing voluntary period. Critically, the LLR on non-leaked trials was indistinguishable from a passive control condition. These findings suggest that instruction-dependent facilitation of the LLR does require the overt execution of a motor response during the voluntary epoch of stretched muscle. —CF
+
 <br>
 <hr># Contributors
-- Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
 - Spencer Arbuckle ([@saarbuckle](https://twitter.com/saarbuckle))
+- Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
+- Rodrigo Maeda ([@rodrigo_maeda](https://twitter.com/rodrigo_maeda))
+- Chris Forgaard
 
 <br>
 <hr># Archive
