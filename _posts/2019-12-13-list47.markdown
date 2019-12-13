@@ -70,6 +70,12 @@ Lima IR, Haar S, Di Grassi L, Aldo Faisal A
 bioRxiv:860056 (2019)  
 [https://www.biorxiv.org/content/10.1101/860056v1](https://www.biorxiv.org/content/10.1101/860056v1)
 
+When we purport to study ecological actions, we often reduce their complexity by constraining behaviour and/or recording only a few variables of interest. In distict contrast to this approach, Lima and Colleagues present a rich dataset (including EEG, eyetracking, and kinematics) recorded from a professional racecar driver driving a high performance car on a racetrack. As technology for recording neurobehavioural data becomes more portable and robust, datasets like this will be easier to obtain; how can we design experimental paradigms to take advantage of high dimensional data without analysis and interpretation becoming even more of a bottleneck? —SR
+
+<br>
+<hr># Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+
 <br>
 <hr># Archive
 You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
