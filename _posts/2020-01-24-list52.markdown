@@ -52,6 +52,8 @@ Nuckols RW, Dick TJM, Beck ON, Sawicki GS
 bioRxiv:2020.01.20.909259 (2020)  
 [https://www.biorxiv.org/content/10.1101/2020.01.20.909259v1](https://www.biorxiv.org/content/10.1101/2020.01.20.909259v1)
 
+While everyone knows that powered exoskeletons can make their wearers' lives easier (cf. Tony Starks), some unpowered exoskeletons can reduce the metabolic cost of walking by storing and returning mechanical energy during the step cycle. To understand the contractile dynamics underlying this improved economy, Nuckols and Colleagues used ultrasound to image plantar flexor muscles while people walked in elastic ankle exoskeletons with a variety of stiffnesses. This impressive technique indicates that the locomotor system may take advantage of exoskeleton to utilize muscles at more efficient lengths, but that it also may have a limited capacity to take advantage of exoskeletons due to constraints in both biomechanics and control. —SR
+
 <hr>## 8
 **A set of functionally-defined brain regions with improved representation of the subcortex and cerebellum**  
 Seitzman BA, Gratton C, Marek S, Raut RV, Dosenbach NUF, Schlaggar BL, Petersen SE, Greene DJ  
@@ -65,8 +67,8 @@ bioRxiv:2020.01.15.906545 (2020)
 [https://www.biorxiv.org/content/10.1101/2020.01.15.906545v1](https://www.biorxiv.org/content/10.1101/2020.01.15.906545v1)
 
 <hr>## 10
-Uyanik I, Sefati S, Stamper SA, Cho K-A, Ankarali MM, Fortune ES, Cowan NJ  
 **Variability in locomotor dynamics reveals the critical role of feedback in task control**  
+Uyanik I, Sefati S, Stamper SA, Cho K-A, Ankarali MM, Fortune ES, Cowan NJ  
 Elife 9:e51219 (2020)  
 [https://dx.doi.org/10.7554/eLife.51219](https://dx.doi.org/10.7554/eLife.51219)
 
@@ -79,16 +81,19 @@ Matter (2020)
 [https://www.cell.com/article/S2590238519304102/abstract](https://www.cell.com/article/S2590238519304102/abstract)
 
 <br>
-<hr># Contributors
-- Spencer Arbuckle [(@saarbuckle)](https://twitter.com/saarbuckle)
-
-<br>
 <hr># Superlab Papers
 
 **Synergic control of action in levodopa-naïve Parkinson’s disease patients: I. Multi-finger interaction and coordination**  
 de Freitas PB, Freitas SMSF, Reschechtko S, Corson T, Lewis MM, Huang X, Latash ML  
 Exp Brain Res 238:229–245 (2020)  
 [https://dx.doi.org/10.1007/s00221-019-05709-6](https://dx.doi.org/10.1007/s00221-019-05709-6)
+
+When people are diagnosed with Parkinson's Disease (PD), they are often prescribed levodopa because it alleviates many symptoms. Studies of PD patients, therefore, often occur in individuals who have undergone chronic levodopa treatment -- so observed behaviors could reflect neural changes due PD or due to long-term medication exposure. We tested a group of recently diagnosed PD patients who agreed to take their first dose of levodopa between two testing sessions in which they performed finger pressing tasks to assess inter-finger coordination. While these patients did show changes in finger coordination consistent with those previously previously PD patients with chronic levodopa exposure, the first dose of levodopa did not change these measures as seen in on/off drug studies in PD patients chronically treated with levodopa. —SR
+
+<br>
+<hr># Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+- Spencer Arbuckle [(@saarbuckle)](https://twitter.com/saarbuckle)
 
 <br>
 <hr># Archive
