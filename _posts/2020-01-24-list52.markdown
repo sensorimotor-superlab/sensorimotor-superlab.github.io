@@ -70,11 +70,17 @@ Uyanik I, Sefati S, Stamper SA, Cho K-A, Ankarali MM, Fortune ES, Cowan NJ
 Elife 9:e51219 (2020)  
 [https://dx.doi.org/10.7554/eLife.51219](https://dx.doi.org/10.7554/eLife.51219)
 
+Uyanik and colleagues demonstrate that robust feedback control is leveraged to deal with (in some species, extreme) instances of morphophysiological variability. To demonstrate this, the authors tracked the kinematics of the ventral ribbon fin of 3 knifefish during refuge tracking.  Because each fish is different in size and shape (morphophysiological variability), each of the fish have developed unique control policies to control the plant (here, the ribbon fins). The authors estimated plant and controllers for each fish, and then swapped the fitted controllers to different plants. If the controller is precisely tuned to each plant, then the swapped controller-plant pairs should perform rather poorly. However, the authors observed that the swapped pairs performed quite well. Clearly, morphophysiological variability was attenuated, allowing for robust feedback control without the need for precise controller-plant tuning. —SA
+
 <hr>## 11
 **Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**  
 Cameron MI, Morisco D, Hofstetter D, Uman E, Wilkinson J, Kennedy ZC, Fontenot SA, Lee WT, Hendon CH, Foster JM  
 Matter (2020)  
 [https://www.cell.com/article/S2590238519304102/abstract](https://www.cell.com/article/S2590238519304102/abstract)
+
+<br>
+<hr># Contributors
+- Spencer Arbuckle [(@saarbuckle)](https://twitter.com/saarbuckle)
 
 <br>
 <hr># Superlab Papers
