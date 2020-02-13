@@ -60,17 +60,28 @@ Erickson-Davis C, Korzybska H
 bioRxiv:2020.02.03.932905 (2020)  
 [https://www.biorxiv.org/content/10.1101/2020.02.03.932905v1](https://www.biorxiv.org/content/10.1101/2020.02.03.932905v1)
 
+Erickson-Davis and Korzybska provide fascinating insights into the use of retinal prostheses, in particular: what sensations arise from retinal implants, and how do users learn to make sense of them? User experiences are potentially cautionary, as they report that retinal implants continue to be taxing to use and their sensory percepts are very distinct from real vision. Many of these concerns are probably not unique to any particular modality of sensory prosthesis, although continued progress in ecological stimulation could help alleviate them (perhaps in some modalities more easily than in others). —SR
+
 <hr>## 9
 **Long-gap peripheral nerve repair through sustained release of a neurotrophic factor in nonhuman primates**  
 Fadia NB et al.  
 Sci Transl Med 12 (2020)  
 [https://dx.doi.org/10.1126/scitranslmed.aav7753](https://dx.doi.org/10.1126/scitranslmed.aav7753)
 
+Long-gap peripheral nerve repair through sustained release of a neurotrophic factor in nonhuman primates
+When long segments of peripheral nerves are damaged, a common solution is to use an autograft from another part of the body -- but these autografts come with their own drawbacks, including loss of functionality at the donor site. Fadia and Colleagues report on the use of a biodegradable conduit that secretes a neurotrophic factor to repair longer segments of peripheral nerves. In a NHP model with upper limb peripheral nerve injury, individuals who received this conduit with neurotrophic factor showed similar functional recovery over a year as those who received an autograft, accompanied by elevated conduction velocities along the repaired nerve. —SR
+
+See (hear) also: [short interview](https://www.cbc.ca/radio/quirks/new-implantable-nerve-guide-tricks-severed-nerves-into-growing-together-again-1.5454928) with some of the authors on CBC Quirks and Quarks.
+
 <hr>## 10
 **Increased error-correction leads to both higher levels of variability and adaptation**  
 Knelange EB, López-Moliner J  
 PLoS One 15:e0227913 (2020)  
 [https://dx.doi.org/10.1371/journal.pone.0227913](https://dx.doi.org/10.1371/journal.pone.0227913)
+
+<br>
+<hr># Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
 
 <br>
 <hr># Archive
