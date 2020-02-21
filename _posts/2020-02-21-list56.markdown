@@ -17,8 +17,8 @@ bioRxiv:2020.02.19.955799 (2020)
 [https://www.biorxiv.org/content/10.1101/2020.02.19.955799v1](https://www.biorxiv.org/content/10.1101/2020.02.19.955799v1)
 
 <hr>## 2
-**Physics-Based Simulations to Predict the Differential Effects of Motor Control and Musculoskeletal Deficits on Gait Dysfunction in Falisse A, Pitto L, Kainz H, Hoang H, Wesseling M, Van Rossom S, Papageorgiou E, Bar-On L, Hallemans A, Desloovere K, Molenaers G, Van Campenhout A, De Groote F, Jonkers I  
-Cerebral Palsy: A Retrospective Case Study**  
+**Physics-Based Simulations to Predict the Differential Effects of Motor Control and Musculoskeletal Deficits on Gait Dysfunction in Cerebral Palsy: A Retrospective Case Study**  
+Falisse A, Pitto L, Kainz H, Hoang H, Wesseling M, Van Rossom S, Papageorgiou E, Bar-On L, Hallemans A, Desloovere K, Molenaers G, Van Campenhout A, De Groote F, Jonkers I  
 Front Hum Neurosci 14:40 (2020)  
 [https://dx.doi.org/10.3389/fnhum.2020.00040](https://dx.doi.org/10.3389/fnhum.2020.00040)
 
