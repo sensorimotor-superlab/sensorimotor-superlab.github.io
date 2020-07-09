@@ -74,6 +74,11 @@ bioRxiv:2020.07.03.186387 (2020)
 <br>
 <hr># Superlab Papers
 
+**Comparing representational geometries using the unbiased distance correlation**  
+Diedrichsen J, Berlot E, Mur M, Schütt HH, Kriegeskorte N  
+arXiv [statAP] (2020)  
+[https://arxiv.org/abs/2007.02789](https://arxiv.org/abs/2007.02789)
+
 **Human first-order tactile neurons can resolve spatial details on the scale of single fingerprint ridges**  
 Jarocka E, Andrew Pruszynski J, Johansson RS  
 bioRxiv:2020.07.03.185777 (2020)  
