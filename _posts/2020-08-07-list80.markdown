@@ -78,6 +78,11 @@ Coltman SK, Gribble PL
 J Neurophysiol 124:388–399 (2020)  
 [https://dx.doi.org/10.1152/jn.00286.2020](https://dx.doi.org/10.1152/jn.00286.2020)
 
+**Whole brain mapping of somatosensory responses in awake marmosets investigated with ultra-high field fMRI**  
+Clery JC, Hori Y, Schaeffer DJ, Gati JS, Pruszynski JA, Everling S  
+bioRxiv:2020.08.05.238592 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.05.238592v1](https://www.biorxiv.org/content/10.1101/2020.08.05.238592v1)
+
 <br>
 <hr># Disclaimer
 Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.
