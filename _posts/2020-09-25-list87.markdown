@@ -74,7 +74,7 @@ Neuron (2020)
 <hr># Superlab Papers
 
 **Stretch reflexes**  
-Reschechtko S, Andrew Pruszynski J  
+Reschechtko S, Pruszynski JA  
 Curr Biol 30:R1025–R1030 (2020)  
 [https://dx.doi.org/10.1016/j.cub.2020.07.092](https://dx.doi.org/10.1016/j.cub.2020.07.092)
 
