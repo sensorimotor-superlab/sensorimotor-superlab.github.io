@@ -60,7 +60,7 @@ Neuron (2020)
 
 <hr>## 9
 **A multimodal cell census and atlas of the mammalian primary motor cortex**  
-BRAIN Initiative Cell Census Network (BICCN), et al.
+BRAIN Initiative Cell Census Network (BICCN), et al.  
 bioRxiv 2020.10.19.343129 (2020)  
 [https://dx.doi.org/10.1101/2020.10.19.343129](https://dx.doi.org/10.1101/2020.10.19.343129)
 
