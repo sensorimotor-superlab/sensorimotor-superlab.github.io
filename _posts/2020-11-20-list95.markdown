@@ -47,10 +47,10 @@ bioRxiv (2020)
 [https://dx.doi.org/10.1101/2020.09.23.310664](https://dx.doi.org/10.1101/2020.09.23.310664)
 
 <hr>## 7
-**An optimality principle for locomotor central pattern generators**  
-Ryu HX, Kuo AD  
-bioRxiv (2020)  
-[https://dx.doi.org/10.1101/2019.12.30.890152](https://dx.doi.org/10.1101/2019.12.30.890152)
+**The impact of learning on perceptual decisions and its implication for speed-accuracy tradeoffs**  
+Mendonça AG, Drugowitsch J, Vicente MI, DeWitt EEJ, Pouget A, Mainen ZF  
+Nat Commun (2020)  
+[https://dx.doi.org/10.1038/s41467-020-16196-7](https://dx.doi.org/10.1038/s41467-020-16196-7)
 
 <hr>## 8
 **Learning function from structure in neuromorphic networks**  
