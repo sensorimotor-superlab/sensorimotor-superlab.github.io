@@ -5,12 +5,9 @@ date:   2021-01-22 06:00:00 -0500
 categories: readinglist
 ---
 
-<figure>
-<img src="/assets/rodrigo.jpg" height="280 px" caption="Rodrigo">
-<figcaption><h4>Rodrigo Maeda</h4></figcaption>
-</figure>
+<img align="left" data-file-id="1701786" height="280" src="https://mcusercontent.com/5123e51e6c72da00386654148/images/b16681c0-7d8a-4836-9e43-431e1e55c2ae.jpg" style="border: 0px  ; width: 193px; height: 280px; float: left; margin: 7px 15px 3px 0px;" width="193" />
 
-For the 100th Superlab Reading List, we honour the scientific legacy of Superlab PhD Student, Rodrigo Maeda, who passed away from stomach cancer on January 1st, 2021.
+For the 100th Superlab Reading List, we honour the scientific legacy of Superlab PhD Student, **Rodrigo Maeda**, who passed away from stomach cancer on January 1st, 2021.
 
 Rodrigo came to Western in Fall 2015 after completing his MSc at Simon Fraser University under the supervision of Drs. Dan Marigold and Max Donelan. He was the first PhD student with Andrew Pruszynski and was co-supervised by Paul Gribble. Rodrigo was scheduled to defend his thesis on January 18th, 2021 to a committee that consisted of Drs. Brian Corneil, Jody Culham, Julio Martinez-Trujillo and Daniel Wolpert (Columbia), an event about which we were all extremely excited. Rodrigo was planning to move on to Baltimore and start a postdoctoral fellowship with Dr. Kathy Cullen in Summer 2021.
 
@@ -18,8 +15,9 @@ Rodrigo was an exceptional young scientist, a friendly and generous colleague, a
 
 Below, Rodrigo's fellow Superlab members and his former supervisors provide a brief synopsis of his ten lead author publications. The scope, number, and quality of these papers is a reflection of Rodrigo's exceptional potential as a researcher in sensorimotor neuroscience. He will be missed.
 
----Paul, Andrew & Jörn
+---Andrew, Paul, & Jörn
 
+<br>
 
 <hr>## 1
 **Feedforward and Feedback Control Share an Internal Model of the Arm's Dynamics**  
@@ -100,7 +98,7 @@ J Neurophysiol 117:480–491 (2017)
 
 Accurate foot placement is essential to stabilize our motion and to navigate our environment. The nervous system must achieve this accuracy despite imperfect sensory feedback and unexpected perturbations. In this study Rodrigo and colleagues used computational models and human walking experiments to test whether the nervous system uses state estimation to beneficially combine sensory feedback with forward model predictions to compensate for these challenges. Participants wore prism lenses during a visually guided walking task that required them to precisely step on a target in the middle of a path. These lenses altered the mapping relationship between the perceived target location and the motor command necessary to direct the foot to that position. The magnitude and direction of prism shifts varied on a trial to trial basis to add noise to the visual feedback and induce a re-weighting of this input. To expose altered weighting, a consistent prism shift was added. With added prism noise, participants responded to the consistent prism shift with smaller initial foot placement error but took longer to adapt. This matched the predictions of a mathematical model of the walking task that leveraged state estimation to compensate for noise. A model driven by task error did not support the behavioural data. Overall, the results are similar to recent computational neuroscience findings for reaching movements, suggesting that state estimation is a general mechanism of human motor control. On a personal note, the research underpinning this paper was the first collaborative effort between the Marigold and Donelan labs. The collaboration was stimulated by Rodrigo and is one of the many enduring effects that he has had on science and on our lives.
 
---*Dan Marigold and Max Donelan*
+--*Dan Marigold & Max Donelan*
 
 <hr>## 9
 **Long-term retention and reconsolidation of a visuomotor memory**  
