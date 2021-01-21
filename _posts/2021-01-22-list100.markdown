@@ -84,8 +84,8 @@ As humans, we are able to learn new patterns of muscle activity to deal with new
 
 <hr>## 7
 **Sensory information from a slipping object elicits a rapid and automatic shoulder response**  
-*Hernandez-Castillo CR, *Maeda RS, Pruszynski JA, Diedrichsen J
-(* co-first author)  
+\*Hernandez-Castillo CR, \*Maeda RS, Pruszynski JA, Diedrichsen J  
+(\* co-first author)  
 J Neurophysiol 123:1103–111 (2020)  
 [https://journals.physiology.org/doi/full/10.1152/jn.00672.2019](https://journals.physiology.org/doi/full/10.1152/jn.00672.2019)
 
