@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Reading List 101"
+date:   2021-02-05 06:00:00 -0500
+categories: readinglist
+---
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+<hr>## 1
+
+
+
+
+
+Langsdorf L, Maresch J, Hegele M, McDougle SD, Schween R (2021) Prolonged response time helps eliminate residual errors in visuomotor adaptation. Psychon Bull Rev Available at: http://dx.doi.org/10.3758/s13423-020-01865-x.
+
+In visuomotor adaptation studies participants often do not fully adapt to maximal performance – why? In a series of three behavioral experiments, Langsdorf and colleagues show that such under-compensation is due to suboptimal or incomplete motor planning stemming from intrinsic speed-accuracy trade-offs: when participants invest more (reaction) time and cognitive resources for planning, they can fully counteract the imposed perturbations.  
+---*Giacomo Ariani*
+
+
+<br>
+<hr># Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.
