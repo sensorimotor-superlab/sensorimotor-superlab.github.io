@@ -5,21 +5,113 @@ date:   2021-02-05 06:00:00 -0500
 categories: readinglist
 ---
 
+Welcome back to the Sensorimotor Superlab Reading List, and welcome to 2021! Here's hoping the year will bring many improvements to all of our lives.
+
+We are re-starting the tradition of including short descriptions of each of the papers we feature in our weekly list, written by our wonderful Superlab lab members, who are credited below each blurb.
+
 Here are the articles that we have been reading this week.
 
 Enjoy!  
 ---Paul, Andrew & Jörn
 
 <hr>## 1
-
-
-
-
-
-Langsdorf L, Maresch J, Hegele M, McDougle SD, Schween R (2021) Prolonged response time helps eliminate residual errors in visuomotor adaptation. Psychon Bull Rev Available at: http://dx.doi.org/10.3758/s13423-020-01865-x.
+**Prolonged response time helps eliminate residual errors in visuomotor adaptation**  
+Langsdorf L, Maresch J, Hegele M, McDougle SD, Schween R  
+Psychon Bull Rev (2021)  
+[http://dx.doi.org/10.3758/s13423-020-01865-x](http://dx.doi.org/10.3758/s13423-020-01865-x)
 
 In visuomotor adaptation studies participants often do not fully adapt to maximal performance – why? In a series of three behavioral experiments, Langsdorf and colleagues show that such under-compensation is due to suboptimal or incomplete motor planning stemming from intrinsic speed-accuracy trade-offs: when participants invest more (reaction) time and cognitive resources for planning, they can fully counteract the imposed perturbations.  
 ---*Giacomo Ariani*
+
+
+<hr>## 2
+**Sensation, movement and learning in the absence of barrel cortex**  
+Hong YK, Lacefield CO, Rodgers CC, Bruno RM  
+Nature (2021)  
+[]()
+
+xxx  
+---*Giacomo Ariani*
+
+
+<hr>## 3
+**Early life experience sets hard limits on motor learning as evidenced from artificial arm use**  
+Maimon-Mor RO, Schone HR, Slater DH, Aldo Faisal A, Makin TR  
+bioRxiv (2021)  
+[https://www.biorxiv.org/content/10.1101/2021.01.26.428281v1](https://www.biorxiv.org/content/10.1101/2021.01.26.428281v1)
+
+xxx  
+---*Sasha Reschechtko*
+
+
+<hr>## 4
+**Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making**  
+Noel J-P, Caziot B, Bruni S, Fitzgerald NE, Avila E, Angelaki DE  
+Prog Neurobiol (2021)  
+[]()
+
+xxx  
+---*Eva Berlot*
+
+
+<hr>## 5
+**Striatal activity topographically reflects cortical activity**  
+Peters AJ, Fabre JMJ, Steinmetz NA, Harris KD, Carandini M  
+Nature (2021)  
+[https://dx.doi.org/10.1038/s41586-020-03166-8](https://dx.doi.org/10.1038/s41586-020-03166-8)
+
+xxx  
+---*Jonathan Michaels*
+
+
+<hr>## 6
+**High contrast, moving targets in an emerging target paradigm promote fast visuomotor responses during visually guided reaching**  
+Kozak RA, Corneil BD  
+bioRxiv (2021)  
+[https://www.biorxiv.org/content/10.1101/2021.01.27.428509v1](https://www.biorxiv.org/content/10.1101/2021.01.27.428509v1)
+
+xxx  
+---*Rebecca Kozak*
+
+
+<hr>## 7
+**Adaptive Behavior and the Role of Primary Somatosensory Cortex**  
+Waiblinger C, Borden PY, Stanley GB  
+[https://www.biorxiv.org/content/10.1101/2021.01.29.428886v1](https://www.biorxiv.org/content/10.1101/2021.01.29.428886v1)
+
+xxx  
+---*xxx*
+
+
+<hr>## 8
+**Measurement, manipulation and modeling of brain-wide neural population dynamics**  
+Shenoy KV, Kao JC  
+Nat Commun (2021)  
+[https://dx.doi.org/10.1038/s41467-020-20371-1](https://dx.doi.org/10.1038/s41467-020-20371-1)
+
+Shenoy and Kao briefly review how studying neural population dynamics has emerged as a powerful framework for gaining insight into neural computations. Then they lay out an exciting 'cheat sheet' on how to leverage the framework with new technologies to better understand neural circuits and how they relate to behavior.  
+---*Andrew Pruszynski*
+
+
+<hr>## 9
+**A novel somatosensory spatial navigation system outside the hippocampal formation**  
+Long X, Zhang S-J  
+Cell Res (2021)  
+[http://dx.doi.org/10.1038/s41422-020-00448-8](http://dx.doi.org/10.1038/s41422-020-00448-8)
+
+xxx  
+---*xxx*
+
+
+<hr>## 10
+**The cost of correcting for error during sensorimotor adaptation**  
+Sedaghat-Nejad E, Shadmehr R  
+[https://www.biorxiv.org/content/10.1101/2021.01.13.426535v1](https://www.biorxiv.org/content/10.1101/2021.01.13.426535v1)
+[]()
+
+xxx  
+---*xxx*
+
 
 
 <br>
