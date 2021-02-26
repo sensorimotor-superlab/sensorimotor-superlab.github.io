@@ -102,4 +102,4 @@ While we know much about how afferent input contributes to the neural control of
 
 <br>
 <hr># Disclaimer
-Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
