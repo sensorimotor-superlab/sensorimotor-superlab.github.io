@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-testing 123
-
 We are the Sensorimotor Superlab at [Western University](https://www.uwo.ca) in [London](http://www.london.ca/), [Ontario](https://www.ontariotravel.net/en/home), [Canada](https://www.canada.ca/en.html).
 
 The Superlab combines the labs of [Paul Gribble](https://www.gribblelab.org), [Andrew Pruszynski](http://www.pruszynskilab.com) and [Jörn Diedrichsen](http://www.diedrichsenlab.org).
