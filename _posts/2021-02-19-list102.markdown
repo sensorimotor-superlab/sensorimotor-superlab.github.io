@@ -5,10 +5,10 @@ date:   2021-02-19 06:00:00 -0500
 categories: readinglist
 ---
 
-Here are the articles that we have been reading this week.
+Here are the articles that have piqued our interest this week.
 
 Enjoy!  
----Paul, Andrew & Jörn
+---the superlab
 
 <hr>## 1
 **Striatal bilateral control of skilled forelimb movement**  
@@ -92,12 +92,6 @@ bioRxiv (2021). [https://doi.org/10.1101/2021.02.03.429664](https://doi.org/10.1
 
 While we know much about how afferent input contributes to the neural control of limb movements such as reaching, comparably little is known about sensory receptors in the human orofacial system—sensors that presumably play a critical role in behaviours such as feeding (mastication and swallowing) and speech. Here Moayedi and colleagues collected biopsies from 12 brave human volunteers, sampling tissues from the tongue and palate and using immunohistochemistry to identify markers of neurons, afferents, taste cells, Merkel cells, free nerve endings, Meissner’s corpuscles, and more. They found a distribution of somatosensory endings reminiscent of the fingertips, structured around sensory neurons specialized for spatial localization of mechanical inputs and for the detection of moving stimuli. Evidence for a somatosensory basis of speech (as opposed to solely auditory) has recently been accumulating and these sorts of data provide additional insights into how afferents in the orofacial system support speech and speech motor learning.  
 —*Paul Gribble* [ [google scholar](https://scholar.google.com/citations?user=kACnRf8AAAAJ) | [twitter](https://twitter.com/paulgribble)]
-
-
-
-
-
-
 
 
 <br>
