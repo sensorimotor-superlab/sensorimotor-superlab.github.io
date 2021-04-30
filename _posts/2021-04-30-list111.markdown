@@ -36,9 +36,9 @@ Flesch T, Juechems K, Dumbalska T, Saxe A, Summerfield C
 [bioRxiv:2021.04.23.441128](https://www.biorxiv.org/content/10.1101/2021.04.23.441128v1)
 
 <hr>## 6
-**Recognition memory for human motor learning**  
-Kumar N, van Vugt FT, Ostry DJ  
-[Curr Biol 31(8):1678-86.e3 (2021)](https://www.sciencedirect.com/science/article/pii/S0960982221001627)
+**Completing the puzzle: why studies in non-human primates are needed to better understand the effects of non-invasive brain stimulation**  
+Lehmann SJ, Corneil BD  
+[arXiv:2104.11844 [q-bioNC] (2021)](https://arxiv.org/abs/2104.11844)
 
 <hr>## 7
 **Proprioceptive representations of the hand in somatosensory cortex**  
@@ -59,12 +59,6 @@ Tsay JS, Kim HE, Parvin DE, Stover AR, Ivry RB
 **Beta-band desynchronization reflects uncertainty in effector selection during motor planning**  
 van Helvert MJL, Wijdenes LO, Geerligs L, Pieter Medendorp W  
 [bioRxiv:2021.04.23.441147](https://www.biorxiv.org/content/10.1101/2021.04.23.441147v1)
-
-<br>
-<hr>## Superlab Papers
-**Completing the puzzle: why studies in non-human primates are needed to better understand the effects of non-invasive brain stimulation**  
-Lehmann SJ, Corneil BD  
-[arXiv:2104.11844 [q-bioNC] (2021)](https://arxiv.org/abs/2104.11844)
 
 <br>
 <hr># Disclaimer
