@@ -56,7 +56,9 @@ Aiello BR, Sikandar UB, Minoguchi H, Bhinderwala B, Hamilton CA, Kawahara AY, Sp
 bioRxiv:2020.10.27.358176 [https://www.biorxiv.org/content/10.1101/2020.10.27.358176v3](https://www.biorxiv.org/content/10.1101/2020.10.27.358176v3)
 
 <hr>## 10
-
+**TimTrack: A drift-free algorithm for estimating geometric muscle features from ultrasound images**  
+van der Zee TJ, Kuo AD  
+bioRxiv:2020.08.23.263574 [https://www.biorxiv.org/content/10.1101/2020.08.23.263574v2](https://www.biorxiv.org/content/10.1101/2020.08.23.263574v2)
 
 
 <br>
