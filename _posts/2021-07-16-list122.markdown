@@ -46,8 +46,9 @@ Moss MM, Zatka-Haas P, Harris KD, Carandini M, Lak A
 J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.0490-21.2021](https://dx.doi.org/10.1523/JNEUROSCI.0490-21.2021)
 
 <hr>## 8
-
-
+**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity**  
+Jazayeri M, Ostojic S  
+arXiv [q-bioNC] (2021) [https://arxiv.org/abs/2107.04084](https://arxiv.org/abs/2107.04084)
 
 <hr>## 9
 
