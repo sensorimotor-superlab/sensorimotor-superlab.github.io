@@ -153,12 +153,12 @@ Van Wouwe T, Ting LH, De Groote F
 <br>
 <hr>## Superlab Papers
 
-Abekawa N, Gomi H, Diedrichsen J  
 **Gaze control during reaching is flexibly modulated to optimize task outcome**  
+Abekawa N, Gomi H, Diedrichsen J  
 [J Neurophysiol 126:816–826 (2021)](https://dx.doi.org/10.1152/jn.00134.2021)
 
-Berlot E, Popp NJ, Grafton ST, Diedrichsen J  
 **Combining Repetition Suppression and Pattern Analysis Provides New Insights into the Role of M1 and Parietal Areas in Skilled Sequential Actions**  
+Berlot E, Popp NJ, Grafton ST, Diedrichsen J  
 [J Neurosci 41:7649–7661 (2021)](https://dx.doi.org/10.1523/JNEUROSCI.0863-21.2021)
 
 
