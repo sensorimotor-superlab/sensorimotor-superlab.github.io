@@ -93,7 +93,7 @@ Moreno-Lopez Y, Bichara C, Delbecq G, Isope P, Cordero-Erausquin M
 <hr>## 17
 **Noise Correlations for Faster and More Robust Learning**  
 Nassar MR, Scott D, Bhandari A  
-[J Neurosci 41:6740–6752 (2021)(http://dx.doi.org/10.1523/JNEUROSCI.3045-20.2021)
+[J Neurosci 41:6740–6752 (2021)](http://dx.doi.org/10.1523/JNEUROSCI.3045-20.2021)
 
 <hr>## 18
 **The geometry of cortical representations of touch in rodents**  
