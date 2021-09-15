@@ -61,34 +61,54 @@ Kim OA, Forrence AD, McDougle SD
 [bioRxiv:2021.08.12.456140](https://www.biorxiv.org/content/10.1101/2021.08.12.456140v1)
 
 <hr>## 11
-Koelewijn AD, Selinger JD (2021) Predictive simulations of gait with exoskeletons that alter energetics. bioRxiv:2021.08.31.458315 Available at: https://www.biorxiv.org/content/10.1101/2021.08.31.458315v1 [Accessed September 2, 2021].
+**Predictive simulations of gait with exoskeletons that alter energetics**  
+Koelewijn AD, Selinger JD  
+[bioRxiv:2021.08.31.458315](https://www.biorxiv.org/content/10.1101/2021.08.31.458315v1)
 
 <hr>## 12
-Kriegeskorte N, Wei X-X (2021) Neural tuning and representational geometry. Nat Rev Neurosci:1–16 Available at: https://www.nature.com/articles/s41583-021-00502-3 [Accessed September 15, 2021].
+**Neural tuning and representational geometry**  
+Kriegeskorte N, Wei X-X  
+[Nat Rev Neurosci:1–16 (2021)](https://www.nature.com/articles/s41583-021-00502-3)
 
 <hr>## 13
-Lemke SM, Ramanathan DS, Darevksy D, Egert D, Berke JD, Ganguly K (2021) Coupling between motor cortex and striatum increases during sleep over long-term skill learning. Elife 10 Available at: http://dx.doi.org/10.7554/eLife.64303.
+**Coupling between motor cortex and striatum increases during sleep over long-term skill learning**  
+Lemke SM, Ramanathan DS, Darevksy D, Egert D, Berke JD, Ganguly K  
+[Elife 10 (2021)](http://dx.doi.org/10.7554/eLife.64303)
 
 <hr>## 14
-Lindén H, Petersen PC, Vestergaard M, Berg RW (2021) Movement is governed by rotational population dynamics in spinal motor networks. bioRxiv:2021.08.31.458405 Available at: https://www.biorxiv.org/content/10.1101/2021.08.31.458405v1 [Accessed September 15, 2021].
+**Movement is governed by rotational population dynamics in spinal motor networks**  
+Lindén H, Petersen PC, Vestergaard M, Berg RW  
+[bioRxiv:2021.08.31.458405](https://www.biorxiv.org/content/10.1101/2021.08.31.458405v1)
 
 <hr>## 15
-McInnes AN, Lipp OV, Tresilian JR, Vallence A-M, Marinovic W (2021) Premovement inhibition can protect motor actions from interference by response-irrelevant sensory stimulation. J Physiol Available at: http://dx.doi.org/10.1113/JP281849.
+**Premovement inhibition can protect motor actions from interference by response-irrelevant sensory stimulation**  
+McInnes AN, Lipp OV, Tresilian JR, Vallence A-M, Marinovic W  
+[J Physiol (2021)](http://dx.doi.org/10.1113/JP281849)
 
 <hr>## 16
-Moreno-Lopez Y, Bichara C, Delbecq G, Isope P, Cordero-Erausquin M (2021) The corticospinal tract primarily modulates sensory inputs in the mouse lumbar cord. Elife 10 Available at: http://dx.doi.org/10.7554/eLife.65304.
+**The corticospinal tract primarily modulates sensory inputs in the mouse lumbar cord**  
+Moreno-Lopez Y, Bichara C, Delbecq G, Isope P, Cordero-Erausquin M  
+[Elife 10 (2021)](http://dx.doi.org/10.7554/eLife.65304)
 
 <hr>## 17
-Nassar MR, Scott D, Bhandari A (2021) Noise Correlations for Faster and More Robust Learning. J Neurosci 41:6740–6752 Available at: http://dx.doi.org/10.1523/JNEUROSCI.3045-20.2021.
+**Noise Correlations for Faster and More Robust Learning**  
+Nassar MR, Scott D, Bhandari A  
+[J Neurosci 41:6740–6752 (2021)(http://dx.doi.org/10.1523/JNEUROSCI.3045-20.2021)
 
 <hr>## 18
-Nogueira R, Rodgers CC, Bruno RM, Fusi S (2021) The geometry of cortical representations of touch in rodents. bioRxiv:2021.02.11.430704 Available at: https://www.biorxiv.org/content/10.1101/2021.02.11.430704v2 [Accessed September 15, 2021].
+**The geometry of cortical representations of touch in rodents**  
+Nogueira R, Rodgers CC, Bruno RM, Fusi S  
+[bioRxiv:2021.02.11.430704](https://www.biorxiv.org/content/10.1101/2021.02.11.430704v2)
 
 <hr>## 19
-Rasman BG, Forbes PA, Peters RM, Ortiz O, Franks I, Inglis JT, Chua R, Blouin J-S (2021) Learning to stand with unexpected sensorimotor delays. Elife 10 Available at: http://dx.doi.org/10.7554/eLife.65085.
+**Learning to stand with unexpected sensorimotor delays**  
+Rasman BG, Forbes PA, Peters RM, Ortiz O, Franks I, Inglis JT, Chua R, Blouin J-S  
+[Elife 10 (2021)](http://dx.doi.org/10.7554/eLife.65085)
 
 <hr>## 20
-Ryan CP, Bettelani GC, Ciotti S, Parise CV, Moscatelli A, Bianchi M (2021) The Interaction between Motion and Texture in the Sense of Touch. J Neurophysiol Available at: http://dx.doi.org/10.1152/jn.00583.2020.
+**The Interaction between Motion and Texture in the Sense of Touch**  
+Ryan CP, Bettelani GC, Ciotti S, Parise CV, Moscatelli A, Bianchi M  
+[J Neurophysiol (2021)](http://dx.doi.org/10.1152/jn.00583.2020)
 
 <hr>## 21
 Ryu HX, Kuo AD (2020) An optimality principle for locomotor central pattern generators. Cold Spring Harbor Laboratory:2019.12.30.890152 Available at: https://www.biorxiv.org/content/10.1101/2019.12.30.890152v2.abstract?%3Fcollection= [Accessed November 19, 2020].
