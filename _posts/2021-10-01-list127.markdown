@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Reading List 127"
+date:   2021-10-01 06:00:00 -0500
+categories: readinglist
+---
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+<hr>## 1
+
+Abolins V, Latash ML (2021) The Nature of Finger Enslaving: New Results and Their Implications. Motor Control:1–24 Available at: http://dx.doi.org/10.1123/mc.2021-0044.
+
+Gamberini M, Passarelli L, Filippini M, Fattori P, Galletti C (2021) Vision for action: thalamic and cortical inputs to the macaque superior parietal lobule. Brain Struct Funct Available at: http://dx.doi.org/10.1007/s00429-021-02377-7.
+
+Grasso M, Albantakis L, Lang JP, Tononi G (2021) Causal reductionism and causal structures. Nat Neurosci Available at: http://dx.doi.org/10.1038/s41593-021-00911-8.
+
+Kearsley SL, Cecala AL, Kozak RA, Corneil BD (2021) Express Arm Responses Appear Bilaterally on Upper-limb Muscles in Arm Choice Reaching Task. bioRxiv:2021.09.24.461726 Available at: https://www.biorxiv.org/content/10.1101/2021.09.24.461726v1 [Accessed September 29, 2021].
+
+Mano O, Creamer MS, Badwan BA, Clark DA (2021) Predicting individual neuron responses with anatomically constrained task optimization. Curr Biol Available at: http://dx.doi.org/10.1016/j.cub.2021.06.090.
+
+Meirovitch Y, Kang K, Draft RW, Pavarino EC, Echeverri MFH, Yang F, Turney SG, Berger DR, Peleg A, Schalek RL, Lu J, Tapia J-C, Lichtman JW (2021) Neuromuscular connectomes across development reveal synaptic ordering rules. bioRxiv:2021.09.20.460480 Available at: https://www.biorxiv.org/content/10.1101/2021.09.20.460480v1 [Accessed September 29, 2021].
+
+Pandarinath C, Bensmaia SJ (2021) The science and engineering behind sensitized brain-controlled bionic hands. Physiol Rev Available at: http://dx.doi.org/10.1152/physrev.00034.2020.
+
+Sánchez-Fuentes A, Ramírez-Armenta KI, Verma-Rodríguez AK, Díaz-Hernández E, Aguilar-Palomares A, Ramírez-Jarquín JO, Tecuapetla F (2021) The Contribution of Premotor Cortico-Striatal Projections to the Execution of Serial Order Sequences. eNeuro 8 Available at: http://dx.doi.org/10.1523/ENEURO.0173-21.2021.
+
+Thandiackal R, Melo K, Paez L, Herault J, Kano T, Akiyama K, Boyer F, Ryczko D, Ishiguro A, Ijspeert AJ (2021) Emergence of robust self-organized undulatory swimming based on local hydrodynamic force sensing. Sci Robot 6 Available at: http://dx.doi.org/10.1126/scirobotics.abf6354.
+
+Tytell ED, Long JH Jr (2021) Biorobotic insights into neuromechanical coordination of undulatory swimming. Sci Robot 6 Available at: http://dx.doi.org/10.1126/scirobotics.abk0620.
+
+Verduzco-Flores S, De Schutter E (2021) Adaptive plasticity in the spinal cord can produce reaching from scratch and reproduces motor cortex directional tuning. arXiv [q-bioNC] Available at: http://arxiv.org/abs/2109.07778.
+
+
+<br>
+<hr>## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+<br>
+<hr>## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+<br>
+<hr># Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
