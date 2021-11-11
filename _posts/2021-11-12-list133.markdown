@@ -46,15 +46,10 @@ Michikawa T, Yoshida T, Kuroki S, Ishikawa T, Kakei S, Kimizuka R, Saito A, Yoko
 Rabe F, Kikkert S, Wenderoth N  
 [bioRxiv:2021.10.29.466459](https://www.biorxiv.org/content/10.1101/2021.10.29.466459v1)
 
-
-
-
-<br>
-<hr>## Superlab Papers
-
-
-
-
+<hr>## 8
+**insideOut: A Bio-Inspired Machine Learning Approach to Estimating Posture in Robots Driven by Compliant Tendons**  
+Hagen DA, Marjaninejad A, Loeb GE, Valero-Cuevas FJ  
+[Front Neurorobot 15:679122 (2021)](https://dx.doi.org/10.3389/fnbot.2021.679122)
 
 
 <br>
