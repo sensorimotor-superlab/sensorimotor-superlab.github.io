@@ -55,6 +55,20 @@ Petty GH, Kinnischtzke AK, Hong YK, Bruno RM
 Tlaie A, Shapcott KA, Tiesinga P, Schölvinck ML, Havenith MN  
 [bioRxiv:2021.11.28.469673](https://www.biorxiv.org/content/10.1101/2021.11.28.469673v2)
 
+<hr># 10
+**Conservation of locomotion-induced oculomotor activity through evolution in mammals**  
+de Barros FF, Bacqué-Cazenave J, Taillebuis C, Courtand G, Manuel M, Bras H, Tagliabue M, Combes D, Lambert FM, Beraneck M  
+[Curr Biol (2021)](https://www.cell.com/article/S0960982221015463/abstract)
+
+<hr>## 11
+**Single-trial dynamics of competing reach plans in the human motor periphery**  
+Selen LPJ, Corneil BD, Medendorp PW  
+[bioRxiv:765180 (2021)](https://www.biorxiv.org/content/10.1101/765180v2)
+
+<hr>## 12
+**Sensory computations in the cuneate nucleus of macaques**  
+Suresh AK, Greenspon CM, He Q, Rosenow JM, Miller LE, Bensmaia SJ  
+[Proc Natl Acad Sci USA 118 (2021)](https://www.pnas.org/content/118/49/e2115772118)
 
 <br>
 <hr>## Subscribe
