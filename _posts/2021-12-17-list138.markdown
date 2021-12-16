@@ -11,40 +11,79 @@ Enjoy!
 ---the superlab
 
 <hr>## 1
+**Mice alternate between discrete strategies during perceptual decision-making**  
+Ashwood ZC, Roy NA, Stone IR, The International Brain Laboratory, Urai AE, Churchland AK, Pouget A, Pillow JW  
+[bioRxiv:2020.10.19.346353](https://www.biorxiv.org/content/10.1101/2020.10.19.346353v4)
 
+<hr>## 2
+**Temporally precise movement-based predictions in the mouse auditory cortex**  
+Audette NJ, Zhou W, Schneider DM  
+[bioRxiv:2021.12.13.472457](https://www.biorxiv.org/content/10.1101/2021.12.13.472457v1)
 
-Ashwood ZC, Roy NA, Stone IR, The International Brain Laboratory, Urai AE, Churchland AK, Pouget A, Pillow JW (2021) Mice alternate between discrete strategies during perceptual decision-making. bioRxiv:2020.10.19.346353 Available at: https://www.biorxiv.org/content/10.1101/2020.10.19.346353v4 [Accessed December 16, 2021].
+<hr>## 3
+**Predicting proprioceptive cortical anatomy and neural coding with topographic autoencoders**  
+Blum KP, Grogan M, Wu Y, Alex Harston J, Miller LE, Aldo Faisal A  
+[bioRxiv:2021.12.10.472161](https://www.biorxiv.org/content/10.1101/2021.12.10.472161v1)
 
-Audette NJ, Zhou W, Schneider DM (2021) Temporally precise movement-based predictions in the mouse auditory cortex. bioRxiv:2021.12.13.472457 Available at: https://www.biorxiv.org/content/10.1101/2021.12.13.472457v1 [Accessed December 16, 2021].
+<hr>## 4
+**Hyperbolic trade-off: the importance of balancing trial and subject sample sizes in neuroimaging**  
+Chen G, Pine DS, Brotman MA, Smith AR, Cox RW, Taylor PA, Haller SP  
+[Neuroimage:118786](https://dx.doi.org/10.1016/j.neuroimage.2021.118786)
 
-Blum KP, Grogan M, Wu Y, Alex Harston J, Miller LE, Aldo Faisal A (2021) Predicting proprioceptive cortical anatomy and neural coding with topographic autoencoders. bioRxiv:2021.12.10.472161 Available at: https://www.biorxiv.org/content/10.1101/2021.12.10.472161v1 [Accessed December 16, 2021].
+<hr>## 5
+**How do you feel the rhythm: Dynamic motor-auditory interactions are involved in the imagination of hierarchical timing**  
+Cheng 鄭子含 T-HZ, Creel SC, Iversen JR  
+[J Neurosci (2021)](https://dx.doi.org/10.1523/JNEUROSCI.1121-21.2021)
 
-Chen G, Pine DS, Brotman MA, Smith AR, Cox RW, Taylor PA, Haller SP (2021) Hyperbolic trade-off: the importance of balancing trial and subject sample sizes in neuroimaging. Neuroimage:118786 Available at: http://dx.doi.org/10.1016/j.neuroimage.2021.118786.
+<hr>## 6
+**Motor training-related brain reorganization in patients with cerebellar degeneration**  
+Draganova R, Konietschke F, Steiner KM, Elangovan N, Gümüs M, Göricke SM, Ernst TM, Deistung A, van Eimeren T, Konczak J, Timmann D  
+[Hum Brain Mapp (2021)](https://dx.doi.org/10.1002/hbm.25746)
 
-Cheng 鄭子含 T-HZ, Creel SC, Iversen JR (2021) How do you feel the rhythm: Dynamic motor-auditory interactions are involved in the imagination of hierarchical timing. J Neurosci Available at: http://dx.doi.org/10.1523/JNEUROSCI.1121-21.2021.
+<hr>## 7
+**Preparatory attention incorporates contextual expectations**  
+Gayet S, Peelen MV  
+[Curr Biol (2021)](https://www.sciencedirect.com/science/article/pii/S0960982221016481)
 
-Draganova R, Konietschke F, Steiner KM, Elangovan N, Gümüs M, Göricke SM, Ernst TM, Deistung A, van Eimeren T, Konczak J, Timmann D (2021) Motor training-related brain reorganization in patients with cerebellar degeneration. Hum Brain Mapp Available at: http://dx.doi.org/10.1002/hbm.25746.
+<hr>## 8
+Hang H, Heydari S, Costello JH, Kanso E  
+**Active tail flexion in concert with passive hydrodynamic forces improves swimming speed and efficiency**  
+[J Fluid Mech 932](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/active-tail-flexion-in-concert-with-passive-hydrodynamic-forces-improves-swimming-speed-and-efficiency/48413CCD6F1D885E7C39FDDFE58E1798)
 
-Gayet S, Peelen MV (2021) Preparatory attention incorporates contextual expectations. Curr Biol Available at: https://www.sciencedirect.com/science/article/pii/S0960982221016481.
+<hr>## 9
+**Passive inertial damping improves high-speed gaze stabilization in hoverflies**  
+Hardcastle BJ, Bierig K, Heras FJH, Longden KD, Schwyn DA, Krapp HG  
+[bioRxiv:2021.12.11.472180](https://www.biorxiv.org/content/10.1101/2021.12.11.472180v1)
 
-Hang H, Heydari S, Costello JH, Kanso E (2022) Active tail flexion in concert with passive hydrodynamic forces improves swimming speed and efficiency. J Fluid Mech 932 Available at: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/48413CCD6F1D885E7C39FDDFE58E1798/S0022112021009848a.pdf/div-class-title-active-tail-flexion-in-concert-with-passive-hydrodynamic-forces-improves-swimming-speed-and-efficiency-div.pdf [Accessed December 16, 2021].
+<hr>## 10
+**Integration of proprioceptive and visual feedback during online control of reaching**  
+Kasuga S, Crevecoeur F, Cross KP, Balalaie P, Scott SH  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00639.2020)
 
-Hardcastle BJ, Bierig K, Heras FJH, Longden KD, Schwyn DA, Krapp HG (2021) Passive inertial damping improves high-speed gaze stabilization in hoverflies. bioRxiv:2021.12.11.472180 Available at: https://www.biorxiv.org/content/10.1101/2021.12.11.472180v1 [Accessed December 16, 2021].
+<hr>## 11
+**Just noticeable differences for elbow joint torque feedback**  
+Kim H, Asbeck AT  
+[Sci Rep 11:23553](https://dx.doi.org/10.1038/s41598-021-02630-3)
 
-Kasuga S, Crevecoeur F, Cross KP, Balalaie P, Scott SH (2021) Integration of proprioceptive and visual feedback during online control of reaching. J Neurophysiol Available at: http://dx.doi.org/10.1152/jn.00639.2020.
+<hr>## 12
+**Respiration aligns perception with neural excitability**  
+Kluger DS, Balestrieri E, Busch NA, Gross J  
+[Elife 10](https://dx.doi.org/10.7554/eLife.70907)
 
-Kim H, Asbeck AT (2021) Just noticeable differences for elbow joint torque feedback. Sci Rep 11:23553 Available at: http://dx.doi.org/10.1038/s41598-021-02630-3.
+<hr>## 13
+**A somatosensory computation that unifies bodies and tools**  
+Miller LE, Fabio C, de Vignemont F, Roy A, Pieter Medendorp W, Farnè A  
+[bioRxiv:2021.12.09.472009](https://www.biorxiv.org/content/10.1101/2021.12.09.472009v2)
 
-Kluger DS, Balestrieri E, Busch NA, Gross J (2021) Respiration aligns perception with neural excitability. Elife 10 Available at: http://dx.doi.org/10.7554/eLife.70907.
+<hr>## 14
+**Deliberation gated by opportunity cost adapts to context with urgency**  
+Touzel MP, Cisek P, Lajoie G  
+[bioRxiv:2021.07.31.452742](https://www.biorxiv.org/content/10.1101/2021.07.31.452742v2)
 
-Miller LE, Fabio C, de Vignemont F, Roy A, Pieter Medendorp W, Farnè A (2021) A somatosensory computation that unifies bodies and tools. bioRxiv:2021.12.09.472009 Available at: https://www.biorxiv.org/content/10.1101/2021.12.09.472009v1 [Accessed December 16, 2021].
-
-Touzel MP, Cisek P, Lajoie G (2021) Deliberation gated by opportunity cost adapts to context with urgency. bioRxiv:2021.07.31.452742 Available at: https://www.biorxiv.org/content/10.1101/2021.07.31.452742v2 [Accessed December 16, 2021].
-
-Weightman M, Brittain J-S, Chris Miall R, Jenkinson N (2021) Residual errors in visuomotor adaptation persist despite extended motor preparation periods. bioRxiv:2021.06.28.450124 Available at: https://www.biorxiv.org/content/10.1101/2021.06.28.450124v2 [Accessed December 16, 2021].
-
-
-
+<hr>## 15
+**Residual errors in visuomotor adaptation persist despite extended motor preparation periods**  
+Weightman M, Brittain J-S, Chris Miall R, Jenkinson N  
+[bioRxiv:2021.06.28.450124](https://www.biorxiv.org/content/10.1101/2021.06.28.450124v2)
 
 <br>
 <hr>## Subscribe
