@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Reading List 141"
+date:   2022-01-07 06:00:00 -0500
+categories: readinglist
+---
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+<hr>## 1
+
+
+Andersen J, Thom N, Shadrach JL, Chen X, Amin ND, Yoon S-J, Greenleaf WJ, Müller F, Pașca AM, Kaltschmidt JA, Pașca S (2021) Landscape of human spinal cord cell type diversity at midgestation. bioRxiv:2021.12.29.473693 Available at: https://www.biorxiv.org/content/10.1101/2021.12.29.473693v1 [Accessed January 6, 2022].
+
+Castellucci GA, Kovach CK, Howard MA, Greenlee JDW, Long MA (2022) A speech planning network for interactive language use. Nature:1–6 Available at: https://www.nature.com/articles/s41586-021-04270-z [Accessed January 6, 2022].
+
+Chung JE, Sellers KK, Leonard MK, Gwilliams L, Xu D, Dougherty M, Kharazia V, Welkenhuysen M, Dutta B, Chang EF (2021) High density single-unit human cortical recordings using the Neuropixels probe. bioRxiv:2021.12.29.474489 Available at: https://www.biorxiv.org/content/10.1101/2021.12.29.474489v1 [Accessed January 6, 2022].
+
+Givon S, Samina M, Ben-Shahar O, Segev R (2022) From fish out of water to new insights on navigation mechanisms in animals. Behav Brain Res 419:113711 Available at: http://dx.doi.org/10.1016/j.bbr.2021.113711.
+
+Hickok G, Venezia JH, Teghipco A (2021) Beyond Broca: Neural Architecture and Evolution of a Dual Motor Speech Coordination System. Available at: psyarxiv.com/tewna.
+
+Isa T (2021) Double viral vector intersectional approaches for pathway-selective manipulation of motor functions and compensatory mechanisms. Exp Neurol:113959 Available at: http://dx.doi.org/10.1016/j.expneurol.2021.113959.
+
+McFarland DC, Binder-Markey BI, Nichols JA, Wohlman SJ, de Bruin M, Murray WM (2021) A Musculoskeletal Model of the Hand and Wrist Capable of Simulating Functional Tasks. bioRxiv:2021.12.28.474357 Available at: https://www.biorxiv.org/content/10.1101/2021.12.28.474357v2 [Accessed December 31, 2021].
+
+McIntyre S, Hauser SC, Kusztor A, Boehme R, Moungou A, Isager PM, Homman L, Novembre G, Nagi S, Israr A, al. E (2021) The language of social touch is intuitive and quantifiable. Available at: psyarxiv.com/smktq.
+
+Miller LE, Fabio C, Azaroual M, Muret D, van Beers RJ, Farnè A, Medendorp WP (2022) A neural surveyor to map touch on the body. Proc Natl Acad Sci U S A 119 Available at: http://dx.doi.org/10.1073/pnas.2102233118.
+
+Natraj N, Silversmith DB, Chang EF, Ganguly K (2021) Compartmentalized dynamics within a common multi-area mesoscale manifold represent a repertoire of human hand movements. Neuron Available at: http://dx.doi.org/10.1016/j.neuron.2021.10.002.
+
+Pinotsis D, Miller EK (2022) Beyond dimension reduction: Stable electric fields emerge from and allow representational drift. bioRxiv:2021.08.22.457247 Available at: https://www.biorxiv.org/content/10.1101/2021.08.22.457247v2 [Accessed January 6, 2022].
+
+Russell HEB, Harbott LK, Nisky I, Pan S, Okamura AM, Gerdes JC (2016) Motor learning affects car-to-driver handover in automated vehicles. Sci Robot 1 Available at: http://dx.doi.org/10.1126/scirobotics.aah5682.
+
+Schoenfeld G, Kollmorgen S, Lewis C, Bethge P, Reuss AM, Aguzzi A, Mante V, Helmchen F (2021) Dendritic integration of sensory and reward information facilitates learning. bioRxiv:2021.12.28.474360 Available at: https://www.biorxiv.org/content/10.1101/2021.12.28.474360v1 [Accessed January 6, 2022].
+
+Schütt HH, Kipnis AD, Diedrichsen J, Kriegeskorte N (2021) Statistical inference on representational geometries. arXiv [q-bioQM] Available at: http://arxiv.org/abs/2112.09200.
+
+Urai AE, Doiron B, Leifer AM, Churchland AK (2022) Large-scale neural recordings call for new insights to link brain and behavior. Nat Neurosci Available at: http://dx.doi.org/10.1038/s41593-021-00980-9.
+
+
+
+
+<br>
+<hr>## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+<br>
+<hr>## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+<br>
+<hr># Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
