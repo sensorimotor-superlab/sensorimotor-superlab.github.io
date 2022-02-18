@@ -11,7 +11,7 @@ Enjoy!
 ---the superlab
 
 <hr>## 1
-**Interplay of tactile and motor information in constructing spatial self-perception**  
+**Interplay of tactile and motor information in constructing spatial self-perception **  
 Cataldo A, Dupin L, Dempsey-Jones H, Gomi H, Haggard P  
 [Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.01.047)
 
@@ -91,3 +91,4 @@ You can look at an archive of our previous posts here: [https://superlab.ca](htt
 <br>
 <hr># Disclaimer
 Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
