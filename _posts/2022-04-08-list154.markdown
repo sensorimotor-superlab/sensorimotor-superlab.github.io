@@ -70,22 +70,17 @@ Nasrawi R, van Ede F
 Pasquini M, James ND, Dewany I, Coen F-V, Cho N, Lai S, Anil S, Carpaneto J, Barraud Q, Lacour SP, Micera S, Courtine G  
 [Sci Robot](https://dx.doi.org/10.1126/scirobotics.abk2378)
 
-<hr>##13
+<hr>## 13
 **A Neuromuscular Model of Human Locomotion Combines Spinal Reflex Circuits with Voluntary Movements**  
 Ramadan R, Geyer H, Jeka JJ, Schoener G, Reimann H  
 [bioRxiv:2021.09.26.461864](https://www.biorxiv.org/content/10.1101/2021.09.26.461864v2)
 
 <hr>## 14
-**Cyclic, condition-independent activity in primary motor cortex predicts corrective movement behavior**  
-Rouse AG, Schieber MH, Sarma SV  
-[bioRxiv:453746](https://www.biorxiv.org/content/10.1101/453746v5)
-
-<hr>## 15
 **Addressing racial and phenotypic bias in human neuroscience methods**  
 Webb EK, Etter JA, Kwasa JA  
 [Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01046-0)
 
-<hr>## 16
+<hr>## 15
 **Parasite defensive limb movements enhance signal attraction in male little torrent frogs: insight into the evolution of multimodal signals**  
 Zhao L, Wang J, Zhang H, Wang T, Yang Y, Tang Y, Halfwerk W, Cui J  
 [bioRxiv:2021.12.31.474622](https://www.biorxiv.org/content/10.1101/2021.12.31.474622v1)
