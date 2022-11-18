@@ -35,7 +35,7 @@ We are seeking a postdoc with an interest in the behavioral, neural, and computa
 
 ## Graduate Student Research Projects
 
-[Diedrichsen lab](https://www.diedrichsenlab.org): We are looking for students that are interested in studying the *human cerebellum* or the *acqusition of skilled movements*. Please see recent [publications](https://www.diedrichsenlab.org/publications.htm) and ongoing [research projects](https://www.diedrichsenlab.org/research.htm) for more information. We also encourage students that are interested in developing [statistical tools](https://www.diedrichsenlab.org/tools.htm) for the analysis of neurophysiological and neuroimaging data to apply. 
+[Diedrichsen lab](https://www.diedrichsenlab.org): We are looking for students who are interested in studying the *human cerebellum* or the *acqusition of skilled movements*. Please see recent [publications](https://www.diedrichsenlab.org/publications.htm) and ongoing [research projects](https://www.diedrichsenlab.org/research.htm) for more information. We also encourage students that are interested in developing [statistical tools](https://www.diedrichsenlab.org/tools.htm) for the analysis of neurophysiological and neuroimaging data to apply. 
 
 [Gribble lab](https://gribblelab.org/join.html): We are looking for graduate students interested in studying *human motor learning* and *sensorimotor control* using empirical and/or computational modeling approaches. Please see a list of [current research themes](https://gribblelab.org/research.html), [published papers](https://gribblelab.org/papers.html) for more details.
 
