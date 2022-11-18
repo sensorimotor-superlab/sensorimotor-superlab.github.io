@@ -25,7 +25,7 @@ Applications should be submitted electronically as a single pdf file entitled La
 
 Please state clearly your targeted graduate program. We especially encourage students interested in the [Collaborative Specialization in Machine Learning for Health and Biomedical Sciences](https://uwo.ca/sci/datascience/graduate/collaborative-specialization-ml-health-biomedical.html) to apply.
 
-Please send your PDF to the one of us who would be most appropriate to act as your nominal primary graduate supervisor --- jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca.
+Send your PDF to the one of us who you think might be most appropriate to act as your nominal primary graduate supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca.
 
 The review of applications will begin December 5, 2022, and will continue until positions are filled.
 
