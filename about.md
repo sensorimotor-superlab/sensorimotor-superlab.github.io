@@ -14,4 +14,4 @@ If you would like the reading list sent to you each week by email, please [subsc
 
 Enjoy!
 
---Paul, Andrew, and Jörn
+---Jörn, Paul, and Andrew
