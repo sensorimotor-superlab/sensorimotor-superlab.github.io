@@ -5,9 +5,9 @@ permalink: /join/
 hide_header: true
 ---
 
-## MSc / PhD Positions
+## Positions Available
 
-We are now accepting applications for MSc / PhD students who want to join our labs in **Fall 2023**.
+We are now accepting applications for postdoctoral fellows and MSc / PhD students who want to join our labs in **Fall 2023**.
 
 The successful candidates will then apply in January 2023 to one of the following graduate programs:
 
@@ -31,13 +31,15 @@ The review of applications will begin December 5, 2022, and will continue until 
 
 ## Postdoctoral Positions
 
-xxx
+**Postdoctoral Fellow in control of sequential movements**
 
-## Research Projects
+The Diedrichsen and Pruszynski Labs are looking to hire a new postdoc with interest in the behavioral, neural, and computational underpinnings of the control of sequential movements. Candidates must have a PhD in Neuroscience, Statistics, Computer Science, Psychology, Engineering, or related area, and a strong academic track record as witnessed by peer-reviewed publications. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired. The successful candidate will join an ongoing collaboration with the lab, in which we investigate the neural mechanisms of motor planning during ongoing actions. Working in this strong inter-disciplinary team, which combines human behavioural experiments, neuroimaging, computational modeling, and electrophysiological multiunit recordings, will enable the candidate to develop their research program within an enthusiastic and supportive environment.
+
+## Graduate Student Research Projects
 
 [Diedrichsen lab](https://www.diedrichsenlab.org): xxx.
 
 [Gribble lab](https://gribblelab.org): We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab. Also see our [published papers](https://gribblelab.org/papers.html) for an impression of what we are currently working on.
 
-[Pruszynski lab](https://www.pruszynskilab.com): We are looking for students and/or postdoctoral fellows investigating the neural control of reaching, grasping and object manipulation. This project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful.
+[Pruszynski lab](https://www.pruszynskilab.com): We are looking for graduate students investigating the neural control of reaching, grasping and object manipulation. One potential project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful. Other potential projects examine stretch reflex circuits and their modulation both in humans and NHPs.
 
