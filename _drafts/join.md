@@ -23,10 +23,7 @@ Applications should be submitted electronically as a single pdf file entitled La
 - [Psychology](https://psychology.uwo.ca/graduate/index.html) (Gribble, Pruszynski)
 - [Physiology & Pharmacology](https://www.schulich.uwo.ca/physpharm/graduate/index.html) (Gribble, Pruszynski)
 
-
 Send your PDF to the one of us who you think might be most appropriate to act as your primary supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca. We strongly encourage students that want to work collaboratively between labs to apply. If you plan to do so, simply explain which labs are involved in your statement of research interest.
-
-Send your PDF to the one of us who you think might be most appropriate to act as your nominal supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca.
 
 The review of applications will begin December 5, 2022, and will continue until positions are filled.
 
@@ -43,4 +40,3 @@ We are seeking a postdoc with an interest in the behavioral, neural, and computa
 [Gribble lab](https://gribblelab.org/join.html): We are looking for graduate students interested in studying *human motor learning* and *sensorimotor control* using empirical and/or computational modeling approaches. Please see a list of [current research themes](https://gribblelab.org/research.html), [published papers](https://gribblelab.org/papers.html) for more details.
 
 [Pruszynski lab](https://www.pruszynskilab.com): We are looking for graduate students investigating the neural control of reaching, grasping and object manipulation. One potential project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful. Other potential projects examine stretch reflex circuits and their modulation both in humans and NHPs.
-
