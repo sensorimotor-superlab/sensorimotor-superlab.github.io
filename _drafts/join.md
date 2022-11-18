@@ -5,7 +5,7 @@ permalink: /join/
 hide_header: true
 ---
 
-# MSc / PhD Positions
+## MSc / PhD Positions
 
 We are now accepting applications for MSc / PhD students who want to join our labs in **Fall 2023**.
 
@@ -29,11 +29,11 @@ Send your PDF to the one of us who you think might be most appropriate to act as
 
 The review of applications will begin December 5, 2022, and will continue until positions are filled.
 
-# Postdoctoral Positions
+## Postdoctoral Positions
 
 xxx
 
-# Research Projects
+## Research Projects
 
 [Diedrichsen lab](https://www.diedrichsenlab.org): xxx.
 
