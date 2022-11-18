@@ -34,7 +34,7 @@ The review of applications will begin December 5, 2022, and will continue until 
 xxx
 
 
-## Current Research Projects
+## Research Projects
 
 **Diedrichsen**---xxx.
 
