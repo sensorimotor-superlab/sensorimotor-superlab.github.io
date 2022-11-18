@@ -4,7 +4,7 @@ title: Join the Superlab
 permalink: /join/
 ---
 
-We are now accepting applications for **Postdoctoral Fellows** and **MSc/PhD students** who want to join our labs in **Fall 2023**.
+We are now accepting applications for **MSc/PhD students** and **Postdoctoral Fellows** who want to join our labs in **Fall 2023**.
 
 Applications should be submitted electronically as a single pdf file entitled Lastname_Firstname.pdf. The pdf must include:
 
