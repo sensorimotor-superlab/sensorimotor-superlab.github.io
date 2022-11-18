@@ -38,7 +38,7 @@ We are seeking a postdoc with an interest in the behavioral, neural, and computa
 
 [Diedrichsen lab](https://www.diedrichsenlab.org): xxx.
 
-[Gribble lab](https://gribblelab.org): We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab. Also see our [published papers](https://gribblelab.org/papers.html) for an impression of what we are currently working on.
+[Gribble lab](https://gribblelab.org): We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab---also see our [published papers](https://gribblelab.org/papers.html). Our lab members are curious and motivated, have a strong academic record, and are enthusiastic about learning how to do scientific research. Incoming graduate students typically have some experience with computer programming using one or more high-level language(s) (e.g. Python, R, MATLAB, C) and have a solid background in mathematics (e.g. calculus, linear algebra), with some courses in statistical analyses as well.
 
 [Pruszynski lab](https://www.pruszynskilab.com): We are looking for graduate students investigating the neural control of reaching, grasping and object manipulation. One potential project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful. Other potential projects examine stretch reflex circuits and their modulation both in humans and NHPs.
 
