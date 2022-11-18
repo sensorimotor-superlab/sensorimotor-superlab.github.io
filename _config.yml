@@ -42,6 +42,7 @@ minima:
 header_pages:
  - about.md
  - subscribe.md
+ - join.md
 
 # Build settings
 #theme: minima
