@@ -2,10 +2,7 @@
 layout: page
 title: Join the Superlab
 permalink: /join/
-hide_header: true
 ---
-
-## Positions Available
 
 We are now accepting applications for **Postdoctoral Fellows** and **MSc/PhD students** who want to join our labs in **Fall 2023**.
 
