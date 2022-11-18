@@ -39,5 +39,5 @@ xxx
 
 [Gribble lab](https://gribblelab.org): We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab. Also see our [published papers](https://gribblelab.org/papers.html) for an impression of what we are currently working on.
 
-[Pruszynski lab](https://www.pruszynskilab.com): We are looking for students and/or postdoctoral fellows investigating the neural control of reaching, graaping and object manipulation. This project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful.
+[Pruszynski lab](https://www.pruszynskilab.com): We are looking for students and/or postdoctoral fellows investigating the neural control of reaching, grasping and object manipulation. This project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful.
 
