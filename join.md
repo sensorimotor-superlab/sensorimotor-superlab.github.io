@@ -5,7 +5,7 @@ permalink: /join/
 hide_header: true
 ---
 
-## MSc / PhD Positions
+# MSc / PhD Positions
 
 We are now accepting applications for MSc / PhD students who want to join our labs in **Fall 2023**.
 
@@ -29,16 +29,16 @@ Please send your PDF to the one of us who would be most appropriate to act as yo
 
 The review of applications will begin December 5, 2022, and will continue until positions are filled.
 
-## Postdoctoral Positions
+# Postdoctoral Positions
 
 xxx
 
 
-## Research Projects
+# Research Projects
 
-**Diedrichsen**---xxx.
+[Diedrichsen lab](https://www.diedrichsenlab.org): xxx.
 
-**Gribble**---We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab. Also see our [published papers](https://gribblelab.org/papers.html) for an impression of what we are currently working on.
+[Gribble lab](https://gribblelab.org): We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab. Also see our [published papers](https://gribblelab.org/papers.html) for an impression of what we are currently working on.
 
-**Pruszynski**---We are looking for a graduate student and/or postdoctoral fellow investigating the physiology and anatomy of first-order tactile neurons over the course of development. This project will use light sheet fluoresence microscopy and tissue clearing (i.e. CLARITY) in parallel with electrophysiology and assays of hand function to establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. Candidates with NHP and/or with immunofluoresence imaging and neuronal reconstruction experience are particularly encouraged to apply.
+[Pruszynski lab](https://www.pruszynskilab.com): We are looking for a graduate student and/or postdoctoral fellow investigating the physiology and anatomy of first-order tactile neurons over the course of development. This project will use light sheet fluoresence microscopy and tissue clearing (i.e. CLARITY) in parallel with electrophysiology and assays of hand function to establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. Candidates with NHP and/or with immunofluoresence imaging and neuronal reconstruction experience are particularly encouraged to apply.
 
