@@ -7,7 +7,7 @@ hide_header: true
 
 ## Positions Available
 
-We are now accepting applications for postdoctoral fellows and MSc / PhD students who want to join our labs in **Fall 2023**.
+We are now accepting applications for **Postdoctoral Fellows** and **MSc/PhD students** who want to join our labs in **Fall 2023**.
 
 Applications should be submitted electronically as a single pdf file entitled Lastname_Firstname.pdf. The pdf must include:
 
@@ -15,7 +15,9 @@ Applications should be submitted electronically as a single pdf file entitled La
 2. a statement of research interest outlining your experience to date and your interest in future research, not exceeding 2 pages
 3. names and contact information for three academic referees
 
-**For MSc/PhD applicants**: please state clearly your targeted graduate program (see below). We especially encourage students interested in the [Collaborative Specialization in Machine Learning for Health and Biomedical Sciences](https://uwo.ca/sci/datascience/graduate/collaborative-specialization-ml-health-biomedical.html) to apply.
+## MSc/PhD Positions
+
+Please state clearly your targeted graduate program (see below). We especially encourage students interested in the [Collaborative Specialization in Machine Learning for Health and Biomedical Sciences](https://uwo.ca/sci/datascience/graduate/collaborative-specialization-ml-health-biomedical.html) to apply.
 
 - [Neuroscience](https://www.schulich.uwo.ca/neuroscience/graduate/index.html) (Diedrichsen, Gribble, Pruszynski)
 - [Psychology](https://psychology.uwo.ca/graduate/index.html) (Gribble, Pruszynski)
