@@ -33,6 +33,8 @@ The review of applications will begin December 5, 2022, and will continue until 
 
 We are seeking a postdoc with an interest in the behavioral, neural, and computational underpinnings of the control of sequential movements. Candidates must have a PhD in Neuroscience, Statistics, Computer Science, Psychology, Engineering, or related area, and a strong academic track record as evidenced by peer-reviewed publications. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired. The successful candidate will join an ongoing collaboration with the lab, in which we investigate the neural mechanisms of motor planning during ongoing actions. Working in this strong inter-disciplinary team, which combines human behavioural experiments, neuroimaging, computational modeling, and electrophysiological multiunit recordings, will enable the candidate to develop their research program within an enthusiastic and supportive environment.
 
+[Further details and application instructions](https://www.diedrichsenlab.org/open_postdoc.htm)
+
 ## Graduate Student Research Projects
 
 [Diedrichsen lab](https://www.diedrichsenlab.org): We are looking for students who are interested in studying the *human cerebellum* or the *acqusition of skilled movements*. Please see recent [publications](https://www.diedrichsenlab.org/publications.htm) and ongoing [research projects](https://www.diedrichsenlab.org/research.htm) for more information. We also encourage students that are interested in developing [statistical tools](https://www.diedrichsenlab.org/tools.htm) for the analysis of neurophysiological and neuroimaging data to apply. 
