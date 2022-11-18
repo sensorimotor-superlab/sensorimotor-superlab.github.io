@@ -21,7 +21,7 @@ Applications should be submitted electronically as a single pdf file entitled La
 - [Computer Science](https://www.csd.uwo.ca/graduate/index.html) (Diedrichsen)
 - [Statistics](https://www.uwo.ca/stats/graduate/index.html) (Diedrichsen)
 - [Psychology](https://psychology.uwo.ca/graduate/index.html) (Gribble, Pruszynski)
-- [Physiology & Pharmacology](https://www.schulich.uwo.ca/physpharm/graduate/index.html) (Gribble, Pruszynski)
+- [Physiology & Pharmacology](https://www.schulich.uwo.ca/physpharm/graduate/index.html) (Pruszynski)
 
 Send your PDF to the one of us who you think might be most appropriate to act as your primary supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca. We strongly encourage students that want to work collaboratively between labs to apply. If you plan to do so, simply explain which labs are involved in your statement of research interest.
 
