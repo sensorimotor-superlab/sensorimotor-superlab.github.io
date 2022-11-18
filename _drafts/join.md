@@ -9,7 +9,13 @@ hide_header: true
 
 We are now accepting applications for postdoctoral fellows and MSc / PhD students who want to join our labs in **Fall 2023**.
 
-The successful candidates will then apply in January 2023 to one of the following graduate programs:
+Applications should be submitted electronically as a single pdf file entitled Lastname_Firstname.pdf. The pdf must include:
+
+1. a CV (including any publications and conference presentations)
+2. a statement of research interest outlining your experience to date and your interest in future research, not exceeding 2 pages
+3. names and contact information for three academic referees
+
+**For MSc/PhD applicants**: please state clearly your targeted graduate program (see below). We especially encourage students interested in the [Collaborative Specialization in Machine Learning for Health and Biomedical Sciences](https://uwo.ca/sci/datascience/graduate/collaborative-specialization-ml-health-biomedical.html) to apply.
 
 - [Neuroscience](https://www.schulich.uwo.ca/neuroscience/graduate/index.html) (Diedrichsen, Gribble, Pruszynski)
 - [Computer Science](https://www.csd.uwo.ca/graduate/index.html) (Diedrichsen)
@@ -17,23 +23,16 @@ The successful candidates will then apply in January 2023 to one of the followin
 - [Psychology](https://psychology.uwo.ca/graduate/index.html) (Gribble, Pruszynski)
 - [Physiology & Pharmacology](https://www.schulich.uwo.ca/physpharm/graduate/index.html) (Gribble, Pruszynski)
 
-Applications should be submitted electronically as a single pdf file entitled Lastname_Firstname.pdf. The pdf must include:
 
-1. a CV (including any publications and conference presentations)
-2. a statement of research interest outlining your experience to date and your interest in future research, not exceeding 2 pages
-3. names and contact information for three academic referees
-
-Please state clearly your targeted graduate program. We especially encourage students interested in the [Collaborative Specialization in Machine Learning for Health and Biomedical Sciences](https://uwo.ca/sci/datascience/graduate/collaborative-specialization-ml-health-biomedical.html) to apply.
-
-Send your PDF to the one of us who you think might be most appropriate to act as your nominal primary graduate supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca.
+Send your PDF to the one of us who you think might be most appropriate to act as your nominal supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca.
 
 The review of applications will begin December 5, 2022, and will continue until positions are filled.
 
 ## Postdoctoral Positions
 
-**Postdoctoral Fellow in control of sequential movements**
+**Postdoctoral Fellow in control of sequential movements** (Diedrichsen/Pruszynski)
 
-The Diedrichsen and Pruszynski Labs are looking to hire a new postdoc with interest in the behavioral, neural, and computational underpinnings of the control of sequential movements. Candidates must have a PhD in Neuroscience, Statistics, Computer Science, Psychology, Engineering, or related area, and a strong academic track record as witnessed by peer-reviewed publications. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired. The successful candidate will join an ongoing collaboration with the lab, in which we investigate the neural mechanisms of motor planning during ongoing actions. Working in this strong inter-disciplinary team, which combines human behavioural experiments, neuroimaging, computational modeling, and electrophysiological multiunit recordings, will enable the candidate to develop their research program within an enthusiastic and supportive environment.
+We are seeking a postdoc with an interest in the behavioral, neural, and computational underpinnings of the control of sequential movements. Candidates must have a PhD in Neuroscience, Statistics, Computer Science, Psychology, Engineering, or related area, and a strong academic track record as evidenced by peer-reviewed publications. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired. The successful candidate will join an ongoing collaboration with the lab, in which we investigate the neural mechanisms of motor planning during ongoing actions. Working in this strong inter-disciplinary team, which combines human behavioural experiments, neuroimaging, computational modeling, and electrophysiological multiunit recordings, will enable the candidate to develop their research program within an enthusiastic and supportive environment.
 
 ## Graduate Student Research Projects
 
