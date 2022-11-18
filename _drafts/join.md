@@ -36,7 +36,7 @@ We are seeking a postdoc with an interest in the behavioral, neural, and computa
 
 ## Graduate Student Research Projects
 
-[Diedrichsen lab](https://www.diedrichsenlab.org): xxx.
+[Diedrichsen lab](https://www.diedrichsenlab.org): We are looking for students that are interested in studying the *human cerebellum* or the *acqusition of skilled movements*. Please see recent [publications](https://www.diedrichsenlab.org/publications.htm) and ongoing [research projects](https://www.diedrichsenlab.org/research.htm) for more information. We also encourage students that are interested in developing [statistical tools](https://www.diedrichsenlab.org/tools.htm) for the analysis of neurophysiological and neuroimaging data to apply. 
 
 [Gribble lab](https://gribblelab.org): We are looking for graduate students interested in one of the [current research themes](https://gribblelab.org/research.html) in the lab---also see our [published papers](https://gribblelab.org/papers.html). Our lab members are curious and motivated, have a strong academic record, and are enthusiastic about learning how to do scientific research. Incoming graduate students typically have some experience with computer programming using one or more high-level language(s) (e.g. Python, R, MATLAB, C) and have a solid background in mathematics (e.g. calculus, linear algebra), with some courses in statistical analyses as well.
 
