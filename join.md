@@ -14,30 +14,15 @@ Applications should be submitted electronically as a single pdf file entitled La
 
 ## MSc/PhD Positions
 
-Please state clearly your targeted graduate program (see below). We especially encourage students interested in the [Collaborative Specialization in Machine Learning for Health and Biomedical Sciences](https://uwo.ca/sci/datascience/graduate/collaborative-specialization-ml-health-biomedical.html) to apply.
+[Gribble lab](https://gribblelab.org/join.html): We are looking for graduate students interested in studying human motor learning and sensorimotor control using empirical and/or computational modeling approaches. Please see a list of [current research themes](https://gribblelab.org/research.html) and [papers](https://gribblelab.org/papers.html) for more details.
 
-- [Neuroscience](https://www.schulich.uwo.ca/neuroscience/graduate/index.html) (Diedrichsen, Gribble, Pruszynski)
-- [Psychology](https://psychology.uwo.ca/graduate/index.html) (Gribble, Pruszynski)
-- [Computer Science](https://www.csd.uwo.ca/graduate/index.html) (Diedrichsen)
-- [Statistics](https://www.uwo.ca/stats/graduate/index.html) (Diedrichsen)
-- [Physiology & Pharmacology](https://www.schulich.uwo.ca/physpharm/graduate/index.html) (Pruszynski)
-
-Send your PDF to the one of us who you think might be most appropriate to act as your primary supervisor: jdiedric@uwo.ca, pgribble@uwo.ca, or andrew.pruszynski@uwo.ca. We strongly encourage students who want to work collaboratively between labs to apply. If you plan to do so, simply explain in your statement of research interest which labs would be involved.
-
-The review of applications will begin December 5, 2022, and will continue until positions are filled.
+Send your PDF to pgribble@uwo.ca.
 
 ## Postdoctoral Positions
 
-**Postdoctoral Fellow in control of sequential movements** (Diedrichsen/Pruszynski)
+**Postdoctoral Fellow in cerebellar imaging** (Diedrichsen)  
+The Diedrichsen Lab is looking to recruit a new postdoctoral associate with interest in studying the human cerebellum. Candidates must have a PhD in Neuroscience, Statistics, Computer Science, Psychology, Engineering, or related area, and a strong academic track record as witnessed by peer-reviewed publications. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired. The successful candidate will join an inter-disciplinary research group that uses behavioral, neuroimaging, and neurophysiological approaches to investigate the role of the cerebellum in motor control, cognition and language . The main approach of the lab is to gain insight about the functional organization of the cerebellum from big data and machine learning methods, which then forms the basis for targeted experiments. This enthusiastic and supportive environment will enable the candidate to develop their own research program.  
+[Further details and application instructions](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm)
 
-We are seeking a postdoc with an interest in the behavioral, neural, and computational underpinnings of the control of sequential movements. Candidates must have a PhD in Neuroscience, Statistics, Computer Science, Psychology, Engineering, or related area, and a strong academic track record as evidenced by peer-reviewed publications. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired. The successful candidate will join an ongoing collaboration with the lab, in which we investigate the neural mechanisms of motor planning during ongoing actions. Working in this strong inter-disciplinary team, which combines human behavioural experiments, neuroimaging, computational modeling, and electrophysiological multiunit recordings, will enable the candidate to develop their research program within an enthusiastic and supportive environment.
+**Other Postdoctoral Fellow Positions** are available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs, please get in touch with the lab PI for more information.
 
-[Further details and application instructions](https://www.diedrichsenlab.org/open_postdoc.htm)
-
-## Graduate Student Research Projects
-
-[Diedrichsen lab](https://www.diedrichsenlab.org): We are looking for students who are interested in studying the *human cerebellum* or the *acqusition of skilled movements*. Please see recent [publications](https://www.diedrichsenlab.org/publications.htm) and ongoing [research projects](https://www.diedrichsenlab.org/research.htm) for more information. We also encourage students that are interested in developing [statistical tools](https://www.diedrichsenlab.org/tools.htm) for the analysis of neurophysiological and neuroimaging data to apply. 
-
-[Gribble lab](https://gribblelab.org/join.html): We are looking for graduate students interested in studying human motor learning and sensorimotor control using empirical and/or computational modeling approaches. Please see a list of [current research themes](https://gribblelab.org/research.html) and [papers](https://gribblelab.org/papers.html) for more details.
-
-[Pruszynski lab](https://www.pruszynskilab.com): We are looking for graduate students investigating the neural control of reaching, grasping and object manipulation. One potential project will establish how marmoset first-order tactile neurons connect to mechanoreceptors in the hairless skin of the hand, how this changes over the life span, and how this relates to hand function. NHP, immunofluoresence imaging, and/or neuronal reconstruction experience would be helpful. Other potential projects examine stretch reflex circuits and their modulation both in humans and NHPs.
