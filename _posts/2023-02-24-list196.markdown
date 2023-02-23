@@ -139,7 +139,7 @@ Zhao S, Tang X, Tian W, Partarrieu S, Liu R, Shen H, Lee J, Guo S, Lin Z, Liu J
 <hr>## Superlab Papers
 
 **MotorNet: a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks**  
-Codol O, Michaels JA, Kashefi M, Andrew Pruszyski J, Gribble PL  
+Codol O, Michaels JA, Kashefi M, Pruszyski JA, Gribble PL  
 [bioRxiv:2023.02.17.528969](https://www.biorxiv.org/content/10.1101/2023.02.17.528969v2)
 
 **Myomatrix arrays for high-definition muscle recording**  
