@@ -1,0 +1,126 @@
+---
+layout: post
+title:  "Reading List 201"
+date:   2023-04-07 06:00:00 -0400
+categories: readinglist
+---
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+<br>
+<hr>## Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+<br>
+<hr>## 1
+**The cost of aiming for the best answers: Inconsistent perception**  
+Smeets J, Brenner E  
+[Front. Integr. Neurosci.](http://dx.doi.org/10.3389/fnint.2023.1118240)
+
+**ChatGPT summary**: This review challenges the assumption that human perception follows consistent laws of physics and mathematics, arguing that inconsistencies in perception can arise due to our tendency to impose consistency. The authors propose that perception is not about creating a consistent internal representation of the outside world, but rather about answering specific questions, which can lead to inconsistencies in perceptual judgments and related actions.
+
+<hr>## 2
+**How the conception of control influences our understanding of actions**  
+Floegel M, Kasper J, Perrier P, Kell C  
+[Nat Rev Neurosci](http://dx.doi.org/10.1038/s41583-023-00691-z)
+
+**ChatGPT summary**: The paper discusses two perspectives on modeling human motor control - the plant control perspective, where motor commands bring the musculoskeletal system from a current to a desired state, and the perceptual control perspective, where movements emerge from pursuing perceptual goals. The paper highlights various approaches to modeling motor control and their impact on decisions when modeling empirical data, which can shape our understanding of actions.
+
+<hr>## 3
+**When and why does motor preparation arise in recurrent neural network models of motor control?**  
+Schimel M, Kao T, Hennequin G  
+[bioRxiv](http://dx.doi.org/10.1101/2023.04.03.535429)
+
+**ChatGPT summary**: This paper presents a model of the motor cortex as an input-driven dynamical system and investigates the optimal way to control it for fast delayed reaching movements. The study reveals that delay-period inputs consistently arise in an optimally controlled model of M1, and provides a novel explanation for experimentally observed features of monkey M1 activity in double reaching.
+
+<hr>## 4
+**Amplified cortical neural responses as animals learn to use novel activity patterns**  
+Akitake B, Douglas H, LaFosse P, Beiran M, Deveau C, O’Rawe J, Li A, Ryan L, Duffy S, Zhou Z, Deng Y, Rajan K, Histed M  
+[bioRxiv](http://dx.doi.org/10.1101/2022.07.10.499496)
+
+**ChatGPT summary**: The study investigates whether changes in the primary visual cortex are central to learning and if they improve decision-making in a detection task. The researchers found that training mice to recognize entirely novel patterns of cortical activity in the primary visual cortex improved their detection abilities, accompanied by large increases in neural responses to fixed optogenetic input, suggesting that adult recurrent cortical plasticity plays a significant role in improving behavioral performance during learning.
+
+<hr>## 5
+**Microsaccades track location-based object rehearsal in visual working memory**  
+de Vries E, van Ede F  
+[bioRxiv](http://dx.doi.org/10.1101/2023.03.21.533618)
+
+**ChatGPT summary**: This study investigated whether the brain's oculomotor system contributes to rehearsing visual objects in working memory, even when object location is not asked about. The study found that microsaccades (small eye movements) were biased along the axis of the memory content, revealing oculomotor-driven rehearsal of visual objects in working memory through their associated locations.
+
+<hr>## 6
+**Dissecting motor skill acquisition: Spatial coordinates take precedence**  
+Maceira-Elvira P, Timmermann J, Popa T, Schmid A, Krakauer J, Morishita T, Wessel M, Hummel F  
+[Sci. Adv.](http://dx.doi.org/10.1126/sciadv.abo3505)
+
+**ChatGPT summary**: This study found that the storage of spatial features in memory is prioritised over rapid execution when learning a new motor sequence, and that this process is partially restored in older adults with anodal transcranial direct current stimulation. The emergence of motor chunks is shown to depend on and result from motor practice, rather than being a direct consequence of it.
+
+<hr>## 7
+**Working memory control dynamics follow principles of spatial computing**  
+Lundqvist M, Brincat S, Rose J, Warden M, Buschman T, Miller E, Herman P  
+[Nat Commun](http://dx.doi.org/10.1038/s41467-023-36555-4)
+
+**ChatGPT summary**: The paper proposes the concept of "spatial computing" in working memory, where interactions between beta and gamma oscillations allow for item-specific activity to flow spatially across a network and be stored independently of the detailed recurrent connectivity. This spatial flow is reflected in low-dimensional activity shared by many neurons and may facilitate generalization and zero-shot learning.
+
+<hr>## 8
+**Mammalian facial muscles contain muscle spindles**  
+Omstead K, Williams J, Weinberg S, Marazita M, Burrows A  
+[The Anatomical Record](http://dx.doi.org/10.1002/ar.25172)
+
+**ChatGPT summary**: The paper shows that mammalian facial muscles contain muscle spindles, but humans and other primates have the lowest number, while larger body size and nocturnality are associated with a greater number of spindles. The authors suggest that future studies should use a larger sample size and a wider range of mammalian species to better understand the role of phylogeny in muscle spindle presence and count.
+
+<hr>## 9
+**Decision-making processes in perceptual learning depend on effectors**  
+Ivanov V, Manenti G, Sudmann S, Kagan I, Schwiedrzik C  
+[bioRxiv](http://dx.doi.org/10.1101/2022.06.29.498152)
+
+**ChatGPT summary**: This study examines whether visual perceptual learning is specific to the motor system involved in the learning task or if it generalizes across different motor systems. Participants learned an orientation discrimination task using either joystick movements or manual reaches and were later tested using eye movements. The findings suggest that visual information is mapped onto effector-specific integrators during perceptual learning, but some generalization occurs due to overlap in the populations of neurons encoding motor plans across effectors.
+
+<hr>## 10
+**Neural timescales reflect behavioral demands in freely moving rhesus macaques**  
+Manea A, Zilverstand A, Hayden B, Zimmermann J  
+[bioRxiv](http://dx.doi.org/10.1101/2023.03.27.534470)
+
+**ChatGPT summary**: The study investigated whether the previously found lack of variability in the hierarchical organization of neural timescales reflected the structure of laboratory contexts in which they were measured or ongoing behavioral demands. Results suggest that the observed hierarchy of neural timescales is context-dependent, and changes in the magnitude of neural timescales are closely related to overall task engagement and behavioral demands.
+
+<hr>## 11
+**Interacting Gears Synchronize Propulsive Leg Movements in a Jumping Insect**  
+Burrows M, Sutton G  
+[Science](http://dx.doi.org/10.1126/science.1240284)
+
+**ChatGPT summary**: The nymphal planthopper Issus has interlocking gears on their hindleg trochanters that act together to cock the legs synchronously before triggering forward jumps, but the risk of breaking a gear is high, so at the final molt, the gears are swapped for a high-performance friction-based mechanism.
+
+<hr>## 12
+**Neurons in human pre-supplementary motor area encode key computations for value-based choice**  
+Aquino T, Cockburn J, Mamelak A, Rutishauser U, O’Doherty J  
+[Nat Hum Behav](http://dx.doi.org/10.1038/s41562-023-01548-2)
+
+**ChatGPT summary**: The paper reports on a study that investigated how integration over decision variables occurs during decision-making by recording neurons from human pre-supplementary motor area (preSMA), ventromedial prefrontal cortex, and dorsal anterior cingulate. The study found that preSMA neurons not only represented separate pre-decision variables for each choice option but also encoded an integrated utility signal for each choice option and the decision itself, indicating that the human preSMA is central to the implementation of value-based decisions.
+
+<hr>## 13
+**Simple decoding of behavior from a complicated neural manifold**  
+Perkins SM, Cunningham JP, Wang Q, Churchland MM  
+[bioRxiv 2023.04.05.535396](https://www.biorxiv.org/content/10.1101/2023.04.05.535396v1)
+
+**ChatGPT summary**: The paper discusses a new decoder called MINT that is designed to work with the motor-cortex neural trajectories, which have low tangling, by using a trajectory-centric approach with a library of neural trajectories and corresponding behavioral trajectories. MINT outperformed other interpretable and expressive machine learning methods, making it a potentially excellent candidate for clinical BCI applications due to its simplicity, scalability, and interpretable quantities.
+
+
+<hr>## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+<br>
+<hr># Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
