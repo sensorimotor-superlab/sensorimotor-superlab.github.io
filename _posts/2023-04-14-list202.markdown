@@ -100,7 +100,7 @@ Tang D, Niziolek C, Parrell B
 Proske U  
 [Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06582-0)
 
-**ChatGPT summary**: This study investigated the role of joint receptors in human position sense and found that they act as limit detectors when movements approach the anatomical limit of a joint. As the arm approaches full extension, a population of joint receptors becomes engaged and their signals are combined with those of muscle spindles to produce a composite that contains joint limit information, resulting in a fall in position errors.
+**ChatGPT summary**: The study investigates the role of muscle spindles and joint receptors in human position sense at the elbow joint, particularly in relation to joint limits. Findings suggest that joint receptors and muscle spindles work together to produce a composite signal, resulting in decreased position errors as the arm approaches full extension.
 
 
 
