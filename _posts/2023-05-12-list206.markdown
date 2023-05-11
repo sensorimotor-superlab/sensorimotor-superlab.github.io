@@ -73,6 +73,35 @@ Mai H, Luo J, Hoeher L, Al-Maskari R, Horvath I, Paetzold J, Todorov M, Hellal F
 Dosenbach NUF, Gordon EM  
 [dosenbachlab.wustl.edu](https://dosenbachlab.wustl.edu/media/papers/response_to_muret_et_al_20230504_v2.pdf)
 
+<hr>## 8
+**Modulation of somatosensory signal transmission in the primate cuneate nucleus during voluntary hand movement**  
+Kubota S, Sasaki C, Kikuta S, Ito S, Gomi H, Oya T, Seki K  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.09.540100)
+
+**ChatGPT summary**: The study found that sensory signals are attenuated during voluntary movement in the primate cuneate nucleus, an early processing site in the ascending lemniscus pathway, suggesting that psychological attenuation of somatosensation could be ascribed to the cuneate. The results also reveal that this sensory attenuation was of descending origin, suggesting that cortical sensory prediction signals could regulate cuneate sensory transmission for extracting meaningful, and attenuate unnecessary, signals for movement regulation.
+
+<hr>## 9
+**The developmental timing of spinal touch processing alterations and its relation to ASD-associated behaviors in mouse models**  
+Tasnim A, Alkislar I, Hakim R, Turecek J, Abdelaziz A, Orefice L, Ginty D  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.09.539589)
+
+**ChatGPT summary**: Multiple mouse models of autism exhibit altered somatosensory behaviors, with some models showing changes in embryonic development while others develop changes later in life. Tactile over-reactivity during neonatal development is linked to anxiety-like behaviors and social interaction deficits in adulthood, while tactile over-reactivity that emerges later in life is not, and the timing of aberrant touch processing can predict ASD-associated behaviors in mouse models.
+
+<hr>## 10
+**Push–Pull Control of Motor Output**  
+Johnson M, Hyngstrom A, Manuel M, Heckman C  
+[J. Neurosci.](https://dx.doi.org/10.1523/jneurosci.4709-11.2012)
+
+**ChatGPT summary**: This study reveals the presence and functional impact of a push-pull mechanism in the motor output stage of the feline spinal cord, where increasing inhibition can paradoxically result in increased neuron excitability and force output. Specifically, it was found that the stronger the background of inhibition, the greater the peak force production, illustrating the role of this paradoxical push-pull organization in modulating synaptic currents and overall system performance.
+
+<hr>## 11
+**Voluntary muscle coactivation in quiet standing elicits reciprocal rather than coactive agonist-antagonist control of reactive balance**  
+Martino G, Beck O, Ting L  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00458.2022)
+
+**ChatGPT summary**: The study aimed to investigate the relationship between feedforward and feedback muscle coactivation in response to postural perturbations in young adults. Contrary to their hypothesis, it was found that feedforward muscle coactivation did not increase intrinsic resistance to perturbations, but rather elicited medium- to long-latency increases of feedback-mediated agonist activity and reductions in feedback-mediated antagonist activity, enabling quicker joint torque generation. This suggests that the use of feedforward muscle coactivation could enable quicker joint torque generation through reciprocal, rather than coactivated, agonist-antagonist feedback muscle activity and may be useful for agility over stability.
+
+
 
 <hr>## Archive
 You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
