@@ -51,6 +51,21 @@ Bussell JJ, Badman RP, Márton CD, Bromberg-Martin ES, Abbott LF, Rajan K, Axel 
 Hermus JR, Doeringer J, Sternad D, Hogan N  
 [J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00082.2023)
 
+<hr>## 9
+**Initial conditions combine with sensory evidence to induce decision-related dynamics in premotor cortex**  
+Boucher PO, Wang T, Carceroni L, Kane G, Shenoy KV, Chandrasekaran C  
+[Nat Commun 14:1–28](https://www.nature.com/articles/s41467-023-41752-2)
+
+<hr>## 10
+**Motor actions are spatially organized in motor and dorsal premotor cortex**  
+Chehade NG, Gharbawie OA  
+[Elife 12:e83196](https://elifesciences.org/articles/83196)
+
+<hr>## 11
+**Distinct neural representations during a brain-machine interface and manual reaching task in motor cortex, prefrontal cortex, and striatum**  
+Zippi EL, Shvartsman GF, Vendrell-Llopis N, Wallis JD, Carmena JM  
+[bioRxiv:2023.05.31.542532](https://www.biorxiv.org/content/10.1101/2023.05.31.542532v1)
+
 <br>
 <hr>## Archive
 You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
