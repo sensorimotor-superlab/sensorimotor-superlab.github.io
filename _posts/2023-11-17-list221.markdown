@@ -39,7 +39,7 @@ Reppert TR, Heitz RP, Schall JD
 <hr>## 6
 **Vectorized instructive signals in cortical dendrites during a brain-computer interface task**  
 Francioni V, Tang VD, Brown NJ, Toloza EHS, Harnett M  
-[bioRxivorg:2023.11.03.565534](https://www.biorxiv.org/content/10.1101/2023.11.03.565534v1.abstract)
+[bioRxiv:2023.11.03.565534](https://www.biorxiv.org/content/10.1101/2023.11.03.565534v1.abstract)
 
 <hr>## 8
 **Live birth of chimeric monkey with high contribution from embryonic stem cells**  
