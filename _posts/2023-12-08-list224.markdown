@@ -71,7 +71,7 @@ Nazzaro G, Emanuele M, Laroche J, Esposto C, Fadiga L, D’Ausilio A, Tomassini 
 <br>
 <hr>## Journal Club
 
-This week in the sensorimotor superlab lab meeting, we discussed the following paper by [Mark Churchland](https://churchland.zuckermaninstitute.columbia.edu/people/mark-m-churchland), who joined us via Zoom to give a presentation and answer questions:
+This week in the sensorimotor superlab lab meeting, we discussed the following paper by Najja Marshall and colleagues. [Mark Churchland](https://churchland.zuckermaninstitute.columbia.edu/people/mark-m-churchland) joined us via Zoom to present the paper and answer questions:
 
 **Flexible neural control of motor units**  
 Marshall NJ, Glaser JI, Trautmann EM, Amematsro EA, Perkins SM, Shadlen MN, Abbott LF, Cunningham JP, Churchland MM  
