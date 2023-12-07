@@ -41,7 +41,7 @@
 .site-nav {
   position: absolute;
   top: 9px;
-  right: $spacing-unit / 2;
+  right: calc($spacing-unit / 2);
   background-color: $background-color;
   border: 1px solid $grey-color-light;
   border-radius: 5px;
@@ -291,7 +291,7 @@
     &:last-of-type { margin-right: 0 }
     a {
       display: block;
-      padding: $spacing-unit / 4;
+      padding: calc($spacing-unit / 4);
       border: 1px solid $grey-color-light
     }
     &:hover .svg-icon { fill: currentColor; }
