@@ -54,21 +54,16 @@ Qian W, Zavatone-Veth JA, Ruben BS, Pehlevan C
 [bioRxiv:2024.05.24.595741](https://www.biorxiv.org/content/10.1101/2024.05.24.595741v1.abstract)
 
 <hr>## 9
-**Predicting and shaping human-machine interactions in closed-loop, co-adaptive neural interfaces**  
-Madduri MM, Yamagami M, Li SJ, Burckhardt S, Burden SA, Orsborn AL  
-[bioRxiv:2024.05.23.595598](https://www.biorxiv.org/content/10.1101/2024.05.23.595598v1.abstract)
-
-<hr>## 10
 **Open and remotely accessible Neuroplatform for research in wetware computing**  
 Jordan FD, Kutter M, Comby J-M, Brozzi F, Kurtys E  
 [Front Artif Intell 7:1376042](https://dx.doi.org/10.3389/frai.2024.1376042)
 
-<hr>## 11
+<hr>## 10
 **Cerebellar Purkinje cells in male macaques combine sensory and motor information to predict the sensory consequences of active self-motion**  
 Zobeiri OA, Cullen KE  
 [Nat Commun 15:4003](https://www.nature.com/articles/s41467-024-48376-0)
 
-<hr>## 12
+<hr>## 11
 **Closed-loop optogenetic neuromodulation enables high-fidelity fatigue-resistant muscle control**  
 Herrera-Arcos G, Song H, Yeon SH, Ghenand O, Gutierrez-Arango S, Sinha S, Herr H  
 [Sci Robot 9:eadi8995](https://www.science.org/doi/10.1126/scirobotics.adi8995)
