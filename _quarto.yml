@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sensorimotor Superlab"
+  site-url: https://superlab.ca
+  description: "Sensorimotor Superlab Reading List"
+  navbar:
+    logo: "wusmsl_logo.png"
+    right:
+      - about.qmd
+      - subscribe.qmd
+      - join.qmd
+      - icon: github
+        href: https://github.com/sensorimotor-superlab/sensorimotor-superlab.github.io
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+execute:
+  freeze: auto  # re-render only when source changes
