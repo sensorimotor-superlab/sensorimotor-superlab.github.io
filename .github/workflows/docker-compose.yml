@@ -1,0 +1,9 @@
+# docker-compose up
+
+jekyll:
+    image: jekyll/jekyll:pages
+    command: jekyll serve --drafts --future --force_polling -l
+    ports:
+        - 4000:4000
+    volumes:
+        - .:/srv/jekyll
