@@ -22,7 +22,6 @@ We are also searching for a **Postdoctoral Fellow** to work on a specific projec
 
 For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
 
-<br>
 ## 1
 **Predictive coding is a consequence of energy efficiency in recurrent neural networks**
 Ali A, Ahmad N, de Groot E, van Gerven MAJ, Kietzmann TC

@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **The role of population structure in computations through neural dynamics**
 Dubreuil A, Valente A, Beiran M, Mastrogiuseppe F, Ostojic S

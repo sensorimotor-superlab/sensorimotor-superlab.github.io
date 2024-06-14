@@ -24,7 +24,6 @@ Other **Postdoctoral Fellow** positions are also available in the [Gribble](http
 
 For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
 
-<br>
 ## 1
 **Interpretable statistical representations of neural population dynamics and geometry**
 Gosztolai A, Peach RL, Arnaudon A, Barahona M, Vandergheynst P

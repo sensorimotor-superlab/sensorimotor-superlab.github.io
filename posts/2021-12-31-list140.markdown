@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Spinal cord representation of motor cortex plasticity reflects corticospinal tract LTP**
 Amer A, Xia J, Smith M, Martin JH

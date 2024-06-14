@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Estimating the dimensionality of the manifold underlying multi-electrode neural recordings**
 Altan E, Solla SA, Miller LE, Perreault EJ

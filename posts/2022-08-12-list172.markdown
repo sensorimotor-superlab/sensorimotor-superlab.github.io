@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **A multi-modal fitting approach to construct single-neuron models with patch clamp and high-density microelectrode arrays**
 Buccino AP, Damart T, Bartram J, Mandge D, Xue X, Zbili M, Gänswein T, Jaquier A, Emmenegger V, Markram H, Hierlemann A, Van Geit W

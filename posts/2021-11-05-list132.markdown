@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **A synaptic learning rule for exploiting nonlinear dendritic computation**
 Bicknell BA, Häusser M

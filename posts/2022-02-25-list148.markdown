@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Interplay between external inputs and recurrent dynamics during movement preparation and execution in a network model of motor cortex**
 Bachschmid-Romano L, Hatsopoulos NG, Brunel N

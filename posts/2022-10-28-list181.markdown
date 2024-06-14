@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Learning shapes cortical dynamics to enhance integration of relevant sensory input**
 Chadwick A, Khan AG, Poort J, Blot A, Hofer SB, Mrsic-Flogel TD, Sahani M

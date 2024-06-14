@@ -11,6 +11,7 @@ Enjoy!
 ---the superlab
 
 <br>
+
 ## 1
 **Internal Dynamics Interact with Proprioceptive Feedback During Movement Execution in an RNN Model of Motor Cortex**
 Jiang H, Bu X, Zheng Z, Pan X, Chen Y

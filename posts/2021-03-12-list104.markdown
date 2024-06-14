@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Modulation of tactile feedback for the execution of dexterous movement**
 Conner JM, Bohannon A, Igarashi M, Taniguchi J, Baltar N, Azim E

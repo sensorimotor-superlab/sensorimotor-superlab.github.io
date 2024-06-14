@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Theoretical limits on the speed of learning inverse models explain the rate of adaptation in arm reaching tasks**
 Barradas VR, Koike Y, Schweighofer N

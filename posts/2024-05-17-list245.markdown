@@ -11,6 +11,7 @@ Enjoy!
 ---the superlab
 
 <br>
+
 ## 1
 **Spike timing-based coding in neuromimetic tactile system enables dynamic object classification**
 Chen L, Karilanova S, Chaki S, Wen C, Wang L, Winblad B, Zhang S-L, Özçelikkale A, Zhang Z-B

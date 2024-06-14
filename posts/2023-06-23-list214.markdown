@@ -26,7 +26,6 @@ Other **Postdoctoral Fellow** positions are also available in the [Gribble](http
 For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
 
 
-<br>
 ## 1
 **The insect compass system: from theory to circuitry**
 Aceituno PV, Dall’Osto D, Pisokas I
@@ -80,61 +79,51 @@ Idrees S, Rieke F, Field GD, Zylberberg J
 International Brain Lab et al.
 [bioRxiv:2023.07.04.547681](https://www.biorxiv.org/content/10.1101/2023.07.04.547681v2)
 
-<br>
 ## 10
 **Dead rats, dopamine, performance metrics, and peacock tails: proxy failure is an inherent risk in goal-oriented systems**
 John YJ, Caldwell L, McCoy DE, Braganza O
 [Behav Brain Sci:1–68](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/dead-rats-dopamine-performance-metrics-and-peacock-tails-proxy-failure-is-an-inherent-risk-in-goaloriented-systems/89408A43F6D14BFD368FE5225A573032)
 
-<br>
 ## 11
 **Automated system for training and assessing string-pulling behaviors in rodents**
 Jordan GA, Vishwanath A, Holguin G, Bartlett MJ, Tapia AK, Winter GM, Sexauer MM, Stopera CJ, Falk T, Cowen SL
 [bioRxiv:2023.07.02.547431](https://www.biorxiv.org/content/10.1101/2023.07.02.547431v1)
 
-<br>
 ## 12
 **Putting cognitive tasks on trial: A measure of reliability convergence**
 Kadlec J, Walsh C, Sade U, Amir A, Rissman J, Ramot M
 [bioRxiv:2023.07.03.547563](https://www.biorxiv.org/content/10.1101/2023.07.03.547563v1)
 
-<br>
 ## 13
 **A distinct neural activity subspace for direct motor cortical influence on muscles**
 Koh N, Ma Z, Sarup A, Kristl AC, Agrios M, Young M, Miri A
 [bioRxiv:2023.06.18.545509](https://www.biorxiv.org/content/10.1101/2023.06.18.545509v1)
 
-<br>
 ## 14
 **Memories of Hand Movements are Tied to Speech Through Learning**
 Lametti DR, Vaillancourt GL, Whitman M, Skipper JI
 [psyArXiv](https://psyarxiv.com/guefc)
 
-<br>
 ## 15
 **Artificial Gravity During a Spaceflight Analog Alters Brain Sensory Connectivity**
 McGregor HR, Lee JK, Mulder ER, De Dios YE, Beltran NE, Wood SJ, Bloomberg JJ, Mulavara AP, Seidler RD
 [Neuroimage:120261](https://www.sciencedirect.com/science/article/pii/S1053811923004123)
 
-<br>
 ## 16
 **Machine learning reveals the control mechanics of the insect wing hinge**
 Melis JM, Dickinson MH
 [bioRxiv:2023.06.29.547116](https://www.biorxiv.org/content/10.1101/2023.06.29.547116v2)
 
-<br>
 ## 17
 **Inserting a Neuropixels probe into awake monkey cortex: two probes, two methods**
 Namima T, Kempkes E, Smith B, Pasupathy A
 [bioRxiv:2023.06.26.546631](https://www.biorxiv.org/content/10.1101/2023.06.26.546631v1)
 
-<br>
 ## 18
 **Vowel and formant representation in the human auditory speech cortex**
 Oganian Y, Bhaya-Grossman I, Johnson K, Chang EF
 [Neuron](https://dx.doi.org/10.1016/j.neuron.2023.04.004)
 
-<br>
 ## 19
 **How to make your scientific data accessible, discoverable and useful**
 Perkel JM

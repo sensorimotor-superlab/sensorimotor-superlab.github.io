@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Competition between parallel sensorimotor learning systems**
 Albert ST, Jang J, Modchalingam S, ’t Hart M, Henriques D, Lerner G, Della-Maggiore V, Haith AM, Krakauer JW, Shadmehr R

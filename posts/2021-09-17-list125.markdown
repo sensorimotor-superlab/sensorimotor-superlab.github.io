@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Neural Excursions from Low-Dimensional Manifold Structure Explain Intersubject Variation in Human Motor Learning**
 Areshenkoff CN, Gale DJ, Nashed JY, Standage D, Randall Flanagan J, Gallivan JP

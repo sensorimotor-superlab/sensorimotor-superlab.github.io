@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **A unified energy-optimality criterion predicts human navigation paths and speeds**
 Brown GL, Seethapathi N, Srinivasan M

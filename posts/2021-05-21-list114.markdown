@@ -10,6 +10,8 @@ More than 20 trainees and PIs from the Sensorimotor Superlab at Western Universi
 Enjoy!
 ---the superlab
 
+<br>
+
 ## 1
 **Somatosensory signals from the controllers of an extra robotic finger support motor learning**
 Amoruso E, Dowdall L, Kollamkulam MT, Ukaegbu O, Kieliba P, Ng T, Dempsey-Jones H, Clode D, Makin TR
