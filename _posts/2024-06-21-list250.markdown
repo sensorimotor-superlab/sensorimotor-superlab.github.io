@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Reading List 250"
+date:   2024-06-21 00:00:00 -0400
+categories: readinglist
+---
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!
+---the superlab
+
+<br>
+<hr>## 1
+**Months-Long Stability of the Head-Direction System**  
+Carrasco, Sofia Skromne, Guillaume Viejo, and Adrien Peyrache  
+[bioRxiv](https://doi.org/10.1101/2024.06.13.598909
+
+<hr>## 2
+**Co-Contraction Embodies Uncertainty: An Optimal Feedforward Strategy for Robust Motor Control**  
+Berret, Bastien, Dorian Verdel, Etienne Burdet, and Frédéric Jean  
+[bioRxiv](https://doi.org/10.1101/2024.06.17.599269)
+
+<hr>## 3
+**Minimal Design of the Elephant Trunk as an Active Filament**  
+Kaczmarski, Bartosz, Sophie Leanza, Renee Zhao, Ellen Kuhl, Derek E. Moulton, and Alain Goriely  
+[Physical Review Letters 132 (24)](https://doi.org/10.1103/physrevlett.132.248402)
+
+<hr>## 4
+Qi, Lijun, Michael Iskols, Rachel S. Greenberg, Jia Yin Xiao, Annie Handler, Stephen D. Liberles, and David D. Ginty  
+**Krause Corpuscles Are Genital Vibrotactile Sensors for Sexual Behaviours**  
+[Nature](https://www.nature.com/articles/s41586-024-07528-4)
+
+<hr>## 5
+Fedorenko, Evelina, Steven T. Piantadosi, and Edward A. F. Gibson  
+**Language Is Primarily a Tool for Communication Rather than Thought**  
+[Nature 630 (8017): 575–86](https://www.nature.com/articles/s41586-024-07522-w)
+
+
+<br>
+<hr># Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+<br>
+<hr># Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
