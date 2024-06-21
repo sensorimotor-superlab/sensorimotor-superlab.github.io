@@ -14,7 +14,7 @@ Enjoy!
 <hr>## 1
 **Months-Long Stability of the Head-Direction System**  
 Carrasco, Sofia Skromne, Guillaume Viejo, and Adrien Peyrache  
-[bioRxiv](https://doi.org/10.1101/2024.06.13.598909
+[bioRxiv](https://doi.org/10.1101/2024.06.13.598909)
 
 <hr>## 2
 **Co-Contraction Embodies Uncertainty: An Optimal Feedforward Strategy for Robust Motor Control**  
