@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 131"
+date:   2021-10-29 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Evolution of behavioural control from chordates to primates**  
+Cisek P  
+[Phil Trans R Soc B (2020)](https://cisek.org/pavel/Pubs/Cisek2022-PTRSB.pdf)
+
+## 2
+**Thalamus gates active dendritic computations in cortex during sensory processing**  
+Guest JM, Bast A, Narayanan RT, Oberlaender M  
+[bioRxiv:2021.10.21.465325](https://www.biorxiv.org/content/10.1101/2021.10.21.465325v1)
+
+## 3
+**De novo motor learning of a bimanual control task over multiple days of practice**  
+Haith AM, Yang C, Pakpoor J, Kita K  
+[bioRxiv:2021.10.21.465196](https://www.biorxiv.org/content/10.1101/2021.10.21.465196v1)
+
+## 4
+**Chemogenetic sensory fMRI reveals behaviorally relevant bidirectional changes in primate somatosensory network**  
+Hirabayashi T, Nagai Y, Hori Y, Inoue K-I, Aoki I, Takada M, Suhara T, Higuchi M, Minamimoto T  
+[Neuron 109:3312–3322.e5 (2021)](https://dx.doi.org/10.1016/j.neuron.2021.08.032)
+
+## 5
+**One more time about motor (and non-motor) synergies**  
+Latash ML  
+[Exp Brain Res 239:2951–2967 (2021)](https://dx.doi.org/10.1007/s00221-021-06188-4)
+
+## 6
+**Post-error slowing during instrumental learning is shaped by working memory-based choice strategies**  
+McDougle SD  
+[Neuroscience (2021)](https://dx.doi.org/10.1016/j.neuroscience.2021.10.016)
+
+## 7
+**Compartmentalized dynamics within a common multi-area mesoscale manifold represent a repertoire of human hand movements**  
+Natraj N, Silversmith DB, Chang EF, Ganguly K  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.10.002)
+
+## 8
+**Muscle as a tunable material: implications for achieving muscle-like function in robotic prosthetic devices**  
+Nishikawa K, Huck TG  
+[J Exp Biol 224 (2021)](https://dx.doi.org/10.1242/jeb.225086)
+
+## 9
+**Whole body adaptation to novel dynamics does not transfer between effectors**  
+Pienciak-Siewert A, Ahmed AA  
+[J Neurophysiol 126:1345–1360 (2021)](https://dx.doi.org/10.1152/jn.00628.2020)
+
+## 10
+**Two senses of human limb position: methods of measurement and roles in proprioception**  
+Proske U, Chen B  
+[Exp Brain Res (2021)](https://dx.doi.org/10.1007/s00221-021-06207-4)
+
+## 11
+**Use-dependent biases primarily originate from a contaminated motor plan**  
+Tsay JS, Kim HE, Saxena A, Parvin DE, Verstynen T, Ivry RB  
+[bioRxiv:2021.10.21.465112](https://www.biorxiv.org/content/10.1101/2021.10.21.465112v1)
+
+
+## Superlab Papers
+
+**Evaluating brain parcellations using the distance controlled boundary coefficient**  
+Zhi D, King M, Hernandez-Castillo CR, Diedrichsen J  
+[bioRxiv:2021.05.11.443151](https://www.biorxiv.org/content/10.1101/2021.05.11.443151v2)
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

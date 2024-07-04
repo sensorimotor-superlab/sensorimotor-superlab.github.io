@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 62"
+date:   2020-04-03 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Evolution of cellular diversity in primary motor cortex of human, marmoset monkey, and mouse**  
+Bakken TE et al.  
+bioRxiv:2020.03.31.016972 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.31.016972v1](https://www.biorxiv.org/content/10.1101/2020.03.31.016972v1)
+
+## 2
+**Maintained representations of the ipsilateral and contralateral limbs during bimanual control in primary motor cortex**  
+Cross KP, Heming EA, Cook DJ, Scott SH  
+bioRxiv:2020.03.30.015842 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.30.015842v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.30.015842v1.abstract?%3Fcollection=)
+
+## 3
+**Eye movements as a readout of sensorimotor decision processes**  
+Fooken J, Spering M  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00622.2019](https://dx.doi.org/10.1152/jn.00622.2019)
+
+## 4
+**Eye movements shape visual learning**  
+Laamerad P, Guitton D, Pack CC  
+Proc Natl Acad Sci U S A (2020)  
+[https://dx.doi.org/10.1073/pnas.1913851117](https://dx.doi.org/10.1073/pnas.1913851117)
+
+## 5
+**Spontaneous recovery and the multiple timescales of human motor memory**  
+Orozco SP, Albert ST, Shadmehr R  
+bioRxiv:2020.03.24.006023 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.24.006023v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.24.006023v1.abstract?%3Fcollection=)
+
+## 6
+**Goal-dependent tuning of muscle spindle receptors during movement preparation**  
+Papaioannou S, Dimitriou M  
+bioRxiv:2020.03.06.981530 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.06.981530v3.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.06.981530v3.abstract?%3Fcollection=)
+
+## 7
+**Layer-Specific Contributions to Imagined and Executed Hand Movements in Human Primary Motor Cortex**  
+Persichetti AS, Avery JA, Huber L, Merriam EP, Martin A  
+Curr Biol (2020)  
+[https://www.cell.com/article/S0960982220302530/abstract](https://www.cell.com/article/S0960982220302530/abstract)
+
+## 8
+**Fundamental bounds on learning performance in neural circuits**  
+Raman DV, Rotondo AP, O’Leary T  
+Proc Natl Acad Sci U S A 116:10537–10546 (2019)  
+[https://dx.doi.org/10.1073/pnas.1813416116](https://dx.doi.org/10.1073/pnas.1813416116)
+
+## 9
+**Assessing explicit strategies in force field adaptation**  
+Schween R, McDougle SD, Hegele M, Taylor JA  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00427.2019](https://dx.doi.org/10.1152/jn.00427.2019)
+
+## 10
+**Action enhances predicted touch**  
+Thomas ER, Yon D, de Lange FP, Press C  
+bioRxiv:2020.03.26.007559 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.26.007559v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.26.007559v1.abstract?%3Fcollection=)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 161"
+date:   2022-05-27 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Gaze-specific motor memories for hand-reaching**  
+Abekawa N, Ito S, Gomi H  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.04.065)
+
+## 2
+**How the Brain Tells Apart Important and Unimportant Sensations**  
+Azim E, Bensmaia S, Miller LE, Versteeg C  
+[Scientific American](https://www.scientificamerican.com/article/how-the-brain-tells-apart-important-and-unimportant-sensations/)
+
+## 3
+**Gliding and parachuting by arboreal salamanders**  
+Brown CE, Sathe EA, Dudley R, Deban SM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.04.033)
+
+## 4
+**Hippocampus as a generative circuit for predictive coding of future sequences**  
+Chen Y, Zhang H, Sejnowski TJ  
+[bioRxiv:2022.05.19.492731](https://www.biorxiv.org/content/10.1101/2022.05.19.492731v1)
+
+## 5
+**Mechanoreceptor signal convergence and transformation in the dorsal horn flexibly shape a diversity of outputs to the brain**  
+Chirila AM, Rankin G, Tseng S-Y, Emanuel AJ, Chavez-Martinez CL, Zhang D, Harvey CD, Ginty DD  
+[bioRxiv:2022.05.20.492853](https://www.biorxiv.org/content/10.1101/2022.05.20.492853v1)
+
+## 6
+**Emergent reliability in sensory cortical coding and inter-area communication**  
+Ebrahimi S, Lecoq J, Rumyantsev O, Tasci T, Zhang Y, Irimia C, Li J, Ganguli S, Schnitzer MJ  
+[Nature](https://dx.doi.org/10.1038/s41586-022-04724-y)
+
+## 7
+**The Individualized Neural Tuning Model: Precise and generalizable cartography of functional architecture in individual brains**  
+Feilong M, Nastase SA, Jiahui G, Halchenko YO, Ida Gobbini M, Haxby JV  
+[bioRxiv:2022.05.15.492022](https://www.biorxiv.org/content/10.1101/2022.05.15.492022v1)
+
+## 8
+**The proportional recovery rule redux Arguments for its biological and predictive relevance**  
+Goldsmith J, Kitago T, de la Garza AG, Kundert R, Luft A, Stinear C, Byblow WD, Kwakkel G, Krakauer JW  
+[bioRxiv:2021.05.20.445022](https://www.biorxiv.org/content/10.1101/2021.05.20.445022v2)
+
+## 9
+**Correlation between ranges of leg walking angles and passive rest angles among leg types in stick insects**  
+Guschlbauer C, Hooper SL, Mantziaris C, Schwarz A, Szczecinski NS, Büschges A  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.04.013)
+
+## 10
+**Coevolution of motor cortex and behavioral specializations associated with flight and echolocation in bats**  
+Halley AC, Baldwin MKL, Cooke DF, Englund M, Pineda CR, Schmid T, Yartsev MM, Krubitzer L  
+[Curr Biol](https://www.cell.com/article/S0960982222007333/abstract)
+
+## 11
+**People construct simplified mental representations to plan**  
+Ho MK, Abel D, Correa CG, Littman ML, Cohen JD, Griffiths TL  
+[Nature](https://dx.doi.org/10.1038/s41586-022-04743-9)
+
+## 12
+**Handedness is associated with less common input to spinal motor neurons innervating different hand muscles**  
+Maillet J, Avrillon S, Rossi J, Nordez A, Hug F  
+[bioRxiv:2022.05.25.493122](https://www.biorxiv.org/content/10.1101/2022.05.25.493122v1)
+
+## 13
+**The representation of priors and decisions in parietal cortex**  
+Marshall TR, Ruesseler M, Hunt LT, O’Reilly JX  
+[bioRxiv:2021.05.03.442155](https://www.biorxiv.org/content/10.1101/2021.05.03.442155v2.abstract?%3Fcollection=)
+
+## 14
+**Neural signals regulating motor synchronization in the primate deep cerebellar nuclei**  
+Okada K-I, Takeya R, Tanaka M  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-30246-2)
+
+## 15
+**Speech sound categorization: The contribution of non-auditory and auditory cortical regions**  
+Preisig B, Riecke L, Hervais-Adelman A  
+[bioRxiv:2021.10.08.463391](https://www.biorxiv.org/content/10.1101/2021.10.08.463391v3)
+
+## 16
+**Transcranial magnetic stimulation of the brain: What is stimulated? – a consensus and critical position paper**  
+Siebner HR et al.  
+[Clin Neurophysiol](https://www.sciencedirect.com/science/article/pii/S1388245722002723)
+
+## 17
+**Perceptual similarity judgments do not predict the distribution of errors in working memory**  
+Tomić I, Bays P  
+[bioRxiv:2022.05.24.493200](https://www.biorxiv.org/content/10.1101/2022.05.24.493200v1.abstract?%3Fcollection=)
+
+## 18
+**Slowly-adapting type II afferents contribute to conscious touch sensation in humans: evidence from single unit intraneural microstimulation**  
+Watkins RH, Amante M, Wasling HB, Wessberg J, Ackerley R  
+[J Physiol](https://dx.doi.org/10.1113/JP282873)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

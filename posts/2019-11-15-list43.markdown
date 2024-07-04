@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 43"
+date:   2019-11-15 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Principles of tactile search over the body**  
+Halfen, E.J., Magnotti, J.F., Rahman, M.S., and Yau, J.M.  
+bioRxiv, 839084 (2019)  
+[https://www.biorxiv.org/content/10.1101/839084v1](https://www.biorxiv.org/content/10.1101/839084v1)
+
+## 2
+**The Role of Hippocampus during Observational Learning**  
+Escobar, Y.F., and Valdes, J.L.  
+bioRxiv, 832758 (2019)  
+[https://www.biorxiv.org/content/10.1101/832758v1](https://www.biorxiv.org/content/10.1101/832758v1)
+
+## 3
+**Reinforcement learning across development: What insights can we draw from a decade of research?**  
+Nussenbaum, K., and Hartley, C.A.  
+Dev. Cogn. Neurosci., 100733 (2019)  
+[https://dx.doi.org/10.1016/j.dcn.2019.100733](https://dx.doi.org/10.1016/j.dcn.2019.100733)
+
+## 4
+**Corticostriatal Flow of Action Selection Bias**  
+Hwang, E.J., Link, T.D., Hu, Y.Y., Lu, S., Wang, E.H.-J., Lilascharoen, V., Aronson, S., O’Neil, K., Lim, B.K., and Komiyama, T.  
+Neuron (2019)  
+[https://www.cell.com/article/S0896627319308025/abstract](https://www.cell.com/article/S0896627319308025/abstract)
+
+## 5
+**Mirror neurons precede non-mirror neurons during action execution**  
+Mazurek, K.A., and Schieber, M.H.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00653.2019](https://dx.doi.org/10.1152/jn.00653.2019)
+
+## 6
+**The Eighty Five Percent Rule for optimal learning**  
+Wilson, R.C., Shenhav, A., Straccia, M., and Cohen, J.D.  
+Nat. Commun. 10, 4646 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-12552-4](https://dx.doi.org/10.1038/s41467-019-12552-4)
+
+## 7
+**Grandmaster level in StarCraft II using multi-agent reinforcement learning**  
+Vinyals, O., Babuschkin, I., Czarnecki, W.M., Mathieu, M., Dudzik, A., Chung, J., Choi, D.H., Powell, R., Ewalds, T., Georgiev, P., et al.  
+Nature, 1–5 (2019)  
+[https://dx.doi.org/10.1038/s41586-019-1724-z](https://dx.doi.org/10.1038/s41586-019-1724-z)
+
+## 8
+**Haptic assistance that restricts use of redundant solutions is detrimental to motor learning**  
+Lokesh, R., and Ranganathan, R.  
+bioRxiv, 819771 (2019)  
+[https://www.biorxiv.org/content/10.1101/819771v1](https://www.biorxiv.org/content/10.1101/819771v1)
+
+Each time you bring your mug of coffee to your lips while reading our list this morning, your arm moves in subtly different ways from sip to sip. Precise repetition of motor actions is extremely uncommon in ecological behavior, but robot-assisted therapies often enforce very precise movements. In light of this contrast, Lokesh and Ranganathan investigate whether people can learn a novel motor task as effectively when such natural variability is curtailed using a robot. —SR
+
+Also see tweeprint: [https://twitter.com/rrangana1/status/1188097674622443520](https://twitter.com/rrangana1/status/1188097674622443520)
+
+## 9
+**From symbiont to parasite: the evolution of for-profit science publishing**  
+Walter, P., and Mullins, D.  
+Mol. Biol. Cell 30, 2537–2542 (2019)  
+[https://dx.doi.org/10.1091/mbc.E19-03-0147](https://dx.doi.org/10.1091/mbc.E19-03-0147)
+
+## 10
+**Computational Neuroscience**  
+Current Opinion in Neurobiology (2019)  
+[https://www.sciencedirect.com/journal/current-opinion-in-neurobiology/vol/58/](https://www.sciencedirect.com/journal/current-opinion-in-neurobiology/vol/58/)
+
+
+# Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 199"
+date:   2023-03-17 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Perceived time expands and contracts within each heartbeat**  
+Arslanova I, Kotsaris V, Tsakiris M  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.02.034)
+
+## 2
+**Bumblebees acquire alternative puzzle-box solutions via social learning**  
+Bridges AD, MaBouDi H, Procenko O, Lockwood C, Mohammed Y, Kowalewska A, Romero González JE, Woodgate JL, Chittka L  
+[PLoS Biol](https://dx.doi.org/10.1371/journal.pbio.3002019)
+
+## 3
+**The Sensorimotor System Modulates Muscular Co-Contraction Relative to Visuomotor Feedback Responses to Regulate Movement Variability**  
+Calalo JA, Roth AM, Lokesh R, Sullivan SR, Wong JD, Semrau JA, Cashaback JGA  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00472.2022)
+
+## 4
+**Cortical changes during the learning of sequences of simultaneous finger presses**  
+Garzón B, Helms G, Olsson H, Brozzoli C, Ullén F, Diedrichsen J, Lövdén M  
+[bioRxiv:2023.03.12.532251](https://www.biorxiv.org/content/10.1101/2023.03.12.532251v1)
+
+## 5
+**Executive Control of Sequence Behavior in Pigeons Involves Two Distinct Brain Regions**  
+Hahn LA, Rose J  
+[eNeuro 10](https://dx.doi.org/10.1523/ENEURO.0296-22.2023)
+
+## 6
+**Negative reward-prediction errors of climbing fiber inputs for cerebellar reinforcement learning algorithm**  
+Hoang H, Tsutsumi S, Matsuzaki M, Kano M, Toyama K, Kitamura K, Kawato M  
+[bioRxiv:2023.03.13.532374](https://www.biorxiv.org/content/10.1101/2023.03.13.532374v1)
+
+## 7
+**Motor unit dysregulation following 15 days of unilateral lower limb immobilisation**  
+Inns TB, Bass JJ, Hardy EJO, Wilkinson DJ, Stashuk DW, Atherton PJ, Phillips BE, Piasecki M  
+[J Physiol](https://dx.doi.org/10.1113/JP283425)
+
+## 8
+**Variability in training unlocks generalization in visual perceptual learning through invariant representations**  
+Manenti GL, Dizaji AS, Schwiedrzik CM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.01.011)
+
+## 9
+**Neural knowledge assembly in humans and neural networks**  
+Nelli S, Braun L, Dumbalska T, Saxe A, Summerfield C  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2023.02.014)
+
+## 10
+**Krishna Shenoy (1968–2023)**  
+Batista AP, Pandarinath C, Yu BM  
+[Neuron](https://www.cell.com/article/S089662732300168X/abstract)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 20"
+date:   2019-06-07 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Universal Transform or Multiple Functionality? Understanding the Contribution of the Human Cerebellum across Task Domains**  
+Diedrichsen, J., King, M., Hernandez-Castillo, C., Sereno, M., and Ivry, R.B.  
+Neuron 102, 918–928 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.04.021](https://dx.doi.org/10.1016/j.neuron.2019.04.021)
+
+## 2
+**A stable, long-term cortical signature underlying consistent behavior**  
+Gallego, J.A., Perich, M.G., Chowdhury, R.H., Solla, S.A., and Miller, L.E.  
+bioRxiv, 447441 (2019)  
+[https://www.biorxiv.org/content/10.1101/447441v3](https://www.biorxiv.org/content/10.1101/447441v3)
+
+## 3
+**Augmented manipulation ability in humans with six-fingered hands**  
+Mehring, C., Akselrod, M., Bashford, L., Mace, M., Choi, H., Blüher, M., Buschhoff, A.-S., Pistohl, T., Salomon, R., Cheah, A., Blanke O., Serino A., Burdet E.  
+Nat. Commun. 10, 2401 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-10306-w](https://dx.doi.org/10.1038/s41467-019-10306-w)
+
+## 4
+**Accurate Estimation of Neural Population Dynamics without Spike Sorting**  
+Trautmann, E.M., Stavisky, S.D., Lahiri, S., Ames, K.C., Kaufman, M.T., O’Shea, D.J., Vyas, S., Sun, X., Ryu, S.I., Ganguli, S., Shenoy K.V.  
+Neuron (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0896627319304283](https://www.sciencedirect.com/science/article/pii/S0896627319304283)
+
+## 5
+**The Contributions of Individual Muscle-Tendon Units to the Plantarflexor Group Force-Length Properties**  
+Javidi, M., McGowan, C.P., and Lin, D.C.  
+Ann. Biomed. Eng. (2019)  
+[https://dx.doi.org/10.1007/s10439-019-02288-z](https://dx.doi.org/10.1007/s10439-019-02288-z)
+
+## 6
+**Haptic metameric textures**  
+Kuroki, S., Sawayama, M., and Nishida, S.  
+bioRxiv, 653550 (2019)  
+[https://www.biorxiv.org/content/10.1101/653550v1](https://www.biorxiv.org/content/10.1101/653550v1)
+
+## 7
+**Shaking Paws Is Not the Same as Shaking Hands**  
+Bush, N.E., Zweifel, N.O., and Hartmann, M.J.Z.  
+Neuron 102, 911–913 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.05.028](https://dx.doi.org/10.1016/j.neuron.2019.05.028)
+
+## 8
+**Cortico-Cortical Systems Underlying High-Order Motor Control**  
+Battaglia-Mayer, A., and Caminiti, R.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2094-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.2094-18.2019)
+
+## 9
+**Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
+Reschechtko, S., Johansson, A.S., and Pruszynski, J.A.  
+Eur J Neurosci. (2019)  
+[https://dx.doi.org/10.1111/ejn.14479](https://dx.doi.org/10.1111/ejn.14479)
+
+## 10
+**Restored tactile sensation improves neuroprosthetic arm control**  
+Flesher, S.N., Downey, J.E., Weiss, J.M., Hughes, C.L., Herrera, A.J., Tyler-Kabara, E.C., Boninger, M.L., Collinger, J.L., and Gaunt, R.A.  
+bioRxiv, 653428 (2019)  
+[https://www.biorxiv.org/content/10.1101/653428v1](https://www.biorxiv.org/content/10.1101/653428v1)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

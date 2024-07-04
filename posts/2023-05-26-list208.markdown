@@ -1,0 +1,189 @@
+---
+layout: post
+title:  "Reading List 208"
+date:   2023-05-26 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Mechanotransduction events at the physiological site of touch detection**  
+Ziolkowski L, Gracheva E, Bagriantsev S  
+[eLife](https://dx.doi.org/10.7554/elife.84179)
+
+**ChatGPT summary**: Scientists have discovered that the primary site of mechanotransduction in the peripheral mechanoreceptors of vertebrates is the afferent terminal, and that mechanically activated ionic current is generated here. The study included direct evidence of mechanically induced action potentials and MA current in the mechanoreceptor terminal using patch-clamp recordings from the afferent terminal innervating Grandry corpuscles in the bill skin of a tactile specialist duck.
+
+## 2
+**Late integration of vision and proprioception during perturbed reaches**  
+Keyser J, Medendorp W, Oostwoud Wijdenes L, Selen L  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00324.2022)
+
+**ChatGPT summary**: The study investigated how people integrate visual and proprioceptive signals when reaching for an object. It found that early reach corrections relied on separate state estimates from each sensory modality, with a combined estimate only occurring later.
+
+## 3
+**Walking naturally after spinal cord injury using a brain–spine interface**  
+Lorach H, Galvez A, Spagnolo V, Martel F, Karakas S, Intering N, Vat M, Faivre O, Harte C, Komi S, Ravier J, Collin T, Coquoz L, Sakr I, Baaklini E, Hernandez-Charpak S, Dumont G, Buschman R, Buse N, Denison T, van Nes I, Asboth L, Watrin A, Struber L, Sauter-Starace F, Langar L, Auboiroux V, Carda S, Chabardes S, Aksenova T, Demesmaeker R, Charvet G, Bloch J, Courtine G  
+[Nature](https://dx.doi.org/10.1038/s41586-023-06094-5)
+
+**ChatGPT summary**: Researchers have developed a brain-spine interface that allows an individual with tetraplegia to walk naturally in community settings, by restoring communication between the brain and spinal cord. The interface consists of fully implanted recording and stimulation systems and can be calibrated within minutes, with highly reliable results maintained over a year, resulting in improved neurological recovery and natural control over movements.
+
+## 4
+**Highly reproducible eyeblink timing during formula car driving**  
+Nishizono R, Saijo N, Kashino M  
+[iScience:106803](https://www.sciencedirect.com/science/article/pii/S2589004223008805)
+
+**ChatGPT summary**: This study demonstrates that the timing of eyeblinks in professional formula car racing drivers shows consistent patterns during driving and is associated with car control. The findings suggest that blink patterns reflect cognitive states during driving, influenced by factors such as the driver’s individual blink count, lap pace, and car acceleration, with expert drivers dynamically adjusting their cognitive states throughout the drive.
+
+## 5
+**Reverse-translational identification of a cerebellar satiation network**  
+Low A, Goldstein N, Gaunt J, Huang K, Zainolabidin N, Yip A, Carty J, Choi J, Miller A, Ho H, Lenherr C, Baltar N, Azim E, Sessions O, Ch’ng T, Bruce A, Martin L, Halko M, Brady R, Holsen L, Alhadeff A, Chen A, Betley J  
+[Nature](https://dx.doi.org/10.1038/s41586-021-04143-5)
+
+**ChatGPT summary**: This study used functional magnetic resonance imaging and transcriptomic analyses to identify and characterize a specific neural ensemble in the anterior deep cerebellar nuclei (aDCN) that promotes satiation, which when activated, decreased food intake by reducing meal size without altering the metabolic rate. The study suggests that the aDCN functions as a satiation center by influencing striatal dopamine levels and could potentially be a novel therapeutic target for controlling excessive eating.
+
+## 6
+**Controversies and progress on standardization of large-scale brain network nomenclature**  
+Uddin L, Betzel R, Cohen J, Damoiseaux J, De Brigard F, Eickhoff S, Fornito A, Gratton C, Gordon E, Laird A, Larson-Prior L, McIntosh A, Nickerson L, Pessoa L, Pinho A, Poldrack R, Razi A, Sadaghiani S, Shine J, Yendiki A, Yeo B, Spreng R  
+[Network Neuroscience](https://dx.doi.org/10.1162/netn_a_00323)
+
+**ChatGPT summary**: The Workgroup for HArmonized Taxonomy of NETworks (WHATNET) was created as a committee to develop a standardized reporting of network neuroscience results. The committee conducted a survey on large-scale brain network nomenclature and provides initial considerations, recommendations, and minimal reporting guidelines for the cognitive and network neuroscience communities.
+
+## 7
+**Grasping behavior does not recover after sight restoration from congenital blindness**  
+Piller S, Senna I, Wiebusch D, Ben-Zion I, Ernst MO  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.04.017)
+
+**ChatGPT summary**: This study investigated the role of early visual input in developing the ability to make predictions for action control and perception, focusing on individuals who had surgical treatment for congenital cataracts years after birth. It was found that unlike typically developing individuals, those treated for cataracts did not learn to grasp objects based on visually predicted properties even after years of visual experience, suggesting that early structured visual input is essential for this skill, however, they did show significant development in the size-weight illusion, suggesting a potential dissociation between visual experience used for perception and action.
+
+## 8
+**Ten steps to becoming a musculoskeletal simulation expert: A half-century of progress and outlook for the future**  
+Uhlrich SD, Uchida TK, Lee MR, Delp SL  
+[J Biomech](https://www.sciencedirect.com/science/article/pii/S0021929023001926)
+
+**ChatGPT summary**: This article provides a ten-step guide to becoming an expert in musculoskeletal simulations, a field that has significantly enriched our understanding of human and animal movement over the past fifty years. It encourages researchers to leverage the knowledge of past, present, and future simulations to improve mobility, emphasizing the importance of understanding the foundation of current simulations, adhering to established modeling principles, and exploring innovative approaches.
+
+## 9
+**On the results of causal optogenetic engram manipulations**  
+Jou C, Hurtado J, Carrillo-Segura S, Park E, Fenton A  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.15.540888)
+
+**ChatGPT summary**: The use of optogenetics in causal engram-cell experiments has raised questions about whether the sufficiency interpretation of opsin-tagged neurons as key neural circuit elements is accurate, given the complex and adaptive nature of the brain. However, a study finds that photostimulation of these neurons maintains intrinsic ensemble discharge relationships and the low-dimensional manifold organization of population dynamics, suggesting that such manipulations elicit the endogenous population dynamics of a complex system rather than demonstrating neural circuit function.
+
+## 10
+**A new frontier for Hopfield networks**  
+Krotov D  
+[Nat Rev Phys](https://dx.doi.org/10.1038/s42254-023-00595-y)
+
+**ChatGPT summary**: This article highlights the influential role of Hopfield networks of associative memory, which were formalized over forty years ago and have significantly impacted fields like statistical physics, neuroscience, and machine learning. The key concept that associative memory can be depicted by energy descent dynamics has not only informed the study of complex systems but also inspired the development of restricted Boltzmann machines, contributing significantly to the early stages of deep learning and providing a formal framework for understanding memory in cognitive and neurosciences.
+
+## 11
+**Restoration of natural thermal sensation in upper-limb amputees**  
+Iberite F, Muheim J, Akouissi O, Gallo S, Rognini G, Morosato F, Clerc A, Kalff M, Gruppioni E, Micera S, Shokur S  
+[Science](https://dx.doi.org/10.1126/science.adf6121)
+
+**ChatGPT summary**: A noninvasive wearable device that delivers thermal stimuli to specific regions of skin on amputees' residual limb can provide sensations on their phantom hands, which were similar to those on their intact limbs. These sensations could be used to detect and discriminate different thermal stimuli and potentially increase the sense of embodiment and improve quality of life in hand amputees.
+
+## 12
+**Visuo-proprioceptive recalibration and the sensorimotor map**  
+Block H, Liu Y  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00493.2022)
+
+**ChatGPT summary**: The study explores how changes in perceived hand position affect the sensorimotor map and resulting hand movements, but evidence suggests separate body representations for perception and action. After proprioceptive recalibration, participants made shorter reaches but only briefly, implying that perceptual recalibration can affect the sensorimotor map for planning movements, but the effects are short-lived.
+
+## 13
+**Context-specific early recruitment of small motor units in the shoulder muscle reflects a reach movement plan**  
+Rungta S, Murthy A  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00522.2022)
+
+**ChatGPT summary**: Researchers found that early spatially specific ramping activity in the anterior deltoid muscle could predict reaction times, but was absent during isometric force-driven cursor movements. This ramping activity could be quantified using an accumulator framework across trials and within single trials, but was not observed in isometric reach tasks involving cursor movements.
+
+## 14
+**Joint-level coordination patterns for split-belt walking across different speed ratios**  
+Kambic R, Roemmich R, Bastian A  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00323.2021)
+
+**ChatGPT summary**: The study examined how the nervous system coordinates limb movements during asymmetric gait using a split-belt treadmill and found that changes in motion occur more between limbs than within a limb, resulting in asymmetric joint movements during split-belt walking. The findings suggest that the nervous system can adjust joint motions in time to achieve new gait patterns.
+
+## 15
+**Brownian Processes in Human Motor Tasks: Behavioral Evidence of Velocity-level Planning**  
+Tessari F, Hermus J, Sugimoto-Dimitrova R, Hogan N  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.17.541137)
+
+**ChatGPT summary**: The study found that human postural control during the task of turning a crank exhibits unbounded growth of position variance, which displays a distinctive signature of underlying Brownian motion in the low-frequency power spectrum. The results support the theory that the brain encodes motion commands in terms of velocity, with a control system featuring a forward-path velocity command corrupted by stationary noise accounting for the observed behavior.
+
+## 16
+**Learning context shapes bimanual control strategy and generalization of novel dynamics**  
+Orschiedt J, Franklin D  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.17.541252)
+
+**ChatGPT summary**: This study aimed to understand how the sensorimotor control system adapts to bimanual movements by examining motor memory formation. The results showed that motor memories can be encoded depending on the motion of other limbs, but that the training conditions strongly shape the encoding of the motor memory formation and determine the generalization to novel contexts, which has implications for rehabilitation techniques that employ bimanual training.
+
+## 17
+**Deep learning-driven characterization of single cell tuning in primate visual area V4 unveils topological organization**  
+Willeke K, Restivo K, Franke K, Nix A, Cadena S, Shinn T, Nealley C, Rodriguez G, Patel S, Ecker A, Sinz F, Tolias A  
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.12.540591v1)
+
+**ChatGPT summary**: The study aimed to determine whether area V4 of the macaque visual system is organised into columns, using deep learning methods and in vivo verification. The results showed that V4 neurons are selective to similar spatial features, suggesting a columnar organization, and form distinct functional groups of shared feature selectivity, similar to cell types, indicating that columns and functional cell types may be universal organizing principles of the primate neocortex.
+
+## 18
+**Investigating and acquiring motor expertise using Virtual Reality**  
+Mangalam M, Yarossi M, Furmanek M, Krakauer J, Tunik E  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00088.2023)
+
+**ChatGPT summary**: A professional gamer named Enzo Bonito beat an experienced Formula E and ex-Formula 1 driver named Lucas di Grassi after just months of simulated training, raising the possibility that virtual reality training can be effective for acquiring motor expertise in real-world tasks. The article evaluates the potential of virtual reality as a space for training in complex real-world tasks in shorter time windows and at lower cost, and as an experimental platform for studying expertise.
+
+## 19
+**A motor association area in the depths of the central sulcus**  
+Jensen M, Huang H, Valencia G, Klassen B, van den Boom M, Kaufmann T, Schalk G, Brunner P, Worrell G, Hermes D, Miller K  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01346-z)
+
+**ChatGPT summary**: The precentral gyrus is organized as a topological map of the body for movement generation, and movement-induced electrophysiological responses extend this map three-dimensionally, but a motor association area called the Rolandic motor association (RMA) area is also present in the depths of the midlateral aspect of the central sulcus, which is active during movements of different body parts and may help coordinate complex behaviors.
+
+
+
+## Superlab Papers
+
+**Interaction of multiple future movement plans in sequential reaching**  
+Kashefi M, Reschechtko S, Ariani G, Shahbazi M, Diedrichsen J, Pruszynski JA  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.24.542099)
+
+**ChatGPT summary**: The study presents a new sequential reaching paradigm that investigates the interaction of movement planning processes within the human brain, demonstrating that at least two future movements are planned simultaneously while another is being executed. Findings indicate that these planning processes aren't independent, as corrections to an ongoing reach are slower when future moves are planned, and the current reach's curvature is influenced by the next reach, but only if the planning processes for both overlap significantly.
+
+**A hierarchical Bayesian brain parcellation framework for fusion of functional imaging datasets**  
+Zhi D, Shahshahani L, Nettekoven C, Pinho AL, Bzdok D, Diedrichsen J  
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2023.05.24.542121v1)  
+
+**ChatGPT summary**: The study introduces a hierarchical Bayesian framework that can define brain organization probabilistically, using a diverse range of both task-based and resting-state neuro-imaging datasets. This approach effectively merges data from various sources to create a new population-based atlas of the human cerebellum, and it is able to generate individual brain maps that surpass the accuracy of group atlases with just 10 minutes of individual data.
+
+
+
+
+
+  # Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

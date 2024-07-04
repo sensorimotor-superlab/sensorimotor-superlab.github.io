@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Reading List 145"
+date:   2022-02-04 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Dissociation between abnormal motor synergies and impaired reaching dexterity after stroke**  
+Hadjiosif A, Branscheidt M, Anaya MA, Runnalls KD, Keller J, Bastian AJ, Celnik PA, Krakauer JW  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00447.2021)
+
+## 2
+**Combined effects of body posture and three-dimensional wing shape enable efficient gliding in flying lizards**  
+Khandelwal PC, Hedrick TL  
+[Sci Rep](https://www.nature.com/articles/s41598-022-05739-1)
+
+## 3
+**Pupil diameter is not an accurate real-time readout of locus coeruleus activity**  
+Megemont M, McBurney-Lin J, Yang H  
+[Elife](https://dx.doi.org/10.7554/eLife.70510)
+
+## 4
+**Large-scale neural recordings with single neuron resolution using Neuropixels probes in human cortex**  
+Paulk AC, Kfir Y, Khanna AR, Mustroph ML, Trautmann EM, Soper DJ, Stavisky SD, Welkenhuysen M, Dutta B, Shenoy KV, Hochberg LR, Richardson RM, Williams ZM, Cash SS  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-021-00997-0)
+
+## 5
+**Cyclic, condition-independent activity in primary motor cortex predicts corrective movement behavior**  
+Rouse AG, Schieber MH, Sarma SV  
+[bioRxiv:453746](https://www.biorxiv.org/content/10.1101/453746v5)
+
+## 6
+**Reticulospinal drive increases maximal motoneuron output in humans**  
+Škarabot J, Folland JP, Holobar A, Baker SN, Del Vecchio A  
+[bioRxiv:2022.01.24.477080](https://www.biorxiv.org/content/10.1101/2022.01.24.477080v1)
+
+## 7
+**Human brain mapping with multithousand-channel PtNRGrids resolves spatiotemporal dynamics**  
+Tchoe Y, Bourhis AM, Cleary DR, Stedelin B, Lee J, Tonsfeldt KJ, Brown EC, Siler DA, Paulk AC, Yang JC, Oh H, Ro YG, Lee K, Russman SM, Ganji M, Galton I, Ben-Haim S, Raslan AM, Dayeh SA  
+[Sci Transl Med](https://dx.doi.org/10.1126/scitranslmed.abj1441)
+
+## 8
+**Multisensory information about changing object properties can be used to quickly correct predictive force scaling for object lifting**  
+van Polanen V  
+[bioRxiv:2022.01.26.477825](https://www.biorxiv.org/content/10.1101/2022.01.26.477825v1)
+
+## 9
+**Dynamical Feedback Control: Motor cortex as an optimal feedback controller based on neural dynamics**  
+Versteeg C, Miller L  
+[Preprints](https://www.preprints.org/manuscript/202201.0428/v1)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

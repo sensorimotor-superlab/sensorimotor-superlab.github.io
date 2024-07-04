@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Reading List 249"
+date:   2024-06-14 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!
+---the superlab
+
+
+## 1
+**Nociceptors are functionally male or female: from mouse to monkey to man**  
+Stratton H, Lee G, Dolatyari M, Ghetti A, Cotta T, Mitchell S, Yue X, Ibrahim M, Dumaire N, Salih L, Moutal A, François-Moutal L, Martin L, Navratilova E, Porreca F  
+[Brain](https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae179/7686987)
+
+## 2
+**In-Scanner Thoughts shape Resting-state Functional Connectivity: how participants “rest” matters**  
+Gonzalez-Castillo J, Spurney MA, Lam KC, Gephart IS, Pereira F, Handwerker DA, Kam JWY, Bandettini PA  
+[bioRxiv:2024.06.05.596482](https://www.biorxiv.org/content/10.1101/2024.06.05.596482v1.abstract)
+
+## 3
+**Structured Action Preparation during Visuomotor Decision-making**  
+Trach J, McDougle SD  
+[PsyArXiv](https://osf.io/preprints/psyarxiv/pkez6)
+
+## 4
+**Tool use fine-tunes arm and tool maps**  
+Peviani VC, Pfeifer LN, Risso G, Bassolino M, Miller LE  
+[bioRxiv:2024.06.06.597694](https://www.biorxiv.org/content/10.1101/2024.06.06.597694v1.abstract)
+
+## 5
+**Principles of cortical areas and their implications for neuroimaging**  
+Petersen SE, Seitzman BA, Nelson SM, Wig GS, Gordon EM  
+[Neuron](https://www.cell.com/article/S0896627324003556/abstract)
+
+## 6
+**Ultrasound system for precise neuromodulation of human deep brain circuits**  
+Martin E, Roberts M, Grigoras IF, Wright O, Nandi T, Rieger SW, Campbell J, den Boer T, Cox BT, Stagg CJ, Treeby BE  
+[bioRxiv:2024.06.08.597305](https://www.biorxiv.org/content/10.1101/2024.06.08.597305v1.abstract)
+
+## 7
+**Must a theory be falsifiable to contribute to good science?**  
+Lindsay G, Barack D, O'Donnell C, Palmer S  
+[The Transmitter](https://www.thetransmitter.org/breakout-room/must-a-theory-be-falsifiable-to-contribute-to-good-science/)
+
+## 8
+**A shifting role of thalamocortical connectivity in the emergence of cortical functional organization**  
+Park S, Haak KV, Oldham S, Cho H, Byeon K, Park B-Y, Thomson P, Chen H, Gao W, Xu T, Valk S, Milham MP, Bernhardt B, Di Martino A, Hong S-J  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01679-3)
+
+## 9
+**Unexpected events modulate context signaling in VIP and excitatory cells of the visual cortex**  
+Najafi F, Russo S, Lecoq J  
+[bioRxiv:2024.05.15.594366](https://www.biorxiv.org/content/10.1101/2024.05.15.594366v2.abstract)
+
+## 10
+**Neuroelectrophysiology-Compatible Electrolytic Lesioning**  
+Bray IE, Clarke SE, Casey KM, Nuyujukian P, Brain Interfacing Laboratory  
+[bioRxiv:2022.11.10.516056](https://www.biorxiv.org/content/10.1101/2022.11.10.516056v2.abstract)
+
+## 11
+**Rapid emergence of latent knowledge in the sensory cortex drives learning**  
+Drieu C, Zhu Z, Wang Z, Fuller K, Wang A, Elnozahy S, Kuchibhotla K  
+[bioRxiv:2024.06.10.597946](https://www.biorxiv.org/content/10.1101/2024.06.10.597946v1.abstract)
+
+## 12
+**A virtual rodent predicts the structure of neural activity across behaviors**  
+Aldarondo D, Merel J, Marshall JD, Hasenclever L, Klibaite U, Gellis A, Tassa Y, Wayne G, Botvinick M, Ölveczky BP  
+[Nature](https://www.nature.com/articles/s41586-024-07633-4)
+
+## 13
+**Mental navigation in the primate entorhinal cortex**  
+Neupane S, Fiete I, Jazayeri M  
+[Nature](https://www.nature.com/articles/s41586-024-07557-z)
+
+## 14
+**Minimizing command timing volatility is a key factor in skilled actions**  
+Takagi A, Ito S, Gomi H  
+[bioRxiv:2024.06.11.598574](https://www.biorxiv.org/content/10.1101/2024.06.11.598574v1.abstract)
+
+## 15
+**A cerebellar granule cell-climbing fiber computation to learn to track long time intervals**  
+Garcia-Garcia MG, Kapoor A, Akinwale O, Takemaru L, Kim TH, Paton C, Litwin-Kumar A, Schnitzer MJ, Luo L, Wagner MJ  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2024.05.019)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

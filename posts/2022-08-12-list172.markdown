@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Reading List 172"
+date:   2022-08-12 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**A multi-modal fitting approach to construct single-neuron models with patch clamp and high-density microelectrode arrays**  
+Buccino AP, Damart T, Bartram J, Mandge D, Xue X, Zbili M, Gänswein T, Jaquier A, Emmenegger V, Markram H, Hierlemann A, Van Geit W  
+[bioRxiv:2022.08.03.502468](https://www.biorxiv.org/content/10.1101/2022.08.03.502468v1)
+
+## 2
+**Orbitofrontal cortex populations are differentially recruited to support actions**  
+Cazares C, Schreiner DC, Valencia ML, Gremel CM  
+[bioRxiv:2022.08.08.503227](https://www.biorxiv.org/content/10.1101/2022.08.08.503227v1)
+
+## 3
+**Faster detection of “darks” than “brights” by monkey superior colliculus neurons**  
+Malevich T, Zhang T, Baumann MP, Bogadhi AR, Hafed ZM  
+[bioRxiv:2022.08.03.502615](https://www.biorxiv.org/content/10.1101/2022.08.03.502615v1)
+
+## 4
+**Biomechanical origins of proprioceptive maps in the Drosophila leg**  
+Mamiya A, Gurung P, Siwanowicz I, Sustar A, Chen C, Phelps JS, Kuan AT, Pacureanu A, Lee W-CA, Mhatre N, Tuthill JC  
+[bioRxiv:2022.08.08.503192](https://www.biorxiv.org/content/10.1101/2022.08.08.503192v1)
+
+## 5
+**V2b neurons act via multiple targets in spinal motor networks**  
+Sengupta M, Bagnall MW  
+[bioRxiv:2022.08.01.502410](https://www.biorxiv.org/content/10.1101/2022.08.01.502410v1)
+
+## 6
+**Conserved subcortical processing in visuo-vestibular gaze control**  
+Wibble T, Pansell T, Grillner S, Pérez-Fernández J  
+[Nat Commun](https://www.nature.com/articles/s41467-022-32379-w)
+
+## 7
+**Primary Somatosensory Cortex Bidirectionally Modulates Sensory Gain and Nociceptive Behavior in a Layer-Specific Manner**  
+Ziegler K, Burghardt J, Folkard R, Gonzalez AJ, Antharvedi-Goda S, Martin-Cortecero J, Isaías-Camacho E, Kaushalya S, Tan LL, Kuner T, Kuner R, Mease R, Groh A  
+[bioRxiv:2022.08.02.502350](https://www.biorxiv.org/content/10.1101/2022.08.02.502350v1)
+
+## 8
+**Statistical characterization of tactile scenes in three-dimensional environments reveals filter properties of somatosensory cortical neurons**  
+Zweifel NO, Solla SA, Hartmann MJZ  
+[bioRxiv:2022.08.03.502632](https://www.biorxiv.org/content/10.1101/2022.08.03.502632v1.abstract?%3Fcollection=)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

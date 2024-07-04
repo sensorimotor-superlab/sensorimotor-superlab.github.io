@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 122"
+date:   2021-07-16 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Motor memories of object dynamics are categorically organized**  
+Cesanek E, Zhang Z, Ingram JN, Wolpert DM, Randall Flanagan J  
+bioRxiv:2021.07.13.452183 [https://www.biorxiv.org/content/10.1101/2021.07.13.452183v1](https://www.biorxiv.org/content/10.1101/2021.07.13.452183v1)
+
+## 2
+**The basal ganglia control the detailed kinematics of learned motor skills**  
+Dhawale AK, Wolff SBE, Ko R, Ölveczky BP  
+Nat Neurosci: (2021) [https://www.nature.com/articles/s41593-021-00889-3](https://www.nature.com/articles/s41593-021-00889-3)
+
+## 3
+**Visual perturbation of balance suggests impaired neuromuscular stability but intact visuo-motor control in Parkinson’s disease**  
+Engel D, Student J, Schwenk JCB, Morris AP, Waldthaler J, Timmermann L, Bremmer F  
+bioRxiv:2021.07.05.451110 [https://www.biorxiv.org/content/10.1101/2021.07.05.451110v1](https://www.biorxiv.org/content/10.1101/2021.07.05.451110v1)
+
+## 4
+**What Happened to Mirror Neurons?**  
+Heyes C, Catmur C  
+Perspect Psychol Sci (2021) [http://dx.doi.org/10.1177/1745691621990638](http://dx.doi.org/10.1177/1745691621990638)
+
+## 5
+**When two worlds collide: the influence of an obstacle in peripersonal space on multisensory encoding**  
+Menger R, De Haan AM, Van der Stigchel S, Dijkerman HC  
+Exp Brain Res 239:1715–1726 (2021) [https://dx.doi.org/10.1007/s00221-021-06072-1](https://dx.doi.org/10.1007/s00221-021-06072-1)
+
+## 6
+**Your head is there to move you around: Goal-driven models of the primate dorsal pathway**  
+Mineault PJ, Bhaktiari S, Richards BA, Pack CC  
+bioRxiv:2021.07.09.451701 [https://www.biorxiv.org/content/10.1101/2021.07.09.451701v1](https://www.biorxiv.org/content/10.1101/2021.07.09.451701v1)
+
+## 7
+**Dopamine axons in dorsal striatum encode contralateral visual stimuli and choices**  
+Moss MM, Zatka-Haas P, Harris KD, Carandini M, Lak A  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.0490-21.2021](https://dx.doi.org/10.1523/JNEUROSCI.0490-21.2021)
+
+## 8
+**Interpreting neural computations by examining intrinsic and embedding dimensionality of neural activity**  
+Jazayeri M, Ostojic S  
+arXiv [q-bioNC] (2021) [https://arxiv.org/abs/2107.04084](https://arxiv.org/abs/2107.04084)
+
+## 9
+**The evolution of two distinct strategies of moth flight**  
+Aiello BR, Sikandar UB, Minoguchi H, Bhinderwala B, Hamilton CA, Kawahara AY, Sponberg S  
+bioRxiv:2020.10.27.358176 [https://www.biorxiv.org/content/10.1101/2020.10.27.358176v3](https://www.biorxiv.org/content/10.1101/2020.10.27.358176v3)
+
+## 10
+**TimTrack: A drift-free algorithm for estimating geometric muscle features from ultrasound images**  
+van der Zee TJ, Kuo AD  
+bioRxiv:2020.08.23.263574 [https://www.biorxiv.org/content/10.1101/2020.08.23.263574v2](https://www.biorxiv.org/content/10.1101/2020.08.23.263574v2)
+
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

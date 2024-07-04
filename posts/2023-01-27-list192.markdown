@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Reading List 192"
+date:   2023-01-27 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Mechanisms of Premotor-Motor Cortex Interactions during Goal Directed Behavior**  
+Alyahyay M, Kalweit G, Kalweit M, Karvat G, Ammer J, Schneider A, Adzemovic A, Vlachos A, Boedecker J, Diester I  
+[bioRxiv:2023.01.20.524944](https://www.biorxiv.org/content/10.1101/2023.01.20.524944v1)
+
+## 2
+**Hill-type computational models of muscle-tendon actuators: a systematic review**  
+Caillet AH, Phillips ATM, Carty C, Farina D, Modenese L  
+[bioRxiv:2022.10.14.512218](https://biorxiv.org/content/early/2022/11/24/2022.10.14.512218.abstract)
+
+## 3
+**Differential behavior of distinct motoneuron pools that innervate the triceps surae**  
+Cohen JW, Vieira TM, Ivanova TD, Garland SJ  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00336.2022)
+
+## 4
+**Motor cortex retains and reorients neural dynamics during motor imagery**  
+Dekleva BM, Chowdhury RH, Batista AP, Chase SM, Yu BM, Boninger ML, Collinger JL  
+[bioRxiv:2023.01.17.524394](https://www.biorxiv.org/content/10.1101/2023.01.17.524394v1)
+
+## 5
+**Modelling human behaviour in cognitive tasks with latent dynamical systems**  
+Jaffe PI, Poldrack RA, Schafer RJ, Bissett PG  
+[Nat Hum Behav](https://www.nature.com/articles/s41562-022-01510-8)
+
+## 6
+**Propagating spatiotemporal activity patterns across macaque motor cortex carry kinematic information**  
+Liang W, Balasubramanian K, Papadourakis V, Hatsopoulos NG  
+[Proc Natl Acad Sci USA](http://dx.doi.org/10.1073/pnas.2212227120)
+
+## 7
+**Roles of Mono- and Bi-articular Muscles in Human Limbs: Two-joint Link Model and Applications**  
+Miyake T, Okabe M  
+[Integr Org Biol](https://dx.doi.org/10.1093/iob/obac042)
+
+## 8
+**Recurrent networks endowed with structural priors explain suboptimal animal behavior**  
+Molano-Mazón M, Shao Y, Duque D, Yang GR, Ostojic S, de la Rocha J  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.12.044)
+
+## 9
+**The influence of movement-related costs when searching to act and acting to search**  
+Moskowitz JB, Berger SA, Castelhano MS, Gallivan JP, Flanagan JR  
+[bioRxiv:2022.03.01.482521](https://www.biorxiv.org/content/10.1101/2022.03.01.482521v1)
+
+## 10
+**Transformation from arm joint coordinates to hand external coordinates explains non-uniform precision of hand position sense in horizontal workspace**  
+Oh K, Prilutsky BI  
+[Hum Mov Sci](https://dx.doi.org/10.1016/j.humov.2022.103020)
+
+## 11
+**The Import of Skin Tissue Dynamics in Tactile Sensing**  
+Rongala UB, Seyfarth A, Hayward V, Jörntell H  
+[bioRxiv:2021.09.06.459180](https://www.biorxiv.org/content/10.1101/2021.09.06.459180v2)
+
+## 12
+**Predictors of sensorimotor adaption: insights from over 100,000 reaches**  
+Tsay JS, Asmerian H, Germine LT, Wilmer J, Ivry RB, Nakayama K  
+[bioRxiv:2023.01.18.524634](https://www.biorxiv.org/content/10.1101/2023.01.18.524634v1)
+
+## 13
+**Failure induces task-irrelevant exploration during a stencil task**  
+van der Kooij K, van Mastrigt NM, Cashaback JGA  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06548-2)
+
+## 14
+**A high-performance speech neuroprosthesis**  
+Willett F, Kunz E, Fan C, Avansino D, Wilson G, Choi EY, Kamdar F, Hochberg LR, Druckmann S, Shenoy KV, Henderson JM  
+[bioRxiv:2023.01.21.524489](https://www.biorxiv.org/content/10.1101/2023.01.21.524489v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 239"
+date:   2024-04-05 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**A precision functional atlas of personalized network topography and probabilities**  
+Hermosillo RJM et al.  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01596-5)
+
+## 2
+**Convergence of inputs from the basal ganglia with layer 5 of motor cortex and cerebellum in mouse motor thalamus**  
+Koster KP, Sherman SM  
+[bioRxiv:2024.03.14.584958](https://www.biorxiv.org/content/10.1101/2024.03.14.584958v1.abstract)
+
+## 3
+**Barcoding of episodic memories in the hippocampus of a food-caching bird**  
+Chettih SN, Mackevicius EL, Hale S, Aronov D  
+[Cell Available](https://dx.doi.org/10.1016/j.cell.2024.02.032)
+
+## 4
+**Oblique warping: A general distortion of spatial perception**  
+Yousif SR, McDougle SD  
+[Cognition 247:105762](https://dx.doi.org/10.1016/j.cognition.2024.105762)
+
+## 5
+**During haptic communication, the central nervous system compensates distinctly for delay and noise**  
+Eden J, Ivanova E, Burdet E  
+[bioRxiv:2024.04.02.587670](https://www.biorxiv.org/content/10.1101/2024.04.02.587670v1.abstract)
+
+## 6
+**An ethologically motivated neurobiology of primate visually-guided reach-to-grasp behavior**  
+Mitchell JF, Wang KH, Batista AP, Miller CT  
+[Curr Opin Neurobiol 86:102872](https://dx.doi.org/10.1016/j.conb.2024.102872)
+
+## 7
+**Quantification of isolated muscle compartment activity in extrinsic finger muscles for potential prosthesis control sites**  
+Birdwell JA, Hargrove LJ, Weir RF ff  
+[Annu Int Conf IEEE Eng Med Biol Soc 2011:4104–4107](https://ieeexplore.ieee.org/document/6091019)
+
+## 8
+**Eye blinks as a visual processing stage**  
+Yang B, Intoy J, Rucci M  
+[Proc Natl Acad Sci USA 121:e2310291121](https://www.pnas.org/doi/abs/10.1073/pnas.2310291121)
+
+## 9
+**Overexposure Distorted the Science of Mirror Neurons**  
+Willcoxon M  
+[Quanta Magazine](https://www.quantamagazine.org/overexposure-distorted-the-science-of-mirror-neurons-20240402/)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 

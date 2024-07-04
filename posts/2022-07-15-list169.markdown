@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Reading List 169"
+date:   2022-07-22 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Don’t watch your step: Gaze behavior adapts with practice of a target stepping task**  
+Cates A, Gordon KE  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00155.2022)
+
+## 2
+**A machine learning approach to characterize sequential movement-related states in premotor and motor cortices**  
+DePass M, Falaki A, Quessy S, Dancause N, Cos I  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00368.2021)
+
+## 3
+**Motor learning without movement**  
+Kim OA, Forrence AD, McDougle SD  
+[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2204379119)
+
+## 4
+**How tactile afferents in the human fingerpad encode tangential torques associated with manipulation: are we better than monkeys?**  
+Loutit AJ, Wheat HE, Khamis H, Vickery RM, Macefield VG, Birznieks I  
+[bioRxiv:2022.07.11.499647](https://www.biorxiv.org/content/10.1101/2022.07.11.499647v1)
+
+## 5
+**A stable, distributed code for cue value in mouse cortex during reward learning**  
+Ottenheimer DJ, Hjort MM, Bowen AJ, Steinmetz NA, Stuber GD  
+[bioRxiv:2022.07.13.499930](https://www.biorxiv.org/content/10.1101/2022.07.13.499930v1)
+
+## 6
+**Spinal premotor interneurons controlling antagonistic muscles are spatially intermingled**  
+Ronzano R, Skarlatou S, Barriga BK, Anne Bannatyne B, Bhumbra GS, Foster JD, Moore JD, Lancelin C, Pocratsky A, Özyurt MG, Smith CC, Todd AJ, Maxwell DJ, Murray AJ, Pfaff SL, Brownstone RM, Zampieri N, Beato M  
+[bioRxiv:2021.02.10.430608](https://www.biorxiv.org/content/10.1101/2021.02.10.430608v2)
+
+## 7
+**Shoot or pass? Humans can prepare to move for different purposes in parallel**  
+Wakatsuki T, Tomoya H, Hirakawa T, Yamada N  
+[PsyArXiv](https://psyarxiv.com/v8h4d)
+
+## 8
+**Cortical patterns shift from sequence feature separation during planning to integration during motor execution**  
+Yewbrey R, Mantziara M, Kornysheva K  
+[bioRxiv:2022.07.13.499902](https://www.biorxiv.org/content/10.1101/2022.07.13.499902v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

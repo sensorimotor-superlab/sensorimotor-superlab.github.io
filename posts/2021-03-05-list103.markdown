@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 103"
+date:   2021-03-05 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**The unequal impact of parenthood in academia**  
+Morgan AC, Way SF, Hoefer MJD, Larremore DB, Galesic M, Clauset A  
+Sci Adv (2021) [https://dx.doi.org/10.1126/sciadv.abd1996](https://dx.doi.org/10.1126/sciadv.abd1996)
+
+## 2
+**Biomechanics of the human thumb and the evolution of dexterity**  
+Karakostis FA, Haeufle D, Anastopoulou I, Moraitis K, Hotz G, Tourloukis V, Harvati K  
+Curr Biol (2021) [https://dx.doi.org/10.1016/j.cub.2020.12.041](https://dx.doi.org/10.1016/j.cub.2020.12.041)
+
+## 3
+**Feel the light - sight independent negative phototactic response in octopus’ arms**  
+Katz I, Shomrat T, Nesher N  
+J Exp Biol (2021) [https://dx.doi.org/10.1242/jeb.237529](https://dx.doi.org/10.1242/jeb.237529)
+
+## 4
+**Recognition memory for human motor learning**  
+Kumar N, van Vugt FT, Ostry DJ  
+Curr Biol (2021) [https://www.sciencedirect.com/science/article/pii/S0960982221001627](https://www.sciencedirect.com/science/article/pii/S0960982221001627)
+
+## 5
+**Opposing force fields induce direction-specific sensorimotor adaptation but a non-specific perceptual shift consistent with a contraction of peripersonal space representation**  
+Leclere NX, Sarlegna FR, Coello Y, Bourdin C  
+Exp Brain Res (2021) [https://dx.doi.org/10.1007/s00221-020-05945-1](https://dx.doi.org/10.1007/s00221-020-05945-1)
+
+## 6
+**Information about contact force and surface texture is mixed in the firing rates of cutaneous afferent neurons**  
+Liu M, Batista A, Bensmaia S, Weber DJ  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00725.2019](https://dx.doi.org/10.1152/jn.00725.2019)
+
+## 7
+**Leveraging joint mechanics simplifies the neural control of movement**  
+Ludvig D, Whitmore MW, Perreault EJ  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.02.433588v1](https://www.biorxiv.org/content/10.1101/2021.03.02.433588v1)
+
+## 8
+**Savings in human force field learning supported by feedback adaptation**  
+Mathew J, Lefèvre P, Crevecoeur F  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.01.433364v1](https://www.biorxiv.org/content/10.1101/2021.03.01.433364v1)
+
+## 9
+**Goal-dependent tuning of muscle spindle receptors during movement preparation**  
+Papaioannou S, Dimitriou M  
+Sci Adv (2021) [https://dx.doi.org/10.1126/sciadv.abe0401](https://dx.doi.org/10.1126/sciadv.abe0401)
+
+## 10
+**Development and plasticity of complex movement representations**  
+Singleton AC, Brown AR, Teskey GC  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00531.2020](https://dx.doi.org/10.1152/jn.00531.2020)
+
+## 11
+**Learning a reach trajectory based on binary reward feedback**  
+van der Kooij K, van Mastrigt NM, Crowe EM, Smeets JBJ  
+Sci Rep (2021) [https://dx.doi.org/10.1038/s41598-020-80155-x](https://dx.doi.org/10.1038/s41598-020-80155-x)
+
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

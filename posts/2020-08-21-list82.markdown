@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 82"
+date:   2020-08-21 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Multiple regions of primate orofacial sensorimotor cortex encode bite force and gape**  
+Arce-McShane FI, Sessle BJ, Ram Y, Balcer CA, Ross CF, Hatsopoulos NG  
+bioRxiv:2020.08.16.252817 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.16.252817v2](https://www.biorxiv.org/content/10.1101/2020.08.16.252817v2)
+
+## 2
+**Encoding schemes in somatosensation: From micro- to meta-topography**  
+Kuehn E, Pleger B  
+Neuroimage:117255 (2020)  
+[https://dx.doi.org/10.1016/j.neuroimage.2020.117255](https://dx.doi.org/10.1016/j.neuroimage.2020.117255)
+
+## 3
+**Decoding hand kinematics from population responses in sensorimotor cortex during grasping**  
+Okorokova EV, Goodman JM, Hatsopoulos NG, Bensmaia SJ  
+J Neural Eng 17:046035 (2020)  
+[https://dx.doi.org/10.1088/1741-2552/ab95ea](https://dx.doi.org/10.1088/1741-2552/ab95ea)
+
+## 4
+**Effects of Peripheral Haptic Feedback on Intracortical Brain-Computer Interface Control and Associated Sensory Responses in Motor Cortex**  
+Deo DR, Rezaii P, Hochberg LR, Okamura AM, Shenoy KV, Henderson JM  
+bioRxiv:2020.08.17.240648 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.17.240648v1](https://www.biorxiv.org/content/10.1101/2020.08.17.240648v1)
+
+## 5
+**Ultra-slow Oscillations in fMRI and Resting-State Connectivity: Neuronal and Vascular Contributions and Technical Confounds**  
+Drew PJ, Mateo C, Turner KL, Yu X, Kleinfeld D  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.07.020](https://dx.doi.org/10.1016/j.neuron.2020.07.020)
+
+## 6
+**Motor learning in real-world pool billiards**  
+Haar S, van Assel CM, Faisal AA  
+bioRxiv:612218 (2020)  
+[https://www.biorxiv.org/content/10.1101/612218v4.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/612218v4.abstract?%3Fcollection=)
+
+## 7
+**Disynaptic cerebrocerebellar pathways originating from multiple functionally distinct cortical areas**  
+Henschke JU, Pakan JM  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.59148](https://dx.doi.org/10.7554/eLife.59148)
+
+## 8
+**Retinal Inputs to the Thalamus Are Selectively Gated by Arousal**  
+Liang L, Fratzl A, Reggiani JDS, El Mansour O, Chen C, Andermann ML  
+Curr Biol (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.07.065](https://dx.doi.org/10.1016/j.cub.2020.07.065)
+
+## 9
+**Deep and superficial layers of the primary somatosensory cortex are critical for whisker-based texture discrimination in mice**  
+Park JM, Kate Hong Y, Rodgers CC, Dahan JB, Schmidt ERE, Bruno RM  
+bioRxiv:2020.08.12.245381 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.12.245381v1](https://www.biorxiv.org/content/10.1101/2020.08.12.245381v1)
+
+## 10
+**Deep Reinforcement Learning and Its Neuroscientific Implications**  
+Botvinick M, Wang JX, Dabney W, Miller KJ, Kurth-Nelson Z  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.06.014](https://dx.doi.org/10.1016/j.neuron.2020.06.014)
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

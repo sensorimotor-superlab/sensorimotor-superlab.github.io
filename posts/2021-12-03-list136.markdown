@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 136"
+date:   2021-12-03 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Estimating the dimensionality of the manifold underlying multi-electrode neural recordings**  
+Altan E, Solla SA, Miller LE, Perreault EJ  
+[biorXiv:2020.12.17.423196](https://www.biorxiv.org/content/10.1101/2020.12.17.423196v1)
+
+## 2
+**Sleep replay reveals premotor circuit structure for a skilled behavior**  
+Elmaleh M, Kranz D, Asensio AC, Moll FW, Long MA  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.09.021)
+
+## 3
+**How do spike collisions affect spike sorting performance?**  
+Garcia S, Buccino A, Yger P  
+[bioRxiv:2021.11.29.470450](https://www.biorxiv.org/content/10.1101/2021.11.29.470450v1)
+
+## 4
+**Temporal differences between load and movement signal integration in the sensorimotor network of an insect leg**  
+Gebehart C, Büschges A  
+[J Neurophysiol 126:1875–1890 (2021)](https://journals.physiology.org/doi/10.1152/jn.00399.2021)
+
+## 5
+**Multi-task representations in human cortex transform along a sensory-to-motor hierarchy**  
+Ito T, Murray JD  
+[bioRxiv:2021.11.29.470432](https://www.biorxiv.org/content/10.1101/2021.11.29.470432v1)
+
+## 6
+**Black-box testing in motor sequence learning**  
+Maceira-Elvira P, Timmermann JE, Popa T, Schmid A-C, Krakauer JW, Morishita T, Wessel MJ, Hummel FC  
+[bioRxiv:2021.12.01.470563](https://www.biorxiv.org/content/10.1101/2021.12.01.470563v1)
+
+## 7
+**Structured connectivity in the cerebellum enables noise-resilient pattern separation**  
+Nguyen TM, Thomas LA, Rhoades JL, Ricchi I, Yuan XC, Sheridan A, Hildebrand DGC, Funke J, Regehr WG, Lee W-CA  
+[bioRxiv:2021.11.29.470455](https://www.biorxiv.org/content/10.1101/2021.11.29.470455v1)
+
+## 8
+**Effects of arousal and movement on secondary somatosensory and visual thalamus**  
+Petty GH, Kinnischtzke AK, Hong YK, Bruno RM  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.67611)
+
+## 9
+**Does the brain care about averages? A simple test**  
+Tlaie A, Shapcott KA, Tiesinga P, Schölvinck ML, Havenith MN  
+[bioRxiv:2021.11.28.469673](https://www.biorxiv.org/content/10.1101/2021.11.28.469673v2)
+
+# 10
+**Conservation of locomotion-induced oculomotor activity through evolution in mammals**  
+de Barros FF, Bacqué-Cazenave J, Taillebuis C, Courtand G, Manuel M, Bras H, Tagliabue M, Combes D, Lambert FM, Beraneck M  
+[Curr Biol (2021)](https://www.cell.com/article/S0960982221015463/abstract)
+
+## 11
+**Single-trial dynamics of competing reach plans in the human motor periphery**  
+Selen LPJ, Corneil BD, Medendorp PW  
+[bioRxiv:765180 (2021)](https://www.biorxiv.org/content/10.1101/765180v2)
+
+## 12
+**Sensory computations in the cuneate nucleus of macaques**  
+Suresh AK, Greenspon CM, He Q, Rosenow JM, Miller LE, Bensmaia SJ  
+[Proc Natl Acad Sci USA 118 (2021)](https://www.pnas.org/content/118/49/e2115772118)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

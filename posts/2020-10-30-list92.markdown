@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 92"
+date:   2020-10-30 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Parallel ascending spinal pathways for affective touch and pain**  
+Choi S, Hachisuka J, Brett MA, Magee AR, Omori Y, Iqbal N-U-A, Zhang D, DeLisle MM, Wolfson RL, Bai L, Santiago C, Gong S, Goulding M, Heintz N, Koerber HR, Ross SE, Ginty DD  
+Nature (2020)  
+[https://dx.doi.org/10.1038/s41586-020-2860-1](https://dx.doi.org/10.1038/s41586-020-2860-1)
+
+## 2
+**Forelimb force direction and magnitude independently controlled by spinal modules in the macaque**  
+Yaron A, Kowalski D, Yaguchi H, Takei T, Seki K  
+Proc Natl Acad Sci USA (2020)  
+[https://dx.doi.org/10.1073/pnas.1919253117](https://dx.doi.org/10.1073/pnas.1919253117)
+
+## 3
+**Dopamine promotes instrumental motivation, but reduces reward-related vigour**  
+Grogan JP, Sandhu TR, Hu MT, Manohar SG  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.58321](https://dx.doi.org/10.7554/eLife.58321)
+
+## 4
+**Serotonin neurons modulate learning rate through uncertainty**  
+Grossman CD, Bari BA, Cohen JY  
+bioRxiv 2020.10.24.353508  
+[https://dx.doi.org/10.1101/2020.10.24.353508](https://dx.doi.org/10.1101/2020.10.24.353508)
+
+## 5
+**A single, clinically relevant dose of the GABAB agonist baclofen impairs visuomotor learning**  
+Johnstone A, Grigoras I, Petitet P, Capitão LP, Stagg CJ  
+J Physiol (2020)  
+[https://dx.doi.org/10.1113/JP280378](https://dx.doi.org/10.1113/JP280378)
+
+## 6
+**Adaptation of reach action to a novel force-field is not predicted by acuity of dynamic proprioception in either older or younger adults**  
+Kitchen NM, Chris Miall R  
+bioRxiv 2020.07.13.200733  
+[https://dx.doi.org/10.1101/2020.07.13.200733](https://dx.doi.org/10.1101/2020.07.13.200733)
+
+## 7
+**Motor variability prior to learning is a poor predictor of the ability to adopt new movement solutions**  
+Ranganathan R, Lin M, Carey S, Lokesh R, Lee M-H, Krishnan C  
+bioRxiv 2020.10.23.350819  
+[https://dx.doi.org/10.1101/2020.10.23.350819](https://dx.doi.org/10.1101/2020.10.23.350819)
+
+## 8
+**Contributions of Implicit and Explicit Memories to Sensorimotor Adaptation of Movement Extent During Goal-Directed Reaching**  
+Lantagne DD, Mrotek LA, Slick RA, Beardsley SA, Thomas DG, Scheidt RA  
+bioRxiv 2020.10.22.350645  
+[https://dx.doi.org/10.1101/2020.10.22.350645](https://dx.doi.org/10.1101/2020.10.22.350645)
+
+## 9
+**Brain Connectivity and Behavioral Changes in a Spaceflight Analog Environment with Elevated CO2**  
+McGregor HR, Lee JK, Mulder ER, De Dios YE, Beltran NE, Kofman IS, Bloomberg JJ, Mulavara AP, Seidler RD  
+Neuroimage 117450 (2020)  
+[https://dx.doi.org/10.1016/j.neuroimage.2020.117450](https://dx.doi.org/10.1016/j.neuroimage.2020.117450)
+
+## 10
+**Unified neural dynamics of decisions and actions in the cerebral cortex and basal ganglia**  
+Thura D, Cabana J-F, Feghaly A, Cisek P  
+bioRxiv 2020.10.22.350280  
+[https://dx.doi.org/10.1101/2020.10.22.350280](https://dx.doi.org/10.1101/2020.10.22.350280)
+
+## 11
+**Neuropixels 2.0: A miniaturized high-density probe for stable, long-term brain recordings**  
+Steinmetz NA et al.  
+bioRxiv 2020.10.27.358291  
+[https://dx.doi.org/10.1101/2020.10.27.358291](https://dx.doi.org/10.1101/2020.10.27.358291)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

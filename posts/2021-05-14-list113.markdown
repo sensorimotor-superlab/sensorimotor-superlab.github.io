@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 113"
+date:   2021-05-14 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Concrete steps to diversify the scientific workforce**  
+Tilghman S, Alberts B, Colón-Ramos D, Dzirasa K, Kimble J, Varmus H  
+Science 372:133–135 (2021) [https://dx.doi.org/10.1126/science.abf9679](https://dx.doi.org/10.1126/science.abf9679)
+
+## 2
+**High-performance brain-to-text communication via handwriting**  
+Willett FR, Avansino DT, Hochberg LR, Henderson JM, Shenoy KV  
+Nature 593:249–254 (2021) [https://www.nature.com/articles/s41586-021-03506-2](https://www.nature.com/articles/s41586-021-03506-2)
+
+## 3
+**Cortical tracking of unheard formant modulations derived from silently presented lip movements and its decline with age**  
+Suess N, Hauswald A, Reisinger P, Rösch S, Keitel A, Weisz N  
+bioRxiv:2021.04.13.439628 [https://www.biorxiv.org/content/10.1101/2021.04.13.439628v4](https://www.biorxiv.org/content/10.1101/2021.04.13.439628v4)
+
+## 4
+**The pial vasculature of the mouse develops according to a sensory-independent program**  
+Adams MD, Winder AT, Blinder P, Drew PJ  
+Sci Rep 8:9860 (2018) [https://dx.doi.org/10.1038/s41598-018-27910-3](https://dx.doi.org/10.1038/s41598-018-27910-3)
+
+## 5
+**Tactile guidance of prey capture in Etruscan shrews**  
+Anjum F, Turni H, Mulder PGH, van der Burg J, Brecht M  
+Proc Natl Acad Sci (2006) 103:16544–16549 [https://dx.doi.org/10.1073/pnas.0605573103](https://dx.doi.org/10.1073/pnas.0605573103)
+
+## 6
+**Neural integration underlying naturalistic prediction flexibly adapts to varying sensory input rate**  
+Baumgarten TJ, Maniscalco B, Lee JL, Flounders MW, Abry P, He BJ  
+Nat Commun 12:2643 (2021) [https://dx.doi.org/10.1038/s41467-021-22632-z](https://dx.doi.org/10.1038/s41467-021-22632-z)
+
+## 7
+**Instantaneous movement-unrelated midbrain activity modifies ongoing eye movements**  
+Buonocore A, Tian X, Khademi F, Hafed ZM  
+Elife 10 (2021) [https://dx.doi.org/10.7554/eLife.64150](https://dx.doi.org/10.7554/eLife.64150)
+
+## 8
+**Feedback-related EEG dynamics separately reflect decision parameters, biases, and future choices**  
+Kirschner H, Fischer AG, Ullsperger M  
+bioRxiv:2021.05.10.443374 [https://www.biorxiv.org/content/10.1101/2021.05.10.443374v1](https://www.biorxiv.org/content/10.1101/2021.05.10.443374v1)
+
+## 9
+**The Effects of Ageing on Tactile Function in Humans**  
+McIntyre S, Nagi SS, McGlone F, Olausson H  
+Neuroscience (2021) [https://dx.doi.org/10.1016/j.neuroscience.2021.02.015](https://dx.doi.org/10.1016/j.neuroscience.2021.02.015)
+
+## 10
+**The role of somatosensation in automatic visuo-motor control: a comparison of congenital and acquired sensory loss**  
+Miall RC, Afanasyeva D, Cole JD, Mason P  
+Exp Brain Res (2021) [https://dx.doi.org/10.1007/s00221-021-06110-y](https://dx.doi.org/10.1007/s00221-021-06110-y)
+
+## 11
+**Sequential sampling from memory underlies action selection during abstract decision making**  
+Shushruth S, Shadlen MN  
+bioRxiv:2021.04.30.442176 [https://www.biorxiv.org/content/10.1101/2021.04.30.442176v1](https://www.biorxiv.org/content/10.1101/2021.04.30.442176v1)
+
+## 12
+**Twitches versus movements: a story of motor cortex**  
+Taylor CSR, Gross CG  
+Neuroscientist 9:332–342 (2003) [https://dx.doi.org/10.1177/1073858403257037](https://dx.doi.org/10.1177/1073858403257037)
+
+## 13
+**The Influence of Posture on Responses Elicitable from the Cortex Cerebri of Cats**  
+Ward JW  
+J Neurophysiol 1:463–475 (1938) [https://doi.org/10.1152/jn.1938.1.5.463](https://doi.org/10.1152/jn.1938.1.5.463)
+
+
+## Superlab Papers
+**Evaluating brain parcellations using the distance controlled boundary coefficient**  
+Zhi D, King M, Diedrichsen J  
+bioRxiv:2021.05.11.443151 [https://www.biorxiv.org/content/10.1101/2021.05.11.443151v1](https://www.biorxiv.org/content/10.1101/2021.05.11.443151v1)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

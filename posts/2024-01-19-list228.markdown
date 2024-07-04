@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Reading List 228"
+date:   2024-01-19 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Dissociable codes in motor working memory**  
+Hillman H, Botthof T, Forrence AD, McDougle SD  
+[Psychol Sci](https://journals.sagepub.com/doi/10.1177/09567976231221756)
+
+## 2
+**Fast grip force adaptation to friction relies on localized fingerpad strains**  
+Delhaye BP, Schiltz F, Crevecoeur F, Thonnard J-L, Lefèvre P  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.adh9344)
+
+## 3
+**The neural control of movement: a century of in vivo motor unit recordings is the legacy of Adrian and Bronk**  
+Farina D, Gandevia S  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP285319)
+
+## 4
+**Capturing complex hand movements and object interactions using machine learning-powered stretchable smart textile gloves**  
+Tashakori A, Jiang Z, Servati A, Soltanian S, Narayana H, Le K, Nakayama C, Yang C-L, Wang ZJ, Eng JJ, Servati P  
+[Nature Machine Intelligence](https://www.nature.com/articles/s42256-023-00780-9)
+
+## 5
+**Muscle anatomy is reflected in the spatial organization of the spinal motoneuron pools**  
+Taitano RI, Yakovenko S, Gritsenko V  
+[Commun Biol](https://www.nature.com/articles/s42003-023-05742-w)
+
+## 6
+**Transcranial magnetic stimulation over supramarginal gyrus stimulates primary motor cortex directly and impairs manual dexterity: Implications for TMS focality**  
+Holmes NP, Di Chiaro NV, Crowe EM, Marson B, Göbel K, Gaigalas D, Jay T, Lockett AV, Powell ES, Zeni S, Reader AT  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00369.2023)
+
+## 7
+**Hand function: peripheral and central constraints on performance**  
+Schieber MH, Santello M  
+[J Appl Physiol 96:2293–2300](https://dx.doi.org/10.1152/japplphysiol.01063.2003)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

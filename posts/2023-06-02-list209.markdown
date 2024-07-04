@@ -1,0 +1,136 @@
+---
+layout: post
+title:  "Reading List 209"
+date:   2023-06-02 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Somatosensory Information in Skilled Motor Performance: A Narrative Review**  
+Whittier T, Patrick C, Fling B  
+[Journal of Motor Behavior](https://dx.doi.org/10.1080/00222895.2023.2213198)
+
+**ChatGPT summary**: This scientific review emphasizes the crucial role of somatosensory and proprioceptive information in the successful execution of motor skills, traditionally overlooked in favor of a focus on neural processes involved in muscle activation. The authors underscore the importance of appropriate study methodologies to isolate somatosensory perception and highlight promising intervention strategies targeting somatosensory function for improved performance across clinical, healthy, and elite populations.
+
+## 2
+**Contrasting action and posture coding with hierarchical deep neural network models of proprioception**  
+Sandbrink K, Mamidanna P, Michaelis C, Bethge M, Mathis M, Mathis A  
+[eLife](https://dx.doi.org/10.7554/elife.81499)
+
+**ChatGPT summary**: This research explores the hypothesis that the proprioceptive system, traditionally known for its role in representing body state, may also be essential for high-level tasks like action recognition. By creating a synthetic dataset of human arm trajectories and muscle activities, and then training artificial neural networks to decode trajectory and action details from this data, the study found evidence that proprioceptive encoding is associated with higher-level functions, presenting new hypotheses on how proprioception contributes to adaptive motor control.
+
+## 3
+**Expertise increases planning depth in human gameplay**  
+van Opheusden B, Kuperwajs I, Galbiati G, Bnaya Z, Li Y, Ma W  
+[Nature](https://dx.doi.org/10.1038/s41586-023-06124-2)
+
+**ChatGPT summary**: This study examines whether expert decision-makers plan more steps ahead than novices in complex board games, using a computational cognitive model based on heuristic search to capture human behavior. The results, validated through human choice prediction, response time, eye movements, a Turing test, and a reconstruction experiment, provide strong evidence that expertise is associated with increased planning depth and more accurate memorization and reconstruction of board features, which could enhance our understanding of human planning and its parallels in artificial intelligence.
+
+## 4
+**How Tactile Afferents in the Human Fingerpad Encode Tangential Torques Associated with Manipulation: Are Monkeys Better than Us?**  
+Loutit A, Wheat H, Khamis H, Vickery R, Macefield V, Birznieks I  
+[J. Neurosci.](https://dx.doi.org/10.1523/jneurosci.1305-22.2023)
+
+**ChatGPT summary**: This study investigated how torque information is encoded by human tactile afferents in the fingerpads and compared them to afferents recorded in monkeys. The research found that human tactile neurons were generally less sensitive and less able to discriminate torque magnitude and direction than monkey tactile neurons, but the addition of sustained SA-II afferent input in humans could compensate for this.
+
+## 5
+**Cerebellar associative learning underlies skilled reach adaptation**  
+Calame D, Becker M, Person A  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01347-y)
+
+**ChatGPT summary**: The study investigates the cerebellum's role in refining movement, suggesting that it uses within-reach information as a predictor to adjust reach kinematics. Through experimentation with mice, the research found that the cerebellum can learn to compensate for predictable reach perturbations, showing both neural and behavioral adaptations, and proposes that the cerebellum might understand cause-and-effect relationships through time-dependent generalization mechanisms.
+
+## 6
+**The neuroconnectionist research programme**  
+Doerig A, Sommers RP, Seeliger K, Richards B, Ismael J, Lindsay GW, Kording KP, Konkle T, van Gerven MAJ, Kriegeskorte N, Kietzmann TC  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-023-00705-w)
+
+**ChatGPT summary**: This Perspective article argues that artificial neural networks (ANNs), an approach referred to as 'neuroconnectionism,' should not be solely judged by the successes or failures of their current implementations but rather by their capacity to generate novel insights into brain science, in line with Lakatos' philosophy of science. Presenting neuroconnectionism as a general research program, the authors assert that it offers a computational language for articulating and testing neuroscientific theories, and when assessed longitudinally, has shown progressive potential in yielding new and unique insights into brain function.
+
+## 7
+**The impact of the human thalamus on brain-wide information processing**  
+Shine J, Lewis L, Garrett D, Hwang K  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-023-00701-0)
+
+**ChatGPT summary**: In this Perspective article, the authors underscore the importance of the thalamus in human cognitive neuroscience, a field which has traditionally been focused on cortical structures, and emphasize that whole-brain neuroimaging approaches are crucial to understanding the thalamus' role in systems-level control of information processing. The article highlights the role of the thalamus in shaping a range of functional neural signatures, including evoked activity, interregional connectivity, network topology, and neuronal variability, in both resting state and during cognitive tasks.
+
+## 8
+**Beware ‘persuasive communication devices’ when writing and reading scientific articles**  
+Corneille O, Havemann J, Henderson E, IJzerman H, Hussey I, Orban de Xivry J, Jussim L, Holmes N, Pilacinski A, Beffara B, Carroll H, Outa N, Lush P, Lotter L  
+[eLife](https://dx.doi.org/10.7554/elife.88654)
+
+**ChatGPT summary**: This article emphasizes the need for authors of scientific papers to judiciously use 'persuasive communication devices' to avoid overstating their findings and obfuscating limitations. It provides a list of such devices and encourages authors, reviewers, and editors to thoughtfully consider their application in the context of scientific writing.
+
+## 9
+**Robust cortical encoding of 3D tongue shape during feeding in macaques**  
+Laurence-Chasen J, Ross C, Arce-McShane F, Hatsopoulos N  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-023-38586-3)
+
+**ChatGPT summary**: Researchers used biplanar x-ray video technology and multi-electrode cortical recordings to study how the orofacial sensorimotor cortex encodes and drives the tongue's 3D, soft-body deformation during eating. They trained neural networks to decode various aspects of intraoral tongue deformation from cortical activity during feeding in male Rhesus monkeys and found that both lingual movements and complex lingual shapes could be decoded with high accuracy.
+
+## 10
+**Motor cortex latent dynamics encode arm movement direction and urgency independently**  
+Rodriguez A, Perich M, Miller L, Humphries M  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.26.542452)
+
+**ChatGPT summary**: This study used monkeys to investigate how multiple parameters of arm movement are controlled by collective neural dynamics in the motor cortex. The researchers found that the direction and urgency of arm movements are simultaneously encoded in low-dimensional trajectories of neural activity, allowing for independent control of each parameter.
+
+## 11
+**Sensory Schwann cells set perceptual thresholds for touch and selectively regulate mechanical nociception**  
+Ojeda-Alonso J, Calvo-Enrique L, Paricio-Montesinos R, Kumar R, Zhang M, Poulet J, Ernfors P, Lewin G  
+[bioRxiv](https://dx.doi.org/10.1101/2022.02.04.477749)
+
+**ChatGPT summary**: The study challenges the conventional understanding that only sensory neurons transduce mechanical stimuli, finding instead that sensory Schwann cells play a critical role in signaling mechanical pain in almost all nociceptors and are necessary for touch perception. Using optogenetics, the research uncovers the role of two distinct types of Schwann cells within Meissner's corpuscles in modulating touch sensation, suggesting that these specialized sensory Schwann cells are central to the perception of mechanical forces that underpin somatic sensation.
+
+## 12
+**<i>De novo</i>motor learning creates structure in neural activity space that shapes adaptation**  
+Chang J, Perich M, Miller L, Gallego J, Clopath C  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.23.541925)
+
+**ChatGPT summary**: Long-term learning leads to lasting changes in neural connectivity that determine the activity patterns that can be produced, which affects short-term adaptation. Recurrent neural networks trained on different motor repertoires with more defined neural structure facilitated adaptation, but only when small changes in motor output were required and the structure of the network inputs, neural activity space, and perturbation were congruent.
+
+## 13
+**Force-field adaptation without proprioception: can vision be used to model limb dynamics?**  
+Sarlegna FR, Malfait N, Bringoux L, Bourdin C, Vercher J-L  
+[Neuropsychologia](https://dx.doi.org/10.1016/j.neuropsychologia.2009.08.011)
+
+**ChatGPT summary**: This study investigates the role of proprioception in motor behavior adaptation by examining a deafferented patient with no proprioception below the nose, performing goal-directed arm movements in a new force field created by a rotating platform. The results show that, despite the patient's obvious impairment in baseline performance, they were able to adapt to the new force conditions similarly to control participants, suggesting that vision can compensate for a permanent loss of proprioception in updating the central representation of limb dynamics.
+
+## 14
+**Low-dimensional neural manifolds for the control of constrained and unconstrained movements**  
+Altan E, Ma X, Miller L, Perreault E, Solla S  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.25.542264)
+
+**ChatGPT summary**: The study explores the dimensionality of neural activity in the primary motor cortex (M1) during unconstrained, natural behaviors, revealing similarly low-dimensional manifolds as seen in more constrained, laboratory tasks. By building task-specific linear decoders to predict muscle activity from M1 manifold activity, the researchers show that decoding performance based on low-dimensional manifold activity is equivalent to performance based on the activity of all recorded neurons, establishing that both constrained and unconstrained behaviors are associated with low-dimensional M1 manifolds.
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

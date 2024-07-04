@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 220"
+date:   2023-11-10 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Human reaching control in dynamic environments**  
+Kalidindi HT, Crevecoeur F  
+[Curr Opin Neurobiol 83:102810](https://dx.doi.org/10.1016/j.conb.2023.102810)
+
+## 2
+**Preserved neural dynamics across animals performing similar behaviour**  
+Safaie M, Chang JC, Park J, Miller LE, Dudman JT, Perich MG, Gallego JA  
+[Nature](https://www.nature.com/articles/s41586-023-06714-0)
+
+## 3
+**Common mechanisms of learning in motor and cognitive systems**  
+Christos Constantinidis, Alaa A. Ahmed, Joni D. Wallis, Aaron P. Batista  
+[J Neurosci 43:7523](https://www.jneurosci.org/content/43/45/7523.abstract)
+
+## 4
+**The tip of the iceberg: a call to embrace anti-localizationism in human neuroscience research**  
+Noble S, Curtiss J, Pessoa L, Scheinost D  
+[PsyArXiv](https://osf.io/preprints/psyarxiv/9eqh6)
+
+## 5
+**An output-null signature of inertial load in motor cortex**  
+Kirk EA, Hope KT, Sober SJ, Sauerbrei BA  
+[bioRxiv:2023.11.06.565869](https://www.biorxiv.org/content/10.1101/2023.11.06.565869v1.abstract)
+
+## 6
+Pinho AL, Richard H, Eickenberg M, Amadon A, Dohmatob E, Denghien I, Torre JJ, Shankar S, Aggarwal H, Ponce AF  
+**Individual Brain Charting third release, probing brain activity during Movie Watching and Retinotopic Mapping**  
+[HAL Open Science](https://hal.science/hal-04272993v1/preview/data_paper3_hal.pdf)
+
+## 7
+**A spinal cord neuroprosthesis for locomotor deficits due to Parkinson’s disease**  
+Milekovic T et al.  
+[Nat Med](https://www.nature.com/articles/s41591-023-02584-1)
+
+## 8
+**Making sense of proprioception**  
+Santuz A, Zampieri N  
+[Trends Genet](https://dx.doi.org/10.1016/j.tig.2023.10.006)
+
+## 9
+**The locus coeruleus directs sensory-motor reflex amplitude across environmental contexts**  
+Witts EC, Mathews MA, Murray AJ  
+[Curr Biol 33:4679-4688.e3](https://www.cell.com/article/S096098222301165X/abstract)
+
+## 10
+**A Purkinje cell to parabrachial nucleus pathway enables broad cerebellar influence over the forebrain**  
+Chen CH et al.  
+[Nat Neurosci 26:1929–1941](https://www.nature.com/articles/s41593-023-01462-w)
+
+## 11
+**Functional connectivity modules in recurrent neural networks: function, origin and dynamics**  
+Tanner J, L. SM, Coletta L, Gozzi A, Betzel RF  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2310.20601)
+
+
+
+## Superlab Papers
+
+
+**Cortical areas for planning sequences before and during movement**  
+Ariani G, Shahbazi M, Diedrichsen J  
+[bioRxiv:2023.11.05.565682](https://www.biorxiv.org/content/10.1101/2023.11.05.565682v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

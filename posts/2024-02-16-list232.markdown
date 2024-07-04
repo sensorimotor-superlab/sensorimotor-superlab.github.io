@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Reading List 232"
+date:   2024-02-16 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**A real-time, high-performance brain-computer interface for finger decoding and quadcopter control**  
+Willsey MS, Shah NP, Avansino DT, Hahn NV, Jamiolkowski RM, Kamdar FB, Hochberg LR, Willett FR, Henderson JM  
+[bioRxiv:2024.02.06.578107](https://www.biorxiv.org/content/10.1101/2024.02.06.578107v1.abstract)
+
+## 2
+**Learning within a sensory-motor circuit links action to expected outcome**  
+Zhou W, Schneider DM  
+[bioRxiv:2024.02.08.579532](https://www.biorxiv.org/content/10.1101/2024.02.08.579532v1.abstract)
+
+## 3
+**Human Motor Cortex Encodes Complex Handwriting Through a Sequence of Primitive Neural States**  
+Qi Y, Zhu X, Xiong X, Yang X, Ding N, Wu H, Xu K, Zhu J, Zhang J, Wang Y  
+[bioRxiv:2024.02.05.578548](https://www.biorxiv.org/content/10.1101/2024.02.05.578548v1.abstract)
+
+## 4
+**The secondary somatosensory cortex gates mechanical and heat sensitivity**  
+Taub DG, Jiang Q, Pietrafesa F, Su J, Carroll A, Greene C, Blanchard MR, Jain A, El-Rifai M, Callen A, Yager K, Chung C, He Z, Chen C, Woolf CJ  
+[Nature Communications](https://www.nature.com/articles/s41467-024-45729-7)
+
+## 5
+**Mesoscopic calcium imaging in a head-unrestrained male non-human primate using a lensless microscope**  
+Wu J, Chen Y, Veeraraghavan A, Seidemann E, Robinson JT  
+[Nature Communications](https://www.nature.com/articles/s41467-024-45417-6)
+
+## 6
+**Modeling and dissociation of intrinsic and input-driven neural population dynamics underlying behavior**  
+Vahidi P, Sani OG, Shanechi MM  
+[Proc Natl Acad Sci USA 121:e2212887121](https://www.pnas.org/doi/abs/10.1073/pnas.2212887121)
+
+## 7
+**Visuo-frontal interactions during social learning in freely moving macaques**  
+Franch M, Yellapantula S, Parajuli A, Kharas N, Wright A, Aazhang B, Dragoi V  
+[Nature](https://www.nature.com/articles/s41586-024-07084-x)
+
+## 8
+**How muscle synergies fail to solve the muscle redundancy problem during human reaching**  
+Korol AS, Gritsenko V  
+[bioRxiv:2024.02.12.579990](https://www.biorxiv.org/content/10.1101/2024.02.12.579990v1.abstract)
+
+
+## Superlab Papers
+
+**Future movement plans interact in sequential arm movements**  
+Kashefi M, Reschechtko S, Ariani G, Shahbazi M, Tan A, Diedrichsen J, Pruszynski JA  
+[eLife](https://elifesciences.org/reviewed-preprints/94485)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

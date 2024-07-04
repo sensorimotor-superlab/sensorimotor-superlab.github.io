@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 129"
+date:   2021-10-15 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Learning from the physical consequences of our actions improves motor memory**  
+Bakkum A, Marigold DS  
+[bioRxiv:2021.10.07.463541](https://www.biorxiv.org/content/10.1101/2021.10.07.463541v1)
+
+## 2
+**Nigrostriatal dopamine signals sequence-specific action-outcome prediction errors**  
+Hollon NG, Williams EW, Howard CD, Li H, Traut TI, Jin X  
+[Curr Biol (2021)](https://dx.doi.org/10.1016/j.cub.2021.09.040)
+
+## 3
+**Bayesian inference of population prevalence**  
+Ince RA, Paton AT, Kay JW, Schyns PG  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.62461)
+
+## 4
+**For love of neuroscience: The Neuromatch movement**  
+Körding KP  
+[Neuron 109:3034–3035 (2021)](https://dx.doi.org/10.1016/j.neuron.2021.07.021)
+
+## 5
+**Low-dimensional encoding of decisions in parietal cortex reflects long-term training history**  
+Latimer KW, Freedman DJ  
+[bioRxiv:2021.10.07.463576](https://www.biorxiv.org/content/10.1101/2021.10.07.463576v1)
+
+## 6
+**Mechanoreceptor synapses in the brainstem shape the central representation of touch**  
+Lehnert BP, Santiago C, Huey EL, Emanuel AJ, Renauld S, Africawala N, Alkislar I, Zheng Y, Bai L, Koutsioumpa C, Hong JT, Magee AR, Harvey CD, Ginty DD  
+[Cell (2021)](https://dx.doi.org/10.1016/j.cell.2021.09.023)
+
+## 7
+**The Learning Salon: Toward a new participatory science**  
+Momennejad I, Krakauer JW, Sun C, Yezerets E, Rajan K, Vogelstein JT, Wyble B  
+[Neuron 109:3036–3040 (2021)](https://dx.doi.org/10.1016/j.neuron.2021.08.023)
+
+## 8
+**The value of corticospinal excitability and intracortical inhibition in predicting motor skill improvement driven by action observation**  
+Nuara A, Bazzini C, Cardellicchio P, Scalona E, De Marco D, Rizzolatti G, Fabbri-Destro M, Avanzini P  
+[bioRxiv:2021.10.07.463481](https://www.biorxiv.org/content/10.1101/2021.10.07.463481v1)
+
+## 9
+**Volitional control of individual neurons in the human brain**  
+Patel K, Katz CN, Kalia SK, Popovic MR, Valiante TA  
+[Brain (2021)](https://dx.doi.org/10.1093/brain/awab370)
+
+## 10
+**The cost of correcting for error during sensorimotor adaptation**  
+Sedaghat-Nejad E, Shadmehr R  
+[Proc Natl Acad Sci 118 (2021)](https://dx.doi.org/10.1073/pnas.2101717118)
+
+## 11
+**A bias generating temporal distortions in serial perception**  
+Sierra F, Poeppel D, Tavano A  
+[bioRxiv:2021.10.08.463190](https://www.biorxiv.org/content/10.1101/2021.10.08.463190v1)
+
+
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

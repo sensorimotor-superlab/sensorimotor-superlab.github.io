@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Reading List 67"
+date:   2020-05-08 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Replay of Learned Neural Firing Sequences during Rest in Human Motor Cortex**  
+Eichenlaub J-B, Jarosiewicz B, Saab J, Franco B, Kelemen J, Halgren E, Hochberg LR, Cash SS  
+Cell Rep 31:107581 (2020)  
+[https://dx.doi.org/10.1016/j.celrep.2020.107581](https://dx.doi.org/10.1016/j.celrep.2020.107581)
+
+## 2
+**CoNNECT: Convolutional Neural Network for Estimating synaptic Connectivity from spike Trains**  
+Endo D, Kobayashi R, Bartolo R, Averbeck BB, Sugase-Miyamoto Y, Hayashi K, Kenji K, Richmond BJ, Shinomoto S  
+bioRxiv:2020.05.05.078089 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.05.078089v1](https://www.biorxiv.org/content/10.1101/2020.05.05.078089v1)
+
+## 3
+**Causal roles of frontoparietal cortical areas in feedback control of the limb**  
+Takei T, Lomber SG, Cook DJ, Scott SH  
+bioRxiv:2020.05.02.072538 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.02.072538v1](https://www.biorxiv.org/content/10.1101/2020.05.02.072538v1)
+
+## 4
+**Continuous Reports of Sensed Hand Position During Sensorimotor Adaptation**  
+Tsay JS, Parvin DE, Ivry RB  
+bioRxiv:2020.04.29.068197 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.29.068197v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.29.068197v1.abstract?%3Fcollection=)
+
+## 5
+**Bump’em: an Open-Source, Bump-Emulation System for Studying Human Balance and Gait**  
+Tan GR, Raitor M, Collins SH  
+[http://biomechatronics.cit.cmu.edu/publications/Tan_2020_ICRA.pdf](http://biomechatronics.cit.cmu.edu/publications/Tan_2020_ICRA.pdf)
+
+Also see the [tweeprint](https://twitter.com/MichaelRaitor/status/1258053617208168449).
+
+## 6
+**Learning Structures: Predictive Representations, Replay, and Generalization**  
+Momennejad I  
+Current Opinion in Behavioral Sciences 32:155–166 (2020)  
+[https://dx.doi.org/10.1016/j.cobeha.2020.02.017](https://dx.doi.org/10.1016/j.cobeha.2020.02.017)
+
+## 7
+**The emergence of transcriptional identity in somatosensory neurons**  
+Sharma N, Flaherty K, Lezgiyeva K, Wagner DE, Klein AM, Ginty DD  
+Nature 577:392–398 (2020)  
+[https://dx.doi.org/10.1038/s41586-019-1900-1](https://dx.doi.org/10.1038/s41586-019-1900-1)
+
+## 8
+**Cutaneous afferent regulation of motor function**  
+Panek I, Bui T, Wright ATB, Brownstone RM  
+Acta Neurobiol Exp 74:158–171 (2014)  
+[https://www.ncbi.nlm.nih.gov/pubmed/24993626](https://www.ncbi.nlm.nih.gov/pubmed/24993626)
+
+## 9
+**Chronic use of a sensitized bionic hand does not remap the sense of touch**  
+Ortiz-Catalan M, Mastinu E, Bensmaia S  
+medRxiv (2020)  
+[https://www.medrxiv.org/content/10.1101/2020.05.02.20089185v1.abstract](https://www.medrxiv.org/content/10.1101/2020.05.02.20089185v1.abstract)
+
+Also check out the [tweeprint](https://twitter.com/slimanjbensmaia/status/1258483824234835971)
+
+## 10
+**Feedback-Controlled Transcranial Alternating Current Stimulation Reveals a Functional Role of Sleep Spindles in Motor Memory Consolidation**  
+Lustenberger C, Boyle MR, Alagapan S, Mellin JM, Vaughn BV, Fröhlich F  
+Curr Biol 26:2127–2136 (2016)  
+[https://dx.doi.org/10.1016/j.cub.2016.06.044](https://dx.doi.org/10.1016/j.cub.2016.06.044)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

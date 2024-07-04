@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Reading List 22"
+date:   2019-06-21 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Domain-specific working memory, but not dopamine-related genetic variability, shapes reward-based motor learning**  
+Holland, P., Codol, O., Oxley, E., Taylor, M., Hamshere, E., Joseph, S., Huffer, L., and Galea, J.M.  
+bioRxiv, 524900 (2019)  
+[https://www.biorxiv.org/content/10.1101/524900v2.abstract](https://www.biorxiv.org/content/10.1101/524900v2.abstract)
+
+## 2
+**Reward Expectation Modulates Local Field Potentials, Spiking Activity and Spike-Field Coherence in the Primary Motor Cortex**  
+An, J., Yadav, T., Hessburg, J.P., and Francis, J.T.  
+eNeuro (2019)  
+[https://dx.doi.org/10.1523/ENEURO.0178-19.2019](https://dx.doi.org/10.1523/ENEURO.0178-19.2019)
+
+## 3
+**Modeling in Neuroscience as a Decision Process**  
+Schrater, P., Kording, K., and Blohm, G.  
+[https://osf.io/w56vt/](https://osf.io/w56vt/)
+
+## 4
+**Neural effects of transcranial magnetic stimulation at the single-cell level**  
+Romero, M.C., Davare, M., Armendariz, M., and Janssen, P.  
+Nat. Commun. 10, 2642 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-10638-7](https://dx.doi.org/10.1038/s41467-019-10638-7)
+
+## 5
+**Spectral Hallmark of Auditory-Tactile Interactions in Somatosensory Cortex**  
+Zhang, M., Kwon, S.E., Ben-Johny, M., O’Connor, D.H., and Issa, J.B.  
+bioRxiv, 668319 (2019)  
+[https://www.biorxiv.org/content/10.1101/668319v2](https://www.biorxiv.org/content/10.1101/668319v2)
+
+## 6
+**Rapid adaptation to Coriolis force perturbations of voluntary body sway**  
+Bakshi, A., DiZio, P., and Lackner, J.R.  
+J. Neurophysiol. 121, 2028–2041 (2019)  
+[https://dx.doi.org/10.1152/jn.00606.2018](https://dx.doi.org/10.1152/jn.00606.2018)
+
+## 7
+**Touch as an auxiliary proprioceptive cue for movement control**  
+Moscatelli, A., Bianchi, M., Ciotti, S., Bettelani, G.C., Parise, C.V., Lacquaniti, F., and Bicchi, A.  
+Sci Adv 5, eaaw3121 (2019)  
+[https://dx.doi.org/10.1126/sciadv.aaw3121](https://dx.doi.org/10.1126/sciadv.aaw3121)
+
+## 8
+**Working Memory 2.0**  
+Miller, E.K., Lundqvist, M., and Bastos, A.M.  
+Neuron 100, 463–475 (2018)  
+[https://dx.doi.org/10.1016/j.neuron.2018.09.023](https://dx.doi.org/10.1016/j.neuron.2018.09.023)
+
+## 9
+**A mechatronic system for studying energy optimization during walking**  
+Simha, S.N., Wong, J.D., Selinger, J.C., and Donelan, J.M.  
+IEEE Trans Neural Syst Rehabil Eng (2019)  
+[https://dx.doi.org/10.1109/TNSRE.2019.2917424](https://dx.doi.org/10.1109/TNSRE.2019.2917424)
+
+## 10
+**Multidigit movement synergies of the human hand in an unconstrained haptic exploration task**  
+Thakur, P.H., Bastian, A.J., and Hsiao, S.S.  
+J. Neurosci. 28, 1271–1281 (2008)  
+[https://dx.doi.org/10.1523/JNEUROSCI.4512-07.2008](https://dx.doi.org/10.1523/JNEUROSCI.4512-07.2008)
+
+**Postural Hand Synergies during Environmental Constraint Exploitation**  
+Della Santina, C., Bianchi, M., Averta, G., Ciotti, S., Arapi, V., Fani, S., Battaglia, E., Catalano, M.G., Santello, M., and Bicchi, A.  
+Front. Neurorobot. 11, 41 (2017)  
+[https://dx.doi.org/10.3389/fnbot.2017.00041](https://dx.doi.org/10.3389/fnbot.2017.00041)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 156"
+date:   2022-04-22 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Networking brainstem and basal ganglia circuits for movement**  
+Arber S, Costa RM  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-022-00581-w)
+
+## 2
+**Beyond cortex: The evolution of the human brain**  
+Chin R, Chang SWC, Holmes AJ  
+[Psychol Rev](https://dx.doi.org/10.1037/rev0000361)
+
+## 3
+**Modulation of inhibitory communication coordinates looking and reaching**  
+Hagan MA, Pesaran B  
+[Nature](https://www.nature.com/articles/s41586-022-04631-2)
+
+## 4
+**Somatosensory Cortical Signature of Facial Nociception and Vibrotactile Touch Induced Analgesia**  
+Lu J, Chen B, Levy M, Xu P, Han B-X, Takatoh J, Thompson PM, He Z, Prevosto V, Wang F  
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.14.488349v1)
+
+## 5
+**Dynamic compartmental computations in tuft dendrites of layer 5 neurons during motor behavior**  
+Otor Y, Achvat S, Cermak N, Benisty H, Abboud M, Barak O, Schiller Y, Poleg-Polsky A, Schiller J  
+[Science](https://dx.doi.org/10.1126/science.abn1421)
+
+## 6
+**Transformation of an early-established motor circuit during maturation in zebrafish**  
+Pallucchi I, Bertuzzi M, Michel JC, Miller AC, El Manira A  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.110654)
+
+## 7
+**Rabies Anterograde Monosynaptic Tracing Allows Identification of Postsynaptic Circuits Receiving Distinct Somatosensory Input**  
+Pimpinella S, Sauve I, Dietrich S, Zampieri N  
+[Neuroscience](https://dx.doi.org/10.1016/j.neuroscience.2022.03.011)
+
+## 8
+**Epidural stimulation of the cervical spinal cord improves voluntary motor control in post-stroke upper limb paresis**  
+Powell MP, Verma N, Sorensen E, Carranza E, Boos A, Fields D, Roy S, Ensel S, Barra B, Balzer J, Goldsmith J, Friedlander RM, Wittenberg G, Fisher LE, Krakauer JW, Gerszten PC, Pirondini E, Weber DJ, Capogrosso M  
+[medRxiv](https://www.medrxiv.org/content/10.1101/2022.04.11.22273635v1.abstract)
+
+## 9
+**A Third Somatomotor Representation in the Human Cerebellum**  
+Saadon-Grosman N, Angeli PA, DiNicola LM, Buckner RL  
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.04.13.488247v1)
+
+## 10
+**Monosynaptic facilitation mediated by group Ia afferents from deltoid to biceps brachii motoneurons in humans**  
+Yoshimoto T, Nito M, Hashizume W, Miyasaka T, Shindo M, Naito A  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-022-06332-8)
+
+## 11
+**Covert attention to obstacles biases escapes via the Mauthner cell**  
+Zwaka H, McGinnis OJ, Pflitsch P, Prabha S, Mansinghka V, Engert F, Bolton AD  
+[bioRxiv:2022.04.14.488363](https://www.biorxiv.org/content/10.1101/2022.04.14.488363v1)
+
+
+## Superlab Papers
+
+**Mapping the integration of sensory information across fingers in human sensorimotor cortex**  
+Arbuckle SA, Andrew Pruszynski J, Diedrichsen J  
+[bioRxiv:2021.07.07.451552](https://www.biorxiv.org/content/10.1101/2021.07.07.451552v2)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

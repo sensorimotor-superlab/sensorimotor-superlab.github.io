@@ -1,0 +1,168 @@
+---
+layout: post
+title:  "Reading List 214"
+date:   2023-07-07 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+
+## 1
+**The insect compass system: from theory to circuitry**  
+Aceituno PV, Dall’Osto D, Pisokas I  
+[bioRxiv:2023.07.05.547838](https://www.biorxiv.org/content/10.1101/2023.07.05.547838v1)
+
+
+## 2
+**Invariant neural dynamics drive commands to control different movements**  
+Athalye VR, Khanna P, Gowda S, Orsborn AL, Costa RM, Carmena JM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.06.027)
+
+
+## 3
+**Continuous use of visual information about the position of the moving hand**  
+Brenner E, Smeets JBJ  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06658-x)
+
+
+## 4
+**Sub-surface deformation of individual fingerprint ridges during tactile interactions**  
+Corniani G, Lee ZS, Carré MJ, Lewis R, Delhaye BP, Saal HP  
+[bioRxiv:2023.07.02.547395](https://www.biorxiv.org/content/10.1101/2023.07.02.547395v1)
+
+
+## 5
+**A modular approach to handle in-vivo drift correction for high-density extracellular recordings**  
+Garcia S, Windolf C, Boussard J, Dichter B, Buccino AP, Yger P  
+[bioRxiv:2023.06.29.546882](https://www.biorxiv.org/content/10.1101/2023.06.29.546882v1)
+
+
+## 6
+**Separating the control of moving and holding still in post-stroke arm paresis**  
+Hadjiosif AM, Kita K, Albert ST, Scheidt RA, Shadmehr R, Krakauer JW  
+[bioRxiv:2022.11.26.517884](https://www.biorxiv.org/content/10.1101/2022.11.26.517884v2)
+
+
+## 7
+**Intrinsic neural diversity quenches the dynamic volatility of neural networks**  
+Hutt A, Rich S, Valiante TA, Lefebvre J  
+[PNAS 120:e2218841120](https://dx.doi.org/10.1073/pnas.2218841120)
+
+
+## 8
+**Biophysical neural adaptation mechanisms enable deep learning models to capture dynamic retinal computation**  
+Idrees S, Rieke F, Field GD, Zylberberg J  
+[bioRxiv:2023.06.20.545728](https://www.biorxiv.org/content/10.1101/2023.06.20.545728v1)
+
+
+## 9
+**A Brain-Wide Map of Neural Activity during Complex Behaviour**  
+International Brain Lab et al.  
+[bioRxiv:2023.07.04.547681](https://www.biorxiv.org/content/10.1101/2023.07.04.547681v2)
+
+
+## 10
+**Dead rats, dopamine, performance metrics, and peacock tails: proxy failure is an inherent risk in goal-oriented systems**  
+John YJ, Caldwell L, McCoy DE, Braganza O  
+[Behav Brain Sci:1–68](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/dead-rats-dopamine-performance-metrics-and-peacock-tails-proxy-failure-is-an-inherent-risk-in-goaloriented-systems/89408A43F6D14BFD368FE5225A573032)
+
+
+## 11
+**Automated system for training and assessing string-pulling behaviors in rodents**  
+Jordan GA, Vishwanath A, Holguin G, Bartlett MJ, Tapia AK, Winter GM, Sexauer MM, Stopera CJ, Falk T, Cowen SL  
+[bioRxiv:2023.07.02.547431](https://www.biorxiv.org/content/10.1101/2023.07.02.547431v1)
+
+
+## 12
+**Putting cognitive tasks on trial: A measure of reliability convergence**  
+Kadlec J, Walsh C, Sade U, Amir A, Rissman J, Ramot M  
+[bioRxiv:2023.07.03.547563](https://www.biorxiv.org/content/10.1101/2023.07.03.547563v1)
+
+
+## 13
+**A distinct neural activity subspace for direct motor cortical influence on muscles**  
+Koh N, Ma Z, Sarup A, Kristl AC, Agrios M, Young M, Miri A  
+[bioRxiv:2023.06.18.545509](https://www.biorxiv.org/content/10.1101/2023.06.18.545509v1)
+
+
+## 14
+**Memories of Hand Movements are Tied to Speech Through Learning**  
+Lametti DR, Vaillancourt GL, Whitman M, Skipper JI  
+[psyArXiv](https://psyarxiv.com/guefc)
+
+
+## 15
+**Artificial Gravity During a Spaceflight Analog Alters Brain Sensory Connectivity**  
+McGregor HR, Lee JK, Mulder ER, De Dios YE, Beltran NE, Wood SJ, Bloomberg JJ, Mulavara AP, Seidler RD  
+[Neuroimage:120261](https://www.sciencedirect.com/science/article/pii/S1053811923004123)
+
+
+## 16
+**Machine learning reveals the control mechanics of the insect wing hinge**  
+Melis JM, Dickinson MH  
+[bioRxiv:2023.06.29.547116](https://www.biorxiv.org/content/10.1101/2023.06.29.547116v2)
+
+
+## 17
+**Inserting a Neuropixels probe into awake monkey cortex: two probes, two methods**  
+Namima T, Kempkes E, Smith B, Pasupathy A  
+[bioRxiv:2023.06.26.546631](https://www.biorxiv.org/content/10.1101/2023.06.26.546631v1)
+
+
+## 18
+**Vowel and formant representation in the human auditory speech cortex**  
+Oganian Y, Bhaya-Grossman I, Johnson K, Chang EF  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2023.04.004)
+
+
+## 19
+**How to make your scientific data accessible, discoverable and useful**  
+Perkel JM  
+[Nature 618:1098–1099](https://dx.doi.org/10.1038/d41586-023-01929-7)
+
+
+## 20
+**Wearable movement-tracking data identify Parkinson’s disease years before clinical diagnosis**  
+Schalkamp A-K, Peall KJ, Harrison NA, Sandor C  
+[Nat Med](https://dx.doi.org/10.1038/s41591-023-02440-2)
+
+
+## 21
+**Predictive saccades and decision making in the beetle-predating saffron robber fly**  
+Talley J, Pusdekar S, Feltenberger A, Ketner N, Evers J, Liu M, Gosh A, Palmer SE, Wardill TJ, Gonzalez-Bellido PT  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.06.019)
+
+
+## Summer Break
+The List will be taking a break for the rest of the summer, see you in September!
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Reading List 76"
+date:   2020-07-10 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Tuning of feedforward control enables stable muscle force-length dynamics after loss of autogenic proprioceptive feedback**  
+Gordon JC, Holt NC, Biewener A, Daley MA  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.53908](https://dx.doi.org/10.7554/eLife.53908)
+
+## 2
+**Movement initiation and grasp representation in premotor and primary motor cortex mirror neurons**  
+Jerjian SJ, Sahani M, Kraskov A  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.54139](https://dx.doi.org/10.7554/eLife.54139)
+
+## 3
+**The effect of sequence learning on sensorimotor adaptation**  
+Liu Y, Block HJ  
+bioRxiv:2020.07.06.190397 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.06.190397v1](https://www.biorxiv.org/content/10.1101/2020.07.06.190397v1)
+
+## 4
+**Flexible recruitment of memory-based choice representations by the human medial frontal cortex**  
+Minxha J, Adolphs R, Fusi S, Mamelak AN, Rutishauser U  
+Science 368 (2020)  
+[https://dx.doi.org/10.1126/science.aba3313](https://dx.doi.org/10.1126/science.aba3313)
+
+## 5
+**Vestigial auriculomotor activity indicates the direction of auditory attention in humans**  
+Strauss DJ, Corona-Strauss FI, Schroeer A, Flotho P, Hannemann R, Hackley SA  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.54536](https://dx.doi.org/10.7554/eLife.54536)
+
+## 6
+**Demixed shared component analysis of neural population data from multiple brain areas**  
+Takagi Y, Kennerley SW, Hirayama J-I, Hunt LT  
+arXiv [q-bioNC] (2020)  
+[https://arxiv.org/abs/2006.10212](https://arxiv.org/abs/2006.10212)
+
+## 7
+**Computation Through Neural Population Dynamics**  
+Vyas S, Golub MD, Sussillo D, Shenoy KV  
+Annu Rev Neurosci 43:249–275 (2020)  
+[https://dx.doi.org/10.1146/annurev-neuro-092619-094115](https://dx.doi.org/10.1146/annurev-neuro-092619-094115)
+
+## 8
+**Complementary roles of dimensionality and population structure in neural computations**  
+Dubreuil A, Valente A, Beiran M, Mastrogiuseppe F, Ostojic S  
+bioRxiv:2020.07.03.185942 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.03.185942v1](https://www.biorxiv.org/content/10.1101/2020.07.03.185942v1)
+
+## 9
+**High-performance brain-to-text communication via imagined handwriting**  
+Willett FR, Avansino DT, Hochberg LR, Henderson JM, Shenoy KV  
+bioRxiv:2020.07.01.183384 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1](https://www.biorxiv.org/content/10.1101/2020.07.01.183384v1)
+
+## 10
+**EyeLoop: An open-source, high-speed eye-tracker designed for dynamic experiments**  
+Arvin S, Rasmussen R, Yonehara K  
+bioRxiv:2020.07.03.186387 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.03.186387v1](https://www.biorxiv.org/content/10.1101/2020.07.03.186387v1)
+
+
+
+# Superlab Papers
+
+**Comparing representational geometries using the unbiased distance correlation**  
+Diedrichsen J, Berlot E, Mur M, Schütt HH, Kriegeskorte N  
+arXiv [statAP] (2020)  
+[https://arxiv.org/abs/2007.02789](https://arxiv.org/abs/2007.02789)
+
+**Human first-order tactile neurons can resolve spatial details on the scale of single fingerprint ridges**  
+Jarocka E, Andrew Pruszynski J, Johansson RS  
+bioRxiv:2020.07.03.185777 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.03.185777v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.03.185777v1.abstract?%3Fcollection=)
+
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,148 @@
+---
+layout: post
+title:  "Reading List 9"
+date:   2019-03-22 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that caught our attention this week.
+
+We also introduce a new feature, **Superlab Publications**, which presents new articles published by members of the Sensorimotor Superlab.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Coordinated Movement: Watching Proprioception Unfold**  
+Montell, C.  
+Current Biology 29, R202–R205 (2019)  
+[https://dx.doi.org/10.1016/j.cub.2019.02.004](https://dx.doi.org/10.1016/j.cub.2019.02.004)
+
+This is a Current Biology *Dispatch* by Craig Montell, highlighting two  papers that together represent major accomplishments in the ability to test new models of proprioception in freely moving animals. High-speed video microscopy was used to monitor dynamic changes in the shape of proprioceptive neurons (e.g. dendritic folding) and how these deformations relate to proprioceptive neural activity and muscle contraction during different kinds of movements in the motor repertoire of Drosophila larva. This new technical ability is described as "a game-changer for defining how proprioceptive neurons modulate coordinated movements." The videos (included in the online articles) are stunning.
+
+**Characterization of Proprioceptive System Dynamics in Behaving Drosophila Larvae Using High-Speed Volumetric Microscopy**  
+Vaadia, R.D., Li, W., Voleti, V., Singhania, A., Hillman, E.M.C., and Grueber, W.B.  
+Curr. Biol. (2019)  
+[https://dx.doi.org/10.1016/j.cub.2019.01.060](https://dx.doi.org/10.1016/j.cub.2019.01.060)
+
+**Direction Selectivity in Drosophila Proprioceptors Requires the Mechanosensory Channel Tmc**  
+He, L., Gulyanon, S., Mihovilovic Skanata, M., Karagyozov, D., Heckscher, E.S., Krieg, M., Tsechpenakis, G., Gershow, M., and Tracey, W.D.  
+Curr. Biol. (2019)  
+[https://dx.doi.org/10.1016/j.cub.2019.02.025](https://dx.doi.org/10.1016/j.cub.2019.02.025)
+
+## 2
+**Autonomous functional movements in a tendon-driven limb via limited experience**  
+Marjaninejad, A., Urbina-Meléndez, D., Cohn, B.A., and Valero-Cuevas, F.J.  
+Nature Machine Intelligence 1, 144–154 (2019)  
+[https://dx.doi.org/10.1038/s42256-019-0029-0](https://dx.doi.org/10.1038/s42256-019-0029-0)
+
+A robot limb driven by animal-like tendons uses a biologically-inspired algorithm to learn new movements without any prior knowledge or offline simulations to guide learning. The robot learns a mapping relating control signals and movements through motor babbling, after which functional behaviours are built up by reinforcing high-reward movements and refining the inverse map. The approach is more biologically plausible than optimization algorithms that seek to define perfect closed-loop control policies.
+
+## 3
+**Step-to-step variations in human running reveal how humans run without falling**  
+Seethapathi, N., and Srinivasan, M.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.38371](https://dx.doi.org/10.7554/eLife.38371)
+
+How do humans run without falling down? Perturbations both from the external world (e.g. uneven terrain) and from internal factors such as sensory and motor noise perturb us continuously. The authors discover that small step-to-step variability contains considerable information about strategies used to run stably, and that deviations in a runner's centre of mass are corrected by changes in foot placement and forces in leg muscles, well in advance of foot touchdown. Also see this [twitter thread](https://twitter.com/nidhi_s91/status/1108418520168181762?s=11).
+
+## 4
+**Starting and stopping movement by the primate brain**  
+Lemon, R., and Kraskov, A.  
+Brain and Neuroscience Advances 3, 2398212819837149 (2019)  
+[https://dx.doi.org/10.1177/2398212819837149](https://dx.doi.org/10.1177/2398212819837149)
+
+Lemon and Kraskov review issues central to motor control including movement generation (or suppression), motor imagery, and the relationship between action observation and action execution. From Sherrington to Shenoy, they focus on non-human primate research, stressing its importance as a model for understanding human motor function in the healthy population, and improving translational approaches to neurological diseases.
+
+## 5
+**Towards the neural population doctrine**  
+Saxena, S., and Cunningham, J.P.  
+Curr. Opin. Neurobiol. 55, 103–111 (2019)  
+[https://dx.doi.org/10.1016/j.conb.2019.02.002](https://dx.doi.org/10.1016/j.conb.2019.02.002)
+
+The debate is not new: are we to understand cognitive and neural functions by studying individual neurons, or is a network-level approach needed? Saxena & Cunningham review areas of study in which analysis of neuronal populations has benefited our understanding of computation in the brain. Novel techniques and approaches for studying populations of neurons breathe new life into the idea that the network is the "essential unit of computation" in the brain.
+
+## 6
+**Independent working memory resources for egocentric and allocentric spatial information**  
+Aagten-Murphy, D., and Bays, P.M.  
+PLoS Comput Biol 15, e1006563 (2019)  
+[https://dx.doi.org/10.1371/journal.pcbi.1006563](https://dx.doi.org/10.1371/journal.pcbi.1006563)
+
+## 7
+**Task errors drive memories that improve sensorimotor adaptation**  
+Leow, L.-A., Marinovic, W., de Rugy, A., and Carroll, T.J.  
+bioRxiv, 538348 (2019)  
+[https://www.biorxiv.org/content/10.1101/538348v2](https://www.biorxiv.org/content/10.1101/538348v2)
+
+## 8
+**Filtering Compensation for Delays and Prediction Errors during Sensorimotor Control**  
+Crevecoeur, F., and Gevers, M.  
+Neural Comput 31, 738–764 (2019)  
+[https://dx.doi.org/10.1162/neco_a_01170](https://dx.doi.org/10.1162/neco_a_01170)
+
+## 9
+**Perception in autism does not adhere to Weber’s law**  
+Hadad, B.-S., and Schwartz, S.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.42223](https://dx.doi.org/10.7554/eLife.42223)
+
+## 10
+**Reinforcement learning in artificial and biological systems**  
+Neftci, E.O., and Averbeck, B.B.  
+Nature Machine Intelligence 1, 133–143 (2019)  
+[https://dx.doi.org/10.1038/s42256-019-0025-4](https://dx.doi.org/10.1038/s42256-019-0025-4)
+
+
+# Superlab Publications
+Here we list new papers by members of the sensoriomotor superlab:
+
+**Both Fast and Slow Learning Processes Contribute to Savings Following Sensorimotor Adaptation**  
+Coltman, S.K., Cashaback, J.G., and Gribble, P.L.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00794.2018](https://dx.doi.org/10.1152/jn.00794.2018)
+
+Coltman et al. explore the mechanisms underlying savings using a two-state model to represent the fast and slow processes that contribute to force-field adaptation. While previous research has attributed savings to only changes in the fast process, the authors suggest that both fast and slow processes modulate learning rate. Importantly, this work cautions against fitting a two-state model to individual subject data without also considering how the model fits across a population of subjects.
+
+**Neural Signatures of Reward and Sensory Error Feedback Processing in Motor Learning**  
+Palidis, D.J., Cashaback, J.G.A., and Gribble, P.L.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00792.2018](https://dx.doi.org/10.1152/jn.00792.2018)
+
+Motor adaptation is driven by sensory errors when the sensed state of the effector violates the predicted consequences of motor commands, and also by reward learning processes which reinforce actions with utility and deter actions with low utility. Palidis et al. use EEG to demonstrate that a mid-frontal event related potential called the feedback related negativity is elicited specifically by reinforcement outcomes but not sensory error, while a more posterior potential called the P300 is modulated by both reinforcement outcomes and sensory error. These findings clarify the roles of sensory and reward-related error information in common neural correlates of error processing.
+
+**The effects of habits on motor skill learning**  
+Popp, N.J., Yokoi, A., Gribble, P.L., and Diedrichsen, J.  
+bioRxiv (2019)  
+[https://www.biorxiv.org/content/10.1101/338749v2](https://www.biorxiv.org/content/10.1101/338749v2)
+
+Popp et al. investigated habit formation in motor sequence learning, using cognitive chunking as a clever way to induce specific habits during an initial training period that were either advantageous or disadvantageous to motor performance. They found that habits continued to influence movements throughout 3 weeks of unstructured practice even if they hindered performance. The work represents a new way to study how bad habits may be overcome, and beneficial habits strengthened.
+
+**Maintaining arm control during self-triggered and unpredictable unloading perturbations**  
+Reschechtko, S., Johannson, A.S., and Pruszynski, J.A.  
+bioRxiv (2019)  
+[https://www.biorxiv.org/content/10.1101/578450v1](https://www.biorxiv.org/content/10.1101/578450v1)
+
+You are trying to loosen a rusty bolt: you know it will break free at some point, but you’re not sure when---and you don’t want to smash your hand when it does! The authors re-created self-triggered, but unpredictable, perturbations in the laboratory to investigate preparations for and responses to this ecologically common class of perturbations.
+
+**Movements following force-field adaptation are aligned with altered sense of limb position**  
+Ohashi, H., Valle-Mena, R., Gribble, P.L., and Ostry, D.J.  
+Exp. Brain Res. (2019)  
+[https://dx.doi.org/10.1007/s00221-019-05509-y](https://dx.doi.org/10.1007/s00221-019-05509-y)
+
+We know from previous work that sensed limb position changes after learning to reach in a force-field. Ohashi et al. extend this finding and show that (1) sensory change and motor adaptation were linked at each stage of learning, (2) when sensed limb position changed following force-field adaptation, movements following washout trials did not return to baseline, and (3) across participants, post-washout limb position was correlated with the magnitude of sensed limb position change. The authors discuss the results in the context of the idea that sensory and motor changes are both integral parts of what we think of as motor learning.
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+

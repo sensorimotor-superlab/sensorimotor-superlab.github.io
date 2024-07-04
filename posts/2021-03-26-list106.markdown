@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Reading List 106"
+date:   2021-03-26 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Output planning at the input stage in visual working memory**  
+Boettcher SEP, Gresch D, Nobre AC, van Ede F  
+Science Advances (2021) [https://advances.sciencemag.org/content/7/13/eabe8212](https://advances.sciencemag.org/content/7/13/eabe8212)
+
+## 2
+**Approaches to Revealing the Neural Basis of Muscle Synergies: A Review and A Critique**  
+Cheung VCK, Seki K  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00625.2019](https://dx.doi.org/10.1152/jn.00625.2019)
+
+## 3
+**A leg to stand on: computational models of proprioception**  
+Dallmann CJ, Karashchuk P, Brunton BW, Tuthill JC  
+Curr Opin Physiol (2021) [https://www.sciencedirect.com/science/article/pii/S2468867321000365](https://www.sciencedirect.com/science/article/pii/S2468867321000365)
+
+## 4
+**Proprioception-based movement goals support imitation and are disrupted in apraxia**  
+Isaacs MW, Buxbaum LJ, Wong AL  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.17.435845v1](https://www.biorxiv.org/content/10.1101/2021.03.17.435845v1)
+
+## 5
+**Brain network reorganisation in an adolescent after bilateral perinatal strokes**  
+Laumann TO, Ortega M, Hoyt CR, Seider NA, Snyder AZ, Dosenbach NU  
+Lancet Neurol (2021) [https://dx.doi.org/10.1016/S1474-4422(21)00062-4](https://dx.doi.org/10.1016/S1474-4422(21)00062-4)
+
+## 6
+**Single-trial decoding of movement intentions using functional ultrasound neuroimaging**  
+Norman SL, Maresca D, Christopoulos VN, Griggs WS, Demene C, Tanter M, Shapiro MG, Andersen RA  
+Neuron (2021) [https://dx.doi.org/10.1016/j.neuron.2021.03.003](https://dx.doi.org/10.1016/j.neuron.2021.03.003)
+
+## 7
+**Reward boosts reinforcement-based motor learning**  
+Vassiliadis P, Derosiere G, Dubuc C, Lete A, Crevecoeur F, Hummel FC, Duque J  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.23.436627v1](https://www.biorxiv.org/content/10.1101/2021.03.23.436627v1)
+
+## 8
+**Dynamics of fMRI patterns reflect sub-second activation sequences and reveal replay in human visual cortex**  
+Wittkuhn L, Schuck NW  
+Nat Commun (2021) [https://dx.doi.org/10.1038/s41467-021-21970-2](https://dx.doi.org/10.1038/s41467-021-21970-2)
+
+## 9
+**Brain kernel: a new spatial covariance function for fMRI data**  
+Wu A, Nastase SA, Baldassano CA, Turk-Browne NB, Norman KA, Engelhardt BE, Pillow JW  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.22.436524v1](https://www.biorxiv.org/content/10.1101/2021.03.22.436524v1)
+
+## 10
+**Delayed motor learning in a 16p11.2 deletion mouse model of autism is rescued by locus coeruleus activation**  
+Yin X, Jones N, Yang J, Asraoui N, Mathieu M-E, Cai L, Chen SX  
+Nat Neurosci (2021) [https://dx.doi.org/10.1038/s41593-021-00815-7](https://dx.doi.org/10.1038/s41593-021-00815-7)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,135 @@
+---
+layout: post
+title:  "Reading List 211"
+date:   2023-06-16 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+## 1
+**Krause corpuscles of the genitalia are vibrotactile sensors required for normal sexual behavior**  
+Qi L, Iskols M, Handler A, Ginty DD  
+[bioRxiv:2023.06.14.545006](https://www.biorxiv.org/content/10.1101/2023.06.14.545006v1)
+
+**ChatGPT summary**: This research identified two distinct neuron subtypes in Krause corpuscles - sensory structures in the genitalia - that respond optimally to dynamic, light touch and mechanical vibrations, and project to a specific region of the spinal cord. The study also demonstrated that these corpuscles play a crucial role in normal sexual behavior, as their optogenetic activation triggered penile erection, and their genetic removal impaired male sexual performance and female sexual receptivity.
+
+## 2
+**A review of the efforts to develop muscle and musculoskeletal models for biomechanics in the last 50 years**  
+Wakeling JM, Febrer-Nafría M, De Groote F  
+[J Biomech](https://dx.doi.org/10.1016/j.jbiomech.2023.111657)
+
+**ChatGPT summary**: Hill type muscle models were adopted in musculoskeletal modeling due to their computational simplicity compared to Huxley type models, as computational methods became available in the 1970s. However, they've shown limitations for modeling natural in vivo locomotor behaviors at submaximal activations, fast speeds, and for larger muscles, necessitating the use of more complex models, enabled by the recent advancements in computational power and numerical methods, for more accurate simulations of whole-body human movement.
+
+## 3
+**The Curse of Recursion: Training on Generated Data Makes Models Forget**  
+Shumailov I, Shumaylov Z, Zhao Y, Gal Y, Papernot N, Anderson R  
+[arXiv](https://arxiv.org/abs/2305.17493)
+
+**ChatGPT summary**: The paper explores the potential future impact of large language models (LLMs) like GPT-n on online text and image ecosystems, particularly focusing on an effect called "Model Collapse". This phenomenon, observable in various generative models, including LLMs, is characterized by irreversible defects in models due to the overuse of model-generated content during training, underlining the increasing value of data derived from genuine human interactions for sustaining large-scale web-based training data benefits.
+
+## 4
+**Motor control and adaptation in a redundant motor task manipulating a stick with both hands**  
+Kobayashi T, Nozaki D  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.13.544873)
+
+**ChatGPT summary**: The study investigated how the motor system adapts to movements with multiple variables to achieve low-dimensional task goals. Participants held a virtual stick and reached a cursor toward targets, and the motor system corrected not only task-relevant perturbations but also task-irrelevant perturbations, indicating that the motor system is concerned with both dimensions of movement when constrained by an inherent relationship.
+
+## 5
+**Tracking Everything Everywhere All at Once**  
+Wang Q, Chang Y-Y, Cai R, Li Z, Hariharan B, Holynski A, Snavely N  
+[arXiv](https://arxiv.org/abs/2306.05422)
+
+**ChatGPT summary**: The paper introduces a new method, called OmniMotion, for estimating dense, long-range motion in video sequences, overcoming limitations of previous optical flow or particle video tracking algorithms that struggle with occlusions and maintaining global consistency. OmniMotion uses a quasi-3D canonical volume for video representation and pixel-wise tracking, allowing for global consistency, tracking through occlusions, and modeling of any combination of camera and object motion, with evaluations showing its superior performance over existing methods.
+
+## 6
+**A theory for how sensorimotor skills are learned and retained in noisy and nonstationary neural circuits**  
+Ajemian R, D’Ausilio A, Moorman H, Bizzi E  
+[Proc. Natl. Acad. Sci. U.S.A.](https://dx.doi.org/10.1073/pnas.1320116110)
+
+**ChatGPT summary**: The synaptic trace theory of memory suggests that the brain retains information through learning-induced changes in synaptic connections, with a memory embodied through its fixed trace. However, for motor memories, the authors propose that memories are defined by nonstationary patterns that fluctuate coherently while still generating the same fixed input-output mapping, providing a noisy sensorimotor system with enough flexibility to allow rapid motor learning without overwriting older memories.
+
+## 7
+**Not everything, not everywhere, not all at once: a study of brain-wide encoding of movement**  
+Wang Z, Chen S, Liu Y, Liu D, Svoboda K, Li N, Druckmann S  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.08.544257)
+
+**ChatGPT summary**: Researchers studied brain-wide recordings in mice performing a decision-making task and found that movement-related activity is present throughout the brain but is systematically different across different regions. The study found that movement-related activity was stronger in areas closer to the motor or sensory periphery and that there were finer-scale structures of movement encoding within brain areas.
+
+## 8
+**A Transient High-dimensional Geometry Affords Stable Conjunctive Subspaces for Efficient Action Selection**  
+Kikumoto A, Bhandari A, Shibata K, Badre D  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.09.544428)
+
+**ChatGPT summary**: This study investigated how the brain encodes information for flexible action selection and found that a high-dimensional, temporally stable conjunctive subspace that integrates stimulus, response, and context information achieves the separability and stability needed for context-dependent action selection. The study used EEG decoding methods and found that a transient expansion of representational dimensionality separated conjunctive subspaces and the timing of entry into this high-dimensional state predicted the quality of response selection on individual trials.
+
+## 9
+**An information theoretic method to resolve millisecond-scale spike timing precision in a comprehensive motor program**  
+Putney J, Niebur T, Wood L, Conn R, Sponberg S  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1011170)
+
+**ChatGPT summary**: The article discusses the difficulty in assessing spike timing precision in motor circuits and introduces a method using continuous MI estimation to analyze precision in a complete, spike resolved recording of wing muscles in Manduca sexta. The study found that all 10 muscles in the insect flight circuit encode motor information at sub-millisecond or millisecond-scale precision, with variation in precision between muscle types.
+
+## 10
+**Expansion-assisted selective plane illumination microscopy for nanoscale imaging of centimeter-scale tissues**  
+Glaser A, Chandrashekar J, Vasquez J, Arshadi C, Ouellette N, Jiang X, Kovacs G, Woodard M, Seshamani S, Cao K, Clack N, Recknagel A, Grim A, Balaram P, Turschak E, Liddell A, Rohde J, Baka J, Hellevik A, Takasaki K, Barner L, Logsdon M, Chronopoulos C, de Vries S, Ting J, Perlmutter S, Kalmbach B, Dembrow N, Reid R, Feng D, Svoboda K  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.08.544277)
+
+**ChatGPT summary**: Scientists have developed a new expansion-assisted selective plane illumination microscope (ExA-SPIM) that can image centimeter-scale samples, such as entire mouse brains, at sub-diffraction resolutions and high contrast without sectioning. The microscope has a diffraction-limited and aberration-free performance over a large field of view and working distance, and when combined with new tissue clearing and expansion methods, it allows for nanoscale imaging.
+
+## 11
+**Touch sensation requires the mechanically-gated ion channel Elkin1**  
+Chakrabarti S, Klich J, Khallaf M, Sánchez-Carranza O, Baran Z, Rossi A, Huang A, Pohl T, Fleischer R, Fürst C, Hammes A, Bégay V, Hörnberg H, Poole K, Lewin G  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.09.544247)
+
+**ChatGPT summary**: Researchers have identified a new mechanically-activated ion channel called Elkin1 that is essential for touch sensation and is present in many nociceptive sensory neurons which detect painful mechanical force. Mice genetically ablated with Elkin1 display profound behavioural touch insensitivity, making it a highly desirable target for treating sensory disorders including pain.
+
+## 12
+**Waves traveling over a map of visual space can ignite short-term predictions of sensory input**  
+Benigno G, Budzinski R, Davis Z, Reynolds J, Muller L  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-023-39076-2)
+
+**ChatGPT summary**: Recent studies have revealed traveling waves of neural activity in awake animals which can modulate networks and affect perceptual sensitivity in the visual cortex. This study presents a network model which can predict naturalistic inputs by generating complex wave patterns that can drive accurate predictions many frames into the future, indicating that traveling waves may play a vital computational role in the visual system.
+
+## 13
+**The role of cerebellum in timing processing: A contingent negative variation study**  
+Mannarelli D, Pauletti C, Petritis A, Maffucci A, Currà A, Trompetto C, Marinelli L, Fattapposta F  
+[Neurosci Lett](https://dx.doi.org/10.1016/j.neulet.2023.137301)
+
+**ChatGPT summary**: This study explores the role of the cerebellum in time perception by temporarily inhibiting cerebellar activity using cathodal transcranial direct current stimulation (tDCS) and observing its effects on contingent negative variation (CNV) parameters during a motor task in healthy subjects. Findings suggest the cerebellum plays a significant role in regulating temporal interval discrimination for second and sub-second ranges, evidenced by a reduction in CNV amplitude and increased errors in duration discrimination tasks after cerebellar inhibition.
+
+## 14
+**Juneteenth in STEMM and the barriers to equitable science**  
+Mays A et al.  
+[Cell](https://dx.doi.org/10.1016/j.cell.2023.05.016)
+
+**ChatGPT summary**: This commentary explores the historical and ongoing impacts of systemic racism on Black individuals in the United States, particularly in the fields of science, technology, engineering, mathematics, and medicine (STEMM). The authors highlight the persistent barriers, including lack of recognition, funding disparities, mental health impacts, and unique challenges faced by those with intersectionality, and propose actionable steps towards reducing racism in science, seeing the federal recognition of Juneteenth as a potential catalyst for progress.
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,131 @@
+---
+layout: post
+title:  "Reading List 186"
+date:   2022-12-02 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Visuo-proprioceptive recalibration and the sensorimotor map**  
+Block HJ, Liu Y  
+[bioRxiv:2022.11.29.517247](https://www.biorxiv.org/content/10.1101/2022.11.29.517247v1)
+
+## 2
+**Clustering and temporal organization of sleep spindles underlie motor memory consolidation**  
+Boutin A, Gabitov E, Pinsard B, Boré A, Carrier J, Doyon J  
+[bioRxiv:2022.11.29.518200](https://www.biorxiv.org/content/10.1101/2022.11.29.518200v1)
+
+## 3
+**Optimum trajectory learning in musculoskeletal systems with model predictive control and deep reinforcement learning**  
+Denizdurduran B, Markram H, Gewaltig M-O  
+[Biol Cybern](https://dx.doi.org/10.1007/s00422-022-00940-x)
+
+## 4
+**Using deep convolutional neural networks to test why human face recognition works the way it does**  
+Dobs K, Yuan J, Martinez J, Kanwisher N  
+[bioRxiv:2022.11.23.517478](https://www.biorxiv.org/content/10.1101/2022.11.23.517478v1)
+
+## 5
+**Bringing back the golden days of Bell Labs**  
+Georgescu I  
+[Nat Rev Phys](https://dx.doi.org/10.1038/s42254-022-00426-6)
+
+## 6
+**Independence and interaction between the control of moving and holding still in post-stroke arm paresis**  
+Hadjiosif AM, Kita K, Albert ST, Scheidt RA, Shadmehr R, Krakauer JW  
+[bioRxiv:2022.11.26.517884](https://www.biorxiv.org/content/10.1101/2022.11.26.517884v1)
+
+## 7
+**What Is a Task and How Do You Know If You Have One or More?**  
+Hazeltine E, Dykstra T, Schumacher E  
+In: Experimental Psychology: Ambitions and Possibilities (Gozli D, Valsiner J, eds), pp 75–95. Cham: Springer International Publishing.  
+[https://doi.org/10.1007/978-3-031-17053-9_6](https://doi.org/10.1007/978-3-031-17053-9_6)
+
+## 8
+**Cross-movie prediction of individualized functional topography**  
+Jiahui G, Feilong M, Nastase SA, Haxby JV, Ida Gobbini M  
+[bioRxiv:2022.11.21.517253](https://www.biorxiv.org/content/10.1101/2022.11.21.517253v1)
+
+## 9
+**A large-scale neural network training framework for generalized estimation of single-trial population dynamics**  
+Keshtkaran MR, Sedler AR, Chowdhury RH, Tandon R, Basrai D, Nguyen SL, Sohn H, Jazayeri M, Miller LE, Pandarinath C  
+[Nat Methods](https://dx.doi.org/10.1038/s41592-022-01675-0)
+
+## 10
+**Brief temporal perturbations in somatosensory reafference disrupt perceptual and neural attenuation and increase supplementary motor-cerebellar connectivity**  
+Kilteni K, Houborg C, Henrik Ehrsson H  
+[bioRxiv:2022.11.25.517892](https://www.biorxiv.org/content/10.1101/2022.11.25.517892v1)
+
+## 11
+**Multiple nerve cords connect the arms of octopuses, providing alternative paths for inter-arm signaling**  
+Kuuspalu A, Cody S, Hale ME  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.11.007)
+
+## 12
+**A Comparative Perspective on the Cerebello-Cerebral System and Its Link to Cognition**  
+Magielse N, Heuer K, Toro R, Schutter DJLG, Valk SL  
+[Cerebellum](https://dx.doi.org/10.1007/s12311-022-01495-0)
+
+## 13
+**Posteromedial thalamic nucleus activity significantly contributes to perceptual discrimination**  
+Qi J, Ye C, Naskar S, Inácio AR, Lee S  
+[PLoS Biol](https://dx.doi.org/10.1371/journal.pbio.3001896)
+
+## 14
+**The hidden toll of community outreach**  
+Ramos RA  
+[Elife](https://dx.doi.org/10.7554/eLife.85166)
+
+## 15
+**PIEZO2 in somatosensory neurons controls gastrointestinal transit**  
+Rocio Servin-Vences M, Lam RM, Koolen A, Wang Y, Saade DN, Loud M, Kacmaz H, Beyder A, Marshall KL, Bönnemann CG, Chesler AT, Patapoutian A  
+[bioRxiv:2022.11.27.518109](https://www.biorxiv.org/content/10.1101/2022.11.27.518109v1)
+
+## 16
+**Robotic multi-probe single-actuator inchworm neural microdrive**  
+Smith RD, Kolb I, Tanaka S, Lee AK, Harris TD, Barbic M  
+[Elife](https://dx.doi.org/10.7554/eLife.71876)
+
+## 17
+**Assistive Teaching of Motor Control Tasks to Humans**  
+Srivastava M, Biyik E, Mirchandani S, Goodman N, Sadigh D  
+[arXiv [csAI]](https://arxiv.org/abs/2211.14003)
+
+## 18
+**Role of path information in visual perception of joint stiffness**  
+West AM Jr, Huber ME, Hogan N  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010729)
+
+## 19
+**DRG afferents that mediate physiologic and pathologic mechanosensation from the distal colon**  
+Wolfson RL, Abdelaziz A, Rankin G, Kushner S, Qi L, Mazor O, Choi S, Sharma N, Ginty DD  
+[bioRxiv:2022.11.27.518103](https://www.biorxiv.org/content/10.1101/2022.11.27.518103v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

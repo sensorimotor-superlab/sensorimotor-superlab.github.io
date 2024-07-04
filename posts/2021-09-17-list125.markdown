@@ -1,0 +1,177 @@
+---
+layout: post
+title:  "Reading List 125"
+date:   2021-09-17 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Neural Excursions from Low-Dimensional Manifold Structure Explain Intersubject Variation in Human Motor Learning**  
+Areshenkoff CN, Gale DJ, Nashed JY, Standage D, Randall Flanagan J, Gallivan JP  
+[bioRxiv:2021.09.01.458601](https://www.biorxiv.org/content/10.1101/2021.09.01.458601v1)
+
+## 2
+**The brain uses invariant dynamics to generalize outputs across movements**  
+Athalye VR, Khanna P, Gowda S, Orsborn AL, Costa RM, Carmena JM  
+[bioRxiv:2021.08.27.457931](https://www.biorxiv.org/content/10.1101/2021.08.27.457931v1)
+
+## 3
+**Contextual effects in motor adaptation adhere to associative learning rules**  
+Avraham G, Taylor JA, Breska A, Ivry RB, McDougle SD  
+[bioRxiv:2020.09.14.297143](https://www.biorxiv.org/content/10.1101/2020.09.14.297143v2)
+
+## 4
+**Central nervous system of a 310-m.y.-old horseshoe crab: Expanding the taphonomic window for nervous system preservation**  
+Bicknell RDC, Ortega-Hernández J, Edgecombe GD, Gaines RR, Paterson JR  
+[Geology (2021)](https://pubs.geoscienceworld.org/gsa/geology/article/doi/10.1130/G49193.1/606398/Central-nervous-system-of-a-310-m-y-old-horseshoe)
+
+## 5
+**Measuring fingerpad deformation during active object manipulation**  
+Delhaye BP, Schiltz F, Barrea A, Thonnard J-L, Lefevre P  
+[bioRxiv:2021.07.20.453037](https://www.biorxiv.org/content/10.1101/2021.07.20.453037v1)
+
+## 6
+**The relationship between habits and skills in humans**  
+Du Y, Krakauer JW, Haith A  
+[PsyArXiv (2021)](https://psyarxiv.com/9qrgd)
+
+## 7
+**Distinct dynamics of neuronal activity during concurrent motor planning and execution**  
+Eriksson D, Heiland M, Schneider A, Diester I  
+[Nat Commun 12:5390 (2021)](https://dx.doi.org/10.1038/s41467-021-25558-8)
+
+## 8
+**Hippocampal replay reflects specific past experiences rather than a plan for subsequent choice**  
+Gillespie AK, Astudillo Maya DA, Denovellis EL, Liu DF, Kastner DB, Coulter ME, Roumis DK, Eden UT, Frank LM  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.07.029)
+
+## 9
+**Building population models for large-scale neural recordings: Opportunities and pitfalls**  
+Hurwitz C, Kudryashova N, Onken A, Hennig MH  
+[Curr Opin Neurobiol 70:64–73 (2021)](https://dx.doi.org/10.1016/j.conb.2021.07.003)
+
+## 10
+**Learning from the path not taken: Sensory prediction errors are sufficient for implicit adaptation of withheld movements**  
+Kim OA, Forrence AD, McDougle SD  
+[bioRxiv:2021.08.12.456140](https://www.biorxiv.org/content/10.1101/2021.08.12.456140v1)
+
+## 11
+**Predictive simulations of gait with exoskeletons that alter energetics**  
+Koelewijn AD, Selinger JD  
+[bioRxiv:2021.08.31.458315](https://www.biorxiv.org/content/10.1101/2021.08.31.458315v1)
+
+## 12
+**Neural tuning and representational geometry**  
+Kriegeskorte N, Wei X-X  
+[Nat Rev Neurosci:1–16 (2021)](https://www.nature.com/articles/s41583-021-00502-3)
+
+## 13
+**Coupling between motor cortex and striatum increases during sleep over long-term skill learning**  
+Lemke SM, Ramanathan DS, Darevksy D, Egert D, Berke JD, Ganguly K  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.64303)
+
+## 14
+**Movement is governed by rotational population dynamics in spinal motor networks**  
+Lindén H, Petersen PC, Vestergaard M, Berg RW  
+[bioRxiv:2021.08.31.458405](https://www.biorxiv.org/content/10.1101/2021.08.31.458405v1)
+
+## 15
+**Premovement inhibition can protect motor actions from interference by response-irrelevant sensory stimulation**  
+McInnes AN, Lipp OV, Tresilian JR, Vallence A-M, Marinovic W  
+[J Physiol (2021)](https://dx.doi.org/10.1113/JP281849)
+
+## 16
+**The corticospinal tract primarily modulates sensory inputs in the mouse lumbar cord**  
+Moreno-Lopez Y, Bichara C, Delbecq G, Isope P, Cordero-Erausquin M  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.65304)
+
+## 17
+**Noise Correlations for Faster and More Robust Learning**  
+Nassar MR, Scott D, Bhandari A  
+[J Neurosci 41:6740–6752 (2021)](https://dx.doi.org/10.1523/JNEUROSCI.3045-20.2021)
+
+## 18
+**The geometry of cortical representations of touch in rodents**  
+Nogueira R, Rodgers CC, Bruno RM, Fusi S  
+[bioRxiv:2021.02.11.430704](https://www.biorxiv.org/content/10.1101/2021.02.11.430704v2)
+
+## 19
+**Learning to stand with unexpected sensorimotor delays**  
+Rasman BG, Forbes PA, Peters RM, Ortiz O, Franks I, Inglis JT, Chua R, Blouin J-S  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.65085)
+
+## 20
+**The Interaction between Motion and Texture in the Sense of Touch**  
+Ryan CP, Bettelani GC, Ciotti S, Parise CV, Moscatelli A, Bianchi M  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00583.2020)
+
+## 21
+**Real-time linear prediction of simultaneous and independent movements of two finger groups using an intracortical brain-machine interface**  
+Nason SR, Mender MJ, Vaskov AK, Willsey MS, Ganesh Kumar N, Kung TA, Patil PG, Chestek CA  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.08.009)
+
+## 22
+**A curved manifold orients rotational dynamics in motor cortex**  
+Sabatini DA, Kaufman MT  
+[bioRxiv:2021.09.09.459647](https://www.biorxiv.org/content/10.1101/2021.09.09.459647v1)
+
+## 23
+**A direct interareal feedback-to-feedforward circuit in primate visual cortex**  
+Siu C, Balsor J, Merlin S, Federer F, Angelucci A  
+[Nat Commun 12:4911 (2021)](https://dx.doi.org/10.1038/s41467-021-24928-6)
+
+## 24
+**Solving musculoskeletal biomechanics with machine learning**  
+Smirnov Y, Smirnov D, Popov A, Yakovenko S  
+[PeerJ Comput Sci 7:e663 (2021)](https://peerj.com/articles/cs-663/?td=tw)
+
+## 25
+**Monkeys exhibit a paradoxical decrease in performance in high-stakes scenarios**  
+Smoulder AL, Pavlovsky NP, Marino PJ, Degenhart AD, McClain NT, Batista AP, Chase SM  
+[Proc Natl Acad Sci USA 118 (2021)](https://dx.doi.org/10.1073/pnas.2109643118)
+
+## 26
+**Pitfalls in quantifying exploration in reward-based motor learning and how to avoid them**  
+van Mastrigt NM, van der Kooij K, Smeets JBJ  
+[Biol Cybern (2021)](https://dx.doi.org/10.1007/s00422-021-00884-8)
+
+## 27
+**Disentangling acceleration-, velocity- and duration-dependency of the short- and medium-latency stretch reflexes in the ankle plantarflexors**  
+van ’t Veld RC, van Asseldonk EHF, van der Kooij H, Schouten AC  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00704.2020)
+
+## 28
+**An approximate stochastic optimal control framework to simulate nonlinear neuro-musculoskeletal models in the presence of noise**  
+Van Wouwe T, Ting LH, De Groote F  
+[bioRxiv:2021.08.13.456221](https://www.biorxiv.org/content/10.1101/2021.08.13.456221v1)
+
+
+## Superlab Papers
+
+**Gaze control during reaching is flexibly modulated to optimize task outcome**  
+Abekawa N, Gomi H, Diedrichsen J  
+[J Neurophysiol 126:816–826 (2021)](https://dx.doi.org/10.1152/jn.00134.2021)
+
+**Combining Repetition Suppression and Pattern Analysis Provides New Insights into the Role of M1 and Parietal Areas in Skilled Sequential Actions**  
+Berlot E, Popp NJ, Grafton ST, Diedrichsen J  
+[J Neurosci 41:7649–7661 (2021)](https://dx.doi.org/10.1523/JNEUROSCI.0863-21.2021)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

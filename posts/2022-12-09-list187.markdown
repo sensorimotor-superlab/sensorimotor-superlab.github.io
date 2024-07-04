@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 187"
+date:   2022-12-09 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**A cortical circuit for orchestrating oromanual food manipulation**  
+An X, Matho K, Li Y, Mohan H, Hermione Xu X, Whishaw IQ, Kepecs A, Josh Huang Z  
+[bioRxiv:2022.12.03.518964](https://www.biorxiv.org/content/10.1101/2022.12.03.518964v1)
+
+## 2
+**Basis of executive functions in fine-grained architecture of cortical and subcortical human brain networks**  
+Assem M, Shashidhara S, Glasser MF, Duncan J  
+[bioRxiv:2022.12.01.518720](https://www.biorxiv.org/content/10.1101/2022.12.01.518720v1)
+
+## 3
+**Molecular characterization of the intact muscle spindle using a multi-omics approach**  
+Bornstein B, Heinemann-Yerushalmi L, Krief S, Adler R, Dassa B, Leshkowitz D, Kim M, Bewick G, Banks RW, Zelzer E  
+[bioRxiv:2022.07.13.499888](https://www.biorxiv.org/content/10.1101/2022.07.13.499888v2)
+
+## 4
+**Temporal clustering of sleep spindles for motor skill consolidation and generalizability following learning by physical practice, motor imagery and action observation**  
+Conessa A, Debarnot U, Siegler I, Boutin A  
+[bioRxiv:2022.12.06.519290](https://www.biorxiv.org/content/10.1101/2022.12.06.519290v1)
+
+## 5
+**Cerebellar inputs in the American alligator (Alligator mississippiensis)**  
+Gutiérrez-Ibáñez C, Kettler L, Pilon MC, Carr CE, Wylie DR  
+[Brain Behav Evol](https://dx.doi.org/10.1159/000527348)
+
+## 6
+**Dynamic organization of cerebellar climbing fiber response and synchrony in multiple functional modules reduces dimensions for reinforcement learning**  
+Hoang H, Tsutsumi S, Matsuzaki M, Kano M, Kawato M, Kitamura K, Toyama K  
+[bioRxiv:2022.12.05.518634](https://www.biorxiv.org/content/10.1101/2022.12.05.518634v1)
+
+## 7
+**Representations of tactile object location in the retrosplenial cortex**  
+Lande AS, Vervaeke K  
+[bioRxiv:2022.12.06.519323](https://www.biorxiv.org/content/10.1101/2022.12.06.519323v1)
+
+## 8
+**Prior expectation enhances sensorimotor behavior by modulating population tuning and subspace activity in the sensory cortex**  
+Park J, Kim S, Kim HR, Lee J  
+[bioRxiv:2022.12.04.516847](https://www.biorxiv.org/content/10.1101/2022.12.04.516847v1)
+
+## 9
+**Movement variability can be modulated in speech production**  
+Tang D-L, Parrell B, Niziolek CA  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00095.2022)
+
+## 10
+**Accuracy and effort costs together lead to temporal asynchrony of multiple motor commands**  
+Tanis D, Calalo JA, Cashaback JGA, Kurtzer IL  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00435.2022)
+
+## 11
+**Goal-directed modulation of stretch reflex gains is reduced in the non-dominant upper limb**  
+Torell F, Franklin S, Franklin DW, Dimitriou M  
+[bioRxiv:2022.11.30.518527](https://www.biorxiv.org/content/10.1101/2022.11.30.518527v1)
+
+## 12
+**ANYexo 2.0: A fully-actuated upper-limb exoskeleton for manipulation and joint-oriented training in all stages of rehabilitation**  
+Zimmermann Y, Sommerhalder M, Wolf P, Riener R, Hutter M  
+[IEEE Trans Rob](https://www.research-collection.ethz.ch/handle/20.500.11850/584411)
+
+## 13
+Zruya O, Nisky I  
+**Orientation control strategies and adaptation to a visuomotor perturbation in rotational hand movements**  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010248)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

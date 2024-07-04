@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 180"
+date:   2022-10-21 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Manipulation-specific cortical activity as mice handle food**  
+Barrett JM, Martin ME, Shepherd GMG  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.09.045)
+
+## 2
+**Bayesball: Bayesian Integration in Professional Baseball Batters**  
+Brantley JA, Körding KP  
+[bioRxiv:2022.10.12.511934](https://www.biorxiv.org/content/10.1101/2022.10.12.511934v1)
+
+## 3
+**Two complementary codes in the superior colliculus differentiate external from self-generated spatial features**  
+Chinta S, Pluta SR  
+[bioRxiv:2022.05.30.494073](https://www.biorxiv.org/content/10.1101/2022.05.30.494073v3)
+
+## 4
+**Peer review without gatekeeping**  
+Eisen MB, Akhmanova A, Behrens TE, Diedrichsen J, Harper DM, Iordanova MD, Weigel D, Zaidi M  
+[Elife 11:e83889](https://doi.org/10.7554/eLife.83889)
+
+## 5
+**Next-generation brain observatories**  
+Koch C, Svoboda K, Bernard A, Basso MA, Churchland AK, Fairhall AL, Groblewski PA, Lecoq JA, Mainen ZF, Mathis MW, Olsen SR, Phillips JW, Pouget A, Saxena S, Siegle JH, Zador AM  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.09.033)
+
+## 6
+**Spontaneous activity patterns in human motor cortex replay evoked activity patterns for hand movements**  
+Livne T, Kim D, Metcalf NV, Zhang L, Pini L, Shulman GL, Corbetta M  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-022-20866-5)
+
+## 7
+**A role for axon-glial interactions and Netrin-G1 signaling in the formation of low-threshold mechanoreceptor end organs**  
+Meltzer S, Boulanger KC, Osei-Asante E, Handler A, Zhang Q, Sano C, Itohara S, Ginty DD  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2210421119)
+
+## 8
+**Stretch reflex gain scaling at the shoulder varies with synergistic muscle activity**  
+Nicolozakes CP, Sohn MH, Baillargeon EM, Lipps DB, Perreault EJ  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00259.2022)
+
+## 9
+**Toward Next-Generation Artificial Intelligence: Catalyzing the NeuroAI Revolution**  
+Zador A et al.  
+[arXiv [csAI]](https://arxiv.org/abs/2210.08340)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

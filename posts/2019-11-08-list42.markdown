@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 42"
+date:   2019-11-08 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Functional clustering of dendritic activity during decision-making**. 
+Kerlin, A., Boaz, M., Flickinger, D., MacLennan, B.J., Dean, M.B., Davis, C., Spruston, N., and Svoboda, K.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.46966](https://dx.doi.org/10.7554/eLife.46966)
+
+## 2
+**Cerebellar patients have intact feedback control that can be leveraged to improve reaching**. 
+Zimmet, A.M., Bastian, A.J., and Cowan, N.J.  
+bioRxiv, 827113 (2019)  
+[https://www.biorxiv.org/content/10.1101/827113v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/827113v1.abstract?%3Fcollection=)
+
+## 3
+**The basal ganglia can control learned motor sequences independently of motor cortex**. 
+Dhawale, A.K., Wolff, S.B.E., Ko, R., and Ölveczky, B.P.  
+bioRxiv, 827261 (2019)  
+[https://www.biorxiv.org/content/10.1101/827261v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/827261v1.abstract?%3Fcollection=)
+
+## 4
+**Efference copy is necessary for the attenuation of self-generated touch**. 
+Kilteni, K., Engeler, P., and Henrik Ehrsson, H.  
+bioRxiv, 823575 (2019)  
+[https://www.biorxiv.org/content/10.1101/823575v1](https://www.biorxiv.org/content/10.1101/823575v1)
+
+It is well established that tactile stimulation from self-produced movements feels less intense than externally produced stimulation of matched intensity. Kilteni and colleagues investigated whether an efference copy is required for this sensory suppression to occur or whether attenuation can also result from the predictable contact of a passively moved limb. The authors showed that sensory attenuation only occurred when stimulation was produced by the actively moving limb, thus supporting the view that an efference copy is necessary for the sensory attenuation of self-produced touch. —CF
+
+## 5
+**Jendrassik maneuver effect on spinal and brainstem reflexes**. 
+Ertuglu, L.A., Aydin, A., Kumru, H., Valls-Sole, J., Opisso, E., Cecen, S., and Türker, K.S.  
+Exp. Brain Res. (2019)  
+[https://dx.doi.org/10.1007/s00221-019-05668-y](https://dx.doi.org/10.1007/s00221-019-05668-y)
+
+## 6
+**Distinct roles for motor cortical and thalamic inputs to striatum during motor learning and execution**. 
+Wolff, S.B.E., Ko, R., and Ölveczky, B.P.  
+bioRxiv, 825810 (2019)  
+[https://www.biorxiv.org/content/10.1101/825810v2](https://www.biorxiv.org/content/10.1101/825810v2)
+
+## 7
+**Hierarchical organization of cortical and thalamic connectivity**. 
+Harris, J.A., Mihalas, S., Hirokawa, K.E., Whitesell, J.D., Choi, H., Bernard, A., Bohn, P., Caldejon, S., Casal, L., Cho, A., et al.  
+Nature, 1–8 (2019)  
+[https://dx.doi.org/10.1038/s41586-019-1716-z](https://dx.doi.org/10.1038/s41586-019-1716-z)
+
+## 8
+**Inception loops discover what excites neurons most using deep predictive models**. 
+Walker, E.Y., Sinz, F.H., Cobos, E., Muhammad, T., Froudarakis, E., Fahey, P.G., Ecker, A.S., Reimer, J., Pitkow, X., and Tolias, A.S.  
+Nat. Neurosci., 1–6 (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0517-x](https://dx.doi.org/10.1038/s41593-019-0517-x)
+
+## 9
+**Track It to Crack It: Dissecting Processing Stages with Finger Tracking**. 
+Dotan, D., Pinheiro-Chagas, P., Al Roumi, F., and Dehaene, S.  
+Trends Cogn. Sci. (2019)  
+[https://dx.doi.org/10.1016/j.tics.2019.10.002](https://dx.doi.org/10.1016/j.tics.2019.10.002)
+
+## 10
+**The Cortical Physiology of Ipsilateral Limb Movements**  
+Bundy, D.T., and Leuthardt, E.C.  
+Trends Neurosci. (2019)  
+[https://dx.doi.org/10.1016/j.tins.2019.08.008](https://dx.doi.org/10.1016/j.tins.2019.08.008)
+
+
+# Contributors
+- Chris Forgaard
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 25"
+date:   2019-07-12 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Uncertainty in when a perturbation will arrive influences the preparation and release of triggered responses**  
+Heckman, R.L., and Perreault, E.J.  
+Exp. Brain Res. (2019)  
+[https://doi.org/10.1007/s00221-019-05592-1](https://doi.org/10.1007/s00221-019-05592-1)
+
+## 2
+**Somatosensory interactions reveal feature-dependent computations**  
+Rahman, M.S., and Yau, J.M.  
+J. Neurophysiol. 122, 5–21 (2019)  
+[https://dx.doi.org/10.1152/jn.00168.2019](https://dx.doi.org/10.1152/jn.00168.2019)
+
+## 3
+**Parietal neurons encode information sampling based on decision uncertainty**  
+Horan, M., Daddaoua, N., and Gottlieb, J.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0440-1](https://dx.doi.org/10.1038/s41593-019-0440-1)
+
+## 4
+**Motor planning modulates neural activity patterns in early human auditory cortex**  
+Gale, D.J., Areshenkoff, C.N., Honda, C., Johnsrude, I.S., Randall Flanagan, J., and Gallivan, J.P.  
+bioRxiv, 682609 (2019)  
+[https://www.biorxiv.org/content/10.1101/682609v2](https://www.biorxiv.org/content/10.1101/682609v2)
+
+## 5
+**Timescales of motor memory formation in dual-adaptation**  
+Forano, M., and Franklin, D.W.  
+bioRxiv, 698167 (2019)  
+[https://www.biorxiv.org/content/10.1101/698167v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/698167v1.abstract?%3Fcollection=)
+
+## 6
+**Cortical-like dynamics in recurrent circuits optimized for sampling-based probabilistic inference**  
+Echeveste, R., Aitchison, L., Hennequin, G., and Lengyel, M.  
+bioRxiv, 696088 (2019)  
+[https://www.biorxiv.org/content/10.1101/696088v1](https://www.biorxiv.org/content/10.1101/696088v1)
+
+## 7
+**With an eye on uncertainty: Modelling pupillary responses to environmental volatility**  
+Vincent, P., Parr, T., Benrimoh, D., and Friston, K.J.  
+PLoS Comput. Biol. 15, e1007126 (2019)  
+[https://dx.doi.org/10.1371/journal.pcbi.1007126](https://dx.doi.org/10.1371/journal.pcbi.1007126)
+
+## 8
+**The value of what’s to come: neural mechanisms coupling prediction error and reward anticipation**  
+Iigaya, K., Hauser, T.U., Kurth-Nelson, Z., O’Doherty, J.P., Dayan, P., and Dolan, R.J.  
+bioRxiv, 588699 (2019)  
+[https://www.biorxiv.org/content/10.1101/588699v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/588699v2.abstract?%3Fcollection=)
+
+## 9
+**Sequence learning creates new cortical representations instead of strengthening initial ones**  
+Kalm, K., and Norris, D.  
+bioRxiv, 496893 (2019)  
+[https://www.biorxiv.org/content/10.1101/496893v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/496893v2.abstract?%3Fcollection=)
+
+## 10
+**Prediction and final temporal errors are used for trial-to-trial motor corrections**  
+López-Moliner, J., Vullings, C., Madelain, L., and van Beers, R.J.  
+bioRxiv, 368001 (2019)  
+[https://www.biorxiv.org/content/10.1101/368001v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/368001v2.abstract?%3Fcollection=)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

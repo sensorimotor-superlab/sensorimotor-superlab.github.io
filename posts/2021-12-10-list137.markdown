@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "Reading List 137"
+date:   2021-12-10 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Mathematical Relationships between Spinal Motoneuron Properties**  
+Caillet A, Phillips ATM, Farina D, Modenese L  
+[bioRxiv:2021.08.05.455188](https://www.biorxiv.org/content/10.1101/2021.08.05.455188v2)
+
+## 2
+**Task-dependent switching of feedback controllers**  
+Česonis J, Franklin DW  
+[bioRxiv:2021.12.06.471371](https://www.biorxiv.org/content/10.1101/2021.12.06.471371v1)
+
+## 3
+**Interfacing Spinal Motor Units in Non-Human Primates Identifies a Principal Neural Component for Force Control Constrained by the Size Principle**  
+Del Vecchio A, Jones RHA, Schofield IS, Kinfe TM, Ibanez J, Farina D, Baker SN  
+[bioRxiv:2021.12.07.471592](https://www.biorxiv.org/content/10.1101/2021.12.07.471592v1)
+
+## 4
+**Cortico-subcortical β burst dynamics underlying movement cancellation in humans**  
+Diesburg DA, Greenlee JDW, Wessel JR  
+[Elife 10:e70270 (2021)](https://doi.org/10.7554/eLife.70270)
+
+## 5
+**Crosstalk proposal: There is much to gain from the independent control of human muscle spindles**  
+Dimitriou M  
+[J Physiol 599:2501–2504 (2021)](https://dx.doi.org/10.1113/JP281338)
+
+## 6
+**Stoney vs. Histed: Quantifying the spatial effects of intracortical microstimulation**  
+Kumaravelu K, Sombeck J, Miller LE, Bensmaia SJ, Grill WM  
+[Brain Stimul 15:141–151 (2021)](https://dx.doi.org/10.1016/j.brs.2021.11.015)
+
+## 7
+**The cellular and molecular basis of somatosensory neuron development**  
+Meltzer S, Santiago C, Sharma N, Ginty DD  
+[Neuron 109:3736–3757 (2021)](https://dx.doi.org/10.1016/j.neuron.2021.09.004)
+
+## 8
+**Proximal and distal spinal neurons innervating multiple synergist and antagonist motor pools**  
+Ronzano R, Lancelin C, Bhumbra GS, Brownstone RM, Beato M  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.70858)
+
+## 9
+**Pupillary dynamics of optimal effort**  
+Sayalı C, Heling E, Cools R  
+[bioRxiv:2021.12.02.470970](https://www.biorxiv.org/content/10.1101/2021.12.02.470970v1)
+
+## 10
+**Finger stability in precision grips**  
+Sharma N, Venkadesan M  
+[bioRxiv:2021.12.04.470276](https://www.biorxiv.org/content/10.1101/2021.12.04.470276v1)
+
+## 11
+**Short latency stretch reflexes depend on the balance of activity in agonist and antagonist muscles during ballistic elbow movements**  
+Villamar Z, Ludvig D, Perreault EJ  
+[bioRxiv:2021.12.06.471376](https://www.biorxiv.org/content/10.1101/2021.12.06.471376v1)
+
+## 12
+**Estimating muscle activation from EMG using deep learning-based dynamical systems models**  
+Wimalasena LN, Braun JF, Keshtkaran MR, Hofmann D, Gallego JÁ, Alessandro C, Tresch MC, Miller LE, Pandarinath C  
+[bioRxiv:2021.12.01.470827](https://www.biorxiv.org/content/10.1101/2021.12.01.470827v1)
+
+## 13
+**Towards the next generation of recurrent network models for cognitive neuroscience**  
+Yang GR, Molano-Mazón M  
+[Curr Opin Neurobiol 70:182–192 (2021)](https://dx.doi.org/10.1016/j.conb.2021.10.015)
+
+## 14
+**An electrically coupled pioneer circuit enables motor development via proprioceptive feedback in Drosophila embryos**  
+Zeng X, Komanome Y, Kawasaki T, Inada K, Jonaitis J, Pulver SR, Kazama H, Nose A  
+[Curr Biol 31:5327–5340.e5 (2021)](https://dx.doi.org/10.1016/j.cub.2021.10.005)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

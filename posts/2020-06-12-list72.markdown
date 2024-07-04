@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 72"
+date:   2020-06-12 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Neural Trajectories in the Supplementary Motor Area and Motor Cortex Exhibit Distinct Geometries, Compatible with Different Classes of Computation**  
+Russo AA, Khajeh R, Bittner SR, Perkins SM, Cunningham JP, Abbott LF, Churchland MM  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.05.020](https://dx.doi.org/10.1016/j.neuron.2020.05.020)
+
+## 2
+**Generation of Rapid Sequences by Motor Cortex**  
+Zimnik AJ, Churchland MM  
+bioRxiv:2020.06.09.143040 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.09.143040v1](https://www.biorxiv.org/content/10.1101/2020.06.09.143040v1)
+
+## 3
+**Value-related neuronal responses in the human amygdala during observational learning**  
+Aquino TG, Minxha J, Dunne S, Ross IB, Mamelak AN, Rutishauser U, O’Doherty JP  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2897-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.2897-19.2020)
+
+## 4
+**Dark control: The default mode network as a reinforcement learning agent**  
+Dohmatob E, Dumas G, Bzdok D  
+Hum Brain Mapp (2020)  
+[https://dx.doi.org/10.1002/hbm.25019](https://dx.doi.org/10.1002/hbm.25019)
+
+## 5
+**The role of the inferior parietal lobule in writer’s cramp**  
+Merchant SHI, Frangos E, Parker J, Bradson M, Wu T, Vial-Undurraga F, Leodori G, Bushnell MC, Horovitz SG, Hallett M, Popa T  
+Brain (2020)  
+[https://dx.doi.org/10.1093/brain/awaa138](https://dx.doi.org/10.1093/brain/awaa138)
+
+## 6
+**Entraining Movement-Related Brain Oscillations to Suppress Tics in Tourette Syndrome**  
+Morera Maiquez B, Sigurdsson HP, Dyke K, Clarke E, McGrath P, Pasche M, Rajendran A, Jackson GM, Jackson SR  
+Curr Biol (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.04.044](https://dx.doi.org/10.1016/j.cub.2020.04.044)
+
+## 7
+**Interlimb Responses to Perturbations of Bilateral Movements are Asymmetric**  
+Schaffer JE, Sainburg RL  
+J Mot Behav:1–17 (2020)  
+[https://dx.doi.org/10.1080/00222895.2020.1760196](https://dx.doi.org/10.1080/00222895.2020.1760196)
+
+## 8
+**Speech perception under the tent: A domain-general predictive role for the cerebellum**  
+Skipper JI, Lamett DR  
+bioRxiv:2020.06.05.136804 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.05.136804v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.06.05.136804v1.abstract?%3Fcollection=)
+
+## 9
+**Elbow proprioception is normal in patients with a congenital absence of functional muscle spindles**  
+Smith L, Norcliffe-Kaufmann L, Palma J-A, Kaufmann H, Macefield VG  
+J Physiol (2020)  
+[https://dx.doi.org/10.1113/JP279931](https://dx.doi.org/10.1113/JP279931)
+
+## 10
+**Spontaneous variability predicts adaptive motor response in vocal pitch control**  
+Tachibana RO, Xu M, Hashimoto R-I, Homae F, Okanoya K  
+bioRxiv:2020.06.06.138263 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.06.138263v2](https://www.biorxiv.org/content/10.1101/2020.06.06.138263v2)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

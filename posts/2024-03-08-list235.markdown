@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 235"
+date:   2024-03-08 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Spatio-molecular profiles shape the human cerebellar hierarchy along the sensorimotor-association axis**  
+Wang Y, Wang Y, Wang H, Ma L, Eickhoff SB, Madsen KH, Chu C, Fan L  
+[Cell Rep 43:113770](https://dx.doi.org/10.1016/j.celrep.2024.113770)
+
+## 2
+**PhysMAP - interpretablein vivoneuronal cell type identification using multi-modal analysis of electrophysiological data**  
+Lee EK, Gül AE, Heller G, Lakunina A, Jaramillo S, Przytycki PF, Chandrasekaran C  
+[bioRxiv:2024.02.28.582461](https://www.biorxiv.org/content/10.1101/2024.02.28.582461v1.abstract)
+
+## 3
+**Opinion: Science in the age of selfies**  
+Geman D, Geman S  
+[Proc Natl Acad Sci USA 113:9384–9387](https://www.pnas.org/lookup/doi/10.1073/pnas.1609793113)
+
+## 4
+**Voluntary co-contraction of ankle muscles alters motor unit discharge characteristics and reduces estimates of persistent inward currents**  
+Gomes MM, Jenz ST, Beauchamp JA, Negro F, Heckman CJ, Pearcey GEP  
+[bioRxiv:2024.02.28.582534](https://www.biorxiv.org/content/10.1101/2024.02.28.582534v1.abstract)
+
+## 5
+**Modulations of stretch reflex by altering visuomotor contexts**  
+Ito S, Gomi H  
+[Front Hum Neurosci 18](https://dx.doi.org/10.3389/fnhum.2024.1336629)
+
+## 6
+**A mouse DRG genetic toolkit reveals morphological and physiological diversity of somatosensory neuron subtypes**  
+Qi L, Iskols M, Shi D, Reddy P, Walker C, Lezgiyeva K, Voisin T, Pawlak M, Kuchroo VK, Chiu IM, Ginty DD, Sharma N  
+[Cell](https://dx.doi.org/10.1016/j.cell.2024.02.006)
+
+## 7
+**Miniature linear and split-belt treadmills reveal mechanisms of adaptive motor control in walking Drosophila**  
+Pratt BG, Lee S-YJ, Chou GM, Tuthill JC  
+[bioRxiv:2024.02.23.581656](https://www.biorxiv.org/content/10.1101/2024.02.23.581656v1.abstract)
+
+## 8
+**Collective sensing in electric fish**  
+Pedraja F, Sawtell NB  
+[Nature](https://www.nature.com/articles/s41586-024-07157-x)
+
+## 9
+**Preparatory activity and the expansive null-space**  
+Churchland MM, Shenoy KV  
+[Nat Rev Neurosci](https://www.nature.com/articles/s41583-024-00796-z)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

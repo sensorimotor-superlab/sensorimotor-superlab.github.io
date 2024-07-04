@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 252"
+date:   2024-07-05 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+This week we continue our new feature (see below): the Sensorimotor Superlab **Journal Club**. In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Muscles or movements? Representation in the nascent brain sciences**  
+Ward ZB  
+[J Hist Biol 56:5–34](https://dx.doi.org/10.1007/s10739-023-09703-1)
+
+## 2
+**Sensorimotor learning during synchronous speech is modulated by the acoustics of the other voice**  
+Bradshaw AR, Wheeler ED, McGettigan C, Lametti DR  
+[Psychon Bull Rev](https://link.springer.com/article/10.3758/s13423-024-02536-x)
+
+## 3
+**A sensory-motor theory of the neocortex**  
+Rao RPN  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01673-9)
+
+## 4
+**Age-related changes in the susceptibility to visual illusions of size**  
+Mazuz Y, Kessler Y, Ganel T  
+[Sci Rep 14:14583](https://www.nature.com/articles/s41598-024-65405-6)
+
+## 5
+**Temporal information in the anterior cingulate cortex relates to accumulated experiences**  
+Wirt RA, Soluoku TK, Ricci RM, Seamans JK, Hyman JM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2024.05.045)
+
+## 6
+**A large-scale optogenetic neurophysiology platform for improving accessibility in NHP behavioral experiments**  
+Griggs DJ, Bloch J, Stanis N, Zhou J, Fisher S, Jahanian H, Yazdan-Shahmorad A  
+[bioRxiv:2024.06.25.600719](https://www.biorxiv.org/content/10.1101/2024.06.25.600719v1.abstract)
+
+## 7
+**Laminar CBV and BOLD response-characteristics over time and space in the human primary somatosensory cortex at 7T**  
+Dresbach S, Gulban OF, Steinbach T, Eck J, Kashyap S, Kaas A, Weiskopf N, Goebel R, Huber R  
+[bioRxiv:2024.06.26.600746](https://www.biorxiv.org/content/10.1101/2024.06.26.600746v1.abstract)
+
+## 8
+**Dermal macrophages control tactile perception under physiological conditions via NGF signaling**  
+Tanaka T, Isonishi A, Banja M, Yamamoto R, Sonobe M, Okuda-Ashitaka E, Furue H, Okuda H, Tatsumi K, Wanaka A  
+[Research Square](https://www.researchsquare.com/article/rs-4556656/v1)
+
+## 9
+**The volitional control of individual motor units is constrained within low-dimensional neural manifolds by common inputs**  
+Rossato J, Avrillon S, Tucker K, Farina D, Hug F  
+[J Neurosci:e0702242024](https://www.jneurosci.org/content/early/2024/06/28/JNEUROSCI.0702-24.2024.abstract)
+
+## 10
+**The frontal cortex adjusts striatal integrator dynamics for flexible motor timing**  
+Yang Z, Inagaki M, Gerfen C, Fontolan L, Inagaki HK  
+[bioRxiv:2024.06.29.601348](https://doi.org/10.1101/2024.06.29.601348)
+
+## 11
+**Relations between tactile sensitivity of the finger, arm, and cheek skin over the lifespan showing decline only on the finger**  
+Samain-Aupic L, Dione M, Ribot-Ciscar E, Ackerley R, Aimonetti J-M  
+[Front Aging Neurosci 16:1387136](https://doi.org/10.3389/fnagi.2024.1387136)
+
+## 12
+**Deactivation and collective phasic muscular tuning for pointing direction: Insights from machine learning**  
+Chambellant F, Gaveau J, Papaxanthis C, Thomas E  
+[Heliyon 10:e33461](https://dx.doi.org/10.1016/j.heliyon.2024.e33461)
+
+## 13
+**Motor adaptation is reduced by symbolic compared to sensory feedback**  
+Chen Y, Abram SJ, Ivry RB, Tsay JS  
+[bioRxiv:2024.06.28.601293](https://www.biorxiv.org/content/10.1101/2024.06.28.601293v1.abstract)
+
+## 14
+**Jointly looking to the past and the future in visual working memory**  
+Liu B, Alexopoulou Z-S, van Ede F  
+[eLife 12:RP90874](https://doi.org/10.7554/eLife.90874.3)
+
+## 15
+**Limb-related sensory prediction errors and task-related performance errors facilitate human sensorimotor learning through separate mechanisms**  
+Oza A, Kumar A, Sharma A, Mutha PK  
+[PLoS Biol 22:e3002703](https://doi.org/10.1371/journal.pbio.3002703)
+
+---
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed Dr. Amy Orsborn (University of Washington) to discuss her recent paper:
+
+**Assistive sensory-motor perturbations influence learned neural representations**  
+Rajeswaran P, Payeur A, Lajoie G, Orsborn AL (2024)  
+[bioRxiv:2024.03.20.585972](https://doi.org/10.1101/2024.03.20.585972)
+
+Video: [https://youtu.be/sGXlpQAEJzw?si=3TxFISVMkd50Eskg](https://youtu.be/sGXlpQAEJzw?si=3TxFISVMkd50Eskg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGXlpQAEJzw?si=22AzySklYSR-SP3W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

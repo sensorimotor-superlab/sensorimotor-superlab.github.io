@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Reading List 138"
+date:   2021-12-17 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Mice alternate between discrete strategies during perceptual decision-making**  
+Ashwood ZC, Roy NA, Stone IR, The International Brain Laboratory, Urai AE, Churchland AK, Pouget A, Pillow JW  
+[bioRxiv:2020.10.19.346353](https://www.biorxiv.org/content/10.1101/2020.10.19.346353v4)
+
+## 2
+**Temporally precise movement-based predictions in the mouse auditory cortex**  
+Audette NJ, Zhou W, Schneider DM  
+[bioRxiv:2021.12.13.472457](https://www.biorxiv.org/content/10.1101/2021.12.13.472457v1)
+
+## 3
+**Predicting proprioceptive cortical anatomy and neural coding with topographic autoencoders**  
+Blum KP, Grogan M, Wu Y, Alex Harston J, Miller LE, Aldo Faisal A  
+[bioRxiv:2021.12.10.472161](https://www.biorxiv.org/content/10.1101/2021.12.10.472161v1)
+
+## 4
+**Hyperbolic trade-off: the importance of balancing trial and subject sample sizes in neuroimaging**  
+Chen G, Pine DS, Brotman MA, Smith AR, Cox RW, Taylor PA, Haller SP  
+[Neuroimage:118786](https://dx.doi.org/10.1016/j.neuroimage.2021.118786)
+
+## 5
+**How do you feel the rhythm: Dynamic motor-auditory interactions are involved in the imagination of hierarchical timing**  
+Cheng 鄭子含 T-HZ, Creel SC, Iversen JR  
+[J Neurosci (2021)](https://dx.doi.org/10.1523/JNEUROSCI.1121-21.2021)
+
+## 6
+**Motor training-related brain reorganization in patients with cerebellar degeneration**  
+Draganova R, Konietschke F, Steiner KM, Elangovan N, Gümüs M, Göricke SM, Ernst TM, Deistung A, van Eimeren T, Konczak J, Timmann D  
+[Hum Brain Mapp (2021)](https://dx.doi.org/10.1002/hbm.25746)
+
+## 7
+**Preparatory attention incorporates contextual expectations**  
+Gayet S, Peelen MV  
+[Curr Biol (2021)](https://www.sciencedirect.com/science/article/pii/S0960982221016481)
+
+## 8
+Hang H, Heydari S, Costello JH, Kanso E  
+**Active tail flexion in concert with passive hydrodynamic forces improves swimming speed and efficiency**  
+[J Fluid Mech 932](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/active-tail-flexion-in-concert-with-passive-hydrodynamic-forces-improves-swimming-speed-and-efficiency/48413CCD6F1D885E7C39FDDFE58E1798)
+
+## 9
+**Passive inertial damping improves high-speed gaze stabilization in hoverflies**  
+Hardcastle BJ, Bierig K, Heras FJH, Longden KD, Schwyn DA, Krapp HG  
+[bioRxiv:2021.12.11.472180](https://www.biorxiv.org/content/10.1101/2021.12.11.472180v1)
+
+## 10
+**Integration of proprioceptive and visual feedback during online control of reaching**  
+Kasuga S, Crevecoeur F, Cross KP, Balalaie P, Scott SH  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00639.2020)
+
+## 11
+**Just noticeable differences for elbow joint torque feedback**  
+Kim H, Asbeck AT  
+[Sci Rep 11:23553](https://dx.doi.org/10.1038/s41598-021-02630-3)
+
+## 12
+**Respiration aligns perception with neural excitability**  
+Kluger DS, Balestrieri E, Busch NA, Gross J  
+[Elife 10](https://dx.doi.org/10.7554/eLife.70907)
+
+## 13
+**A somatosensory computation that unifies bodies and tools**  
+Miller LE, Fabio C, de Vignemont F, Roy A, Pieter Medendorp W, Farnè A  
+[bioRxiv:2021.12.09.472009](https://www.biorxiv.org/content/10.1101/2021.12.09.472009v2)
+
+## 14
+**Deliberation gated by opportunity cost adapts to context with urgency**  
+Touzel MP, Cisek P, Lajoie G  
+[bioRxiv:2021.07.31.452742](https://www.biorxiv.org/content/10.1101/2021.07.31.452742v2)
+
+## 15
+**Residual errors in visuomotor adaptation persist despite extended motor preparation periods**  
+Weightman M, Brittain J-S, Chris Miall R, Jenkinson N  
+[bioRxiv:2021.06.28.450124](https://www.biorxiv.org/content/10.1101/2021.06.28.450124v2)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

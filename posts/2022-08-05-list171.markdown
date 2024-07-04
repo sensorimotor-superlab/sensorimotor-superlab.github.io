@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 171"
+date:   2022-08-05 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Vocal accommodation in penguins (Spheniscus demersus) as a result of social environment**  
+Baciadonna L, Solvi C, Del Vecchio F, Pilenga C, Baracchi D, Bandoli F, Isaja V, Gamba M, Favaro L  
+[Proc Biol Sci](https://dx.doi.org/10.1098/rspb.2022.0626)
+
+## 2
+**Causal contributions to sensory-based decision-making by cell-type specific circuits in the tail striatum**  
+Cui L, Tang S, Zhao K, Pan J, Zhang Z, Si B, Xu N-L  
+[bioRxiv:2022.07.30.502110](https://www.biorxiv.org/content/10.1101/2022.07.30.502110v1)
+
+## 3
+**The molecular foundation of proprioceptor muscle-type identity**  
+Dietrich S, Carlos Company, Song K, Lowenstein ED, Riedel L, Birchmeier C, Gargiulo G, Zampieri N  
+[bioRxiv:2022.07.29.501977](https://www.biorxiv.org/content/10.1101/2022.07.29.501977v1)
+
+## 4
+**Transfer of Tactile Learning from Trained to Untrained Body Parts Supported by Cortical Coactivation in Primary Somatosensory Cortex**  
+Frank SM, Otto A, Volberg G, Tse PU, Watanabe T, Greenlee MW  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.0301-22.2022)
+
+## 5
+**The online and offline effects of changing movement timing variability during training on a finger-opposition task**  
+Friedman J, Amiaz A, Korman M  
+[Sci Rep](https://www.nature.com/articles/s41598-022-16335-8)
+
+## 6
+**Coding of latent variables in sensory, parietal, and frontal cortices during virtual closed-loop navigation**  
+Noel J-P, Balzani E, Avila E, Lakshminarasimhan K, Bruni S, Alefantis P, Savin C, Angelaki DE  
+[bioRxiv:2021.10.22.465526](https://www.biorxiv.org/content/10.1101/2021.10.22.465526v2)
+
+## 7
+**A conflict between spatial selection and evidence accumulation in area LIP**  
+Seideman JA, Stanford TR, Salinas E  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-32209-z)
+
+## 8
+**Rhesus macaque versus rat divergence in the corticospinal projectome**  
+Sinopoulou E, Rosenzweig ES, Conner JM, Gibbs D, Weinholtz CA, Weber JL, Brock JH, Nout-Lomas YS, Ovruchesky E, Takashima Y, Biane JS, Kumamaru H, Havton LA, Beattie MS, Bresnahan JC, Tuszynski MH  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.07.002)
+
+## 9
+**Cortical feedback loops bind distributed representations of working memory**  
+Voitov I, Mrsic-Flogel TD  
+[Nature](https://dx.doi.org/10.1038/s41586-022-05014-3)
+
+## 10
+**Evidence accumulation occurs locally in the parietal cortex**  
+Zhang Z, Yin C, Yang T  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-32210-6)
+
+## 11
+**Eye movements reveal spatiotemporal dynamics of visually-informed planning in navigation**  
+Zhu S, Lakshminarasimhan KJ, Arfaei N, Angelaki DE  
+[Elife](https://dx.doi.org/10.7554/eLife.73097)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

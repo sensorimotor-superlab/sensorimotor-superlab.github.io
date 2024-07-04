@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 30"
+date:   2019-08-16 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+Matic, A., and Gomez-Marin, A.  
+**A customizable tablet app for hand movement research outside the lab**  
+J. Neurosci. Methods, 108398 (2019)  
+[https://dx.doi.org/10.1016/j.jneumeth.2019.108398](https://dx.doi.org/10.1016/j.jneumeth.2019.108398)
+
+Powerful, low-cost computers and open source software may dramatically alter how and where movement science is conducted in the near future. Matic and Gomez-Martin present straightforward templates for designing finger or stylus tracking experiments on Android tablets. While planar recordings of stylus/finger movements sacrifice data richness compared to 3D and/or multi-segment recordings, the portability and low cost of tablets make this an attractive option when ease of setup is a primary concern.
+
+## 2
+**Tradeoffs in optimal control capture patterns of human sensorimotor control and adaptation**  
+Cluff, T., Crevecoeur, F., and Scott, S.H.  
+bioRxiv, 730713 (2019)  
+[https://www.biorxiv.org/content/10.1101/730713v1](https://www.biorxiv.org/content/10.1101/730713v1)
+
+## 3
+**Remapping in cerebral and cerebellar cortices is not restricted by somatotopy**  
+Hahamy, A., and Makin, T.  
+bioRxiv, 439356 (2019)  
+[https://www.biorxiv.org/content/10.1101/439356v3.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/439356v3.abstract?%3Fcollection=)
+
+## 4
+**Altered auditory feedback induces coupled changes in formant frequencies during speech production**  
+Tang, D.-L., Lametti, D.R., and Watkins, K.E.  
+bioRxiv, 733121 (2019)  
+[https://www.biorxiv.org/content/10.1101/733121v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/733121v1.abstract?%3Fcollection=)
+
+## 5
+**The effects of awareness of the perturbation during motor adaptation on hand localization**  
+Modchalingam, S., Vachon, C.M., ’t Hart, B.M., and Henriques, D.Y.P.  
+PLoS One 14, e0220884 (2019)  
+[https://dx.doi.org/10.1371/journal.pone.0220884](https://dx.doi.org/10.1371/journal.pone.0220884)
+
+## 6
+**Epigenetic regulation of lateralized fetal spinal gene expression underlies hemispheric asymmetries**  
+Ocklenburg, S., Schmitz, J., Moinfar, Z., Moser, D., Klose, R., Lor, S., Kunz, G., Tegenthoff, M., Faustmann, P., Francks, C. Epplen, J. T., Kumsta, R., Güntürkün, O.  
+Elife 6 (2017)  
+[https://dx.doi.org/10.7554/eLife.22784](https://dx.doi.org/10.7554/eLife.22784)
+
+## 7
+**The mechanistic foundation of Weber’s law**  
+Pardo-Vazquez, J.L., Castiñeiras-de Saa, J.R., Valente, M., Damião, I., Costa, T., Vicente, M.I., Mendonça, A.G., Mainen, Z.F., and Renart, A.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0439-7](https://dx.doi.org/10.1038/s41593-019-0439-7)
+
+## 8
+**Visual working memory directly alters perception**  
+Teng, C., and Kravitz, D.J.  
+Nat Hum Behav 3, 827–836 (2019)  
+[https://dx.doi.org/10.1038/s41562-019-0640-4](https://dx.doi.org/10.1038/s41562-019-0640-4)
+
+## 9
+**Sonogenetics is a non-invasive approach to activating neurons in Caenorhabditis elegans**  
+Ibsen, S., Tong, A., Schutt, C., Esener, S., and Chalasani, S.H.  
+Nat Commun 6, 8264 (2015)  
+[https://dx.doi.org/10.1038/ncomms9264](https://dx.doi.org/10.1038/ncomms9264)
+
+Also see this article in The Conversation: [Remote control for brain cells: scientists use ultrasound waves to activate neurons](https://theconversation.com/remote-control-for-brain-cells-scientists-use-ultrasound-waves-to-activate-neurons-114901).
+
+## 10
+**Whisky tasting using a bimetallic nanoplasmonic tongue**  
+Macias, G., Sperling, J.R., Peveler, W.J., Burley, G.A., Neale, S.L., and Clark, A.W.  
+Nanoscale (2019)  
+[https://dx.doi.org/10.1039/c9nr04583j](https://dx.doi.org/10.1039/c9nr04583j)
+
+Also see this article in The Guardian: [Scientists develop 'artificial tongue' to detect fake whiskies: The technology can also be used to identify poisons as well as to monitor rivers](https://www.theguardian.com/society/2019/aug/06/scientists-develop-artificial-tongue-to-detect-fake-whiskies).
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

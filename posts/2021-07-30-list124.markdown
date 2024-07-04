@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Reading List 124"
+date:   2021-07-30 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Perception of biological motion by jumping spiders**  
+De Agrò M, Rößler DC, Kim K, Shamble PS  
+PLoS Biol 19:e3001172 (2021)  
+[https://dx.doi.org/10.1371/journal.pbio.3001172](https://dx.doi.org/10.1371/journal.pbio.3001172)
+
+## 2
+**Reward-dependent selection of feedback gains impacts rapid motor decisions**  
+De Comite A, Crevecoeur F, Lefèvre P  
+bioRxiv:2021.07.25.453678 [https://www.biorxiv.org/content/10.1101/2021.07.25.453678v1](https://www.biorxiv.org/content/10.1101/2021.07.25.453678v1)
+
+## 3
+**Retinal waves prime visual motion detection by simulating future optic flow**  
+Ge X, Zhang K, Gribizis A, Hamodi AS, Sabino AM, Crair MC  
+Science 373 (2021)  
+[https://science.sciencemag.org/content/373/6553/eabd0830](https://science.sciencemag.org/content/373/6553/eabd0830)
+
+## 4
+**Disrupting cortico-cerebellar communication impairs dexterity**  
+Guo J-Z, Sauerbrei BA, Cohen JD, Mischiati M, Graves AR, Pisanello F, Branson KM, Hantman AW  
+Elife 10:e65906 (2021)  
+[https://doi.org/10.7554/eLife.65906](https://doi.org/10.7554/eLife.65906)
+
+## 5
+**The mechanosensory neurons of touch and their mechanisms of activation**  
+Handler A, Ginty DD  
+Nat Rev Neurosci (2021)  
+[https://dx.doi.org/10.1038/s41583-021-00489-x](https://dx.doi.org/10.1038/s41583-021-00489-x)
+
+## 6
+**A single exposure to altered auditory feedback causes observable sensorimotor adaptation in speech**  
+Hantzsch L, Parrell B, Niziolek CA  
+bioRxiv:2021.07.26.453857 [https://www.biorxiv.org/content/10.1101/2021.07.26.453857v1](https://www.biorxiv.org/content/10.1101/2021.07.26.453857v1)
+
+## 7
+**Perception of microstimulation frequency in human somatosensory cortex**  
+Hughes CL, Flesher SN, Weiss JM, Boninger ML, Collinger J, Gaunt R  
+Elife 10 (2021)  
+[https://dx.doi.org/10.7554/eLife.65128](https://dx.doi.org/10.7554/eLife.65128)
+
+## 8
+**Motor Sequences - Separating The Sequence From The Motor. A longitudinal rsfMRI Study** 
+Jäger ATP, Huntenburg JM, Tremblay SA, Schneider U, Grahl S, Huck J, Tardif CL, Villringer A, Gauthier CJ, Bazin PL, Steele CJ  
+bioRxiv:2021.02.09.430495 [https://www.biorxiv.org/content/10.1101/2021.02.09.430495v2](https://www.biorxiv.org/content/10.1101/2021.02.09.430495v2)
+
+## 9
+**Anipose: a toolkit for robust markerless 3D pose estimation**  
+Karashchuk P, Rupp KL, Dickinson ES, Walling-Bell S, Sanders E, Azim E, Brunton BW, Tuthill JC  
+bioRxiv:2020.05.26.117325 [https://www.biorxiv.org/content/10.1101/2020.05.26.117325v2](https://www.biorxiv.org/content/10.1101/2020.05.26.117325v2)
+
+## 10
+**Innovation and geographic spread of a complex foraging culture in an urban parrot**  
+Klump BC, Martin JM, Wild S, Hörsch JK, Major RE, Aplin LM  
+Science 373:456–460 (2021)  
+[https://science.sciencemag.org/content/373/6553/456](https://science.sciencemag.org/content/373/6553/456)
+
+## 11
+**Your head is there to move you around: Goal-driven models of the primate dorsal pathway**  
+Mineault PJ, Bhaktiari S, Richards BA, Pack CC  
+bioRxiv:2021.07.09.451701 [https://www.biorxiv.org/content/10.1101/2021.07.09.451701v2](https://www.biorxiv.org/content/10.1101/2021.07.09.451701v2)
+
+## 12
+**Action costs rapidly and automatically interfere with reward-based decision-making in a reaching task**  
+Pierrieau E, Lepage J-F, Bernier P-M  
+eNeuro (2021)  
+[https://dx.doi.org/10.1523/ENEURO.0247-21.2021](https://dx.doi.org/10.1523/ENEURO.0247-21.2021)
+
+## 13
+**Rapid Feedback Responses Parallel the Urgency of Voluntary Reaching Movements**  
+Poscente S, Peters R, Cashaback J, Cluff T  
+Neuroscience (2021)  
+[https://dx.doi.org/10.1016/j.neuroscience.2021.07.014](https://dx.doi.org/10.1016/j.neuroscience.2021.07.014)
+
+## 14
+**A rare case of deafferentation reveals an essential role of proprioception in bilateral coordination**  
+Schaffer JE, Sarlegna FR, Sainburg RL  
+Neuropsychologia:107969 (2021)  
+[https://dx.doi.org/10.1016/j.neuropsychologia.2021.107969](https://dx.doi.org/10.1016/j.neuropsychologia.2021.107969)
+
+## 15
+**Spinal V1 neurons inhibit motor targets locally and sensory targets distally**  
+Sengupta M, Daliparthi V, Roussel Y, Bui TV, Bagnall MW  
+Curr Biol (2021)  
+[https://dx.doi.org/10.1016/j.cub.2021.06.053](https://dx.doi.org/10.1016/j.cub.2021.06.053)
+
+## 16
+**Why Does the Neocortex Need the Cerebellum for Working Memory?**  
+Stein H  
+J Neurosci 41:6368–6370 (2021)  
+[https://www.jneurosci.org/content/41/30/6368](https://www.jneurosci.org/content/41/30/6368)
+
+## 17
+**Effects of reward history on decision-making and movement vigor**  
+Sukumar S, Shadmehr R, Ahmed AA  
+bioRxiv:2021.07.22.453376 [https://www.biorxiv.org/content/10.1101/2021.07.22.453376v1](https://www.biorxiv.org/content/10.1101/2021.07.22.453376v1)
+
+## 18
+**Neurophysiology of slip sensation and grip reaction: insights for hand prosthesis control of slippage**  
+Zangrandi A, D’Alonzo M, Cipriani C, Di Pino G  
+J Neurophysiol (2021)  
+[https://journals.physiology.org/doi/10.1152/jn.00087.2021](https://journals.physiology.org/doi/10.1152/jn.00087.2021)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

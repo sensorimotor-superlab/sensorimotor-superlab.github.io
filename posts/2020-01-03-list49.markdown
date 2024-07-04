@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Reading List 49"
+date:   2020-01-03 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Happy new year everyone!
+Here are the articles that we have been reading over the holidays.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Cortical pattern generation during dexterous movement is input-driven**  
+Sauerbrei BA, Guo J-Z, Cohen JD, Mischiati M, Guo W, Kabra M, Verma N, Mensh B, Branson K, Hantman AW  
+Nature (2019)  
+[https://doi.org/10.1038/s41586-019-1869-9](https://doi.org/10.1038/s41586-019-1869-9)
+
+## 2
+**Pectoral fin kinematics and motor patterns are shaped by fin ray mechanosensation during steady swimming in Scarus quoyi**  
+Aiello BR, Olsen AM, Mathis CE, Westneat MW, Hale ME  
+J Exp Biol (2019)  
+[https://dx.doi.org/10.1242/jeb.211466](https://dx.doi.org/10.1242/jeb.211466)
+
+## 3
+**Where is my mouth? Rapid experience-dependent plasticity of perceived mouth position in humans**  
+Bono D, Haggard P  
+Eur J Neurosci 50:3814–3830 (2019)  
+[https://dx.doi.org/10.1111/ejn.14508](https://dx.doi.org/10.1111/ejn.14508)
+
+## 4
+**Rapid Crossed Responses in an Intrinsic Hand Muscle During Perturbed Bimanual Movements**  
+Khong KYW, Galán F, Soteropoulos DS  
+J Neurophysiol (2019)  
+[https://dx.doi.org/10.1152/jn.00282.2019](https://dx.doi.org/10.1152/jn.00282.2019)
+
+## 5
+**Prolonged reaction times eliminate residual errors in visuomotor adaptation**  
+Langsdorf L, Maresch J, Hegele M, McDougle SD, Schween R  
+bioRxiv:2019.12.26.888941 (2019)  
+[https://www.biorxiv.org/content/10.1101/2019.12.26.888941v1](https://www.biorxiv.org/content/10.1101/2019.12.26.888941v1)
+
+## 6
+**Tuneable reflexes control antennal positioning in flying hawkmoths**  
+Natesan D, Saxena N, Ekeberg Ö, Sane SP  
+Nat Commun 10:5593 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-13595-3](https://dx.doi.org/10.1038/s41467-019-13595-3)
+
+## 7
+**Dexterous Object Manipulation Requires Context-Dependent Sensorimotor Cortical Interactions in Humans**  
+Parikh PJ, Fine JM, Santello M  
+Cereb Cortex (2019)  
+[https://dx.doi.org/10.1093/cercor/bhz296](https://dx.doi.org/10.1093/cercor/bhz296)
+
+## 8
+**Role of cutaneous and proprioceptive inputs in sensorimotor integration and plasticity occurring in the facial primary motor cortex.**  
+Pilurzi G, Ginatempo F, Mercante B, Cattaneo L, Pavesi G, Rothwell JC, Deriu F  
+J Physiol (2019)  
+[https://dx.doi.org/10.1113/JP278877](https://dx.doi.org/10.1113/JP278877)
+
+## 9
+**An optimality principle for locomotor central pattern generators**  
+Ryu HX, Kuo AD  
+bioRxiv:2019.12.30.890152 (2019)  
+[https://www.biorxiv.org/content/10.1101/2019.12.30.890152v1](https://www.biorxiv.org/content/10.1101/2019.12.30.890152v1)
+
+## 10
+**DLTdv digitizing tool: MATLAB tools for digitizing video files and calibrating cameras**  
+Hedrick, T  
+[http://biomech.web.unc.edu/dltdv/](http://biomech.web.unc.edu/dltdv/)
+This is a software package that has existed for over 10 years and previously focused on video digitizing; version 8 adds deep learning tools for automated markerless tracking. The package is available in MATLAB but also as compiled binaries which you should be able to use even if you don't have MATLAB or the deep learning toolbox. A paper describing some of the inner workings of the digitizing package can be found here: —SR
+
+**Software techniques for two- and three-dimensional kinematic measurements of biological and biomimetic systems**  
+Hedrick TL  
+Bioinspir Biomim 3:034001 (2008)  
+[https://doi.org/10.1088/1748-3182/3/3/034001](https://doi.org/10.1088/1748-3182/3/3/034001)
+
+
+# Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

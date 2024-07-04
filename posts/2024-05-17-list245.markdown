@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Reading List 245"
+date:   2024-05-17 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Spike timing-based coding in neuromimetic tactile system enables dynamic object classification**  
+Chen L, Karilanova S, Chaki S, Wen C, Wang L, Winblad B, Zhang S-L, Özçelikkale A, Zhang Z-B  
+[Science 384:660–665](https://www.science.org/doi/10.1126/science.adf3708)
+
+## 2
+**Ultraflexible electrodes for recording neural activity in the mouse spinal cord during motor behavior**  
+Wu Y, Temple BA, Sevilla N, Zhang J, Zhu H, Zolotavin P, Jin Y, Duarte D, Sanders E, Azim E, Nimmerjahn A, Pfaff SL, Luan L, Xie C  
+[Cell Rep 43:114199](https://dx.doi.org/10.1016/j.celrep.2024.114199)
+
+## 3
+**A petavoxel fragment of human cerebral cortex reconstructed at nanoscale resolution**  
+Shapson-Coe A et al.  
+[Science 384:eadk4858](https://www.science.org/doi/10.1126/science.adk4858)
+
+## 4
+**Differential representation of sensory information and behavioral choice across layers of the mouse auditory cortex**  
+Steinfeld R, Tacão-Monteiro A, Renart A  
+[Curr Biol](https://www.cell.com/article/S0960982224005128/abstract)
+
+## 5
+**Toward a neuroscience of natural behavior**  
+Cisek P, Green AM  
+[Curr Opin Neurobiol 86:102859](https://dx.doi.org/10.1016/j.conb.2024.102859)
+
+## 6
+**Efficient value encoding through convergence of tactile and visual value information in the primate putamen**  
+Kim H, Hwang S-H, Park D, Lee J-W, Lee S-H  
+[Research Square](https://doi.org/10.21203/rs.3.rs-3805722/v1)
+
+## 7
+**Task dependent coarticulation of movement sequences**  
+Kalidindi HT, Crevecoeur F  
+[eLife](https://elifesciences.org/reviewed-preprints/96854)
+
+## 8
+**Somatotopic mapping of the fingers in the somatosensory cortex using functional magnetic resonance imaging: A review of literature**  
+Janko D, Thoenes K, Park D, Willoughby WR, Horton M, Bolding M  
+[Front Neuroanat 16:866848](https://dx.doi.org/10.3389/fnana.2022.866848)
+
+## 9
+**Primacy of vision shapes behavioral strategies and neural substrates of spatial navigation in marmoset hippocampus**  
+Piza DB, Corrigan BW, Gulli RA, Do Carmo S, Cuello AC, Muller L, Martinez-Trujillo J  
+[Nat Commun 15:4053](https://www.nature.com/articles/s41467-024-48374-2)
+
+## 10
+**Visual corticotectal neurons in awake rabbits: Receptive fields and driving monosynaptic thalamocortical inputs**  
+Su C, Mendes-Platt RF, Alonso J-M, Swadlow HA, Bereshpolova Y  
+[J Neurosci](https://www.jneurosci.org/content/44/19/e1945232024.abstract)
+
+## 11
+**Functional ultrasound imaging of the human spinal cord**  
+Agyeman KA, Lee DJ, Russin J, Kreydin EI, Choi W, Abedi A, Lo YT, Cavaleri J, Wu K, Edgerton VR, Liu C, Christopoulos VN  
+[Neuron 112:1710-1722.e3](https://www.cell.com/article/S0896627324001223/abstract)
+
+## 12
+**Simultaneous, cortex-wide dynamics of up to 1 million neurons reveal unbounded scaling of dimensionality with neuron number**  
+Manley J, Lu S, Barber K, Demas J, Kim H, Meyer D, Traub FM, Vaziri A  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2024.02.011)
+
+## 13
+**Volatile working memory representations crystallize with practice**  
+Bellafard A, Namvar G, Kao JC, Vaziri A, Golshani P  
+[Nature](https://www.nature.com/articles/s41586-024-07425-w)
+
+## 14
+**Mapping of individual sensory nerve axons from digits to spinal cord with the transparent embedding solvent system**  
+Yi Y et al.  
+[Cell Res 34:124–139](https://www.nature.com/articles/s41422-023-00867-3)
+
+## 15
+**Parallel feedback processing for voluntary control: knowledge of spinal feedback in motor cortex**  
+Guang H, Nashed JY, Pruszynski JA, Kalidindi HT, Crevecoeur F, Cross KP, Blohm G, Scott SH  
+[bioRxiv:2024.05.12.593756](https://www.biorxiv.org/content/10.1101/2024.05.12.593756v1.abstract)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

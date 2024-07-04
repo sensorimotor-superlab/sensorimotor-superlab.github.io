@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Reading List 108"
+date:   2021-04-09 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Sensorimotor temporal recalibration: the contribution of motor-sensory and inter-sensory components**  
+Arikan BE, van Kemenade BM, Fiehler K, Kircher T, Drewing K, Straube B  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.26.437189v1](https://www.biorxiv.org/content/10.1101/2021.03.26.437189v1)
+
+## 2
+**A non-invasive brain-machine interface via independent control of individual motor units**  
+Formento E, Botros P, Carmena JM  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.22.436518v1](https://www.biorxiv.org/content/10.1101/2021.03.22.436518v1)
+
+## 3
+**Increased speech contrast induced by sensorimotor adaptation to a nonuniform auditory perturbation**  
+Parrell B, Niziolek CA  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00466.2020](https://dx.doi.org/10.1152/jn.00466.2020)
+
+## 4
+**Non-invasive real-time access to the output of the spinal cord via a wrist wearable interface**  
+Guerra IM, Barsakcioglu DY, Vujaklija I, Wetmore DZ, Farina D  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.06.438640v1](https://www.biorxiv.org/content/10.1101/2021.04.06.438640v1)
+
+## 5
+**Integrating reward information for prospective behaviour**  
+Hall-McMaster S, Stokes MG, Myers NE  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.30.437719v2](https://www.biorxiv.org/content/10.1101/2021.03.30.437719v2)
+
+## 6
+**Towards a common template for neural reinforcement of finger individuation**  
+Kilmarx J, Oblak E, Sulzer J, Lewis-Peacock J  
+Sci Rep (2021) [https://dx.doi.org/10.1038/s41598-020-80166-8](https://dx.doi.org/10.1038/s41598-020-80166-8)
+
+## 7
+**Perception of effort during an isometric contraction is influenced by prior muscle lengthening or shortening**  
+Kozlowski B, Pageaux B, Hubbard EF, St. Peters B, Millar PJ, Power GA  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.29.437599v2](https://www.biorxiv.org/content/10.1101/2021.03.29.437599v2)
+
+## 8
+**Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons**  
+Maes A, Barahona M, Clopath C  
+PLoS Comput Biol (2021) [https://dx.doi.org/10.1371/journal.pcbi.1008866](https://dx.doi.org/10.1371/journal.pcbi.1008866)
+
+## 9
+**Differential effects of cerebellar degeneration on feedforward versus feedback control across speech and reaching movements**  
+Parrell B, Kim H, Breska A, Saxena A, Ivry R  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.05.438454v1](https://www.biorxiv.org/content/10.1101/2021.04.05.438454v1)
+
+## 10
+**Sensing and decoding the neural drive to paralyzed muscles during attempted movements of a person with tetraplegia using a sleeve array**  
+Ting JE, Del Vecchio A, Sarma D, Colachis SC IV, Annetta NV, Collinger JL, Farina D, Weber DJ  
+medRxiv (2021) [https://medrxiv.org/lookup/doi/10.1101/2021.02.24.21250962](https://medrxiv.org/lookup/doi/10.1101/2021.02.24.21250962)
+
+## 11
+**Dorsomedial striatal activity tracks completion of behavioral sequences**  
+Vandaele Y, Ottenheimer DJ, Janak PH  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.01.437899v1](https://www.biorxiv.org/content/10.1101/2021.04.01.437899v1)
+
+## 12
+**Mixed selectivity coding of sensory and motor social signals in the thalamus of a weakly electric fish**  
+Wallach A, Melanson A, Longtin A, Maler L  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.04.438391v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2021.04.04.438391v1.abstract?%3Fcollection=)
+
+## 13
+**Shared mechanisms underlie the control of working memory and attention**  
+Panichello MF, Buschman TJ  
+Nature (2021) [https://www.nature.com/articles/s41586-021-03390-w](https://www.nature.com/articles/s41586-021-03390-w)
+
+## 14
+**The population doctrine revolution in cognitive neurophysiology**  
+Becket Ebitz R, Hayden BY  
+arXiv [q-bioNC] (2021) [https://arxiv.org/abs/2104.00145](https://arxiv.org/abs/2104.00145)
+
+## 15
+**Just looking: the innocent eye in neuroscience**  
+Gershman SJ (2021)  
+[https://gershmanlab.com/pubs/innocent_eye.pdf](https://gershmanlab.com/pubs/innocent_eye.pdf)
+
+
+## Superlab Papers
+**Pupil-linked arousal modulates trial-by-trial motor adaptation in humans**  
+Yokoi A, Weiler J  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.03.438075v1](https://www.biorxiv.org/content/10.1101/2021.04.03.438075v1)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

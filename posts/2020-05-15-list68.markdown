@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 68"
+date:   2020-05-15 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Task-driven hierarchical deep neural network models of the proprioceptive pathway**  
+Sandbrink KJ, Mamidanna P, Michaelis C, Mathis MW, Bethge M, Mathis A  
+bioRxiv:2020.05.06.081372 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.06.081372v1](https://www.biorxiv.org/content/10.1101/2020.05.06.081372v1)
+
+Also see the [tweeprint](https://twitter.com/trackingactions/status/1258738831420948482?s=21).
+
+## 2
+**Perceptual decisions about object shape bias visuomotor coordination during rapid interception movements**  
+Barany DA, Gómez-Granados A, Schrayer M, Cutts SA, Singh T  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00098.2020](https://dx.doi.org/10.1152/jn.00098.2020)
+
+Also see the [tweeprint](https://twitter.com/SinghTarkesh1/status/1259673329792954370).
+
+## 3
+**An implicit memory of errors limits human sensorimotor adaptation**  
+Albert ST, Jang J, Sheahan H, Teunissen L, Vandevoorde K, Shadmehr R  
+bioRxiv:868406 (2020)  
+[https://www.biorxiv.org/content/10.1101/868406v2](https://www.biorxiv.org/content/10.1101/868406v2)
+
+## 4
+**Fast recurrent processing via ventral prefrontal cortex is needed by the primate ventral stream for robust core visual object recognition**  
+Kar K, DiCarlo JJ  
+bioRxiv:2020.05.10.086959 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.10.086959v1](https://www.biorxiv.org/content/10.1101/2020.05.10.086959v1)
+
+## 5
+**Human decisions about when to act originate within a basal forebrain-nigral circuit**  
+Khalighinejad N, Priestley L, Jbabdi S, Rushworth MFS  
+Proc Natl Acad Sci USA (2020)  
+[https://dx.doi.org/10.1073/pnas.1921211117](https://dx.doi.org/10.1073/pnas.1921211117)
+
+## 6
+**The Synergy Between Neuroscience and Control Theory: The Nervous System as Inspiration for Hard Control Challenges**  
+Madhav MS, Cowan NJ  
+Annu Rev Control Robot Auton Syst 3:243–267 (2020)  
+[https://dx.doi.org/10.1146/annurev-control-060117-104856](https://dx.doi.org/10.1146/annurev-control-060117-104856)
+
+## 7
+**Competitive state of actions during planning predicts sequence execution accuracy**  
+Mantziara M, Ivanov T, Houghton G, Kornysheva K  
+bioRxiv:2020.05.08.085068 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.08.085068v1](https://www.biorxiv.org/content/10.1101/2020.05.08.085068v1)
+
+## 8
+**Differential neural plasticity of individual fingers revealed by fMRI neurofeedback**  
+Oblak EF, Lewis-Peacock JA, Sulzer JS  
+bioRxiv:2020.03.02.973586 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.02.973586v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.02.973586v2.abstract?%3Fcollection=)
+
+## 9
+**Sensorimotor Expectations Bias Motor Resonance during Observation of Object Lifting: The Causal Role of pSTS**  
+Rens G, van Polanen V, Botta A, Gann MA, Orban de Xivry J-J, Davare M  
+J Neurosci 40:3995–4009 (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2672-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.2672-19.2020)
+
+## 10
+**Cerebellospinal Neurons Regulate Motor Performance and Motor Learning**  
+Sathyamurthy A, Barik A, Dobrott CI, Matson KJE, Stoica S, Pursley R, Chesler AT, Levine AJ  
+Cell Rep 31:107595 (2020)  
+[https://dx.doi.org/10.1016/j.celrep.2020.107595](https://dx.doi.org/10.1016/j.celrep.2020.107595)
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

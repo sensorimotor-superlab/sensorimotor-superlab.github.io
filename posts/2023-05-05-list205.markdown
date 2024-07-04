@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Reading List 205"
+date:   2023-05-05 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+## 1
+Chiang P-Y, Ni R, Miller DY, Bansal A, Geiping J, Goldblum M, Goldstein T  
+**Loss Landscapes are All You Need: Neural Network Generalization Can Be Explained Without the Implicit Bias of Gradient Descent**  
+[OpenReview.net](https://openreview.net/pdf?id=QC10RmRbZy9)
+
+**ChatGPT summary**: This study demonstrates that neural network generalization can be explained solely by analyzing loss landscapes, without considering the implicit bias of gradient descent. This finding challenges conventional wisdom and highlights the importance of loss landscapes in understanding neural network behavior.
+
+## 2
+**Multidimensional cerebellar computations for flexible kinematic control of movements**  
+Markanday A, Hong S, Inoue J, De Schutter E, Thier P  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-023-37981-0)
+
+**ChatGPT summary**: The study demonstrates that the cerebellum performs multi-dimensional computations for flexible control of different movement parameters based on context, using data from monkeys performing a saccade task. The research identifies a key circuit mechanism in the cerebellum, involving the amplification and restructuring of lesser variability in mossy fiber activity, as essential for the flexible control of movements.
+
+**ChatGPT summary**: 
+
+## 3
+**Cortico-cortical feedback engages active dendrites in visual cortex**  
+Fişek M, Herrmann D, Egea-Weiss A, Cloves M, Bauer L, Lee T, Russell L, Häusser M  
+[Nature](https://dx.doi.org/10.1038/s41586-023-06007-6)
+
+**ChatGPT summary**: This study uses long-range all-optical connectivity mapping in mice to demonstrate that feedback influence from the lateromedial higher visual area (LM) to the primary visual cortex (V1) is spatially organized and operates differently based on the source and target's relative positions in visual space. The research reveals that neocortical feedback connectivity and nonlinear dendritic integration work together to support predictive and cooperative contextual interactions in the neocortex.
+
+## 4
+**Learnable latent embeddings for joint behavioural and neural analysis**  
+Schneider S, Lee J, Mathis M  
+[Nature](https://dx.doi.org/10.1038/s41586-023-06031-6)
+
+**ChatGPT summary**: The development of a new encoding method called CEBRA allows for the joint use of behavioural and neural data, using both supervised and self-supervised approaches, to produce consistent and high-performance latent spaces. This method can be used for decoding, validating accuracy, and uncovering meaningful differences in a variety of sensory and motor tasks across species.
+
+## 5
+**Cerebellar state estimation enables resilient coupling across behavioural domains**  
+Palacios E, Chadderton P, Friston K, Houghton C  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.28.538674)
+
+**ChatGPT summary**: The cerebellum is crucial for fine behavioural control and relies on internal probabilistic models for state estimation. This study proposes that the cerebellum uses these models to infer how states contextualise with each other, coordinating extra-cerebellar neuronal dynamics to explain its ubiquitous involvement in most aspects of behaviour.
+
+## 6
+**Semantic reconstruction of continuous language from non-invasive brain recordings**  
+Tang J, LeBel A, Jain S, Huth A  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01304-9)
+
+**ChatGPT summary**: The study introduces a non-invasive brain-computer interface that reconstructs continuous language from cortical semantic representations recorded via functional magnetic resonance imaging (fMRI), generating intelligible word sequences from various tasks. The research also highlights that successful decoding requires subject cooperation for both training and application, emphasizing the importance of mental privacy in brain-computer interfaces.
+
+## 7
+**Movement variability can be modulated in speech production**  
+Tang D, Parrell B, Niziolek C  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00095.2022)
+
+**ChatGPT summary**: This study investigates the regulation of motor variability in speech production, a complex and well-practiced behavior, through a series of experiments involving auditory feedback manipulations. The findings demonstrate that motor variability in speech can be actively monitored and modulated, highlighting the importance of incorporating active control of variability in models of speech motor control and expanding our understanding of variability in complex behaviors beyond limb control systems.
+
+## 8
+**Repetition plasticity in primary auditory cortex occurs across long timescales for spectrotemporally randomized pure-tones**  
+Gill N, Francis N  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.26.538446)
+
+**ChatGPT summary**: The study investigated repetition plasticity in mouse primary auditory cortex (A1) layer 2/3 during the presentation of randomized pure-tone frequencies. The researchers found subpopulations of neurons with repetition suppression and enhancement, with each neuron showing repetition plasticity for 1-2 pure-tone frequencies near its best frequency, and correlated changes in neural response amplitude and latency across stimulus repetitions, highlighting cortical specialization for pattern recognition in complex acoustic sequences over long timescales.
+
+## 9
+**State-dependent role of interhemispheric pathway for motor recovery in primates**  
+Mitsuhashi M, Yamaguchi R, Kawasaki T, Ueno S, Sun Y, Isa K, Takahashi J, Kobayashi K, Onoe H, Takahashi R, Isa T  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.23.538021)
+
+**ChatGPT summary**: The role of the interhemispheric pathway in post-injury motor recovery and how it changes over time was investigated by lesioning the lateral corticospinal tract in macaques. Results showed that the pathway changed from inhibition to facilitation during early recovery, suggesting it could be a therapeutic target in this stage.
+
+## 10
+**Direction-dependent neural control of finger dexterity in humans**  
+Rajchert O, Ofir-Geva S, Melul Y, Khoury-Mireb M, Bar-Sela O, Granot O, Caspi T, Toledo S, Soroker N, Mawase F  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.25.538234)
+
+**ChatGPT summary**: The neural basis for human hand dexterity, specifically individuation (fine control) and strength (gross control) during flexion and extension finger movements, was investigated in stroke patients. Results show that a critical brain region for finger individuation resides in the primary sensory-motor cortex, premotor cortex, and corticospinal fibers, with flexion-biased differential premotor and motor cortical organization associated with the finger individuation component, but not with finger strength.
+
+## 11
+**A double dissociation between savings and long-term memory in motor learning**  
+Hadjiosif A, Morehead J, Smith M  
+[PLoS Biol](https://dx.doi.org/10.1371/journal.pbio.3001799)
+
+**ChatGPT summary**: This study investigates the relationship between savings and long-term memory formation in motor learning, finding that temporally-volatile implicit learning leads to savings while temporally-persistent learning does not, and vice versa for long-term memory at 24 hours. The findings challenge widely held assumptions about the connection between savings and memory consolidation and reveal the coexistence of implicit memories with distinct time courses, providing new insights into the mechanisms for savings and long-term memory formation.
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

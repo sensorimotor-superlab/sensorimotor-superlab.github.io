@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Reading List 37"
+date:   2019-10-04 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Happy October everyone. Starting with this week's list we are encouraging our superlab members not only to suggest papers for the list but to contribute three-sentence blurbs that convey something about what the paper is about, and/or why they suggested it. A new section at the bottom of the reading list, **Contributors**, will list each contribution. Also, don't miss our **Bonus** entry this week, an article from Nature describing how novelist Cormac McCarthy helps scientists at the Santa Fe Institute edit their writing.
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**A functional cortical network for sensorimotor sequence generation**  
+Xu, D., Chen, Y., Delgado, A.M., Hughes, N.C., Zhang, L., Dong, M., and O’Connor, D.H.  
+bioRxiv, 783050 (2019)  
+[https://www.biorxiv.org/content/10.1101/783050v1](https://www.biorxiv.org/content/10.1101/783050v1)
+
+Xu et al. trained mice to execute a sequential licking task where progression in the sequence sometimes depended on online tactile feedback. Optogenetic inhibition of the somatosensory, motor, or premotor (ALM) cortex affected the mice's ability to complete sequential movements. Kinematic and task related variables were distributed across these cortical regions, while ALM contained the most information about progression towards reward, establishing a hierarchical circuit for sequence generation in mice. —JM
+
+## 2
+**Single-trial neural dynamics are dominated by richly varied movements**  
+Musall, S., Kaufman, M.T., Juavinett, A.L., Gluf, S., and Churchland, A.K.  
+Nat. Neurosci. 22, 1677–1686 (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0502-4](https://dx.doi.org/10.1038/s41593-019-0502-4)
+
+Musall et al. show that in expert mice performing a complicated decision-making task, uninstructed movements dominate the single-trial neural activity across the brain. In fact, these non-task-related movements (or 'fidgets') explained more variance than task-related variables. This finding underlies the importance of measuring movements (and task-irrelevant behaviors in general) to understand the neural code. —EB
+
+## 3
+**We Are Upright-Walking Cats: Human Limbs as Sensory Antennae During Locomotion**  
+Pearcey, G.E.P., and Zehr, E.P.  
+Physiology 34, 354–364 (2019)  
+[https://dx.doi.org/10.1152/physiol.00008.2019](https://dx.doi.org/10.1152/physiol.00008.2019)
+
+Our feet, often tucked away in shoes and under desks, possess the same mechanoreceptors found in our hands — however, they are differently distributed throughout skin with different physical characteristics. In this provocatively titled review, Pearcey and Zehr characterize the effects of cutaneous stimulation of human feet during walking in light of classical studies in cats. This raises interesting questions regarding lower limb responses to hand stimulation during walking and could offer another perspective on the phenomenon of sensory attenuation (or lack thereof) during upper limb movement. —SR
+
+## 4
+**Recalibration of auditory perception of speech due to orofacial somatosensory inputs during speech motor adaptation**  
+Ohashi, H., and Ito, T.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00028.2019](https://dx.doi.org/10.1152/jn.00028.2019)
+
+Here Ohashi and Ito explore the links between sensory and motor systems in speech motor learning. They use a small robot arm to stretch the facial skin during a speech motor learning task involving adapting the production of vowel sounds to altered auditory feedback that shifts vowel formants. This somatosensory modulation doesn't affect the amount of adaptation in speech production (motor outflow) but perhaps surprisingly, does affect auditory perception of speech vowel sounds, suggesting that orofacial somatosensory inputs help shape the auditory perception of speech sounds. —PG
+
+## 5
+**Identifying Weights and Architectures of Unknown ReLU Networks**  
+Rolnick, D., and Kording, K.P.  
+arXiv [cs.LG] (2019)  
+[https://arxiv.org/abs/1910.00744](https://arxiv.org/abs/1910.00744)
+
+Rolnick and Kording demonstrate something surprising, at least to me: it's possible, in some cases, to reconstruct the both the network architecture and the weights & biases of a multi-layer ReLU network, only by querying the network's outputs (!) As they say in their Abstract, this could have implications for the study of biological neural networks, as well as more immediate implications (e.g. security) for real-world situations involving artificial neural networks. —PG
+
+## 6
+**A Whole-body Sensory-Motor Gradient is Revealed in the Medial Wall of the Parietal Lobe**  
+Zeharia, N., Hofstetter, S., Flash, T., and Amedi, A.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0727-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.0727-18.2019)
+
+## 7
+**Stabilizing stretch reflexes are modulated independently from the rapid release of perturbation-triggered motor plans**  
+Lee, H., and Perreault, E.J.  
+Sci. Rep. 9, 13926 (2019)  
+[https://dx.doi.org/10.1038/s41598-019-50460-1](https://dx.doi.org/10.1038/s41598-019-50460-1)
+
+## 8
+**Neurophysiological mechanisms underlying motor skill learning in young and older adults**  
+Mooney, R.A., Cirillo, J., and Byblow, W.D.  
+Exp. Brain Res. 237, 2331–2344 (2019)  
+[https://dx.doi.org/10.1007/s00221-019-05599-8](https://dx.doi.org/10.1007/s00221-019-05599-8)
+
+## 9
+**Learning task-state representations**  
+Niv, Y.  
+Nat. Neurosci. 22, 1544–1553 (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0470-8](https://dx.doi.org/10.1038/s41593-019-0470-8)
+
+## 10
+**Time-dependent competition between goal-directed and habitual response preparation**  
+Hardwick, R.M., Forrence, A.D., Krakauer, J.W., and Haith, A.M.  
+Nature Human Behaviour, 1–11 (2019)  
+[https://dx.doi.org/10.1038/s41562-019-0725-0](https://dx.doi.org/10.1038/s41562-019-0725-0)
+
+## Bonus
+**Novelist Cormac McCarthy’s tips on how to write a great science paper**  
+Savage, V., and Yeh, P.  
+Nature (2019)  
+[https://www.nature.com/articles/d41586-019-02918-5](https://www.nature.com/articles/d41586-019-02918-5)
+
+
+# Contributors
+- Jonathan Michaels ([@JonAMichaels](https://twitter.com/JonAMichaels))
+- Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+- Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

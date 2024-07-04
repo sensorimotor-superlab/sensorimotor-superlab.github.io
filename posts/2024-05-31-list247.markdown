@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Reading List 247"
+date:   2024-05-30 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our new feature (see below): the Sensorimotor Superlab **Journal Club**. In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Acute Neuropixels recordings in the marmoset monkey**  
+Dotson NM, Davis ZW, Jendritza P, Reynolds JH  
+[eNeuro 11:ENEURO.0544-23.2024](https://www.eneuro.org/content/11/5/ENEURO.0544-23.2024.abstract)
+
+## 2
+**Spontaneously emerging internal models of visual sequences combine abstract and event-specific information in the prefrontal cortex**  
+Bellet ME, Gay M, Bellet J, Jarraya B, Dehaene S, van Kerkoerle T, Panagiotaropoulos TI  
+[Cell Rep 43:113952](https://www.cell.com/article/S2211124724002808/abstract)
+
+## 3
+**Stimulus information guides the emergence of behavior-related signals in primary somatosensory cortex during learning**  
+Panniello M, Gillon CJ, Maffulli R, Celotto M, Richards BA, Panzeri S, Kohl MM  
+[Cell Rep 43:114244](https://www.cell.com/article/S2211124724005722/abstract)
+
+## 4
+**Predicting and shaping human-machine interactions in closed-loop, co-adaptive neural interfaces**  
+Madduri MM, Yamagami M, Li SJ, Burckhardt S, Burden SA, Orsborn AL  
+[bioRxiv:2024.05.23.595598](https://www.biorxiv.org/content/10.1101/2024.05.23.595598v1.abstract)
+
+## 5
+**Feedback control of recurrent dynamics constrains learning timescales during motor adaptation**  
+Gurnani H, Liu W, Brunton BW  
+[bioRxiv:2024.05.24.595772](https://www.biorxiv.org/content/10.1101/2024.05.24.595772v1.abstract)
+
+## 6
+**Action initiation and action inhibition follow the same time course when compared under matched experimental conditions**  
+Du Y, Forrence AD, Metcalf DM, Haith AM  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00434.2023)
+
+## 7
+**Temporal prediction captures key differences between spiking excitatory and inhibitory V1 neurons**  
+Taylor L, Zenke F, King AJ, Harper NS  
+[bioRxiv:2024.05.12.593763](https://www.biorxiv.org/content/10.1101/2024.05.12.593763v1.abstract)
+
+## 8
+**Partial observation can induce mechanistic mismatches in data-constrained models of neural dynamics**  
+Qian W, Zavatone-Veth JA, Ruben BS, Pehlevan C  
+[bioRxiv:2024.05.24.595741](https://www.biorxiv.org/content/10.1101/2024.05.24.595741v1.abstract)
+
+## 9
+**Open and remotely accessible Neuroplatform for research in wetware computing**  
+Jordan FD, Kutter M, Comby J-M, Brozzi F, Kurtys E  
+[Front Artif Intell 7:1376042](https://dx.doi.org/10.3389/frai.2024.1376042)
+
+## 10
+**Cerebellar Purkinje cells in male macaques combine sensory and motor information to predict the sensory consequences of active self-motion**  
+Zobeiri OA, Cullen KE  
+[Nat Commun 15:4003](https://www.nature.com/articles/s41467-024-48376-0)
+
+## 11
+**Closed-loop optogenetic neuromodulation enables high-fidelity fatigue-resistant muscle control**  
+Herrera-Arcos G, Song H, Yeon SH, Ghenand O, Gutierrez-Arango S, Sinha S, Herr H  
+[Sci Robot 9:eadi8995](https://www.science.org/doi/10.1126/scirobotics.adi8995)
+
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed Kevin Mizes from Bence Ölveczky's lab (Harvard Univ) to discuss his recent paper:
+
+**Dissociating the contributions of sensorimotor striatum to automatic and visually guided motor sequences**  
+Mizes KGC, Lindsey J, Escola GS, Ölveczky BP  
+[Nat Neurosci 26:1791–1804](https://www.nature.com/articles/s41593-023-01431-3)
+
+Video: [https://www.youtube.com/watch?v=2kk9Bh7rxkU](https://www.youtube.com/watch?v=2kk9Bh7rxkU)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

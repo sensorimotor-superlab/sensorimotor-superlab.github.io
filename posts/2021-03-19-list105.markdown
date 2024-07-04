@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Reading List 105"
+date:   2021-03-19 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**The neurophysiological representation of imagined somatosensory percepts in human cortex**  
+Bashford L, Rosenthal I, Kellis S, Pejsa K, Kramer D, Lee B, Liu C, Andersen RA  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.2460-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.2460-20.2021)
+
+## 2
+**Visuomotor information drives interference between the hands more than dynamic motor information during bimanual reaching**  
+Desrochers PC, Brunfeldt AT, Kagerer FA  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.15.435502v1](https://www.biorxiv.org/content/10.1101/2021.03.15.435502v1)
+
+## 3
+**How to Interpret Resting-State fMRI: Ask Your Participants**  
+Gonzalez-Castillo J, Kam JWY, Hoy CW, Bandettini PA  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.1786-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.1786-20.2020)
+
+## 4
+**A conversion from slow to fast memory in response to passive motion**  
+Javidialsaadi M, Albert ST, Wang J  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.09.434594v2](https://www.biorxiv.org/content/10.1101/2021.03.09.434594v2)
+
+## 5
+**Black In Neuro, Beyond One Week**  
+Murray D-S, Richardson L, Tesfaye R, Nadin D, Kelly C, Greenwood P  
+J Neurosci (2021) [https://www.jneurosci.org/content/41/11/2314](https://www.jneurosci.org/content/41/11/2314)
+
+## 6
+**Force variability is mostly not motor noise: Theoretical implications for motor control**  
+Nagamori A, Laine CM, Loeb GE, Valero-Cuevas FJ  
+PLoS Comput Biol (2021) [https://dx.doi.org/10.1371/journal.pcbi.1008707](https://dx.doi.org/10.1371/journal.pcbi.1008707)
+
+## 7
+**Efficient high-resolution TMS mapping of the human motor cortex by nonlinear regression**  
+Numssen O, Zier A-L, Thielscher A, Hartwigsen G, Knösche TR, Weise K  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.11.434996v1](https://www.biorxiv.org/content/10.1101/2021.03.11.434996v1)
+
+## 8
+**A Synthesis of the Many Errors and Learning Processes of Visuomotor Adaptation**  
+Ryan Morehead J, Orban de Xivry J-J  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.14.435278v1](https://www.biorxiv.org/content/10.1101/2021.03.14.435278v1)
+
+## 9
+**Object manipulation without hands**  
+Sugasawa S, Webb B, Healy SD  
+Proc Biol Sci (2021) [https://dx.doi.org/10.1098/rspb.2020.3184](https://dx.doi.org/10.1098/rspb.2020.3184)
+
+## 10
+**Finger representation in the cortex of the congenitally blind**  
+Wesselink DB, Kikkert S, Bridge H, Makin TR  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.16.435392v1](https://www.biorxiv.org/content/10.1101/2021.03.16.435392v1)
+
+## Superlab Papers
+**Human touch receptors are sensitive to spatial details on the scale of single fingerprint ridges**  
+Jarocka E, Pruszynski JA, Johansson RS  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.1716-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.1716-20.2021)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 126"
+date:   2021-09-24 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Two common and distinct forms of variation in human functional brain networks**  
+Dworetsky A, Seitzman BA, Adeyemo B, Smith DM, Petersen SE, Gratton C  
+[bioRxiv:2021.09.17.460799](http://dx.doi.org/10.1101/2021.09.17.460799)
+
+## 2
+**Psychological pressure and compounded errors during elite-level tennis**  
+Harris DJ, Vine SJ, Eysenck MW, Wilson MR  
+[Psychol Sport Exerc 56:101987](https://www.sciencedirect.com/science/article/pii/S1469029221001059)
+
+## 3
+**An oscillatory pipelining mechanism supporting previewing during visual exploration and reading**  
+Jensen O, Pan Y, Frisson S, Wang L  
+[Trends Cogn Sci (2021)](http://dx.doi.org/10.1016/j.tics.2021.08.008)
+
+## 4
+**Long-term Motor Learning in the Wild with High Volume Video Game Data**  
+Listman JB, Tsay JS, Kim HE, Mackey WE, Heeger DJ  
+[bioRxiv:2021.09.15.460516](https://www.biorxiv.org/content/10.1101/2021.09.15.460516v1)
+
+## 5
+**Methylphenidate as a causal test of translational and basic neural coding hypotheses**  
+Ni AM, Bowes BS, Ruff DA, Cohen MR  
+[bioRxiv:2021.09.12.459995](https://www.biorxiv.org/content/10.1101/2021.09.12.459995v1)
+
+## 6
+**The science and engineering behind sensitized brain-controlled bionic hands**  
+Pandarinath C, Bensmaia SJ  
+[Physiol Rev (2021)](http://dx.doi.org/10.1152/physrev.00034.2020)
+
+## 7
+**Homologous organization of cerebellar pathways to sensory, motor, and associative forebrain**  
+Pisano TJ, Dhanerawala ZM, Kislin M, Bakshinskaya D, Engel EA, Hansen EJ, Hoag AT, Lee J, de Oude NL, Venkataraju KU, Verpeut JL, Hoebeek FE, Richardson BD, Boele H-J, Wang SS-H  
+[Cell Rep 36:109721](http://dx.doi.org/10.1016/j.celrep.2021.109721)
+
+## 8
+**Motor skill training without online visual feedback enhances feedforward control**  
+Raichin A, Shkedy Rabani A, Shmuelof L  
+[J Neurophysiol (2021)](http://dx.doi.org/10.1152/jn.00145.2021)
+
+## 9
+**Synchronous spiking of cerebellar Purkinje cells during control of movements**  
+Sedaghat-Nejad E, Pi JS, Hage P, Fakharian MA, Shadmehr R  
+[bioRxiv:2021.09.16.460700](https://www.biorxiv.org/content/10.1101/2021.09.16.460700v1)
+
+## 10
+**The dissociable effects of reward on sequential motor behaviour**  
+Sporn S, Chen X, Galea JM  
+[bioRxiv:2021.09.17.460761](https://www.biorxiv.org/content/10.1101/2021.09.17.460761v1)
+
+
+## Superlab Papers
+
+**Sensorimotor feedback loops are selectively sensitive to reward**  
+Codol O, Forgaard CJ, Galea JM, Gribble PL  
+[bioRxiv:2021.09.16.460659](https://www.biorxiv.org/content/10.1101/2021.09.16.460659v1)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

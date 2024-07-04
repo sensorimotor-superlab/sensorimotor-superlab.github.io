@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Reading List 10"
+date:   2019-03-29 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are some articles that caught our attention this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Relationship between cardiac cycle and the timing of actions during action execution and observation**  
+Palser, E.R. ([@EleanorPalser](https://twitter.com/EleanorPalser)), Glass, J., Fotopoulou, A. ([@Katlab_UCL](https://twitter.com/Katlab_UCL)), and Kilner, J.M. ([@JamesKilner](https://twitter.com/JamesKilner))  
+bioRxiv, 585414 (2019)  
+[https://www.biorxiv.org/content/10.1101/585414v1](https://www.biorxiv.org/content/10.1101/585414v1)
+
+There has been a lot of work recently on the cardiac cycle, the autonomic nervous system and cognitive functions like memory and perception. Here Eleanor Palser and colleagues investigate the role of the cardiac cycle in self-paced voluntary movement and discover two intriguing patterns. First, people tended to finish arm movements in between heartbeats. Second, during action observation, heartbeats of the observers were less likely to occur at the time when the person being observed finished their movement. Also see the [tweet thread](https://twitter.com/EleanorPalser/status/1108979926156242944) about the paper.
+
+## 2
+**Keep your hands apart: independent representations of ipsilateral and contralateral forelimbs in primary motor cortex**  
+Heming, E.A., Cross, K.P. ([@K_P_Cross](https://twitter.com/K_P_Cross)), Takei, T., Cook, D.J., and Scott, S.H. ([@ScottLIMBlab](https://twitter.com/ScottLIMBlab))  
+bioRxiv, 587378 (2019) [https://www.biorxiv.org/content/10.1101/587378v1](https://www.biorxiv.org/content/10.1101/587378v1)
+
+**Motor cortex signals corresponding to the two arms are shared across hemispheres, mixed among neurons, yet partitioned within the population response**  
+Ames, K.C., and Churchland, M.M.  
+bioRxiv, 552257 (2019)  
+[https://www.biorxiv.org/content/10.1101/552257v1](https://www.biorxiv.org/content/10.1101/552257v1)
+
+We have known for a long time that voluntary arm movements are associated with neural activity in both ipsilateral and contralateral motor cortices. So why doesn't ispilateral neural activity drive motor output in the contralateral limb? When both hemispheres are activated, how does the sensorimotor system avoid moving the wrong arm? Here are two papers that address these questions and more, using electrophysiology to test how the left and right upper limbs are represented in the left and right hemispheres of primary motor cortex of monkeys. 
+
+## 3
+**Rapid target foraging with reach or gaze: The hand looks further ahead than the eye**  
+Diamond, J.S., Wolpert, D.M. ([@DMWolpert](https://twitter.com/DMWolpert)), and Flanagan, J.R.  
+PLoS Comput. Biol. 13, e1005504 (2017)  
+[https://dx.doi.org/10.1371/journal.pcbi.1005504](https://dx.doi.org/10.1371/journal.pcbi.1005504)
+
+Yoon, T., Geary, R.B., Ahmed, A.A. ([@AlayaAAhmed](https://twitter.com/AlayaAAhmed)), and Shadmehr, R. ([@reziliusReza](https://twitter.com/reziliusReza))
+**Control of movement vigor and decision making during foraging**  
+Proc. Natl. Acad. Sci. U.S.A. (2018)  
+[https://dx.doi.org/10.1073/pnas.1812979115](https://dx.doi.org/10.1073/pnas.1812979115)
+
+These two studies from different laboratories both use an arm movement "foraging" task to investigate how factors such as movement cost, reward, target size and marginal value affect how human participants "harvest" rewarded objects using their upper limbs in a virtual visual environment.
+
+## 4
+**Common statistical tests are linear models (or: how to teach stats)**  
+Jonas Kristoffer Lindeløv ([@jonaslindeloev](https://twitter.com/jonaslindeloev))  
+[https://lindeloev.github.io/tests-as-linear/](https://lindeloev.github.io/tests-as-linear/)
+
+This is a really cool blog post from Jonas Kristoffer Lindeløv in which he lays out for us how many common parametric and non-parametric statistical tests can be formulated as variants of a linear model. Jonas includes sample R code throughout, and he finisheds with a section in which he suggests how this approach might be incorporated into teaching materials, including ideas about a course outline. It's worth a read. Also see the [tweet thread](https://twitter.com/jonaslindeloev/status/1110907133833502721).
+
+## 5
+**Scaling of sensorimotor delays in terrestrial mammals.**  
+More, H.L., and Donelan, J.M. ([@maxdonelan](https://twitter.com/maxdonelan))  
+Proc. R. Soc. B 285, 20180613 (2018)  
+[https://doi.org/10.1098/rspb.2018.0613](https://doi.org/10.1098/rspb.2018.0613)
+
+This is a really cool paper from 2018 detailing the challenges faced by the sensorimotor system in dealing with sensory delays in animals ranging in size from shrews to elephants. They characterize the relationship between animal mass and reflex delays (it's a power law relationship). They also describe how various contributors to reflex relays, (sensing delays, nerve conduction delays, synaptic delays, neuromuscular junction delays, electromechanical delays, and force generation delays) vary in their relative influence with animal size. Also see the [tweet thread](https://twitter.com/maxdonelan/status/1034880537175814144).
+
+## 6
+**Motor Learning**  
+Krakauer, J.W. ([@blamlab](https://twitter.com/blamlab)), Hadjiosif, A.M., Xu, J., Wong, A.L. ([@WongAaronL](https://twitter.com/WongAaronL)), and Haith, A.M. ([@adrianhaith](https://twitter.com/adrianhaith))  
+Compr. Physiol. 9, 613–663 (2019)  
+[https://dx.doi.org/10.1002/cphy.c170043](https://dx.doi.org/10.1002/cphy.c170043)
+
+## 7
+**Current models of speech motor control: A control-theoretic overview of architectures and properties.**  
+Parrell, B. ([@parrell](https://twitter.com/parrell)), Lammert, A.C., Ciccarelli, G., and Quatieri, T.F.  
+The Journal of the Acoustical Society of America 145, 1456–1481. (2019)  
+[http://dx.doi.org/10.1121/1.5092807](http://dx.doi.org/10.1121/1.5092807)
+
+[tweet thread](https://twitter.com/parrell/status/1110289277836058624)
+
+## 8
+**StretchfMRI: a new technique to quantify the contribution of the reticular formation to long-latency responses via fMRI**  
+Zonnino, A., Farrens, A.J., Ress, D., and Sergi, F.  
+bioRxiv, 582692 (2019)  
+[https://www.biorxiv.org/content/10.1101/582692v1](https://www.biorxiv.org/content/10.1101/582692v1)
+
+Also see the [tweet thread](https://twitter.com/hurolab/status/1111041586559926272).
+
+## 9
+**Shared Cortex-Cerebellum Dynamics in the Execution and Learning of a Motor Task**  
+Wagner, M.J., Kim, T.H., Kadmon, J., Nguyen, N.D., Ganguli, S., Schnitzer, M.J., and Luo, L.  
+Cell (2019)  
+[https://www.cell.com/article/S0092867419301680/abstract](https://www.cell.com/article/S0092867419301680/abstract)
+
+## 10
+**When Does One Decide How Heavy an Object Feels While Picking It Up?**  
+Plaisier, M.A., Kuling, I.A., Brenner, E., and Smeets, J.B.J. ([@JBJSmeets](https://twitter.com/JBJSmeets))  
+Psychol. Sci., 0956797619837981 (2019)  
+[https://dx.doi.org/10.1177/0956797619837981](https://dx.doi.org/10.1177/0956797619837981)
+
+[tweet thread](https://twitter.com/JBJSmeets/status/1111004606539202560)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+

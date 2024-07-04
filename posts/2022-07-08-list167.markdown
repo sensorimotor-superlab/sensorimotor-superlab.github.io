@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 167"
+date:   2022-07-08 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Epidural electrical stimulation of the cervical dorsal roots restores voluntary upper limb control in paralyzed monkeys**  
+Barra B, Conti S, Perich MG, Zhuang K, Schiavone G, Fallegger F, Galan K, James ND, Barraud Q, Delacombaz M, Kaeser M, Rouiller EM, Milekovic T, Lacour S, Bloch J, Courtine G, Capogrosso M  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01106-5)
+
+## 2
+**Neural population dynamics in dorsal premotor cortex underlying a reach decision**  
+Boucher PO, Wang T, Carceroni L, Kane G, Shenoy KV, Chandrasekaran C  
+[bioRxiv:2022.06.30.497070](https://www.biorxiv.org/content/10.1101/2022.06.30.497070v1)
+
+## 3
+**Action inhibition revisited: Stopping is not faster than going**  
+Du Y, Forrence AD, Metcalf DM, Haith AM  
+[bioRxiv:2022.06.29.497798](https://www.biorxiv.org/content/10.1101/2022.06.29.497798v1)
+
+## 4
+**Learning alters neural activity to simultaneously support memory and action**  
+Losey DM, Hennig JA, Oby ER, Golub MD, Sadlter PT, Quick KM, Ryu SI, Tyler-Kabara EC, Batista AP, Yu BM, Chase SM  
+[bioRxiv:2022.07.05.498856](https://www.biorxiv.org/content/10.1101/2022.07.05.498856v1)
+
+## 5
+**Adapting to visuomotor rotations in stepped increments increases implicit motor learning**  
+Modchalingam S, Ciccone M, D’Amario S, Hart BM ’t, Henriques DYP  
+[bioRxiv:2022.07.04.498746](https://www.biorxiv.org/content/10.1101/2022.07.04.498746v1)
+
+## 6
+**Executed and imagined grasping movements can be decoded from lower dimensional representation of distributed non-motor brain areas**  
+Ottenhoff MC, Verwoert M, Goulis S, Colon AJ, Wagner L, Tousseyn S, van Dijk JP, Kubben PL, Herff C  
+[bioRxiv:2022.07.04.498676](https://www.biorxiv.org/content/10.1101/2022.07.04.498676v1)
+
+## 7
+**Soft, bioresorbable coolers for reversible conduction block of peripheral nerves**  
+Reeder JT et al.  
+[Science](https://dx.doi.org/10.1126/science.abl8532)
+
+## 8
+**Signatures of contextual interference in implicit sensorimotor adaptation**  
+Tsay JS, Irving C, Ivry RB  
+[bioRxiv:2022.07.03.498608](https://www.biorxiv.org/content/10.1101/2022.07.03.498608v1)
+
+## 9
+**Sensory error drives fine motor adjustment**  
+Wang H, Zhou Y, Li H, Moss CF, Li X, Luo J  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2201275119)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

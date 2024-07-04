@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Reading List 154"
+date:   2022-04-08 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Recessive cerebellar and afferent ataxias - clinical challenges and future directions**  
+Beaudin M, Manto M, Schmahmann JD, Pandolfo M, Dupre N  
+[Nat Rev Neurol](https://dx.doi.org/10.1038/s41582-022-00634-9)
+
+## 2
+**Reduced neural activity but improved coding in rodent higher-order visual cortex during locomotion**  
+Christensen AJ, Pillow JW  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-29200-z)
+
+## 3
+**Cue-driven motor planning facilitates express visuomotor responses in human arm muscles**  
+Contemori S, Loeb GE, Corneil BD, Wallis G, Carroll TJ  
+[bioRxiv:2022.04.02.486810](https://www.biorxiv.org/content/10.1101/2022.04.02.486810v1.abstract?%3Fcollection=)
+
+## 4
+**Neural structure of a sensory decoder for motor control**  
+Egger SW, Lisberger SG  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-29457-4)
+
+## 5
+**Successor-like representation guides the prediction of future events in human visual cortex and hippocampus**  
+Ekman M, Kusch S, de Lange FP  
+[bioRxiv:2022.03.23.485480](https://www.biorxiv.org/content/10.1101/2022.03.23.485480v1)
+
+## 6
+**On the Impossibility of Supersized Machines**  
+Garfinkel B, Brundage M, Filan D, Flynn C, Luketina J, Page M, Sandberg A, Snyder-Beattie A, Tegmark M  
+[arXiv [csCY]](https://arxiv.org/abs/1703.10987)
+
+## 7
+**Neurochemical and functional interactions for improved perceptual decisions through training**  
+Jia K, Frangou P, Karlaftis VM, Ziminski JJ, Giorgio J, Rideaux R, Zamboni E, Hodgson V, Emir U, Kourtzi Z  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00308.2021)
+
+## 8
+**Visuo-tactile integration in texture perception: A replication and extension study**  
+Kangur K, Giesel M, Harris JM, Hesse C  
+[bioRxiv:2022.04.01.486675](https://www.biorxiv.org/content/10.1101/2022.04.01.486675v1)
+
+## 9
+**Antagonistic co-contraction can minimize muscular effort in systems with uncertainty**  
+Koelewijn AD, Van Den Bogert AJ  
+[PeerJ](https://peerj.com/articles/13085/)
+
+## 10
+**The history of reflex hammers**  
+Lanska DJ  
+[Neurology](https://n.neurology.org/content/39/11/1542)
+
+## 11
+**Planning the potential future during multi-item visual working memory**  
+Nasrawi R, van Ede F  
+[bioRxiv:2021.12.17.473138](https://www.biorxiv.org/content/10.1101/2021.12.17.473138v1)
+
+## 12
+**Preclinical upper limb neurorobotic platform to assess, rehabilitate, and develop therapies**  
+Pasquini M, James ND, Dewany I, Coen F-V, Cho N, Lai S, Anil S, Carpaneto J, Barraud Q, Lacour SP, Micera S, Courtine G  
+[Sci Robot](https://dx.doi.org/10.1126/scirobotics.abk2378)
+
+## 13
+**A Neuromuscular Model of Human Locomotion Combines Spinal Reflex Circuits with Voluntary Movements**  
+Ramadan R, Geyer H, Jeka JJ, Schoener G, Reimann H  
+[bioRxiv:2021.09.26.461864](https://www.biorxiv.org/content/10.1101/2021.09.26.461864v2)
+
+## 14
+**Addressing racial and phenotypic bias in human neuroscience methods**  
+Webb EK, Etter JA, Kwasa JA  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01046-0)
+
+## 15
+**Parasite defensive limb movements enhance signal attraction in male little torrent frogs: insight into the evolution of multimodal signals**  
+Zhao L, Wang J, Zhang H, Wang T, Yang Y, Tang Y, Halfwerk W, Cui J  
+[bioRxiv:2021.12.31.474622](https://www.biorxiv.org/content/10.1101/2021.12.31.474622v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

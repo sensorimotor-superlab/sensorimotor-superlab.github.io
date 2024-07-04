@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 16"
+date:   2019-05-10 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Intensity Matters: High-intensity Interval Exercise Enhances Motor Cortex Plasticity More Than Moderate Exercise**  
+Andrews, S.C., Curtin, D., Hawi, Z., Wongtrakun, J., Stout, J.C., and Coxon, J.P.  
+Cereb. Cortex (2019)  
+[https://dx.doi.org/10.1093/cercor/bhz075](https://dx.doi.org/10.1093/cercor/bhz075)
+
+## 2
+**Prenatal activity from thalamic neurons governs the emergence of functional cortical maps in mice**  
+Antón-Bolaños, N., Sempere-Ferràndez, A., Guillamón-Vivancos, T., Martini, F.J., Pérez-Saiz, L., Gezelius, H., Filipchuk, A., Valdeolmillos, M., and López-Bendito, G.  
+Science (2019)  
+[https://dx.doi.org/10.1126/science.aav7617](https://dx.doi.org/10.1126/science.aav7617)
+
+## 3
+**Positive reward prediction errors during decision-making strengthen memory encoding**  
+Jang, A.I., Nassar, M.R., Dillon, D.G., and Frank, M.J.  
+Nat Hum Behav (2019)  
+[https://dx.doi.org/10.1038/s41562-019-0597-3](https://dx.doi.org/10.1038/s41562-019-0597-3)
+
+## 4
+**Cerebellar Purkinje cells control eye movements with a rapid rate code that is invariant to spike irregularity**  
+Payne, H.L., French, R.L., Guo, C.C., Nguyen-Vu, T.B., Manninen, T., and Raymond, J.L.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.37102](https://dx.doi.org/10.7554/eLife.37102)
+
+## 5
+**Variation in sequence dynamics improves maintenance of stereotyped behavior in an example from bird song**  
+Duffy, A., Abe, E., Perkel, D.J., and Fairhall, A.L.  
+Proc Natl Acad Sci U S A (2019)  
+[https://dx.doi.org/10.1073/pnas.1815910116](https://dx.doi.org/10.1073/pnas.1815910116)
+
+## 6
+**Internal Models in Biological Control**  
+McNamee, D., and Wolpert, D.M.  
+Annual Review of Control, Robotics, and Autonomous Systems (2019)  
+[https://www.annualreviews.org/doi/abs/10.1146/annurev-control-060117-105206](https://www.annualreviews.org/doi/abs/10.1146/annurev-control-060117-105206)
+
+## 7
+**Premovement suppression of corticospinal excitability may be a necessary part of movement preparation**  
+Ibanez, J., Hannah, R., Rocchi, L., and Rothwell, J.C.  
+bioRxiv, 470153 (2019)  
+[https://www.biorxiv.org/content/10.1101/470153v6.abstract](https://www.biorxiv.org/content/10.1101/470153v6.abstract)
+
+## 8
+**Reinforcement Learning, Fast and Slow**  
+Botvinick, M., Ritter, S., Wang, J.X., Kurth-Nelson, Z., Blundell, C., and Hassabis, D.  
+Trends Cogn Sci. (2019)  
+[https://dx.doi.org/10.1016/j.tics.2019.02.006](https://dx.doi.org/10.1016/j.tics.2019.02.006)
+
+## 9
+**Predicting fruit fly’s sensing rate with insect flight simulations**  
+Chang, S., and Wang, Z.J.  
+Proc Natl Acad Sci U S A 111, 11246–11251 (2014)  
+[https://dx.doi.org/10.1073/pnas.1314738111](https://dx.doi.org/10.1073/pnas.1314738111)
+
+## 10
+**Representation of a perceptual decision in developing oculomotor commands**  
+Gold, J.I., and Shadlen, M.N.  
+Nature 404, 390–394 (2000)  
+[https://dx.doi.org/10.1038/35006062](https://dx.doi.org/10.1038/35006062)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

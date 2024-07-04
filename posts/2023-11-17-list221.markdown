@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 221"
+date:   2023-11-17 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Human reaching control in dynamic environments**  
+Kalidindi HT, Crevecoeur F  
+[Curr Opin Neurobiol 83:102810](https://dx.doi.org/10.1016/j.conb.2023.102810)
+
+## 2
+**Pre-neuronal biomechanical filtering modulates and diversifies whole-hand tactile encoding**  
+Tummala N, Reardon G, Dandu B, Shao Y, Saal HP, Visell Y  
+[bioRxiv:2023.11.10.565040](https://www.biorxiv.org/content/10.1101/2023.11.10.565040v1.abstract)
+
+## 3
+**How to teach this paper: ‘Neural population dynamics during reaching,’ by Churchland & Cunningham et al. (2012)**  
+Juavinett A  
+[The Transmitter](https://www.thetransmitter.org/systems-neuroscience/how-to-teach-this-paper-neural-population-dynamics-during-reaching-by-churchland-cunningham-et-al-2012-3/)
+
+## 4
+**Being a bit frequentist improves Bayesian neural networks**  
+Kristiadi A, Hein M, Hennig P  
+[arXiv [csLG]](https://arxiv.org/abs/2106.10065)
+
+## 5
+**Neural mechanisms for executive control of speed-accuracy trade-off**  
+Reppert TR, Heitz RP, Schall JD  
+[Cell Rep 42:113422](https://www.cell.com/article/S2211124723014341/abstract)
+
+## 6
+**Vectorized instructive signals in cortical dendrites during a brain-computer interface task**  
+Francioni V, Tang VD, Brown NJ, Toloza EHS, Harnett M  
+[bioRxiv:2023.11.03.565534](https://www.biorxiv.org/content/10.1101/2023.11.03.565534v1.abstract)
+
+## 8
+**Live birth of chimeric monkey with high contribution from embryonic stem cells**  
+Cao J et al.  
+[Cell 186:4996-5014.e24](https://www.cell.com/article/S0092867423010875/abstract)
+
+
+## Superlab Papers
+
+
+**Future movement plans interact in sequential arm movements**  
+Kashefi M, Reschechtko S, Ariani G, Shahbazi M, Tan A, Diedrichsen J, Pruszynski JA  
+[bioRxiv:2023.05.24.542099](https://www.biorxiv.org/content/10.1101/2023.05.24.542099v1)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

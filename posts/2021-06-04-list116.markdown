@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Reading List 116"
+date:   2021-06-04 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Collicular circuits for flexible sensorimotor routing**  
+Duan CA, Pagan M, Piet AT, Kopec CD, Akrami A, Riordan AJ, Erlich JC, Brody CD  
+Nat Neurosci:1–11 (2021) [https://www.nature.com/articles/s41593-021-00865-x](https://www.nature.com/articles/s41593-021-00865-x)
+
+## 2
+**Rapid suppression and sustained activation of distinct cortical regions for a delayed sensory-triggered motor response**  
+Esmaeili V, Tamura K, Muscinelli SP, Modirshanechi A, Boscaglia M, Lee AB, Oryshchuk A, Foustoukos G, Liu Y, Crochet S, Gerstner W, Petersen CCH  
+Neuron (2021) [https://dx.doi.org/10.1016/j.neuron.2021.05.005](https://dx.doi.org/10.1016/j.neuron.2021.05.005)
+
+## 3
+**Human somatosensory cortex is modulated during motor planning**  
+Gale DJ, Flanagan JR, Gallivan JP  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.0342-21.2021](https://dx.doi.org/10.1523/JNEUROSCI.0342-21.2021)
+
+## 4
+**Local field potentials reflect cortical population dynamics in a region-specific and frequency-dependent manner**  
+Gallego-Carracedo C, Perich MG, Chowdhury RH, Miller LE, Gallego JA  
+bioRxiv:2021.05.31.446454 [https://www.biorxiv.org/content/10.1101/2021.05.31.446454v1](https://www.biorxiv.org/content/10.1101/2021.05.31.446454v1)
+
+## 5
+**Dissociating the impact of movement time and energy costs on decision-making and action initiation in humans**  
+Lunazzi CS, Reynaud AJ, Thura D  
+bioRxiv:2021.05.26.445778 [https://www.biorxiv.org/content/10.1101/2021.05.26.445778v1](https://www.biorxiv.org/content/10.1101/2021.05.26.445778v1)
+
+## 6
+**The computational cost of active information sampling before decision-making under uncertainty**  
+Petitet P, Attaallah B, Manohar SG, Husain M  
+Nat Hum Behav (2021) [https://dx.doi.org/10.1038/s41562-021-01116-6](https://dx.doi.org/10.1038/s41562-021-01116-6)
+
+## 7
+**Songbirds can learn flexible contextual control over syllable sequencing**  
+Veit L, Tian LY, Monroy Hernandez CJ, Brainard MS  
+Elife 10 (2021) [https://dx.doi.org/10.7554/eLife.61610](https://dx.doi.org/10.7554/eLife.61610)
+
+## 8
+**Implicit adaptation to mirror-reversal is in the correct coordinate system but the wrong direction**  
+Wang T, Taylor JA  
+bioRxiv:2021.05.28.446174 [https://www.biorxiv.org/content/10.1101/2021.05.28.446174v2](https://www.biorxiv.org/content/10.1101/2021.05.28.446174v2)
+
+## 9
+**Human Premotor Corticospinal Projections Are Engaged in Motor Preparation at Discrete Time Intervals: A TMS-Induced Virtual Lesion Study**  
+Fleischmann R, Triller P, Brandt SA, Schmidt SH  
+Frontiers in Neuroergonomics 2:14 (2021) [https://www.frontiersin.org/article/10.3389/fnrgo.2021.678906](https://www.frontiersin.org/article/10.3389/fnrgo.2021.678906)
+
+## 10
+**New roles for dopamine in motor skill acquisition: Lessons from primates, rodents, and songbirds**  
+Wood AN  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00648.2020](https://dx.doi.org/10.1152/jn.00648.2020)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

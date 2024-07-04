@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "Reading List 140"
+date:   2021-12-31 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Spinal cord representation of motor cortex plasticity reflects corticospinal tract LTP**  
+Amer A, Xia J, Smith M, Martin JH  
+[Proc Natl Acad Sci USA 118](https://dx.doi.org/10.1073/pnas.2113192118)
+
+## 2
+**Understanding the role of individual units in a deep neural network**  
+Bau D, Zhu J-Y, Strobelt H, Lapedriza A, Zhou B, Torralba A  
+[Proc Natl Acad Sci USA 117](https://dx.doi.org/10.1073/pnas.1907375117)
+
+## 3
+**Neuroscience needs evolution**  
+Cisek P, Hayden BY  
+[Philos Trans R Soc Lond B Biol Sci 377](https://dx.doi.org/10.1098/rstb.2020.0518)
+
+## 4
+**Separation of multiple motor memories through implicit and explicit processes**  
+Dawidowicz G, Shaine Y, Mawase F  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00245.2021)
+
+## 5
+**Reward-dependent selection of feedback gains impacts rapid motor decisions**  
+De Comite A, Crevecoeur F, Lefèvre P  
+[bioRxiv:2021.07.25.453678](https://www.biorxiv.org/content/10.1101/2021.07.25.453678v2)
+
+## 6
+**The whole prefrontal cortex is premotor cortex**  
+Fine JM, Hayden BY  
+[Philos Trans R Soc Lond B Biol Sci 377](https://dx.doi.org/10.1098/rstb.2020.0524)
+
+## 7
+**Slowly evolving dopaminergic activity modulates the moment-to-moment probability of reward-related self-timed movements**  
+Hamilos AE, Spedicato G, Hong Y, Sun F, Li Y, Assad J  
+[Elife 10](https://dx.doi.org/10.7554/eLife.62583)
+
+## 8
+**Neurons in the mouse brain correlate with cryptocurrency price: a cautionary tale**  
+Meijer G  
+[PsyArXiv](https://psyarxiv.com/fa4wz)
+
+## 9
+**Cerebellar GABA change during visuomotor adaptation relates to adaptation performance and cerebellar network connectivity: A Magnetic Resonance Spectroscopic Imaging study**  
+Nettekoven CR, Mitchell L, Clarke WT, Emir U, Campbell J, Johansen-Berg H, Jenkinson N, Stagg CJ  
+[bioRxiv:2021.12.19.473367](https://www.biorxiv.org/content/10.1101/2021.12.19.473367v2)
+
+## 10
+**Learning enhances encoding of time and temporal surprise in primary sensory cortex**  
+Rabinovich RJ, Kato DD, Bruno RM  
+[bioRxiv:2021.12.23.474000](https://www.biorxiv.org/content/10.1101/2021.12.23.474000v1)
+
+## 11
+**Clustering analysis of movement kinematics in reinforcement learning**  
+Sidarta A, Komar J, Ostry DJ  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00229.2021)
+
+## 12
+**Even well-practiced movements benefit from repetition**  
+Sutter K, Wijdenes LO, van Beers RJ, Pieter Medendorp W  
+[bioRxiv:2021.12.21.473484](https://www.biorxiv.org/content/10.1101/2021.12.21.473484v1.abstract?%3Fcollection=)
+
+## 13
+**Proprioceptive Re-alignment drives Implicit Sensorimotor Adaptation**  
+Tsay JS, Kim HE, Haith AM, Ivry RB  
+[bioRxiv:2021.12.21.473747](https://www.biorxiv.org/content/10.1101/2021.12.21.473747v1)
+
+## 14
+**Motor control: Internalizing your place in the world**  
+van der Heijden ME, Brown AM, Sillitoe RV  
+[Curr Biol 31:R1576–R1578](https://dx.doi.org/10.1016/j.cub.2021.10.056)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

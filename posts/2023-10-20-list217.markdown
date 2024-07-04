@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 217"
+date:   2023-10-20 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Transformation of neural coding for vibrotactile stimuli along the ascending somatosensory pathway**  
+Lee K-S, Loutit A, de Thomas Wagner D, Sanders M, Prsa M, Huber D  
+[bioRxiv:2023.10.13.562210](https://www.biorxiv.org/content/10.1101/2023.10.13.562210v1.abstract)
+
+## 2
+**Express visuomotor responses reflect knowledge of both target locations and contextual rules during reaches of different amplitudes**  
+Contemori S, Loeb GE, Corneil BD, Wallis G, Carroll TJ  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.2069-22.2023)
+
+## 3
+**A control policy can be adapted to task demands during both motor execution and motor planning**  
+Orban de Xivry J-J, Hardwick R  
+[bioRxiv:2023.10.16.562495](https://www.biorxiv.org/content/10.1101/2023.10.16.562495v1.abstract)
+
+## 4
+**Information-theory analysis of mouse string-pulling agrees with Fitts’s Law: Increasing task difficulty engages multiple sensorimotor modalities in a dual oscillator behavior**  
+Sandhu PS, Mirza Agha B, Inayat S, Singh S, Ryait HS, Mohajerani MH, Whishaw IQ  
+[Behav Brain Res 456:114705](https://dx.doi.org/10.1016/j.bbr.2023.114705)
+
+## 5
+**Internal models of self-motion: neural computations by the vestibular cerebellum**  
+Cullen KE  
+[Trends Neurosci 46:986–1002](https://www.cell.com/article/S0166223623002072/abstract)
+
+## 6
+**Incorporation of hair follicles in 3D bioprinted models of human skin**  
+Motter Catarino C, Cigaran Schuck D, Dechiario L, Karande P  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.adg0297)
+
+## 7
+**Representations of information value in mouse orbitofrontal cortex during information seeking**  
+Bussell JJ, Badman RP, Márton CD, Bromberg-Martin ES, Abbott LF, Rajan K, Axel R  
+[bioRxiv:2023.10.13.562291](https://www.biorxiv.org/content/10.1101/2023.10.13.562291v1.abstract)
+
+## 8
+**Dynamic primitives in constrained action: Systematic changes in the zero-force trajectory**  
+Hermus JR, Doeringer J, Sternad D, Hogan N  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00082.2023)
+
+## 9
+**Initial conditions combine with sensory evidence to induce decision-related dynamics in premotor cortex**  
+Boucher PO, Wang T, Carceroni L, Kane G, Shenoy KV, Chandrasekaran C  
+[Nat Commun 14:1–28](https://www.nature.com/articles/s41467-023-41752-2)
+
+## 10
+**Motor actions are spatially organized in motor and dorsal premotor cortex**  
+Chehade NG, Gharbawie OA  
+[Elife 12:e83196](https://elifesciences.org/articles/83196)
+
+## 11
+**Distinct neural representations during a brain-machine interface and manual reaching task in motor cortex, prefrontal cortex, and striatum**  
+Zippi EL, Shvartsman GF, Vendrell-Llopis N, Wallis JD, Carmena JM  
+[bioRxiv:2023.05.31.542532](https://www.biorxiv.org/content/10.1101/2023.05.31.542532v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

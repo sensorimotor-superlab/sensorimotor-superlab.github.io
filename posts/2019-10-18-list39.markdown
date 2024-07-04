@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Reading List 39"
+date:   2019-10-18 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+If you are headed to Chicago this coming week for the Society for Neuroscience meeting, also check out the posters and talks by the superlab: [[2019_SFN_superlab.pdf](https://t.co/2jtiF9fWZS?amp=1)].
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Somatosensory cortex participates in the consolidation of human motor memory**  
+Kumar, N., Manning, T.F., and Ostry, D.J.  
+PLoS Biol. 17, e3000469 (2019)  
+[https://dx.doi.org/10.1371/journal.pbio.3000469](https://dx.doi.org/10.1371/journal.pbio.3000469)
+
+This is a very surprising result. Continuous theta burst TMS (cTBS) applied to primary somatosensory cortex immediately following force-field learning abolishes consolidation of learning, as tested 24 hrs later, while cTBS applied to primary motor cortex does not. The implication is that somatosensory cortex is intimately involved in the consolidation of newly learned motor skills. —PG
+
+## 2
+**Cerebellar-recipient motor thalamus drives behavioral context-specific movement initiation**  
+Dacre, J., Colligan, M., Ammer, J., Schiemann, J., Clarke, T., Chamosa-Pino, V., Claudi, F., Alex Harston, J., Eleftheriou, C., Pakan, J., Huang, C.C., Hantman, A.W., Rochefort, N.L., Duguid, I.  
+bioRxiv, 802124 (2019)  
+[https://www.biorxiv.org/content/10.1101/802124v1](https://www.biorxiv.org/content/10.1101/802124v1)
+
+## 3
+**High-fidelity Musculoskeletal Modeling Reveals a Motor Planning Contribution to the Speed-Accuracy Tradeoff**  
+Al Borno, M., Vyas, S., Shenoy, K.V., and Delp, S.L.  
+bioRxiv, 804088 (2019)  
+[https://www.biorxiv.org/content/10.1101/804088v1](https://www.biorxiv.org/content/10.1101/804088v1)
+
+## 4
+**Correlations of pelvis state to foot placement do not imply within-step active control**  
+Patil, N.S., Dingwell, J.B., and Cusumano, J.P.  
+J. Biomech., 109375 (2019)  
+[https://dx.doi.org/10.1016/j.jbiomech.2019.109375](https://dx.doi.org/10.1016/j.jbiomech.2019.109375)
+
+## 5
+**Bridging Dynamical Systems and Optimal Trajectory Approaches to Speech Motor Control With Dynamic Movement Primitives**  
+Parrell, B., and Lammert, A.C.  
+Front. Psychol. 10, 2251 (2019)  
+[https://dx.doi.org/10.3389/fpsyg.2019.02251](https://dx.doi.org/10.3389/fpsyg.2019.02251)
+
+Also see the [tweeprint](https://twitter.com/parrell/status/1183776527667924993?s=20).
+
+## 6
+**Mechanical coupling through the skin affects whisker movements and tactile information encoding**  
+Ego-Stengel, V., Abbasi, A., Larroche, M., Lassagne, H., Boubenec, Y., and Shulz, D.E.  
+J. Neurophysiol. 122, 1606–1622 (2019)  
+[https://dx.doi.org/10.1152/jn.00863.2018](https://dx.doi.org/10.1152/jn.00863.2018)
+
+## 7
+**Neuronal tuning: To sharpen or broaden?**  
+Zhang, K., and Sejnowski, T.J.  
+Neural Comput. 11, 75–84 (1999)  
+[https://dx.doi.org/10.1162/089976699300016809](https://dx.doi.org/10.1162/089976699300016809)
+
+## 8
+**Adaptive Regulation of Motor Variability**  
+Dhawale, A.K., Miyamoto, Y.R., Smith, M.A., and Ölveczky, B.P.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219311029/abstract](https://www.cell.com/article/S0960982219311029/abstract)
+
+## 9
+**Artificial Intelligence—The Revolution Hasn’t Happened Yet**  
+Jordan, M.I.  
+Harvard Data Science Review (2019)  
+[https://hdsr.mitpress.mit.edu/pub/wot7mkc1](https://hdsr.mitpress.mit.edu/pub/wot7mkc1)
+
+A refreshing look at an overhyped field. Michael Jordan calls for a shift in attention from developing human-like intelligence to building systems that are based on basic statistical principles---i.e. statistical engineering. —JD
+
+## 10
+**Power analysis**  
+Raman, I.M.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.52232](https://dx.doi.org/10.7554/eLife.52232)
+
+An important essay by Indira Raman, a Professor of Neurobiology at Northwestern (USA), about power differentials in science, between men and women, between mentors and mentees, and how even the perception of power differentials can affect our behavior towards each other. The conclusion is that while some power differentials are inescapable, as mentors and teachers we have the ability, and indeed a moral imperative, to use our power to make good things happen, through a benevolent hierarchy. —PG
+
+
+# Contributors
+- Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
+- Jörn Diedrichsen ([@diedrichsenlab](https://twitter.com/diedrichsenlab))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

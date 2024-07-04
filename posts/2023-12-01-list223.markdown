@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 223"
+date:   2023-12-01 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**The decoding of extensive samples of motor units in human muscles reveals the rate coding of entire motoneuron pools**  
+Avrillon S, Hug F, Enoka R, Caillet AH, Farina D  
+[bioRxiv:2023.11.25.568607](https://www.biorxiv.org/content/10.1101/2023.11.25.568607v1.abstract)
+
+## 2
+**Connectivity underlying motor cortex activity during naturalistic goal-directed behavior**  
+Finkelstein A, Daie K, Rózsa M, Darshan R, Svoboda K  
+[bioRxiv:2023.11.25.568673](https://www.biorxiv.org/content/10.1101/2023.11.25.568673v1.abstract)
+
+## 3
+**Circuit-specific gene therapy reverses core symptoms in a primate Parkinson’s disease model**  
+Chen Y et al.  
+[Cell 186:5394-5410.e18](https://www.cell.com/article/S0092867423010863/abstract)
+
+## 4
+**Elephant trunks: Strength and dexterity from mini-fascicles**  
+Olson W, Zhang L, O’Connor DH, Kleinfeld D  
+[Curr Biol 33:R1203–R1205](https://www.cell.com/article/S0960982223013702/abstract)
+
+## 5
+**Phylogenetic comparative analysis of the cerebello-cerebral system in 34 species highlights primate-general expansion of cerebellar crura I-II**  
+Magielse N, Toro R, Steigauf V, Abbaspour M, Eickhoff SB, Heuer K, Valk SL  
+[Commun Biol 6:1–17](https://www.nature.com/articles/s42003-023-05553-z)
+
+## 6
+**Proprioceptive short-term memory in passive motor learning**  
+Chiyohara S, Furukawa J-I, Noda T, Morimoto J, Imamizu H  
+[Sci Rep 13:1–11](https://www.nature.com/articles/s41598-023-48101-9)
+
+## 7
+**NiMARE: Neuroimaging Meta-Analysis Research Environment**  
+Salo T et al.  
+[Aperture Neuro 3:1–32](https://apertureneuro.org/article/87681.pdf)
+
+## 8
+**Motor cortex somatostatin interneurons adaptively shape the structure of motor sequences**  
+Lee JO, Bariselli S, Sitzia G, Lovinger DM  
+[bioRxiv:2023.11.28.569050](https://www.biorxiv.org/content/10.1101/2023.11.28.569050v2.abstract)
+
+## 9
+**Phantom oscillations in principal component analysis**  
+Shinn M  
+[PNAS](https://dx.doi.org/10.1073/pnas.2311420120)
+
+## 10
+**Decoding motor plans using a closed-loop ultrasonic brain–machine interface**  
+Griggs WS et al.  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01500-7)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

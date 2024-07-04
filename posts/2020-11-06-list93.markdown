@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 93"
+date:   2020-11-06 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Divergent Strategies for Learning in Males and Females**  
+Chen CS, Ebitz RB, Bindas SR, Redish AD, Hayden BY, Grissom NM  
+Curr Biol (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.09.075](https://dx.doi.org/10.1016/j.cub.2020.09.075)
+
+## 2
+**Motor skill learning decreases motor variability and increases planning horizon**  
+Bashford L, Kobak D, Diedrichsen J, Mehring C  
+bioRxiv (2020)  
+[https://dx.doi.org/10.1101/505198](https://dx.doi.org/10.1101/505198)
+
+## 3
+**Recurrent Switching Dynamical Systems Models for Multiple Interacting Neural Populations**  
+Glaser JI, Whiteway M, Cunningham JP, Paninski L, Linderman SW  
+bioRxiv (2020)  
+[https://dx.doi.org/10.1101/2020.10.21.349282](https://dx.doi.org/10.1101/2020.10.21.349282)
+
+## 4
+**Acoustic stimulation increases implicit adaptation in sensorimotor adaptation**  
+Leow L-A, Tresilian JR, Uchida A, Koester D, Spingler T, Riek S, Marinovic W  
+bioRxiv (2020)  
+[https://dx.doi.org/10.1101/2020.10.25.354340](https://dx.doi.org/10.1101/2020.10.25.354340)
+
+## 5
+**Practice modality of motor sequences impacts the neural signature of motor imagery**  
+Krüger B, Hettwer M, Zabicki A, de Haas B, Munzert J, Zentgraf K  
+Sci Rep 10: 1–13 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-76214-y](https://dx.doi.org/10.1038/s41598-020-76214-y)
+
+## 6
+**A map of decoy influence in human multialternative choice**  
+Dumbalska T, Li V, Tsetsos K, Summerfield C  
+Proc Natl Acad Sci USA (2020)  
+[https://dx.doi.org/10.1073/pnas.2005058117](https://dx.doi.org/10.1073/pnas.2005058117)
+
+## 7
+**Sculpting New Visual Concepts into the Human Brain**  
+bioRxiv (2020)  
+Iordan MC, Ritvo VJH, Norman KA, Turk-Browne NB, Cohen JD  
+[https://dx.doi.org/10.1101/2020.10.14.339853](https://dx.doi.org/10.1101/2020.10.14.339853)
+
+## 8
+**Moving beyond generalization to accurate interpretation of flexible models**  
+Genkin M, Engel TA  
+Nature Machine Intelligence (2020)  
+[https://dx.doi.org/10.1038/s42256-020-00242-6](https://dx.doi.org/10.1038/s42256-020-00242-6)
+
+## 9
+**From Motor Planning to Execution: A Sensorimotor Loop Perspective**  
+Bizzi E, Ajemian RJ  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00715.2019](https://dx.doi.org/10.1152/jn.00715.2019)
+
+## 10
+**The primacy of behavioral research for understanding the brain**  
+Niv Y  
+PsyArXiv (2020)  
+[https://dx.doi.org/10.31234/osf.io/y8mxe](https://dx.doi.org/10.31234/osf.io/y8mxe)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

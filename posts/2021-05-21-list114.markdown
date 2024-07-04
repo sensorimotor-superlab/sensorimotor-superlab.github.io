@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 114"
+date:   2021-05-21 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Somatosensory signals from the controllers of an extra robotic finger support motor learning**  
+Amoruso E, Dowdall L, Kollamkulam MT, Ukaegbu O, Kieliba P, Ng T, Dempsey-Jones H, Clode D, Makin TR  
+bioRxiv:2021.05.18.444661 [https://www.biorxiv.org/content/10.1101/2021.05.18.444661v1](https://www.biorxiv.org/content/10.1101/2021.05.18.444661v1)
+
+## 2
+**Beyond the connectome: how neuromodulators shape neural circuits**  
+Bargmann CI  
+Bioessays 34:458–465 (2012) [https://dx.doi.org/10.1002/bies.201100185](https://dx.doi.org/10.1002/bies.201100185)
+
+## 3
+**Cortex-dependent corrections as the tongue reaches for and misses targets**  
+Bollu T, Ito BS, Whitehead SC, Kardon B, Redd J, Liu MH, Goldberg JH  
+Nature:1–6 (2021) [https://www.nature.com/articles/s41586-021-03561-9](https://www.nature.com/articles/s41586-021-03561-9)
+
+## 4
+**Local and system mechanisms for action execution and observation in parietal and premotor cortices**  
+Ferroni CG, Albertini D, Lanzilotto M, Livi A, Maranesi M, Bonini L  
+Curr Biol (2021) [https://dx.doi.org/10.1016/j.cub.2021.04.034](https://dx.doi.org/10.1016/j.cub.2021.04.034)
+
+## 5
+**Not all cortical expansions are the same: the coevolution of the neocortex and the dorsal thalamus in mammals**  
+Halley AC, Krubitzer L  
+Curr Opin Neurobiol 56:78–86 (2019) [https://dx.doi.org/10.1016/j.conb.2018.12.003](https://dx.doi.org/10.1016/j.conb.2018.12.003)
+
+## 6
+**Core knowledge of geometry can develop independently of visual experience**  
+Heimler B, Behor T, Dehaene S, Izard V, Amedi A  
+Cognition 212:104716 (2021) [https://dx.doi.org/10.1016/j.cognition.2021.104716](https://dx.doi.org/10.1016/j.cognition.2021.104716)
+
+## 7
+**Neural Control of Matched Motor Units During Muscle Shortening and Lengthening at Increased Velocities**  
+Oliveira AS, Negro F  
+J Appl Physiol (2021) [https://dx.doi.org/10.1152/japplphysiol.00043.2021](https://dx.doi.org/10.1152/japplphysiol.00043.2021)
+
+## 8
+**Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits**  
+Payeur A, Guerguiev J, Zenke F, Richards BA, Naud R  
+bioRxiv:2020.03.30.015511 [https://www.biorxiv.org/content/10.1101/2020.03.30.015511v2](https://www.biorxiv.org/content/10.1101/2020.03.30.015511v2)
+
+## 9
+**Transcranial magnetic stimulation alters multivoxel patterns in the absence of overall activity changes**  
+Rafiei F, Safrin M, Wokke ME, Lau H, Rahnev D  
+Hum Brain Mapp (2021) [https://dx.doi.org/10.1002/hbm.25466](https://dx.doi.org/10.1002/hbm.25466)
+
+## 10
+**Watch and learn: The cognitive neuroscience of learning from others’ actions**  
+Ramsey R, Kaplan DM, Cross ES  
+Trends Neurosci (2021) [https://www.sciencedirect.com/science/article/pii/S0166223621000205](https://www.sciencedirect.com/science/article/pii/S0166223621000205)
+
+## 11
+**Neural code of motor planning and execution during goal-directed movements in crows**  
+Rinnert P, Nieder A  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.0739-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.0739-20.2021)
+
+## 12
+**A proximal-distal difference in bat wing muscle thermal sensitivity parallels a difference in operating temperatures along the wing**  
+Rummel AD, Swartz SM, Marsh RL  
+Proc Biol Sci 288:20210009 (2021) [https://dx.doi.org/10.1098/rspb.2021.0009](https://dx.doi.org/10.1098/rspb.2021.0009)
+
+## 13
+**Primate extrastriate cortical area MST: a gateway between sensation and cognition**  
+Wild B, Treue S  
+J Neurophysiol 125:1851–1882 (2021) [https://dx.doi.org/10.1152/jn.00384.2020](https://dx.doi.org/10.1152/jn.00384.2020)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

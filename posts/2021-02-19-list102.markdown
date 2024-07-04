@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Reading List 102"
+date:   2021-02-19 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that have piqued our interest this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Striatal bilateral control of skilled forelimb movement**  
+Lopez-Huerta, V. G., Denton, J. A., Nakano, Y., Jaidar, O., Garcia-Munoz, M., & Arbuthnott, G. W.  
+Cell Reports (2021), 34(3), 108651. [https://doi.org/10.1016/j.celrep.2020.108651](https://doi.org/10.1016/j.celrep.2020.108651)
+
+We perform highly dexterous reaching and grasping movements that allow us to interact with the objects in our environments. Unlike the cortex, little is known about the role of the basal ganglia nuclei in bilaterally modulating skilled reaching. Lopez-Huerta et al. show that two distinct populations of striatal projection neurons from ipsi- and contralateral hemispheres modulate unimanual reaching tasks. They also reveal an increased connectivity for these projection neurons as a direct result of training to perform the skilled reaching task. The long lasting effect of learning the skill, seen in the changed circuit connectivity, raises interesting questions about the effect of training and the bilateral control of unimanual movements.  
+—*Vaishnavi Sukumar* [ [google scholar](https://scholar.google.com/citations?user=sKpKFYwAAAAJ&hl=en) | [twitter](https://twitter.com/Vaishu_Sukumar)]
+
+## 2
+**An implicit memory of errors limits human sensorimotor adaptation**  
+Albert, S. T., Jang, J., Sheahan, H., Teunissen, L., Vandevoorde, K., & Shadmehr, R.  
+Nature Human Behaviour (2021). [https://www.nature.com/articles/s41562-020-01036-x](https://www.nature.com/articles/s41562-020-01036-x)
+
+Here, Albert et al. (2021) investigate the persistence of residual errors during motor adaptation in the context of implicit and explicit learning systems. In order to understand the influence of variability as a limiting factor for adaptation, they evaluated how participants adapted to constant and variable perturbations. They observed that learning supported by the explicit system was not influenced by perturbation variance, whereas adaptation which depended largely on the implicit system was altered by variability. They propose that the implicit learning system modulates the sensitivity to error by maintaining a memory for prior errors, thereby limiting sensorimotor adaptation.  
+—*Susan Coltman* [ [google scholar](https://scholar.google.ca/citations?user=fI2YLbMAAAAJ) | [twitter](https://twitter.com/SusanColtman04) ]
+
+## 3
+**Brief stimuli cast a long-term trace in visual cortex**  
+Fritsche, M., Solomon, S. G., & de Lange, F. P.  
+bioRxiv (2021). [https://doi.org/10.1101/2021.02.10.430579](https://doi.org/10.1101/2021.02.10.430579)
+
+Stimulus history affects sensory processing as well as neuronal firing, exhibited as reduced neuronal firing in response to stimulus repetition (i.e. adaptation), but what is the timescale of these adaptation effects? Fritsche and colleagues used a dataset from the Allen Brain Observatory to demonstrate that neurons in the mouse visual system show a remarkably prolonged adaptation to repeated visual stimuli over dozens of seconds, even in the presence of intervening stimuli, whereas thalamic neurons only exhibit short-term adaptation. This indicates that long-term adaptation of the visual cortex relies on cortical short-term plasticity (and is not inherited from thalamus), and might enable the visual cortex to form a statistical representation of the world over multiple timescales.  
+—*Eva Berlot* [ [google scholar](https://scholar.google.com/citations?user=JTC6M_MAAAAJ) | [twitter](https://twitter.com/EvaBerlot) ]
+
+## 4
+**PIEZO2 in sensory neurons and urothelial cells coordinates urination**  
+Marshall, K. L., Saade, D., Ghitani, N., Coombs, A. M., Szczot, M., Keller, J., Ogata, T., Daou, I., Stowers, L. T., Bönnemann, C. G., Chesler, A. T., & Patapoutian, A.  
+Nature (2020), 588(7837), 290–295. [https://doi.org/10.1038/s41586-020-2830-7](https://doi.org/10.1038/s41586-020-2830-7)
+
+Despite its importance, our understanding of sensory information processing in the lower urinary tract is surprisingly limited. In this study, Marshall et al. show that the mechanosensitive ion channel PIEZO2 is expressed in lower urinary tract tissues and its innervating sensory neurons, playing an important role in the micturition reflex and bladder-stretch sensation. In the context of behaviour, lacking functional PIEZO2 is associated with bladder control impairment in both men and mice. This work can be a stepping stone for a better understanding of the interactions between the sensory system and urothelial cells, leading to an enhancement in medical interventions for lower urinary tract pathologies.  
+—*Mehrdad Kashefi* [ [google scholar](https://scholar.google.com/citations?user=JWIhhAUAAAAJ&hl=en) | [twitter](https://twitter.com/mehrdadkashefi) ]
+
+## 5
+**Interhemispheric transfer of working memories**  
+Brincat, S. L., Donoghue, J. A., Mahnke, M. K., Kornblith, S., Lundqvist, M., & Miller, E. K.  
+Neuron (2021).
+[https://doi.org/10.1016/j.neuron.2021.01.016](https://doi.org/10.1016/j.neuron.2021.01.016)
+
+How we use visual information in our everyday life feels seamless, but the scaffolding of the visual system would suggest anything but. Visual stimuli presented to the left and right visual hemifields project to the right and left hemispheres, respectively. How does one hemisphere access visual information that was presented to the other hemisphere? In this paper, Brincat and colleagues investigated this using a task that required information about a visually presented object to be transferred across hemispheres after the object was removed from view. By recording from neurons bilaterally in the prefrontal cortex (a region thought to play a critical role in visual working memory processes), Brincat and colleagues demonstrated that visual information is transferred between hemispheres, and not simply accessed by the other hemisphere when necessary. Furthermore, the local populations of neurons that encode the visual working memory are different when the visual information is originally "seen" by that hemisphere versus when it is transferred across hemispheres. The next exciting questions are likely to focus on how this transfer happens, and how behaviourally-relevant information present in both visual hemifields is integrated in the brain.  
+—*Spencer Arbuckle* [ [website](https://saarbuckle.com/) | [twitter](https://twitter.com/saarbuckle) ]
+
+## 6
+**Area-specific thalamocortical synchronization underlies the transition from motor planning to execution**  
+Nashef, A., Mitelman, R., Harel, R., Joshua, M., & Prut, Y.  
+PNAS (2021), 118(6). [https://doi.org/10.1073/pnas.2012658118](https://doi.org/10.1073/pnas.2012658118)
+
+Despite their hypothesized role in regulating neuronal firing in sensory and motor areas, thalamic contributions to cortical activity remain poorly understood. To investigate peri-movement thalamocortical interactions, Nashef and colleagues simultaneously recorded the activity of pre-identified thalamic and cortical (motor and premotor) neurons while non-human primates performed a delayed-response reaching task. Analysis of multi-site correlation patterns revealed that thalamic signals had a positive impact on neuronal activity in the primary motor cortex and a negative impact on neuronal activity in the premotor cortex. The authors conclude that the thalamus can either enhance or suppress local cortical dynamics around movement onset, driving the shift from motor plan to action.  
+—*Giacomo Ariani*  [ [google scholar](https://scholar.google.com/citations?user=IYbgVnUAAAAJ) | [twitter](https://twitter.com/GiacomoAriani) ]
+
+## 7
+**Mechanoreceptor synapses in the brainstem shape the central representation of touch.**  
+Lehnert, B. P., Santiago, C., Huey, E. L., Emanuel, A. J., Renauld, S., Africawala, N., Alkislar, I., Zheng, Y., Bai, L., Koutsioumpa, C., Hong, J. T., Magee, A. R., Harvey, C. D., & Ginty, D. D.  
+bioRxiv (2021). [https://doi.org/10.1101/2021.02.02.429463](https://doi.org/10.1101/2021.02.02.429463)
+
+One of the first things we learn about somatosensory cortical areas is that more neurons respond to some regions of the body—like the glabrous skin on the palmar surface of the fingers and hand—than others. Lehnert, Santiago, and colleagues present evidence from murine models that this disproportionate cortical response is not simply a consequence of higher density of mechanoreceptors in these areas; instead, the authors show that this aspect of somatosensory representation is formed during early postnatal development via modification of connectivity between mechanoreceptors and their targets in brainstem. Surprisingly, however, this process does not appear to be driven straightforwardly by sensory stimulation of the periphery, leading the authors to propose that the strength of central connections with mechanoreceptors may instead be driven by cues related to the type of skin those mechanoreceptors innervate.  
+—*Sasha Reschechtko* [ [google scholar](https://scholar.google.com/citations?hl=en&user=oxyl3i8AAAAJ) | [twitter](https://twitter.com/res_chetko) ]
+
+## 8
+**Skin and muscle receptors shape coordinated fast feedback responses in the upper limb**  
+Forgaard, C.J., Reschechtko, S., Gribble, P.L., Pruszynski, J.A.  
+Current Opinion in Physiology (2021). [https://doi.org/10.1016/j.cophys.2021.02.001](https://doi.org/10.1016/j.cophys.2021.02.001)
+
+While on a walk, your dog suddenly sprints off towards a squirrel. A rapid increase in tension on the leash jerks your arm forward and the leash begins to slip through your fingers. In less than 100 milliseconds, fast feedback responses from receptors in stretching muscles allow you to stabilize your arm and begin to haul in your squirrel-crazed dog. Simultaneously, fast feedback responses from receptors in the skin of your fingertips respond to the slipping leash, facilitating a rapid increase in grip force. Here we discuss how sensory feedback from skin and muscle is rapidly integrated to produce coordinated fast feedback responses throughout the upper limb.  
+—*Chris Forgaard* [ [google scholar](https://scholar.google.com/citations?user=t_Ok9j8AAAAJ) | [twitter](https://twitter.com/CForgaard) ]
+
+
+## 9
+**Geometric models reveal behavioural and neural signatures of transforming experiences into memories**  
+Heusser, A. C., Fitzpatrick, P. C., & Manning, J. R.  
+Nature Human Behaviour (2021). [https://doi.org/10.1038/s41562-021-01051-6](https://doi.org/10.1038/s41562-021-01051-6)
+
+To gain insight into how human brains transform naturalistic experiences into episodic memories, Heusser and colleagues developed a novel geometric framework to model the dynamic conceptual content of an experience as a trajectory in a 2D semantic space. The authors apply this approach to an open fMRI dataset in which participants watched and recalled an episode of the TV series Sherlock and found that participants’ recall trajectories preserved the essential narrative structure found in episode annotations, but varied in the low-level details. This work reinforces the idea that memory is reconstructive, and that remembering is tantamount to mentally finding your way through a universe of thoughts.  
+—*Giacomo Ariani*  [ [google scholar](https://scholar.google.com/citations?user=IYbgVnUAAAAJ) | [twitter](https://twitter.com/GiacomoAriani) ]
+
+
+## 10
+**Somatosensory innervation of healthy human oral tissues**  
+Moayedi, Y., Michlig, S., Park, M., Koch, A., & Lumpkin, E. A.  
+bioRxiv (2021). [https://doi.org/10.1101/2021.02.03.429664](https://doi.org/10.1101/2021.02.03.429664)
+
+While we know much about how afferent input contributes to the neural control of limb movements such as reaching, comparably little is known about sensory receptors in the human orofacial system—sensors that presumably play a critical role in behaviours such as feeding (mastication and swallowing) and speech. Here Moayedi and colleagues collected biopsies from 12 brave human volunteers, sampling tissues from the tongue and palate and using immunohistochemistry to identify markers of neurons, afferents, taste cells, Merkel cells, free nerve endings, Meissner’s corpuscles, and more. They found a distribution of somatosensory endings reminiscent of the fingertips, structured around sensory neurons specialized for spatial localization of mechanical inputs and for the detection of moving stimuli. Evidence for a somatosensory basis of speech (as opposed to solely auditory) has recently been accumulating and these sorts of data provide additional insights into how afferents in the orofacial system support speech and speech motor learning.  
+—*Paul Gribble* [ [google scholar](https://scholar.google.com/citations?user=kACnRf8AAAAJ) | [twitter](https://twitter.com/paulgribble)]
+
+
+
+# Disclaimer
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

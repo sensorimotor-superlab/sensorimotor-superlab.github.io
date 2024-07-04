@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 215"
+date:   2023-10-06 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Neural mechanisms for the localization of unexpected external motion**  
+Chinta, S., Pluta, S.R.  
+[Nat Commun 14](https://doi.org/10.1038/s41467-023-41755-z)
+
+## 2
+**Human neuromuscular structure and function in old age: A brief review**  
+Power GA, Dalton BH, Rice CL  
+[J Sport Health Sci](https://dx.doi.org/10.1016/j.jshs.2013.07.001)
+
+## 3
+**Biomedical publishing: Past historic, present continuous, future conditional**  
+Sever R  
+[PLoS Biol](https://dx.doi.org/10.1371/journal.pbio.3002234)
+
+## 4
+**Bilateral arm movements are coordinated via task-dependent negotiations between independent and codependent control, but not by a “coupling” control policy**  
+Kitchen NM, Yuk J, Przybyla A, Scheidt RA, Sainburg RL  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00501.2022)
+
+## 5
+**Muscular production of individuated finger movements: the roles of extrinsic finger muscles**  
+Schieber MH  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.15-01-00284.1995)
+
+## 6
+**Index finger of a human-like robotic hand using thin soft muscles**  
+Faudzi AAM, Ooga J, Goto T, Takeichi M, Suzumori K  
+[IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/abstract/document/7993072)
+
+## 7
+**Large-scale capture of hidden fluorescent labels for training generalizable markerless motion capture models**  
+Butler DJ, Keim AP, Ray S, Azim E  
+[bioRxiv:2022.07.07.499213](https://www.biorxiv.org/content/10.1101/2022.07.07.499213v1)
+
+## 8
+**Continuous evaluation of cost-to-go for flexible reaching control and online decisions**  
+De Comite A, Lefèvre P, Crevecoeur F  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1011493)
+
+## 9
+**Internal feedback in the cortical perception-action loop enables fast and accurate behavior**  
+Li JS, Sarma AA, Sejnowski TJ, Doyle JC  
+[Proc Natl Acad Sci U S A](https://www.pnas.org/doi/abs/10.1073/pnas.2300445120)
+
+## 10
+**Independent influences of movement distance and visual distance on Fitts’ Law**  
+Al-Fawakhiri N, McDougle S  
+[bioRxiv:2023.09.20.558709](https://www.biorxiv.org/content/10.1101/2023.09.20.558709v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

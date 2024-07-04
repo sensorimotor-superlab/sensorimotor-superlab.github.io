@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 222"
+date:   2023-11-24 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**The response time paradox in functional magnetic resonance imaging analyses**  
+Mumford JA, Bissett PG, Jones HM, Shim S, Rios JAH, Poldrack RA  
+[bioRxiv:2023.02.15.528677](https://www.biorxiv.org/content/10.1101/2023.02.15.528677v1)
+
+## 2
+**Prefrontal cortex signals value category while basal ganglia represent learned values in value learning**  
+Reza Heydari M, Ravandi MAK, Hikosaka O, Ghazizadeh A  
+[bioRxiv:2023.11.07.564561](https://www.biorxiv.org/content/10.1101/2023.11.07.564561v1.abstract)
+
+## 3
+**Dynamical systems, attractors, and neural circuits**  
+Miller P  
+[F1000Res 5:992](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4930057/)
+
+## 4
+**Whisker kinematics in the cerebellum**  
+Zhai P, Romano V, Soggia G, Bauer S, van Wingerden N, Jacobs T, van der Horst A, White JJ, Mazza R, De Zeeuw CI  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP284064)
+
+## 5
+**The making of a proprioceptor: a tale of two identities**  
+de Nooij JC, Zampieri N  
+[Trends Neurosci](https://www.cell.com/article/S0166223623002266/abstract)
+
+## 6
+**Against cortical reorganisation**  
+Makin TR, Krakauer JW  
+[Elife 12:e84716](https://elifesciences.org/articles/84716)
+
+## 7
+**The differential effect of age on upper limb sensory processing, proprioception, and motor function**  
+Saenen L, Verheyden G, Orban de Xivry J-J  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00364.2022)
+
+## 8
+**Regional recruitment and differential behavior of motor units during postural control in older adults**  
+Cohen JW, Vieira TM, Ivanova TD, Garland SJ  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00068.2023)
+
+## 9
+**Optimal information loading into working memory explains dynamic coding in the prefrontal cortex**  
+Stroud JP, Watanabe K, Suzuki T, Stokes MG, Lengyel M  
+[Proc Natl Acad Sci USA](https://www.pnas.org/doi/abs/10.1073/pnas.2307991120)
+
+## 10
+**The human brain in numbers: a linearly scaled-up primate brain**  
+Herculano-Houzel S  
+[Front Hum Neurosci](https://dx.doi.org/10.3389/neuro.09.031.2009)
+
+## 11
+**Mining the neuroimaging literature**  
+Dockès J, Oudyk KM, De La Vega AM, Poline J-B  
+[bioRxiv:2023.10.30.564783](https://www.biorxiv.org/content/10.1101/2023.10.30.564783v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

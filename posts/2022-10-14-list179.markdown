@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Reading List 179"
+date:   2022-10-14 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Motor Learning Drives Dynamic Patterns of Intermittent Myelination on Learning-activated Axons**  
+Bacmeister CM, Huang R, Osso LA, Thornton MA, Conant L, Chavez A, Poleg-Polsky A, Hughes EG  
+[bioRxiv:2021.10.13.464319](https://www.biorxiv.org/content/10.1101/2021.10.13.464319v3)
+
+## 2
+**Neural representational geometry correlates with behavioral differences between monkeys**  
+Fascianelli V, Stefanini F, Tsujimoto S, Genovesio A, Fusi S  
+[bioRxiv:2022.10.05.511024](https://www.biorxiv.org/content/10.1101/2022.10.05.511024v1)
+
+## 3
+**Feedback-based motor control can guide plasticity and drive rapid learning**  
+Feulner B, Perich MG, Miller LE, Clopath C, Gallego JA  
+[bioRxiv:2022.10.06.511108](https://www.biorxiv.org/content/10.1101/2022.10.06.511108v2)
+
+## 4
+**Acrobatic squirrels learn to leap and land on tree branches without falling**  
+Hunt NH, Jinn J, Jacobs LF, Full RJ  
+[Science 373:697–700](https://dx.doi.org/10.1126/science.abe5753)
+
+## 5
+**Attribution of sensory prediction error to perception of muscle fatigue**  
+Ito S, Kimura T, Gomi H  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-022-20765-9)
+
+## 6
+Mussa-Ivaldi FA, Morasso P, Zaccaria R  
+**Kinematic networks**  
+[Biol Cybern](https://link.springer.com/content/pdf/10.1007/BF00205967.pdf)
+
+## 7
+**Prior information improves tactile representation in primary somatosensory cortex**  
+Kassraian P, Rabe F, Maathuis M, Wenderoth N  
+[bioRxiv:2022.10.10.511201](https://www.biorxiv.org/content/10.1101/2022.10.10.511201v1)
+
+## 8
+**Ventrolateral Prefrontal Cortex Contributes to Human Motor Learning**  
+Kumar N, Sidarta A, Smith C, Ostry DJ  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0269-22.2022)
+
+## 9
+**Movement is governed by rotational neural dynamics in spinal motor networks**  
+Lindén H, Petersen PC, Vestergaard M, Berg RW  
+[Nature](https://www.nature.com/articles/s41586-022-05293-w)
+
+## 10
+**Flexible neural control of motor units**  
+Marshall NJ, Glaser JI, Trautmann EM, Amematsro EA, Perkins SM, Shadlen MN, Abbott LF, Cunningham JP, Churchland MM  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01165-8)
+
+## 11
+**Cerebellar GABA Change during Visuomotor Adaptation Relates to Adaptation Performance and Cerebellar Network Connectivity: A Magnetic Resonance Spectroscopic Imaging Study**  
+Nettekoven C, Mitchell L, Clarke WT, Emir U, Campbell J, Johansen-Berg H, Jenkinson N, Stagg CJ  
+[J Neurosci](https://www.jneurosci.org/content/42/41/7721)
+
+## 12
+**Structured random receptive fields enable informative sensory encodings**  
+Pandey B, Pachitariu M, Brunton BW, Harris KD  
+[bioRxiv:2021.09.09.459651](https://www.biorxiv.org/content/10.1101/2021.09.09.459651v4)
+
+## 13
+**Recurrent neural networks with explicit representation of dynamic latent variables can mimic behavioral patterns in a physical inference task**  
+Rajalingham R, Piccato A, Jazayeri M  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-33581-6)
+
+## 14
+**Visual feedback control of hand movements**  
+Saunders JA, Knill DC  
+[J Neurosci 24:3223–3234](https://dx.doi.org/10.1523/JNEUROSCI.4319-03.2004)
+
+## 15
+**Fast prediction in marmoset reach-to-grasp movements for dynamic prey**  
+Shaw L, Wang KH, Mitchell J  
+[bioRxiv:2022.10.08.511417](https://www.biorxiv.org/content/10.1101/2022.10.08.511417v2)
+
+## 16
+**Personalizing exoskeleton assistance while walking in the real world**  
+Slade P, Kochenderfer MJ, Delp SL, Collins SH  
+[Nature](https://www.nature.com/articles/s41586-022-05191-1)
+
+## 17
+**In vivo direct imaging of neuronal activity at high temporospatial resolution**  
+Toi PT, Jang HJ, Min K, Kim S-P, Lee S-K, Lee J, Kwag J, Park J-Y  
+[Science](https://www.science.org/doi/abs/10.1126/science.abh4340)
+
+## 18
+**Precise motor rhythmicity relies on motor network responsivity**  
+Uehara K, Togo H, Hanakawa T  
+[Cereb Cortex](https://dx.doi.org/10.1093/cercor/bhac353)
+
+## 19
+**Pupil diameter tracked during motor adaptation in humans**  
+Yokoi A, Weiler J  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00021.2022)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

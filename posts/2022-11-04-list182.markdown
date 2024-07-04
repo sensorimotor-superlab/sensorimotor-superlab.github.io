@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Reading List 182"
+date:   2022-11-04 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Evidence for an Intricate Relationship Between Express Visuomotor Responses, Postural Control and Rapid Step Initiation in the Lower Limbs**  
+Billen LS, Corneil BD, Weerdesteyn V  
+[bioRxiv:2022.10.21.513067](https://www.biorxiv.org/content/10.1101/2022.10.21.513067v1)
+
+## 2
+**Reconstructing Computational Dynamics from Neural Measurements with Recurrent Neural Networks**  
+Durstewitz D, Koppe G, Thurm MI  
+[bioRxiv:2022.10.31.514408](https://www.biorxiv.org/content/10.1101/2022.10.31.514408v1)
+
+## 3
+**Neural Representation in M1 and S1 Cortex of Bilateral Hand Actions During Prehension**  
+Gardner EP, Putrino D, Chen VanDaele J  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00374.2021)
+
+## 4
+**A mind-body interface alternates with effector-specific regions in motor cortex**  
+Gordon EM et al.  
+[bioRxiv:2022.10.26.513940](https://www.biorxiv.org/content/10.1101/2022.10.26.513940v1)
+
+## 5
+**Tactile acuity of fingertips and hand representation size in human Area 3b and Area 1 of the primary somatosensory cortex**  
+Härtner J, Strauss S, Pfannmöller J, Lotze M  
+[Neuroimage](https://dx.doi.org/10.1016/j.neuroimage.2021.117912)
+
+## 6
+**Elephant facial motor control**  
+Kaufmann LV, Schneeweiß U, Maier E, Hildebrandt T, Brecht M  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abq2789)
+
+## 7
+**Tactile facilitation during actual and mere expectation of object reception**  
+Manzone DM, Tremblay L, Chua R  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-022-22133-z)
+
+## 8
+**History information emerges in the cortex during learning**  
+Marmor O, Helmchen F, Gilad A  
+[bioRxiv:2022.11.01.514667](https://www.biorxiv.org/content/10.1101/2022.11.01.514667v1)
+
+## 9
+**Humans trade off whole-body energy cost to avoid overburdening muscles while walking**  
+McDonald KA, Cusumano JP, Hieronymi A, Rubenson J  
+[Proc Biol Sci](https://dx.doi.org/10.1098/rspb.2022.1189)
+
+## 10
+**Idiosyncratic selection of active touch for shape perception**  
+Mizrachi N, Nelinger G, Ahissar E, Arieli A  
+[Sci Rep 12:2922](https://dx.doi.org/10.1038/s41598-022-06807-2)
+
+## 11
+**Aging and the perception of tactile speed**  
+Norman JF, Eaton JR, Gunter ML, Baig M  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-022-09493-2)
+
+## 12
+**Spinal premotor interneurons controlling antagonistic muscles are spatially intermingled**  
+Ronzano R et al.  
+[bioRxiv:2021.02.10.430608](https://www.biorxiv.org/content/10.1101/2021.02.10.430608v5)
+
+## 13
+**Visual pursuit biases tactile velocity perception**  
+Scotto CR, Moscatelli A, Pfeiffer T, Ernst MO  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00541.2020)
+
+## 14
+**Cortically-evoked movement in humans reflects history of prior executions, not plan for upcoming movement**  
+Suleiman A, Solomonow-Avnon D, Mawase F  
+[bioRxiv:2022.10.27.514074](https://www.biorxiv.org/content/10.1101/2022.10.27.514074v1)
+
+## 15
+**Assistive loading promotes goal-directed tuning of stretch reflex gains**  
+Torell F, Franklin S, Franklin DW, Dimitriou M  
+[bioRxiv:2022.10.28.514224](https://www.biorxiv.org/content/10.1101/2022.10.28.514224v1)
+
+
+## Superlab Papers
+
+**Precise and stable edge orientation signaling by human first-order tactile neurons**  
+Sukumar V, Johansson RS, Pruszynski JA  
+[Elife 11](https://dx.doi.org/10.7554/eLife.81476)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

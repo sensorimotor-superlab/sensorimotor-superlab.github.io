@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 110"
+date:   2021-04-23 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Neural encoding of actual and imagined touch within human posterior parietal cortex**  
+Chivukula S, Zhang CY, Aflalo T, Jafari M, Pejsa K, Pouratian N, Andersen RA  
+Elife (2021) [https://dx.doi.org/10.7554/eLife.61646](https://dx.doi.org/10.7554/eLife.61646)
+
+## 2
+**Similarity in sensory modality and information domain impair processing in a dual-task context: Evidence from behavior, pupillometry, and EEG**  
+Fleming JT, Michelle Njoroge J, Noyce AL, Perrachione TK, Shinn-Cunningham BG  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.20.440675v1](https://www.biorxiv.org/content/10.1101/2021.04.20.440675v1)
+
+## 3
+**Continuous multiplexed population representations of task context in the mouse primary visual cortex**  
+Hajnal MA, Tran D, Einstein M, Martelo MV, Safaryan K, Polack P-O, Golshani P, Orbán G  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.20.440666v1](https://www.biorxiv.org/content/10.1101/2021.04.20.440666v1)
+
+## 4
+**Teaching recurrent neural networks to infer global temporal structure from local examples**  
+Kim JZ, Lu Z, Nozari E, Pappas GJ, Bassett DS  
+Nature Machine Intelligence (2021) [https://www.nature.com/articles/s42256-021-00321-2](https://www.nature.com/articles/s42256-021-00321-2)
+
+## 5
+**Switch-like and persistent memory formation in individual larval Drosophila**  
+Lesar A, Tahir J, Wolk J, Gershow M  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.15.440041v1](https://www.biorxiv.org/content/10.1101/2021.04.15.440041v1)
+
+## 6
+**NeuroMechFly, a neuromechanical model of adult Drosophila melanogaster**  
+Ríos VL, Özdil PG, Ramalingasetty ST, Arreguit J, Rosset SC, Knott G, Ijspeert AJ, Ramdya P  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.17.440214v1](https://www.biorxiv.org/content/10.1101/2021.04.17.440214v1)
+
+## 7
+**Opposing roles of the dorsolateral and dorsomedial striatum in the acquisition of skilled action sequencing**  
+Turner KM, Svegborn A, Langguth M, McKenzie C, Robbins TW  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.15.439935v1](https://www.biorxiv.org/content/10.1101/2021.04.15.439935v1)
+
+## 8
+**Coordination of escape and spatial navigation circuits orchestrates versatile flight from threats**  
+Wang W, Schuette PJ, Nagai J, Tobias BC, Cuccovia V Reis FM, Ji S, de Lima MAX, La-Vu MQ, Maesta-Pereira S, Chakerian M, Leonard SJ, Lin L, Severino AL, Cahill CM, Canteras NS, Khakh BS, Kao JC, Adhikari A  
+Neuron (2021) [https://dx.doi.org/10.1016/j.neuron.2021.03.033](https://dx.doi.org/10.1016/j.neuron.2021.03.033)
+
+## 9
+**Two views on the cognitive brain**  
+Barack DL, Krakauer JW  
+Nat Rev Neurosci (2021) [https://dx.doi.org/10.1038/s41583-021-00448-6](https://dx.doi.org/10.1038/s41583-021-00448-6)
+
+## 10
+**Eliminating Animal Agriculture Would Negate 56 Percent of Anthropogenic Greenhouse Gas Emissions Through 2100**  
+Eisen MB, Brown PO  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.15.440019v1](https://www.biorxiv.org/content/10.1101/2021.04.15.440019v1)
+
+
+## Superlab Papers
+**Human touch receptors are sensitive to spatial details on the scale of single fingerprint ridges**  
+Jarocka E, Pruszynski JA, Johansson RS  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.1716-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.1716-20.2021)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

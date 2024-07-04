@@ -1,0 +1,124 @@
+---
+layout: post
+title:  "Reading List 173"
+date:   2022-09-02 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Cognitive neuroscience at the crossroads**  
+Editorial  
+[Nature](https://dx.doi.org/10.1038/d41586-022-02283-w)
+
+## 2
+**Behaviorally relevant decision coding in primary somatosensory cortex neurons**  
+Buetfering C, Zhang Z, Pitsiani M, Smallridge J, Boven E, McElligott S, Häusser M  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01151-0)
+
+## 3
+**The non-Riemannian nature of perceptual color space**  
+Bujack R, Teti E, Miller J, Caffrey E, Turton TL  
+[PNAS](https://dx.doi.org/10.1073/pnas.2119753119)
+
+## 4
+**Hand explorations are determined by the characteristics of the perceptual space of real-world materials from silk to sand**  
+Dövencioǧlu DN, Üstün FS, Doerschner K, Drewing K  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-022-18901-6)
+
+## 5
+**Flexible multitask computation in recurrent networks utilizes shared dynamical motifs**  
+Driscoll L, Shenoy K, Sussillo D  
+[bioRxiv:2022.08.15.503870](https://biorxiv.org/content/early/2022/08/15/2022.08.15.503870.abstract)
+
+## 6
+**Input-dependent segregation of visual and somatosensory circuits in the mouse superior colliculus**  
+Guillamón-Vivancos T, Aníbal-Martínez M, Puche-Aroca L, Moreno-Bravo JA, Valdeolmillos M, Martini FJ, López-Bendito G  
+[Science](https://dx.doi.org/10.1126/science.abq2960)
+
+## 7
+**Discrimination of edge orientation by bumblebees**  
+Guiraud M, Roper M, Wolf S, Woodgate JL, Chittka L  
+[PLoS One](https://dx.doi.org/10.1371/journal.pone.0263198)
+
+## 8
+**Looking for a sign forecasting failure in actions: reaching errors triggered by a slowdown of movement and specific brain activity in preceding trials**  
+Kobayashi T, Takemi M, Nozaki D  
+[bioRxiv:2022.08.23.505043](https://www.biorxiv.org/content/10.1101/2022.08.23.505043v1)
+
+## 9
+**Untangling the network effects of productivity and prominence among scientists**  
+Li W, Zhang S, Zheng Z, Cranmer SJ, Clauset A  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-32604-6)
+
+## 10
+**Texture coding in higher order somatosensory cortices**  
+Long KH, Greenspon CM, van Driesche A, Lieber JD, Bensmaia SJ  
+[bioRxiv:2022.08.19.504511](https://www.biorxiv.org/content/10.1101/2022.08.19.504511v1)
+
+## 11
+**Sex differences in motor unit behaviour: A review**  
+Lulic-Kuryllo T, Greig Inglis J  
+[J Electromyogr Kinesiol](https://www.sciencedirect.com/science/article/pii/S1050641122000621)
+
+## 12
+**Socioeconomic roots of academic faculty**  
+Morgan AC, LaBerge N, Larremore DB, Galesic M, Brand JE, Clauset A  
+[Nat Hum Behav](https://www.nature.com/articles/s41562-022-01425-4)
+
+## 13
+**Complementary roles of primate dorsal premotor and pre-supplementary motor areas to the control of motor sequences**  
+Nakajima T, Hosaka R, Mushiake H  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.2356-21.2022)
+
+## 14
+**Motor learning-induced new dendritic spines are preferentially involved in the learned task than existing spines**  
+Qiao Q, Wu C, Ma L, Zhang H, Li M, Wu X, Gan W-B  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.111229)
+
+## 15
+**RTNet: A neural network that exhibits the signatures of human perceptual decision making**  
+Rafiei F, Rahnev D  
+[bioRxiv:2022.08.23.505015](https://www.biorxiv.org/content/10.1101/2022.08.23.505015v1)
+
+## 16
+**Neural sequences in primate prefrontal cortex encode working memory in naturalistic environments**  
+Roussy M, Busch A, Luna R, Leavitt ML, Mofrad MH, Gulli RA, Corrigan B, Mináč J, Sachs AJ, Palaniyappan L, Muller L, Martinez-Trujillo JC  
+[bioRxiv:2022.08.18.504406](https://www.biorxiv.org/content/10.1101/2022.08.18.504406v1)
+
+## 17
+**The differential effect of age on upper limb sensory processing, proprioception and motor function**  
+Saenen L, Verheyden G, Orban de Xivry J-J  
+[bioRxiv:2022.08.26.505430](https://www.biorxiv.org/content/10.1101/2022.08.26.505430v1)
+
+## 18
+**Microstimulation of human somatosensory cortex evokes task-dependent, spatially patterned responses in motor cortex**  
+Shelchkova ND et al.  
+[bioRxiv:2022.08.10.503543](https://www.biorxiv.org/content/10.1101/2022.08.10.503543v1)
+
+## 19
+**The role of somatosensory innervation of adipose tissues**  
+Wang Y, Leung VH, Zhang Y, Nudell VS, Loud M, Servin-Vences MR, Yang D, Wang K, Moya-Garzon MD, Li VL, Long JZ, Patapoutian A, Ye L  
+[Nature](https://www.nature.com/articles/s41586-022-05137-7)
+
+## 20
+**An Immense World: How Animal Senses Reveal the Hidden Realms Around Us**  
+Yong E  
+[Knopf Canada](https://www.penguinrandomhouse.ca/books/616914/an-immense-world-by-ed-yong/9781039003903)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

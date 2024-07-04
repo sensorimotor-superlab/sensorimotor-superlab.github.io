@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Reading List 251"
+date:   2024-06-28 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!
+---the superlab
+
+
+## 1
+**SuperAnimal pretrained pose estimation models for behavioral analysis**  
+Ye S, Filippova A, Lauer J, Schneider S, Vidal M, Qiu T, Mathis A, Mathis MW  
+[Nat Commun 15:5165](https://www.nature.com/articles/s41467-024-48792-2)
+
+## 2
+**Functional dynamics and selectivity of two parallel corticocortical pathways from motor cortex to layer 5 circuits in somatosensory cortex**  
+Kim H-H, Bonekamp KE, Gillie GR, Autio DM, Keller T, Crandall SR  
+[eNeuro 11:ENEURO.0154-24.2024](https://www.eneuro.org/content/11/6/ENEURO.0154-24.2024.abstract)
+
+## 3
+**Continuous structural neuroplasticity during motor learning - a diffusion MRI study**  
+Friedman N, Malovani C, Perets I, Kenin E, Bernstein-Eliav M, Tavor I  
+[bioRxiv:2024.01.09.574830](https://www.biorxiv.org/content/10.1101/2024.01.09.574830v2.abstract)
+
+## 4
+**Spinal interneuron population dynamics underlying flexible pattern generation**  
+Wimalasena LN, Pandarinath C, Yong NA  
+[bioRxiv:2024.06.20.599927](https://www.biorxiv.org/content/10.1101/2024.06.20.599927v1.abstract)
+
+## 5
+**Divisive attenuation based on noisy sensorimotor predictions accounts for excess variability in self-touch**  
+Valé N, Tomić I, Gironés Z, Wolpert DM, Kilteni K, Bays PM  
+[bioRxiv:2024.06.20.599826](https://www.biorxiv.org/content/10.1101/2024.06.20.599826v1.abstract)
+
+## 6
+**Synaptic architecture of leg and wing premotor control networks in Drosophila**  
+Lesser E et al.  
+[Nature](https://www.nature.com/articles/s41586-024-07600-z)
+
+## 7
+**Feedback control of recurrent dynamics constrains learning timescales during motor adaptation**  
+Gurnani H, Liu W, Brunton BW  
+[bioRxiv:2024.05.24.595772](https://www.biorxiv.org/content/10.1101/2024.05.24.595772v2.abstract)
+
+## 8
+**Large scale, simultaneous chronic neural recordings from multiple brain areas**  
+Melin MD, Churchland AK, Couto J  
+[bioRxiv:2023.12.22.572441](https://www.biorxiv.org/content/10.1101/2023.12.22.572441v2.abstract)
+
+## 9
+**Activity in the pontine reticular nuclei scales with handgrip force in humans**  
+Danielson TL, Gould LA, DeFreitas JM, MacLennan RJ, Ekstrand C, Borowsky R, Farthing JP, Andrushko JW  
+[J Neurophysiol 131:807–814](https://journals.physiology.org/doi/10.1152/jn.00407.2023)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

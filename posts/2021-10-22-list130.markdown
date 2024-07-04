@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Reading List 130"
+date:   2021-10-22 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**High-order interactions explain the collective behavior of cortical populations in executive but not sensory areas**  
+Chelaru MI, Eagleman S, Andrei AR, Milton R, Kharas N, Dragoi V  
+[Neuron (2021)](https://www.cell.com/article/S0896627321007157/abstract)
+
+## 2
+**Functional architecture of neural circuits for leg proprioception in Drosophila**  
+Chen C, Agrawal S, Mark B, Mamiya A, Sustar A, Phelps JS, Lee W-CA, Dickson BJ, Card GM, Tuthill JC  
+[Curr Biol (2021)](https://dx.doi.org/10.1016/j.cub.2021.09.035)
+
+## 3
+**The response to background motion: Characteristics of a movement stabilization mechanism**  
+Crowe EM, Smeets JBJ, Brenner E  
+[J Vis 21:3 (2021)](https://dx.doi.org/10.1167/jov.21.11.3)
+
+## 4
+**Neural dynamics of illusory tactile pulling sensations**  
+De Havas J, Ito S, Bestmann S, Gomi H  
+[bioRxiv:2021.10.12.464029](https://www.biorxiv.org/content/10.1101/2021.10.12.464029v1)
+
+## 5
+**Preserved motor representations after paralysis**  
+Guan C, Aflalo T, Zhang CY, Rosario ER, Pouratian N, Andersen RA  
+[bioRxiv:2021.10.07.463105](https://www.biorxiv.org/content/10.1101/2021.10.07.463105v1)
+
+## 6
+**How learning unfolds in the brain: toward an optimization view**  
+Hennig JA, Oby ER, Losey DM, Batista AP, Yu BM, Chase SM  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.09.005)
+
+## 7
+**Time-tagged ticker tapes for intracellular recordings**  
+Lin D, Li X (ted), Park P, Tang B, Shen H, Grimm JB, Falco N, Baker D, Lavis LD, Cohen AE  
+[bioRxiv:2021.10.13.463862](https://www.biorxiv.org/content/10.1101/2021.10.13.463862v1)
+
+## 8
+**Recording of cellular physiological histories along optically readable self-assembling protein chains**  
+Linghu C, An B, Shpokayte M, Celiker OT, Shmoel N, Zhang C, Park WM, Ramirez S, Boyden ES  
+[bioRxiv:2021.10.13.464006](https://www.biorxiv.org/content/10.1101/2021.10.13.464006v1)
+
+## 9
+**M1 dynamics share similar inputs for initiating and correcting movement**  
+Malonis PJ, Hatsopoulos NG, MacLean JN, Kaufman MT  
+[bioRxiv:2021.10.18.464704](https://www.biorxiv.org/content/10.1101/2021.10.18.464704v1)
+
+## 10
+**Neurorobotic fusion of prosthetic touch, kinesthesia, and movement in bionic upper limbs promotes intrinsic brain behaviors**  
+Marasco PD, Hebert JS, Sensinger JW, Beckler DT, Thumser ZC, Shehata AW, Williams HE, Wilson KR  
+[Sci Robot 6:eabf3368 (2021)](https://dx.doi.org/10.1126/scirobotics.abf3368)
+
+## 11
+**Differential effects of cerebellar degeneration on feedforward versus feedback control across speech and reaching movements**  
+Parrell B, Kim HE, Breska A, Saxena A, Ivry RB  
+[J Neurosci (2021)](https://dx.doi.org/10.1523/JNEUROSCI.0739-21.2021)
+
+## 12
+**Effect of wearing diapers on toddler’s gait**  
+Ueda T, Asano H, Tsuge K, Seo K, Sudo M, Fukuda Y, Okuda Y, Kataoka K, Iwasaki H, Naito H, Lu DJ  
+[Sci Rep 11:20105 (2021)](https://dx.doi.org/10.1038/s41598-021-99583-4)
+
+## 13
+**Reward timing matters in motor learning**  
+Vassiliadis P, Lete A, Duque J, Derosiere G  
+[bioRxiv:2021.10.15.464563](https://www.biorxiv.org/content/10.1101/2021.10.15.464563v1)
+
+
+## Superlab Papers
+**Estimating correlations between noisy activity patterns: A trick problem with a generative solution**  
+Diedrichsen J, Ariani G, Berlot E  
+[Brain, Data, and Science 10/11/2021](http://www.diedrichsenlab.org/BrainDataScience/noisy_correlation/index.htm)
+
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

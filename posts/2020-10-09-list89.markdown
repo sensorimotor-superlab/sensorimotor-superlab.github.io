@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 89"
+date:   2020-10-09 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Towards decolonising computational sciences**  
+Birhane A, Guest O  
+arXiv [csCY] (2020)  
+[https://arxiv.org/abs/2009.14258](https://arxiv.org/abs/2009.14258)
+
+## 2
+**Speech motor behavior can be altered through reinforcement learning**  
+Parrell B  
+bioRxiv:2020.10.05.327072 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.05.327072v2](https://www.biorxiv.org/content/10.1101/2020.10.05.327072v2)
+
+## 3
+**Prefrontal cortex exhibits multidimensional dynamic encoding during decision-making**  
+Aoi MC, Mante V, Pillow JW  
+Nat Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41593-020-0696-5](https://dx.doi.org/10.1038/s41593-020-0696-5)
+
+## 4
+**How a mouse licks a spout: Cortex-dependent corrections as the tongue reaches for, and misses, targets**  
+Bollu T, Ito B, Whitehead SC, Kardon B, Redd J, Liu MH, Goldberg JH  
+bioRxiv:655852 (2020)  
+[https://www.biorxiv.org/content/10.1101/655852v2](https://www.biorxiv.org/content/10.1101/655852v2)
+
+## 5
+**Spontaneous travelling cortical waves gate perception in behaving primates**  
+Davis ZW, Muller L, Martinez-Trujillo J, Sejnowski T, Reynolds JH  
+Nature (2020)  
+[https://dx.doi.org/10.1038/s41586-020-2802-y](https://dx.doi.org/10.1038/s41586-020-2802-y)
+
+## 6
+**Reversal of visual feedback modulates somatosensory plasticity**  
+Goldenkoff ER, McGregor HR, Mergos J, Gholizadeh P, Bridenstine J, Brown MJN, Vesia M  
+bioRxiv:2020.09.29.319350 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.29.319350v1](https://www.biorxiv.org/content/10.1101/2020.09.29.319350v1)
+
+## 7
+**Contribution of sensory memory to speech motor learning**  
+Ito T, Bai J, Ostry DJ  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00457.2020](https://dx.doi.org/10.1152/jn.00457.2020)
+
+## 8
+**Task feedback processing differs between young and older adults in visuomotor rotation learning despite similar initial adaptation and savings**  
+Reuter E-M, Leow L-A, Carroll TJ  
+Neuroscience (2020)  
+[https://dx.doi.org/10.1016/j.neuroscience.2020.09.038](https://dx.doi.org/10.1016/j.neuroscience.2020.09.038)
+
+## 9
+**Cerebellar patients have intact feedback control that can be leveraged to improve reaching**  
+Zimmet AM, Cao D, Bastian AJ, Cowan NJ  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.53246](https://dx.doi.org/10.7554/eLife.53246)
+
+## 10
+**White matter microstructural changes in short-term learning of a continuous visuomotor sequence**  
+Tremblay SA, Jäger A-T, Huck J, Giacosa C, Beram S, Schneider U, Grahl S, Villringer A, Tardif CL, Bazin P-L, Steele CJ, Gauthier CJ  
+bioRxiv:2020.10.02.324004 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.02.324004v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.10.02.324004v1.abstract?%3Fcollection=)
+
+## 11
+**Vibrational control: A hidden stabilization mechanism in insect flight**  
+Taha HE, Kiani M, Hedrick TL, Greeter JSM  
+Sci Robot 5 (2020)  
+[https://dx.doi.org/10.1126/scirobotics.abb1502](https://dx.doi.org/10.1126/scirobotics.abb1502)
+
+## 12
+**PsychRNN: An Accessible and Flexible Python Package for Training Recurrent Neural Network Models on Cognitive Tasks**  
+Ehrlich DB, Stone JT, Brandfonbrener D, Atanasov A, Murray JD 
+bioRxiv:2020.09.30.321752 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.30.321752v1](https://www.biorxiv.org/content/10.1101/2020.09.30.321752v1)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

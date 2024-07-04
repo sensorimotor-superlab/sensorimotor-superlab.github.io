@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Reading List 143"
+date:   2022-01-21 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Unintentional force drifts across the human fingers: implications for the neural control of finger tasks**  
+Abolins V, Latash ML  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-021-06287-2)
+
+## 2
+**Multiple spatial frames for immersive working memory**  
+Draschkow D, Nobre AC, van Ede F  
+[Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01245-y)
+
+## 3
+**Beyond advertising: New infrastructures for publishing integrated research objects**  
+DuPre E, Holdgraf C, Karakuzu A, Tetrel L, Bellec P, Stikov N, Poline J-B  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1009651)
+
+## 4
+**Fast event-related mapping of fingertip population receptive fields in human somatosensory and motor cortex at 7T**  
+Khalife S, Francis ST, Schluppeck D, Sánchez-Panchuelo R-M, Besle J  
+[bioRxiv:2022.01.06.471906](https://www.biorxiv.org/content/10.1101/2022.01.06.471906v2)
+
+## 5
+**Dynamical Latent State Computation in the Posterior Parietal Cortex**  
+Lakshminarasimhan KJ, Avila E, Pitkow X, Angelaki DE  
+[bioRxiv:2022.01.12.476065](https://www.biorxiv.org/content/10.1101/2022.01.12.476065v1)
+
+## 6
+**Proprioceptive sensitivity to imposed finger deflections**  
+Long KH, McLellan KR, Boyarinova M, Bensmaia SJ  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00513.2021)
+
+## 7
+**Illusory tactile movement crosses arms and legs and is coded in external space**  
+Martel M, Fuchs X, Trojan J, Gockel V, Habets B, Heed T  
+[bioRxiv:2021.05.20.445020](https://www.biorxiv.org/content/10.1101/2021.05.20.445020v3)
+
+## 8
+**Planning in the brain**  
+Mattar MG, Lengyel M  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2021.12.018)
+
+## 9
+**Human movements do not look the same in a tilted world: Gravitational constraints influence the perception of biological motion**  
+Pavlidou A, Lange J, Ferrè ER  
+[Eur J Neurosci](https://dx.doi.org/10.1111/ejn.15586)
+
+## 10
+**Sense of agency for intracortical brain–machine interfaces**  
+Serino A, Bockbrader M, Bertoni T, Colachis S IV, Solcà M, Dunlap C, Eipel K, Ganzer P, Annetta N, Sharma G, Orepic P, Friedenberg D, Sederberg P, Faivre N, Rezai A, Blanke O  
+[Nature Human Behaviour](https://www.nature.com/articles/s41562-021-01233-2)
+
+## 11
+**An initial “snapshot” of sensory information biases the likelihood and speed of subsequent changes of mind**  
+Turner W, Feuerriegel D, Hester R, Bode S  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1009738)
+
+## 12
+**Signal denoising through topographic modularity of neural circuits**  
+Zajzon B, Dahmen D, Morrison A, Duarte R  
+[bioRxiv:2022.01.10.475681](https://www.biorxiv.org/content/10.1101/2022.01.10.475681v1)
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

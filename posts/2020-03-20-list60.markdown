@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Reading List 60"
+date:   2020-03-20 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**The Effect of Visual Uncertainty on Implicit Motor Adaptation**  
+Tsay JS, Avraham G, Kim HE, Parvin DE, Wang Z, Ivry RB  
+bioRxiv:2020.03.15.992008 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.15.992008v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.15.992008v1.abstract?%3Fcollection=)
+
+## 2
+**Predictions drive neural representations of visual events ahead of incoming sensory information**  
+Blom T, Feuerriegel D, Johnson P, Bode S, Hogendoorn H  
+Proc Natl Acad Sci U S A (2020)  
+[https://dx.doi.org/10.1073/pnas.1917777117](https://dx.doi.org/10.1073/pnas.1917777117)
+
+## 3
+**Spatially distinct beta-band activities reflect implicit sensorimotor adaptation and explicit re-aiming strategy**  
+Jahani A, Schwey A, Bernier P-M, Malfait N  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1862-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.1862-19.2020)
+
+## 4
+**Co-contraction uses dual control of agonist-antagonist muscles to improve motor performance**  
+Saliba CM, Rainbow MJ, Scott Selbie W, Deluzio KJ, Scott SH  
+bioRxiv:2020.03.16.993527 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.16.993527v1](https://www.biorxiv.org/content/10.1101/2020.03.16.993527v1)
+
+## 5
+**Functional Identification of Specialized Basal Ganglia Circuits that Regulate Vocal Motor Sequences**  
+Xiao L, Merullo DP, Cao M, Co M, Kulkarni A, Konopka G, Roberts TF  
+bioRxiv:2020.03.14.991042 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.14.991042v2](https://www.biorxiv.org/content/10.1101/2020.03.14.991042v2)
+
+## 6
+**Overtone focusing in biphonic tuvan throat singing**  
+Bergevin C, Narayan C, Williams J, Mhatre N, Steeves JK, Bernstein JG, Story B  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.50476](https://dx.doi.org/10.7554/eLife.50476)
+
+## 7
+**Quantitative models reveal the organization of diverse cognitive functions in the brain**  
+Nakai T, Nishimoto S  
+Nat Commun 11:1142 (2020)  
+[https://dx.doi.org/10.1038/s41467-020-14913-w](https://dx.doi.org/10.1038/s41467-020-14913-w)
+
+## 8
+**Quantitative differences in neuronal subpopulations between mouse and human dorsal root ganglia demonstrated with RNAscope in situ hybridization**  
+Shiers S, Klein RM, Price TJ  
+bioRxiv:2020.03.06.981597 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.06.981597v1](https://www.biorxiv.org/content/10.1101/2020.03.06.981597v1)
+
+## 9
+**“Two sides of the same coin”: constant motor learning speeds up, whereas variable motor learning stabilizes, speed-accuracy movements**  
+Skurvydas A, Satas A, Valanciene D, Mamkus G, Mickeviciene D, Majauskiene D, Brazaitis M  
+Eur J Appl Physiol (2020)  
+[https://dx.doi.org/10.1007/s00421-020-04342-4](https://dx.doi.org/10.1007/s00421-020-04342-4)
+
+## 10
+**50 years since the Marr, Ito, and Albus models of the cerebellum**  
+Kawato M, Ohmae S, Hoang H, Sanger T  
+arXiv [q-bioNC] (2020)  
+[https://arxiv.org/abs/2003.05647](https://arxiv.org/abs/2003.05647)
+
+
+# Superlab Papers
+
+**Structure of population activity in primary motor cortex for single finger flexion and extension**  
+Arbuckle SA, Weiler J, Kirk EA, Rice CL, Schieber MH, Andrew Pruszynski J, Ejaz N, Diedrichsen J  
+bioRxiv:2020.03.17.996124 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.17.996124v2](https://www.biorxiv.org/content/10.1101/2020.03.17.996124v2)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

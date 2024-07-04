@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 230"
+date:   2024-02-02 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Dissociable neuronal substrates of visual feature attention and working memory**  
+Mendoza-Halliday D, Xu H, Azevedo FAC, Desimone R  
+[Neuron](https://www.cell.com/article/S0896627323009352/abstract)
+
+## 2
+**A specialized inhibitory function sharpens somatosensory hand representation and enhances the production and perception of fast multifinger movements in pianists**  
+Hirano M, Kimoto Y, Shiotani S, Furuya S  
+[bioRxiv:2024.01.23.576947](https://www.biorxiv.org/content/10.1101/2024.01.23.576947v1.abstract)
+
+## 3
+**Trial-history biases in evidence accumulation can give rise to apparent lapses in decision-making**  
+Gupta D, DePasquale B, Kopec CD, Brody CD  
+[Nat Commun](https://www.nature.com/articles/s41467-024-44880-5)
+
+## 4
+**The human somatosensory cortex contributes to the encoding of newly learned movements**  
+Ebrahimi S, Ostry DJ  
+[Proc Natl Acad Sci USA 121:e2316294121](https://www.pnas.org/doi/abs/10.1073/pnas.2316294121)
+
+## 5
+**Why flying insects gather at artificial light**  
+Fabian ST, Sondhi Y, Allen PE, Theobald JC, Lin H-T  
+[Nat Commun](https://www.nature.com/articles/s41467-024-44785-3)
+
+## 6
+**Large-scale citizen science reveals predictors of sensorimotor adaptation**  
+Tsay JS, Asmerian H, Germine LT, Wilmer J, Ivry RB, Nakayama K  
+[Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01798-0)
+
+## 7
+**Temporal scaling of motor cortical dynamics reveals hierarchical control of vocal production**  
+Banerjee A, Chen F, Druckmann S, Long MA  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01556-5)
+
+## 8
+**Acquiring musculoskeletal skills with curriculum-based reinforcement learning**  
+Chiappa AS, Tano P, Patel N, Ingster A, Pouget A, Mathis A  
+[bioRxiv:2024.01.24.577123](https://www.biorxiv.org/content/10.1101/2024.01.24.577123v1.abstract)
+
+## 9
+**Evidence for interacting but decoupled controls of decisions and movements in non-human primates**  
+Saleri C, Thura D  
+[bioRxiv:2024.01.29.577721](https://www.biorxiv.org/content/10.1101/2024.01.29.577721v1.abstract)
+
+## 10
+**A deep-learning strategy to identify cell types across species from high-density extracellular recordings**  
+Beau M et al.  
+[bioRxiv:2024.01.30.577845](https://www.biorxiv.org/content/10.1101/2024.01.30.577845v1.abstract)
+
+## 11
+**Single-neuronal elements of speech production in humans**  
+Khanna AR, Muñoz W, Kim YJ, Kfir Y, Paulk AC, Jamali M, Cai J, Mustroph ML, Caprara I, Hardstone R, Mejdell M, Meszéna D, Zuckerman A, Schweitzer J, Cash S, Williams ZM  
+[Nature](https://www.nature.com/articles/s41586-023-06982-w)
+
+## 12
+**Building compositional tasks with shared neural subspaces**  
+Tafazoli S, Bouchacourt F, Ardalan A, Markov NT, Uchimura M, Gomes Mattar MG, Daw ND, Buschman TJ  
+[bioRxiv:2024.01.31.578263](https://www.biorxiv.org/content/10.1101/2024.01.31.578263v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

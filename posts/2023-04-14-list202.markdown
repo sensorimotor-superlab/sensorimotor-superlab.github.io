@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Reading List 202"
+date:   2023-04-14 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Interpretable statistical representations of neural population dynamics and geometry**  
+Gosztolai A, Peach RL, Arnaudon A, Barahona M, Vandergheynst P  
+[arXiv](https://arxiv.org/abs/2304.03376)
+
+**ChatGPT summary**: This study introduces an unsupervised geometric deep learning framework for representing non-linear dynamical systems by leveraging local phase portrait features. The framework enables unbiased comparison of dynamics, improved decoding algorithms, and generalization across neural network instances, emphasizing the importance of intrinsic manifold structure over temporal information.
+
+## 2
+**Post‐activation depression from primary afferent depolarization (PAD) produces extensor H‐reflex suppression following flexor afferent conditioning**  
+Metz K, Matos I, Hari K, Bseis O, Afsharipour B, Lin S, Singla R, Fenrich K, Li Y, Bennett D, Gorassini M  
+[The Journal of Physiology](https://dx.doi.org/10.1113/jp283706)
+
+**ChatGPT summary**: This study suggests that extensor H-reflex suppression by flexor afferent conditioning is caused by both post-activation depression of extensor Ia afferents and long-lasting inhibition of extensor motoneurons, rather than from PAD inhibiting Ia afferent terminals. The findings were supported by observing similar long-lasting H-reflex suppression in mice through optogenetic and afferent activation of GABAergic neurons.
+
+## 3
+**Coexistence of state, choice, and sensory integration coding in barrel cortex LII/III**  
+Garderes P, Ganea D, Le Gal S, Rousseau C, Mamane A, Haiss F  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.10.536289)
+
+**ChatGPT summary**: The study found that perception depends on early, focal sensory representations in the primary somatosensory cortex, and that sensory and non-sensory variables are coded independently from one another. The authors suggest that perceptual variability likely arises from fluctuations in downstream areas rather than the primary somatosensory cortex.
+
+## 4
+**Mental navigation and telekinesis with a hippocampal map-based brain-machine interface**  
+Lai C, Tanaka S, Harris T, Lee A  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.07.536077)
+
+**ChatGPT summary**: Researchers developed a brain-machine interface to test if rats can navigate and direct objects to arbitrary goal locations within a virtual reality arena solely by activating and sustaining appropriate hippocampal representations of remote places. Results show that rats can control their hippocampal activity in a flexible, goal-directed, model-based manner, providing insight into the mechanisms underlying episodic memory recall, mental simulation/planning, and imagination.
+
+## 5
+**Divergent topographic projection of cerebral cortical areas to overlapping cerebellar lobules through distinct regions of the pontine nuclei**  
+Wu X, Sarpong GA, Zhang J, Sugihara I  
+[Heliyon](https://doi.org/10.1016/j.heliyon.2023.e14352)
+
+**ChatGPT summary**: This study investigates the cerebrocerebellar coordination through pontine nuclei using bidirectional neuronal tracing in mice. Results reveal a new pontine nuclei-centric view of the corticopontocerebellar projection, demonstrating that parallel corticopontine projections to pontine nuclei subareas are relayed to highly divergent pontocerebellar projections in overlapping specific cerebellar lobules, ultimately shaping cerebellar functional organization.
+
+## 6
+**Neural ensemble dynamics in trunk and hindlimb sensorimotor cortex encode for the control of postural stability**  
+Disse G, Nandakumar B, Pauzin F, Blumenthal G, Kong Z, Ditterich J, Moxon K  
+[Cell Reports](https://dx.doi.org/10.1016/j.celrep.2023.112347)
+
+**ChatGPT summary**: This study examines neural activity in primary sensory and motor cortices of rats during unexpected postural perturbations, finding unique neuronal classes that differentiate perturbation characteristics. The research reveals a low-dimensional manifold of separate subspaces, driven by congruent and incongruent neural firing patterns, that define different computations for postural responses, informing our understanding of postural control and instability in neurological diseases.
+
+## 7
+**Neural spiking for causal inference and learning**  
+Lansdell B, Kording K  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1011005)
+
+**ChatGPT summary**: Neurons that spike when driven beyond their threshold can produce an unbiased estimate of their causal influence and approximate gradient descent-based learning. Activity of upstream neurons and downstream non-linearities do not bias the results, allowing for spiking to solve causal estimation problems and enable local plasticity to approximate gradient descent using spike discontinuity learning.
+
+## 8
+**A Short Route for Reach Planning between Human V6A and the Motor Cortex**  
+Breveglieri R, Borgomaneri S, Diomedi S, Tessari A, Galletti C, Fattori P  
+[J. Neurosci.](https://dx.doi.org/10.1523/jneurosci.1609-22.2022)
+
+**ChatGPT summary**: Researchers have found that it takes just 4 milliseconds for the medial posterior parietal cortex in the human brain to send inhibitory signals to the frontal cortex during planning of a reaching movement towards different spatial positions, irrespective of whether the target is visually-guided or memory-guided, according to a study of healthy adults. The researchers used dual-site, paired-pulse transcranial magnetic stimulation to probe the functional connectivity between human area V6A and the primary motor cortex, which inhibited motor-evoked potentials during the planning process.
+
+## 9
+**Tracking neural activity from the same cells during the entire adult life of mice**  
+Zhao S, Tang X, Tian W, Partarrieu S, Liu R, Shen H, Lee J, Guo S, Lin Z, Liu J  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01267-x)
+
+**ChatGPT summary**: The study introduces a method for implanting an open, unfolded mesh structure in mice brains, allowing stable, long-term recordings of electrical activity without probe drifting or immune response. This technique enables researchers to observe aging-associated evolution in single-neuron activities throughout a mouse's adult life.
+
+## 10
+**Modulation of somatosensation by transcranial magnetic stimulation over somatosensory cortex: a systematic review**  
+Tang D, Niziolek C, Parrell B  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06579-9)
+
+**ChatGPT summary**: This review systematically examines the transcranial magnetic stimulation (TMS) literature, comparing the effects of different stimulation types on somatosensory subdomains. The study finds that targeted stimulation can both disrupt and enhance various types of somatosensation, with mixed results, and discusses potential reasons for inconsistencies and future research avenues.
+
+## 11
+**A reassessment of the role of joint receptors in human position sense**  
+Proske U  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06582-0)
+
+**ChatGPT summary**: The study investigates the role of muscle spindles and joint receptors in human position sense at the elbow joint, particularly in relation to joint limits. Findings suggest that joint receptors and muscle spindles work together to produce a composite signal, resulting in decreased position errors as the arm approaches full extension.
+
+
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

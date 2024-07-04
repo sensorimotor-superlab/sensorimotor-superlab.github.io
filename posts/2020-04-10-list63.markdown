@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Reading List 63"
+date:   2020-04-10 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**An emerging target paradigm evokes fast visuomotor responses on human upper limb muscles**  
+Kozak RA, Cecala AJ, Corneil BD  
+bioRxiv:2020.04.07.030130 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.07.030130v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.07.030130v1.abstract?%3Fcollection=)
+
+## 2
+**Visually-updated hand state estimates modulate the proprioceptive reflex independently of motor task requirements**  
+Ito S, Gomi H  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.52380](https://dx.doi.org/10.7554/eLife.52380)
+
+## 3
+**Distinct sensorimotor feedback loops for dynamic and static control of primate precision grip**  
+Oya T, Takei T, Seki K  
+bioRxiv:640201 (2020)  
+[https://www.biorxiv.org/content/10.1101/640201v3](https://www.biorxiv.org/content/10.1101/640201v3)
+
+## 4
+**Neural Representation of Observed, Imagined, and Attempted Grasping Force in Motor Cortex of Individuals with Chronic Tetraplegia**  
+Rastogi A et al.  
+Sci Rep 10:1429 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-58097-1](https://dx.doi.org/10.1038/s41598-020-58097-1)
+
+## 5
+**Neural control of steering in walking Drosophila**  
+Rayshubskiy A, Holtz SL, D’Alessandro I, Li AA, Vanderbeck QX, Haber IS, Gibb PW, Wilson RI  
+bioRxiv:2020.04.04.024703 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.04.024703v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.04.024703v1.abstract?%3Fcollection=)
+
+## 6
+**Humans sacrifice decision-making for action execution when a demanding control of movement is required**  
+Reynaud AJ, Lunazzi CS, Thura D  
+bioRxiv:2020.04.08.028936 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.08.028936v1](https://www.biorxiv.org/content/10.1101/2020.04.08.028936v1)
+
+## 7
+**People can learn new walking patterns without walking**  
+Song CN, Stenum J, Leech KA, Keller C, Roemmich RT  
+bioRxiv:2020.04.02.021949 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.02.021949v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.02.021949v1.abstract?%3Fcollection=)
+
+## 8
+**Long Latency Responses to a Mechanical Perturbation of the Index Finger have a Spinal Component**  
+Soteropoulos DS, Baker SN  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1901-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.1901-19.2020)
+
+## 9
+**Prediction signals in the cerebellum: beyond supervised motor learning**  
+Hull C  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.54073](https://dx.doi.org/10.7554/eLife.54073)
+
+## 10
+**Burst-dependent synaptic plasticity can coordinate learning in hierarchical circuits**  
+Payeur A, Guerguiev J, Zenke F, Richards BA, Naud R  
+bioRxiv:2020.03.30.015511 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.30.015511v1](https://www.biorxiv.org/content/10.1101/2020.03.30.015511v1)
+
+Also see the [tweeprint](https://twitter.com/tyrell_turing/status/1246814610981892097).
+
+
+# Superlab Papers
+**Learning New Feedforward Motor Commands Based on Feedback Responses**  
+Maeda RS, Gribble PL, Pruszynski JA  
+Curr Biol (2020)  
+[https://www.cell.com/article/S0960982220303419/abstract](https://www.cell.com/article/S0960982220303419/abstract)
+
+Also see the [tweeprint](https://twitter.com/rodrigo_maeda/status/1247213219204210694?s=21) (which was based on the preprint version).
+
+**Voluntary modification of rapid tactile-motor responses during reaching differs from its visuo-motor counterpart**  
+Reschechtko S, Pruszynski JA  
+bioRxiv:2020.04.01.020529 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.01.020529v1](https://www.biorxiv.org/content/10.1101/2020.04.01.020529v1)
+
+**Shared internal models for feedforward and feedback control of arm dynamics in non-human primates**  
+Maeda RS, Kersten R, Pruszynski JA  
+bioRxiv:2020.04.05.026757 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.05.026757v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.05.026757v2.abstract?%3Fcollection=)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

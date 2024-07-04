@@ -1,0 +1,16 @@
+/* css styles */
+
+.navbar-logo {
+    max-height: 96px;
+    width: auto;
+    padding-right: 4px;
+}
+
+h2 {
+    border-bottom-width: 0px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(222,226,230);
+    margin-top: 40px;
+    margin-bottom: 3px;
+}

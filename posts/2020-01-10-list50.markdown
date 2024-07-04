@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Reading List 50"
+date:   2020-01-10 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Dendritic action potentials and computation in human layer 2/3 cortical neurons**  
+Gidon A, Zolnik TA, Fidzinski P, Bolduan F, Papoutsi A, Poirazi P, Holtkamp M, Vida I, Larkum ME  
+Science 367:83–87 (2020)  
+[https://dx.doi.org/10.1126/science.aax6239](https://dx.doi.org/10.1126/science.aax6239)
+
+## 2
+**Excitatory and Inhibitory Subnetworks Are Equally Selective during Decision-Making and Emerge Simultaneously during Learning**  
+Najafi F, Elsayed GF, Cao R, Pnevmatikakis E, Latham PE, Cunningham JP, Churchland AK  
+Neuron (2019)  
+[https://www.cell.com/article/S0896627319308487/abstract](https://www.cell.com/article/S0896627319308487/abstract)
+
+## 3
+**Spinal signaling of C-fiber mediated pleasant touch in humans**  
+Marshall AG, Sharma ML, Marley K, Olausson H, McGlone FP  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.51642](https://dx.doi.org/10.7554/eLife.51642)
+
+## 4
+**β-bursts reveal the trial-to-trial dynamics of movement initiation and cancellation**  
+Wessel JR  
+J Neurosci (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1887-19.2019](https://dx.doi.org/10.1523/JNEUROSCI.1887-19.2019)
+
+## 5
+**Turning Touch into Perception**  
+Romo R, Rossi-Pool R  
+Neuron 105:16–33 (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2019.11.033](https://dx.doi.org/10.1016/j.neuron.2019.11.033)
+
+## 6
+**Selective Modulation of Early Visual Cortical Activity by Movement Intention**  
+Gallivan JP, Chapman CS, Gale DJ, Flanagan JR, Culham JC  
+Cereb Cortex 29:4662–4678 (2019)  
+[https://dx.doi.org/10.1093/cercor/bhy345](https://dx.doi.org/10.1093/cercor/bhy345)
+
+## 7
+**Long-term stability of cortical population dynamics underlying consistent behavior**  
+Gallego JA, Perich MG, Chowdhury RH, Solla SA, Miller LE  
+Nat Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41593-019-0555-4](https://dx.doi.org/10.1038/s41593-019-0555-4)
+
+## 8
+**Deepinsight: a general framework for interpreting wide-band neural activity**  
+Frey M, Tanni S, Perrodin C, O’Leary A, Nau M, Kelly J, Banino A, Doeller CF, Barry C  
+bioRxiv:871848 (2019)  
+[https://www.biorxiv.org/content/10.1101/871848v1](https://www.biorxiv.org/content/10.1101/871848v1)
+
+## 9
+**Crowding reveals fundamental differences in local vs. global processing in humans and machines**  
+Doerig A, Bornet A, Choung OH, Herzog MH  
+Vision Res 167:39–45 (2020)  
+[https://dx.doi.org/10.1016/j.visres.2019.12.006](https://dx.doi.org/10.1016/j.visres.2019.12.006)
+
+Also check out the [tweeprint](https://twitter.com/adriendoerig/status/1214524563045912576?s=21)
+
+## 10
+**Searching for the Hidden Factors Underlying the Neural Code**  
+Gao R  
+Simons Foundation (Cosyne 2019)  
+[https://www.simonsfoundation.org/2019/07/31/searching-for-the-hidden-factors-underlying-the-neural-code](https://www.simonsfoundation.org/2019/07/31/searching-for-the-hidden-factors-underlying-the-neural-code)
+
+
+# Superlab Papers
+
+**fMRI signatures of motor sequence learning: A critical re-evaluation**  
+Berlot E, Popp NJ, Diedrichsen J  
+bioRxiv:2020.01.08.899229 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.08.899229v1](https://www.biorxiv.org/content/10.1101/2020.01.08.899229v1)
+
+Also check out the [tweeprint](https://twitter.com/EvaBerlot/status/1215399684010913793?s=20)
+
+**Spinal stretch reflexes support efficient control of reaching**  
+Weiler J, Gribble PL, Andrew Pruszynski J  
+bioRxiv:2020.01.06.896225 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.06.896225v1](https://www.biorxiv.org/content/10.1101/2020.01.06.896225v1)
+
+Also check out the [tweeprint](https://twitter.com/jeff_weiler/status/1214917819147726848?s=21)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

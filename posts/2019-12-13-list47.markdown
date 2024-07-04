@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 47"
+date:   2019-12-13 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Continuous, multidimensional coding of 3D complex tactile stimuli by primary sensory neurons of the vibrissal system**  
+Bush NE, Solla SA, Hartmann MJZ  
+bioRxiv:869255 (2019)  
+[https://www.biorxiv.org/content/10.1101/869255v1](https://www.biorxiv.org/content/10.1101/869255v1)
+
+## 2
+**Somatosensory Cortex Efficiently Processes Touch Located Beyond the Body**  
+Miller LE, Fabio C, Ravenda V, Bahmad S, Koun E, Salemme R, Luauté J, Bolognini N, Hayward V, Farnè A  
+Curr Biol (2019)  
+[https://www.cell.com/article/S0960982219313831/abstract](https://www.cell.com/article/S0960982219313831/abstract)
+
+## 3
+**Skill Acquisition is Enhanced by Reducing Trial-To-Trial Repetition**  
+Vleugels LWE, Swinnen SP, Hardwick RM  
+bioRxiv:866046 (2019)  
+[https://www.biorxiv.org/content/10.1101/866046v1](https://www.biorxiv.org/content/10.1101/866046v1)
+
+## 4
+**Functional connectivity between the cerebellum and somatosensory areas implements the attenuation of self-generated touch**  
+Kilteni K, Ehrsson HH  
+J Neurosci (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1732-19.2019](https://dx.doi.org/10.1523/JNEUROSCI.1732-19.2019)
+
+## 5
+**Imaging real-time tactile interaction with two-person dual-coil fMRI**  
+Renvall V, Kauramäki J, Malinen S, Hari R, Nummenmaa L  
+bioRxiv:861252 (2019)  
+[https://www.biorxiv.org/content/10.1101/861252v1](https://www.biorxiv.org/content/10.1101/861252v1)
+
+## 6
+**Binocular viewing geometry shapes the neural representation of the dynamic three-dimensional environment**  
+Bonnen K, Czuba TB, Whritner JA, Kohn A, Huk AC, Cormack LK  
+Nat Neurosci (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0544-7](https://dx.doi.org/10.1038/s41593-019-0544-7)
+
+## 7
+**Integrative and Network-Specific Connectivity of the Basal Ganglia and Thalamus Defined in Individuals**  
+Greene DJ et al.  
+Neuron (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0896627319309754](https://www.sciencedirect.com/science/article/pii/S0896627319309754)
+
+## 8
+**Voluntary and tremorogenic inputs to motor neuron pools of agonist/antagonist muscles in essential tremor patients**  
+Puttaraksa G, Muceli S, Gallego JÁ, Holobar A, Charles SK, Pons JL, Farina D  
+J Neurophysiol 122:2043–2053 (2019)  
+[https://dx.doi.org/10.1152/jn.00407.2019](https://dx.doi.org/10.1152/jn.00407.2019)
+
+## 9
+**Hierarchical motor control in mammals and machines**  
+Merel J, Botvinick M, Wayne G  
+Nat Commun 10:5489 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-13239-6](https://dx.doi.org/10.1038/s41467-019-13239-6)
+
+## 10
+**Neurobehavioural signatures in race car driving**  
+Lima IR, Haar S, Di Grassi L, Aldo Faisal A  
+bioRxiv:860056 (2019)  
+[https://www.biorxiv.org/content/10.1101/860056v1](https://www.biorxiv.org/content/10.1101/860056v1)
+
+When we purport to study ecological actions, we often reduce their complexity by constraining behaviour and/or recording only a few variables of interest. In distict contrast to this approach, Lima and Colleagues present a rich dataset (including EEG, eyetracking, and kinematics) recorded from a professional racecar driver driving a high performance car on a racetrack. As technology for recording neurobehavioural data becomes more portable and robust, datasets like this will be easier to obtain; how can we design experimental paradigms to take advantage of high dimensional data without analysis and interpretation becoming even more of a bottleneck? —SR
+
+
+# Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

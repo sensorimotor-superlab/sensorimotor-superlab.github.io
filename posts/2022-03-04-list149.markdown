@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Reading List 149"
+date:   2022-03-04 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Competition between parallel sensorimotor learning systems**  
+Albert ST, Jang J, Modchalingam S, ’t Hart M, Henriques D, Lerner G, Della-Maggiore V, Haith AM, Krakauer JW, Shadmehr R  
+[Elife](https://dx.doi.org/10.7554/eLife.65361)
+
+## 2
+**Evidence for a cost of time in the invigoration of isometric reaching movements**  
+Berret B, Baud-Bovy G  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00536.2021)
+
+## 3
+**Sensory-motor computations in a cortico-pontine pathway**  
+Darlington TR, Lisberger SG  
+[bioRxiv:2022.02.22.481514](https://www.biorxiv.org/content/10.1101/2022.02.22.481514v1)
+
+## 4
+**Load Non-Linearly Modulates Movement Reflex Gain in an Insect Leg via a Distributed Network of Identified Nonspiking Interneurons**  
+Gebehart C, Hooper SL, Büschges A  
+[bioRxiv:2022.02.24.481822](https://www.biorxiv.org/content/10.1101/2022.02.24.481822v1)
+
+## 5
+**A biophysical account of multiplication by a single neuron**  
+Groschner LN, Malis JG, Zuidinga B, Borst A  
+[Nature](https://dx.doi.org/10.1038/s41586-022-04428-3)
+
+## 6
+**Diversified physiological sensory input connectivity questions the existence of distinct classes of spinal interneurons**  
+Kohler M, Bengtsson F, Stratmann P, Röhrbein F, Knoll A, Albu-Schäffer A, Jörntell H  
+[bioRxiv:2021.07.16.452238](https://www.biorxiv.org/content/10.1101/2021.07.16.452238v3)
+
+## 7
+**Continuous manipulation of mental representations is compromised in cerebellar degeneration**  
+McDougle SD, Tsay JS, Pitt B, King M, Saban W, Taylor JA, Ivry RB  
+[Brain](https://dx.doi.org/10.1093/brain/awac072)
+
+## 8
+**Left hemisphere dominance for bilateral kinematic encoding in the human brain**  
+Merrick CM, Dixon TC, Breska A, Lin J, Chang EF, King-Stephens D, Laxer KD, Weber PB, Carmena J, Thomas Knight R, Ivry RB  
+[Elife](https://dx.doi.org/10.7554/eLife.69977)
+
+## 9
+**Majority of choice-related variability in perceptual decisions is present in early sensory cortex**  
+Morais MJ, Michelson CD, Chen Y, Pillow JW, Seidemann E  
+[bioRxiv:207357](https://www.biorxiv.org/content/10.1101/207357v2)
+
+## 10
+**Observational learning promotes hippocampal remote awake replay toward future reward locations**  
+Mou X, Pokhrel A, Suresh P, Ji D  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2021.12.005)
+
+## 11
+**The brain integrates proprioceptive information to ensure robust locomotion**  
+Santuz A, Laflamme OD, Akay T  
+[bioRxiv:2021.04.28.441796](https://www.biorxiv.org/content/10.1101/2021.04.28.441796v2)
+
+## 12
+**Distinct roles for motor cortical and thalamic inputs to striatum during motor skill learning and execution**  
+Wolff SBE, Ko R, Ölveczky BP  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abk0231)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 135"
+date:   2021-11-26 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Increasing human motor skill acquisition by driving theta-gamma coupling**  
+Akkad H, Dupont-Hadwen J, Kane E, Evans C, Barrett L, Frese A, Tetkovic I, Bestmann S, Stagg CJ  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.67355)
+
+## 2
+**Why motor imagery isn’t really motoric: Towards a reconceptualization in terms of effect-based action control**  
+Bach P, Frank C, Kunde W  
+[PsyArXiv (2021)](https://osf.io/bkf76)
+
+## 3
+**Composition and decomposition of visuomotor maps during manual tracking**  
+Bernier P-M, Mathew J, Danion FR  
+[J Neurophysiol 126:1685–1697 (2021)](https://dx.doi.org/10.1152/jn.00058.2021)
+
+## 4
+**Observation of others’ actions during limb immobilization prevents the subsequent decay of motor performance**  
+De Marco D, Scalona E, Bazzini MC, Nuara A, Taglione E, Lopomo NF, Rizzolatti G, Fabbri-Destro M, Avanzini P  
+[Proc Natl Acad Sci USA 118 (2021)](https://dx.doi.org/10.1073/pnas.2025979118)
+
+## 5
+**Hybrid dedicated and distributed coding in PMd/M1 provides separation and interaction of bilateral arm signals**  
+Dixon TC, Merrick CM, Wallis JD, Ivry RB, Carmena JM  
+[PLoS Comput Biol 17:e1009615 (2021)](https://dx.doi.org/10.1371/journal.pcbi.1009615)
+
+## 6
+**Modulation of Cutaneous Responses in the Cuneate Nucleus of Macaques During Active Movement**  
+He Q, Versteeg CS, Suresh AK, Rosenow J, Miller LE, Bensmaia SJ  
+[bioRxiv:2021.11.15.468735](https://www.biorxiv.org/content/10.1101/2021.11.15.468735v2)
+
+## 7
+**Contextual inference underlies the learning of sensorimotor repertoires**  
+Heald JB, Lengyel M, Wolpert DM  
+[Nature (2021)](https://www.nature.com/articles/s41586-021-04129-3)
+
+## 8
+**Regular rhythmic and audio-visual stimulations enhance procedural learning of a perceptual-motor sequence in healthy adults: A pilot study**  
+Lagarrigue Y, Cappe C, Tallet J  
+[PLoS One 16:e0259081 (2021)](https://dx.doi.org/10.1371/journal.pone.0259081)
+
+## 9
+**Left Hemisphere Dominance for Bilateral Kinematic Encoding in the Human Brain**  
+Merrick CM, Dixon TC, Breska A, Lin JJ, Chang EF, King-Stephens D, Laxer KD, Weber PB, Carmena JM, Knight RT, Ivry RB  
+[bioRxiv:2021.05.01.442295](https://www.biorxiv.org/content/10.1101/2021.05.01.442295v1)
+
+## 10
+**Repetition effects in action planning reflect effector- but not hemisphere-specific coding**  
+Seegelke C, Schonard C, Heed T  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00326.2021)
+
+## 11
+**Playing the piano with a robotic third thumb: assessing constraints of human augmentation**  
+Shafti A, Haar S, Mio R, Guilleminot P, Faisal AA  
+[Sci Rep 11:21375 (2021)](https://dx.doi.org/10.1038/s41598-021-00376-6)
+
+## 12
+**Hierarchical organization of rhesus macaque behavior**  
+Voloh B, Eisenreich BR, Maisson DJ-N, Becket Ebitz R, Park HS, Hayden BY, Zimmermann J  
+[bioRxiv:2021.11.15.468721](https://www.biorxiv.org/content/10.1101/2021.11.15.468721v1)
+
+## 13
+**Motor plans under uncertainty reflect a trade-off between maximizing reward and success**  
+Wong AL, Green AL, Isaacs MW  
+[bioRxiv:2021.11.21.469448](https://www.biorxiv.org/content/10.1101/2021.11.21.469448v1)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 64"
+date:   2020-04-17 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Generative modeling of brain maps with spatial autocorrelation**  
+Burt JB, Helmer M, Shinn M, Anticevic A, Murray JD  
+bioRxiv:2020.02.18.955054 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.18.955054v1](https://www.biorxiv.org/content/10.1101/2020.02.18.955054v1)
+
+## 2
+**Development of a neural interface for high-definition, long-term recording in rodents and nonhuman primates**  
+Chiang C-H et al.  
+Sci Transl Med 12 (2020)  
+[https://stm.sciencemag.org/content/12/538/eaay4682.full](https://stm.sciencemag.org/content/12/538/eaay4682.full)
+
+## 3
+**Evidence for Hierarchical Cognitive Control in the Human Cerebellum**  
+D’Mello AM, Gabrieli JDE, Nee DE  
+Curr Biol (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.03.028](https://dx.doi.org/10.1016/j.cub.2020.03.028)
+
+## 4
+**Stretching the skin immediately enhances perceived stiffness and gradually enhances the predictive control of grip force**  
+Farajian M, Leib R, Kossowsky H, Zaidenberg T, Mussa-Ivaldi FA, Nisky I  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.52653](https://dx.doi.org/10.7554/eLife.52653)
+
+## 5
+**In-depth characterization of layer 5 output neurons of the primary somatosensory cortex innervating the mouse dorsal spinal cord**  
+Frezel N, Mateos JM, Platonova E, Ziegler U, Wildner H, Zeilhofer HU  
+bioRxiv:2020.04.02.021311 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.02.021311v1](https://www.biorxiv.org/content/10.1101/2020.04.02.021311v1)
+
+## 6
+**Integrating Somatosensory Information Over Time**  
+Hernández-Pérez R, Rojas-Hortelano E, de Lafuente V  
+Neuroscience 433:72–80 (2020)  
+[https://dx.doi.org/10.1016/j.neuroscience.2020.02.037](https://dx.doi.org/10.1016/j.neuroscience.2020.02.037)
+
+## 7
+**Implicit learning is too fast to be a slow process**  
+Ruttle JE, Hart BM ’t, Henriques DYP  
+bioRxiv:2020.04.07.030189 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.07.030189v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.07.030189v1.abstract?%3Fcollection=)
+
+## 8
+**Cerebellar outputs contribute to maintaining motor cortical activity of monkeys**  
+Sano N, Nakayama Y, Ishida H, Chiken S, Hoshi E, Nambu A, Nishimura Y  
+Neurosci Res (2020)  
+[https://dx.doi.org/10.1016/j.neures.2020.03.010](https://dx.doi.org/10.1016/j.neures.2020.03.010)
+
+## 9
+**Compression of dynamic tactile information in the human hand**  
+Shao Y, Hayward V, Visell Y  
+Science Advances 6:eaaz1158 (2020)  
+[https://dx.doi.org/10.1126/sciadv.aaz1158](https://dx.doi.org/10.1126/sciadv.aaz1158)
+
+## 10
+**Hippocampal neurons represent events as transferable units of experience**  
+Sun C, Yang W, Martin J, Tonegawa S  
+Nat Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41593-020-0614-x](https://dx.doi.org/10.1038/s41593-020-0614-x)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

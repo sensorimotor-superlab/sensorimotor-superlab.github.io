@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Reading List 146"
+date:   2022-02-11 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Passive Proprioceptive Training Alters the Sensitivity of Muscle Spindles to Imposed Movements**  
+Ackerley R, Samain-Aupic L, Ribot-Ciscar E  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0249-21.2021)
+
+## 2
+**Mice alternate between discrete strategies during perceptual decision-making**  
+Ashwood ZC, Roy NA, Stone IR, Urai AE, Churchland AK, Pouget A, Pillow JW  
+[Nat Neurosci](https://www.nature.com/articles/s41593-021-01007-z)
+
+## 3
+**Movement characteristics impact decision-making and vice versa**  
+Carsten T, Fievez F, Duque J  
+[bioRxiv:2022.02.02.478832](https://www.biorxiv.org/content/10.1101/2022.02.02.478832v1)
+
+## 4
+**Decoding the information structure underlying the neural representation of concepts**  
+Fernandino L, Tong J-Q, Conant LL, Humphries CJ, Binder JR  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2108091119)
+
+## 5
+**Adaptive Interlimb Coordination Mechanism for Hexapod Locomotion Based on Active Load Sensing**  
+Fukuhara A, Suda W, Kano T, Kobayashi R, Ishiguro A  
+[Front Neurorobot](https://www.frontiersin.org/article/10.3389/fnbot.2022.645683)
+
+## 6
+**Orphan nuclear receptors Err2 and 3 promote a feature-specific terminal differentiation program underlying gamma motor neuron function and proprioceptive movement control**  
+Khan MN, Cherukuri P, Negro F, Rajput A, Fabrowski P, Bansal V, Lancelin C, Lee T-I, Bian Y, Mayer WP, Akay T, Müller D, Bonn S, Farina D, Marquardt T  
+[bioRxiv:2022.01.25.477566](https://www.biorxiv.org/content/10.1101/2022.01.25.477566v1)
+
+## 7
+**A low-cost and shielding-free ultra-low-field brain MRI scanner**  
+Liu Y, Leong ATL, Zhao Y, Xiao L, Mak HKF, Tsang ACO, Lau GKK, Leung GKK, Wu EX  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-021-27317-1)
+
+## 8
+**Mutation bias reflects natural selection in Arabidopsis thaliana**  
+Monroe JG, Srikant T, Carbonell-Bejerano P, Becker C, Lensink M, Exposito-Alonso M, Klein M, Hildebrandt J, Neumann M, Kliebenstein D, Weng M-L, Imbert E, Ågren J, Rutter MT, Fenster CB, Weigel D  
+[Nature](https://dx.doi.org/10.1038/s41586-021-04269-6)
+
+## 9
+**Sensory Schwann cells are required for mechanical nociception and touch perception**  
+Ojeda-Alonso J, Calvo-Enrique L, Paricio-Montesinos R, Kumar R, Zhang M-D, Poulet JFA, Ernfors P, Lewin GR  
+[bioRxiv:2022.02.04.477749](https://www.biorxiv.org/content/10.1101/2022.02.04.477749v1)
+
+## 10
+**Coupling of pupil- and neuronal population dynamics reveals diverse influences of arousal on cortical processing**  
+Pfeffer T, Keitel C, Kluger DS, Keitel A, Russmann A, Thut G, Donner TH, Gross J  
+[Elife](https://dx.doi.org/10.7554/eLife.71890)
+
+## 11
+**Event boundaries shape temporal organization of memory by resetting temporal context**  
+Pu Y, Kong X-Z, Ranganath C, Melloni L  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-28216-9)
+
+## 12
+**The Brain-Computer Metaphor Debate Is Useless: A Matter of Semantics**  
+Richards BA, Lillicrap TP  
+[Frontiers in Computer Science](https://www.frontiersin.org/article/10.3389/fcomp.2022.810358)
+
+## 13
+**Activity-dependent spinal cord neuromodulation rapidly restores trunk and leg motor functions after complete paralysis**  
+Rowald A et al.  
+[Nat Med](https://dx.doi.org/10.1038/s41591-021-01663-5)
+
+## 14
+Wilhelm E, Quoilin C, Derosiere G, Paço S, Jeanjean A, Duque J  
+**Corticospinal suppression underlying intact movement preparation fades in late Parkinson’s disease**  
+[medRxiv](https://medrxiv.org/lookup/doi/10.1101/2022.02.03.22269055)
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Reading List 163"
+date:   2022-06-10 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**The role of population structure in computations through neural dynamics**  
+Dubreuil A, Valente A, Beiran M, Mastrogiuseppe F, Ostojic S  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01088-4)
+
+## 2
+**Learning binds new inputs into functional synaptic clusters via spinogenesis**  
+Hedrick NG, Lu Z, Bushong E, Singhi S, Nguyen P, Magaña Y, Jilani S, Lim BK, Ellisman M, Komiyama T  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01086-6)
+
+## 3
+**Reflexes in response to stretch (myotatic reflexes)**  
+Liddell EGT, Sherrington CS  
+[Proc R Soc Lond B Biol Sci (1924)](https://doi.org/10.1098/rspb.1924.0023)
+
+## 4
+**Proactive inhibition of goal-directed movements involves explicit changes to movement planning**  
+Pickavance JP, Mon-Williams M, Mushtaq F, Ryan Morehead J  
+[bioRxiv:2022.06.01.494317](https://www.biorxiv.org/content/10.1101/2022.06.01.494317v1)
+
+## 5
+**Brain motor and fear circuits regulate leukocytes during acute stress**  
+Poller WC et al.  
+[Nature](https://dx.doi.org/10.1038/s41586-022-04890-z)
+
+## 6
+**II. Note on the knee-jerk and the correlation of action of antagonistic muscles**  
+Sherrington CS, Foster M  
+[Proc R Soc Lond (1893)](https://doi.org/10.1098/rspl.1892.0097)
+
+## 7
+**Representation learning in the artificial and biological neural networks underlying sensorimotor integration**  
+Suhaimi A, Lim AWH, Chia XW, Li C, Makino H  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abn0984)
+
+## 8
+**Optimal reaching trajectories based on feedforward control**  
+Taniai Y, Naniwa T, Nishii J  
+[Biol Cybern](https://dx.doi.org/10.1007/s00422-022-00939-4)
+
+## 9
+**An approximate stochastic optimal control framework to simulate nonlinear neuro-musculoskeletal models in the presence of noise**  
+Van Wouwe T, Ting LH, De Groote F  
+[bioRxiv:2021.08.13.456221](https://www.biorxiv.org/content/10.1101/2021.08.13.456221v1)
+
+## 10
+**Targeting thalamic circuits rescues motor and mood deficits in PD mice**  
+Zhang Y, Roy DS, Zhu Y, Chen Y, Aida T, Hou Y, Shen C, Lea NE, Schroeder ME, Skaggs KM, Sullivan HA, Fischer KB, Callaway EM, Wickersham IR, Dai J, Li X-M, Lu Z, Feng G  
+[Nature](https://www.nature.com/articles/s41586-022-04806-x)
+
+
+## Superlab Papers
+
+**Precise and stable edge orientation signaling by human first-order tactile neurons**  
+Sukumar V, Johansson RS, Pruszynski JA  
+[bioRxiv:2022.06.01.494420](https://www.biorxiv.org/content/10.1101/2022.06.01.494420v1)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

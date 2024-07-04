@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 24"
+date:   2019-07-05 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**An ultrafast system for signaling mechanical pain in human skin**  
+Nagi, S.S., Marshall, A.G., Makdani, A., Jarocka, E., Liljencrantz, J., Ridderström, M., Shaikh, S., O’Neill, F., Saade, D., Donkervoort, S., Reghan Foley, A., Minde, J., Trulsson, M., Cole, J., Bönnemann, C.G., Chesler, A.T., Bushnell, M.C., McGlone, F., Olausson, H.  
+Science Advances 03 JUL 2019 : EAAW1297  
+[https://dx.doi.org/10.1126/sciadv.aaw1297](https://dx.doi.org/10.1126/sciadv.aaw1297)
+
+## 2
+**Unsupervised identification of the internal states that shape natural behavior**  
+Calhoun, A.J., Pillow, J., and Murthy, M.  
+bioRxiv, 691196 (2019)  
+[https://www.biorxiv.org/content/10.1101/691196v1](https://www.biorxiv.org/content/10.1101/691196v1)
+
+## 3
+**The perils of learning to move while speaking: One-sided interference between speech and visuomotor adaptation**  
+Lametti, D.R., Quek, M., Prescott, C., Brittain, J.-S., and Watkins, K.E.  
+PsyArXiv. July 2 (2019)  
+[https://psyarxiv.com/t8u2c](https://psyarxiv.com/t8u2c)
+
+## 4
+**Stimulus-Locked Responses on Human Upper Limb Muscles and Corrective Reaches are Preferentially Evoked by Low Spatial Frequencies**  
+Kozak, R.A., Kreyenmeier, P., Gu, C., Johnston, K., and Corneil, B.D.  
+bioRxiv, 690354 (2019)  
+[https://www.biorxiv.org/content/10.1101/690354v1](https://www.biorxiv.org/content/10.1101/690354v1)
+
+## 5
+**The manifold structure of limb coordination in walking Drosophila**  
+DeAngelis, B.D., Zavatone-Veth, J.A., and Clark, D.A.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.46409](https://dx.doi.org/10.7554/eLife.46409)
+
+## 6
+**The predictability of a target’s motion influences gaze, head, and hand movements when trying to intercept it**  
+de la Malla, C., Rushton, S.K., Clark, K., Smeets, J.B.J., and Brenner, E.  
+J. Neurophysiol. 121, 2416–2427 (2019)  
+[https://dx.doi.org/10.1152/jn.00917.2017](https://dx.doi.org/10.1152/jn.00917.2017)
+
+## 7
+**Behavioral training of marmosets and electrophysiological recording from the cerebellum**  
+Sedaghat-Nejad, E., Herzfeld, D.J., Hage, P., Karbasi, K., Palin, T., Wang, X., and Shadmehr, R.  
+bioRxiv, 683706 (2019)  
+[https://www.biorxiv.org/content/10.1101/683706v1](https://www.biorxiv.org/content/10.1101/683706v1)
+
+## 8
+**Simple spike dynamics of Purkinje cells in the macaque vestibulo-cerebellum reflect sensory prediction error**  
+Laurens, J., and Angelaki, D.  
+bioRxiv, 685461 (2019)  
+[https://www.biorxiv.org/content/10.1101/685461v1](https://www.biorxiv.org/content/10.1101/685461v1)
+
+## 9
+**A "twisted" visual field map in the primate cortex predicted by topographic continuity**  
+Yu, H.-H., Rowley, D.P., Zavitz, E., Price, N.S.C., and Rosa, M.  
+bioRxiv, 682187 (2019)  
+[https://www.biorxiv.org/content/10.1101/682187v1](https://www.biorxiv.org/content/10.1101/682187v1)
+
+## 10
+**Finger posture and shear force measurement using fingernail sensors: initial experimentation**  
+Mascaro, S., and Asada, H.H.  
+IEEE International Conference on Robotics and Automation (Cat. No.01CH37164), pp. 1857–1862 vol.2. (2019)  
+[https://dx.doi.org/10.1109/ROBOT.2001.932879](https://dx.doi.org/10.1109/ROBOT.2001.932879)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

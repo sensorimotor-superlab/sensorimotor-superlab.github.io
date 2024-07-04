@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 26"
+date:   2019-07-19 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Visual feedback processing of the limb involves two distinct phases**  
+Cross, K.P., Cluff, T., Takei, T., and Scott, S.H.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.3112-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.3112-18.2019)
+
+## 2
+**Posterior parietal cortex plays a causal role in perceptual and categorical decisions**  
+Zhou, Y., and Freedman, D.J.  
+Science 365, 180–185 (2019)  
+[https://science.sciencemag.org/content/365/6449/180](https://science.sciencemag.org/content/365/6449/180)
+
+## 3
+**Classic motor chunking theory fails to account for behavioural diversity and speed in a complex naturalistic task**  
+Thompson, J.J., McColeman, C.M., Blair, M.R., and Henrey, A.J.  
+PLoS One 14, e0218251 (2019)  
+[https://dx.doi.org/10.1371/journal.pone.0218251](https://dx.doi.org/10.1371/journal.pone.0218251)
+
+## 4
+**Internal model recalibration does not deteriorate with age while motor adaptation does**  
+Vandevoorde, K., and Orban de Xivry, J.-J.  
+Neurobiol. Aging 80, 138–153 (2019)  
+[https://dx.doi.org/10.1016/j.neurobiolaging.2019.03.020](https://dx.doi.org/10.1016/j.neurobiolaging.2019.03.020)
+
+## 5
+**The capacity to learn new motor and perceptual calibrations develops concurrently in childhood**  
+Rossi, C., Chau, C.W., Leech, K.A., Statton, M.A., Gonzalez, A.J., and Bastian, A.J.  
+Sci Rep 9, 9322 (2019)  
+[https://dx.doi.org/10.1038/s41598-019-45074-6](https://dx.doi.org/10.1038/s41598-019-45074-6)
+
+## 6
+**Tool use modulates somatosensory cortical processing in humans**  
+Miller, L.E., Longo, M., and Saygin, A.P.  
+Journal of Cognitive Neuroscience (2019)  
+[https://eprints.bbk.ac.uk/28038/](https://eprints.bbk.ac.uk/28038/)
+
+## 7
+**Reporting affects explicit knowledge in visuomotor rotations in ways not measured by reporting**  
+Maresch, J., and Donchin, O.  
+bioRxiv, 702290 (2019)  
+[https://www.biorxiv.org/content/10.1101/702290v3.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/702290v3.abstract?%3Fcollection=)
+
+## 8
+**Accuracy of Intercepting Moving Tactile Targets**  
+Nelson, J.S., Baud-Bovy, G., Smeets, J.B.J., and Brenner, E.  
+Perception, 301006619861876 (2019)  
+[https://dx.doi.org/10.1177/0301006619861876](https://dx.doi.org/10.1177/0301006619861876)
+
+## 9
+**Stiffness as a control factor for object manipulation**  
+Kennedy, S.D., and Schwartz, A.B.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00372.2018](https://dx.doi.org/10.1152/jn.00372.2018)
+
+## 10
+**Voxel-to-voxel predictive models reveal unexpected structure in unexplained variance**  
+Mell, M.M., St-Yves, G., and Naselaris, T.  
+bioRxiv, 692319 (2019)  
+[https://www.biorxiv.org/content/10.1101/692319v1](https://www.biorxiv.org/content/10.1101/692319v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

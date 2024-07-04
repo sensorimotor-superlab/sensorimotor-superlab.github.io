@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Reading List 96"
+date:   2020-11-27 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Behavioral, Physiological, and Neural Signatures of Surprise during Naturalistic Sports Viewing**  
+Antony JW, Hartshorne TH, Pomeroy K, Gureckis TM, Hasson U, McDougle SD, Norman KA  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.10.029](https://dx.doi.org/10.1016/j.neuron.2020.10.029)
+
+## 2
+**Restoration of sensory information via bionic hands**  
+Bensmaia SJ, Tyler DJ, Micera S  
+Nat Biomed Eng (2020)  
+[https://dx.doi.org/10.1038/s41551-020-00630-8](https://dx.doi.org/10.1038/s41551-020-00630-8)
+
+## 3
+**Touch inhibits touch: sanshool-induced paradoxical tingling reveals perceptual interference between somatosensory submodalities**  
+Cataldo A, Hagura N, Hyder Y, Haggard P  
+bioRxiv (2020)  
+[https://dx.doi.org/10.1101/2020.11.21.391458](https://dx.doi.org/10.1101/2020.11.21.391458)
+
+## 4
+**Spinal motoneurons of the human newborn are highly synchronized during leg movements**  
+Del Vecchio A, Sylos-Labini F, Mondì V, Paolillo P, Ivanenko Y, Lacquaniti F, Farina D  
+Sci Adv (2020)  
+[https://dx.doi.org/10.1126/sciadv.abc3916](https://dx.doi.org/10.1126/sciadv.abc3916)
+
+## 5
+**Overcoming the ceiling effects of experts’ motor expertise through active haptic training**  
+Hirano M, Sakurada M, Furuya S  
+Sci Adv (2020)  
+[https://dx.doi.org/10.1126/sciadv.abd2558](https://dx.doi.org/10.1126/sciadv.abd2558)
+
+## 6
+**Rotational dynamics in motor cortex are consistent with a feedback controller**  
+Kalidindi HT, Cross KP, Lillicrap TP, Omrani M, Falotico E, Sabes PN, Scott SH  
+bioRxiv (2020)  
+[https://dx.doi.org/10.1101/2020.11.17.387043](https://dx.doi.org/10.1101/2020.11.17.387043)
+
+## 7
+**Nanomesh pressure sensor for monitoring finger manipulation without sensory interference**  
+Lee S, Franklin S, Hassani FA, Yokota T, Nayeem MOG, Wang Y, Leib R, Cheng G, Franklin DW, Someya T  
+Science (2020)  
+[https://dx.doi.org/10.1126/science.abc9735](https://dx.doi.org/10.1126/science.abc9735)
+
+## 8
+**Synergic control of a single muscle: The example of flexor digitorum superficialis**  
+Madarshahian S, Letizi J, Latash ML  
+J Physiol (2020)  
+[https://dx.doi.org/10.1113/JP280555](https://dx.doi.org/10.1113/JP280555)
+
+## 9
+**Multiple processes independently predict motor learning**  
+Perry CM, Singh T, Springer KG, Harrison AT, McLain AC, Herter TM  
+J Neuroeng Rehabil (2020)  
+[https://dx.doi.org/10.1186/s12984-020-00766-3](https://dx.doi.org/10.1186/s12984-020-00766-3)
+
+## 10
+**If deep learning is the answer, what is the question?**  
+Saxe A, Nelli S, Summerfield C  
+Nat Rev Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41583-020-00395-8](https://dx.doi.org/10.1038/s41583-020-00395-8)
+
+
+# Superlab Papers
+
+**Structure of population activity in primary motor cortex for single finger flexion and extension**  
+Arbuckle SA, Weiler J, Kirk EA, Rice CL, Schieber M, Pruszynski JA, Ejaz N, Diedrichsen J  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0999-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.0999-20.2020)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Reading List 58"
+date:   2020-03-06 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**The physiological effects of noninvasive brain stimulation fundamentally differ across the human cortex**  
+Castrillon G, Sollmann N, Kurcyus K, Razi A, Krieg SM, Riedl V  
+Sci Adv 6:eaay2739 (2020)  
+[https://dx.doi.org/10.1126/sciadv.aay2739](https://dx.doi.org/10.1126/sciadv.aay2739)
+
+## 2
+**Motor cortical plasticity in response to skill acquisition in adult monkeys**  
+Gupta A, Nashef A, Israely S, Segal M, Harel R, Prut Y  
+bioRxiv:2020.02.27.967562 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.27.967562v1](https://www.biorxiv.org/content/10.1101/2020.02.27.967562v1)
+
+## 3
+**Neural stimulation and recording performance in human somatosensory cortex over 1500 days**  
+Hughes CL, Flesher SN, Weiss JM, Downey JE, Collinger JL, Gaunt RA  
+Neurology (2020)  
+[https://www.medrxiv.org/content/10.1101/2020.01.21.20018341v1.abstract](https://www.medrxiv.org/content/10.1101/2020.01.21.20018341v1.abstract)
+
+## 4
+**A pupil-linked arousal mechanism for deciding to engage in future physical effort**  
+Kurniawan IT, Grueschow M, Ruff CC  
+bioRxiv:2020.02.25.964676 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.25.964676v1](https://www.biorxiv.org/content/10.1101/2020.02.25.964676v1)
+
+## 5
+**Cell-type specific outcome representation in primary motor cortex**  
+Lavzin M, Levy S, Benisty H, Dubin U, Brosh Z, Aeed F, Mensh B, Schiller Y, Meir R, Barak O, Talmon R, Hantman AW, Schiller J  
+bioRxiv:2020.03.03.971077 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.03.971077v1](https://www.biorxiv.org/content/10.1101/2020.03.03.971077v1)
+
+## 6
+**Implicit adaptation compensates for erratic explicit strategy in human motor learning**  
+Miyamoto YR, Wang S, Smith MA  
+Nat Neurosci (2020)  
+[https://doi.org/10.1038/s41593-020-0600-3](https://doi.org/10.1038/s41593-020-0600-3)
+
+Also check out the News & Views piece, by our own sensorimotor superlab postdocs:
+
+Codol O, Ariani G, Michaels JA (2020) Aiming for stable control. Nat Neurosci [https://doi.org/10.1038/s41593-020-0601-2](https://doi.org/10.1038/s41593-020-0601-2)
+
+## 7
+**Differential neural plasticity of individual fingers revealed by fMRI neurofeedback**  
+Oblak EF, Lewis-Peacock JA, Sulzer JS  
+bioRxiv:2020.03.02.973586 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.02.973586v1](https://www.biorxiv.org/content/10.1101/2020.03.02.973586v1)
+
+## 8
+**Recurrent interactions in local cortical circuits**  
+Peron S, Pancholi R, Voelcker B, Wittenbach JD, Freyja Ólafsdóttir H, Freeman J, Svoboda K  
+Nature:1–4 (2020)  
+[http://dx.doi.org/10.1038/s41586-020-2062-x](http://dx.doi.org/10.1038/s41586-020-2062-x)
+
+## 9
+**Single-pulse TMS over the parietal cortex does not impair sensorimotor perturbation-induced changes in motor commands**  
+Savoie F-A, Dallaire-Jean L, Thénault F, Whittingstall K, Bernier P-M  
+eNeuro (2020)  
+[https://dx.doi.org/10.1523/ENEURO.0209-19.2020](https://dx.doi.org/10.1523/ENEURO.0209-19.2020)
+
+## 10
+**A regenerative peripheral nerve interface allows real-time control of an artificial hand in upper limb amputees**  
+Vu PP, Vaskov AK, Irwin ZT, Henning PT, Lueders DR, Laidlaw AT, Davis AJ, Nu CS, Gates DH, Brent Gillespie R, Kemp SWP, Kung TA, Chestek CA, Cederna PS  
+Sci Transl Med 12 (2020)  
+[https://stm.sciencemag.org/content/12/533/eaay2857](https://stm.sciencemag.org/content/12/533/eaay2857)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

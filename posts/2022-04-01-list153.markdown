@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 153"
+date:   2022-04-01 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**The legacy of A. V. Hill’s Nobel Prize winning work on muscle energetics**  
+Barclay CJ, Curtin NA  
+[J Physiol](https://dx.doi.org/10.1113/JP281556)
+
+## 2
+**Interplay of tactile and motor information in constructing spatial self-perception**  
+Cataldo A, Dupin L, Dempsey-Jones H, Gomi H, Haggard P  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.01.047)
+
+## 3
+**Long-term stability of neural activity in the motor system**  
+Jensen KT, Harpaz NK, Dhawale AK, Wolff SBE, Ölveczky BP  
+[bioRxiv:2021.10.27.465945](https://www.biorxiv.org/content/10.1101/2021.10.27.465945v2.abstract?%3Fcollection=)
+
+## 4
+**Posterior parietal cortex predicts upcoming movement in dynamic sensorimotor control**  
+Li Y, Wang Y, Cui H  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2118903119)
+
+## 5
+**A stable hippocampal code in freely flying bats**  
+Liberti WA, Schmid TA, Forli A, Snyder M, Yartsev MM  
+[Nature](https://www.nature.com/articles/s41586-022-04560-0)
+
+## 6
+**Humans trade-off energetic cost with fatigue avoidance while walking**  
+McDonald KA, Cusumano JP, Hieronymi A, Rubenson J  
+[bioRxiv:2022.03.16.484670](https://www.biorxiv.org/content/10.1101/2022.03.16.484670v1)
+
+## 7
+**Motor cortex activity across movement speeds is predicted by network-level strategies for generating muscle activity**  
+Saxena S, Russo AA, Cunningham JP, Churchland MM  
+[bioRxiv:2021.02.01.429168](https://www.biorxiv.org/content/10.1101/2021.02.01.429168v2)
+
+## 8
+**Coupling of single cutaneous afferents in the hand with ankle muscles, and their response to rapid light touch displacements**  
+Toth AL, Fenrich KK, Jones KE, Misiaszek JE  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00280.2021)
+
+## 9
+**The effect of increased cognitive processing on reactive balance control following perturbations to the upper limb**  
+Trotman M, Kennefick M, Coughlin S, van Donkelaar P, Dalton BH  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-022-06326-6)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

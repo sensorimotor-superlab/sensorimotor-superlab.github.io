@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 185"
+date:   2022-11-25 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Predictive coding is a consequence of energy efficiency in recurrent neural networks**  
+Ali A, Ahmad N, de Groot E, van Gerven MAJ, Kietzmann TC  
+[Patterns](https://www.cell.com/article/S2666389922002719/abstract)
+
+## 2
+**Persistence of adaptation following visuomotor training**  
+Ebrahimi S, Ostry DJ  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00164.2022)
+
+## 3
+**Erroneous analyses of interactions in neuroscience: a problem of significance**  
+Nieuwenhuis S, Forstmann BU, Wagenmakers E-J  
+[Nat Neurosci](https://dx.doi.org/10.1038/nn.2886)
+
+## 4
+**Small sensory spinal lesions that affect hand function in monkeys greatly alter primary afferent and motor neuron connections in the cord**  
+Fisher KM, Garner JP, Darian-Smith C  
+[J Comp Neurol](https://dx.doi.org/10.1002/cne.25395)
+
+## 5
+**Prior movement of one arm facilitates motor adaptation in the other**  
+Gippert M, Leupold S, Heed T, Howard IS, Villringer A, Nikulin VV, Sehm B  
+[bioRxiv:2022.11.22.517483](https://www.biorxiv.org/content/10.1101/2022.11.22.517483v1)
+
+## 6
+**Intracortical facilitation and inhibition in human primary motor cortex during motor skill acquisition**  
+Ho K, Cirillo J, Ren A, Byblow WD  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-022-06496-3)
+
+## 7
+**High-density spinal cord stimulation selectively activates lower urinary tract nerves**  
+Jantz MK, Gopinath C, Kumar R, Chin C, Wong L, Ogren JI, Fisher LE, McLaughlin BL, Gaunt RA  
+[J Neural Eng](https://dx.doi.org/10.1088/1741-2552/aca0c2)
+
+## 8
+**Number selective sensorimotor neurons in the crow translate perceived numerosity into number of actions**  
+Kirschhock ME, Nieder A  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-34457-5)
+
+## 9
+**Blind identification of the spinal cord output in humans with high-density electrode arrays implanted in muscles**  
+Muceli S, Poppendieck W, Holobar A, Gandevia S, Liebetanz D, Farina D  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abo5040)
+
+## 10
+**The dissociable effects of reward on sequential motor behavior**  
+Sporn S, Chen X, Galea JM  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00467.2021)
+
+## 11
+**Temporal dynamics of the sensorimotor convergence underlying voluntary limb movement**  
+Umeda T, Isa T, Nishimura Y  
+[PNAS](https://dx.doi.org/10.1073/pnas.2208353119)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

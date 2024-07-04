@@ -1,0 +1,105 @@
+---
+layout: post
+title:  "Reading List 51"
+date:   2020-01-17 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Robust Control in Human Reaching Movements: A Model-Free Strategy to Compensate for Unpredictable Disturbances**  
+Crevecoeur F, Scott SH, Cluff T  
+J Neurosci 39:8135–8148 (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0770-19.2019](https://dx.doi.org/10.1523/JNEUROSCI.0770-19.2019)
+
+Creveceour and colleagues demonstrate that the occurrence of a single mechanical disturbance yields an increase in movement speed and feedback gains on subsequent trials---a control strategy consistent with robust control. An important result a bit hidden (and a bit subtle) is that the control strategy was associated with co-contraction that amplified the gain of feedback responses in both lengthening and shortening muscles (Figure 7)---this point warrants additional investigation both from a conceptual and physiological perspective. —AP
+
+## 2
+**Divisively normalized integration of multisensory error information develops motor memories specific to vision and proprioception**  
+Hayashi T, Kato Y, Nozaki D  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1745-19.2019](https://dx.doi.org/10.1523/JNEUROSCI.1745-19.2019)
+
+## 3
+**A distributional code for value in dopamine-based reinforcement learning**  
+Dabney W, Kurth-Nelson Z, Uchida N, Starkweather CK, Hassabis D, Munos R, Botvinick M  
+Nature (2020)  
+[https://doi.org/10.1038/s41586-019-1924-6](https://doi.org/10.1038/s41586-019-1924-6)
+
+## 4
+**Does the Cerebellum Implement or Select Geometries? A Speculative Note**  
+Habas C, Berthoz A, Flash T, Bennequin D  
+Cerebellum (2020)  
+[https://www.ncbi.nlm.nih.gov/pubmed/31898281](https://www.ncbi.nlm.nih.gov/pubmed/31898281)
+
+In interacting with the environment and learning the sensorimotor contingencies, living systems develop functional geometries that shape their perception and action. Neural correlates of these geometries have been detected in multiple brain regions including the cerebellum and basal ganglia. In this paper, Habas and colleagues revisit the general hypothesis of cerebellum as a geometric machine, involved in selecting task specific geometries that facilitate performance in motor, cognitive, and emotional tasks. —LS
+
+## 5
+**Sea star inspired crawling and bouncing**  
+Heydari S, Johnson A, Ellers O, McHenry MJ, Kanso E  
+J R Soc Interface 17:20190700 (2020)  
+[https://dx.doi.org/10.1098/rsif.2019.0700](https://dx.doi.org/10.1098/rsif.2019.0700)
+
+The sea star is a marine invertebrate without a brain, but with a surprisingly rich and effective set of motor behaviours. Its nervous system is organized into a central ring with radial nerves that innervate hundreds of tiny "tube feet" that extend along the length of its five arms. The authors have developed an impressively detailed biomechanical model of the physics of tube feet and models of neural control. They show that the sea star's primitive nervous system can generate locomotor behaviours such as crawling, bouncing, walking on smooth and rough surfaces, and climbing inclined surfaces, all without changing the neural control laws. It's a modeling tour-de-force and a great illustration of how complex behaviour can emerge from a simple control law paired with a complex physical plant. —PG
+
+Also see [this article](https://viterbischool.usc.edu/news/2020/01/how-does-a-sea-star-bounce/) about the work at the USC Viterbi School of Engineering news site.
+
+## 6
+**Brain-wide mapping of water flow perception in zebrafish**  
+Vanwalleghem GC, Schuster K, Taylor MA, Favre-Bulle IA, Scott EK  
+bioRxiv:2020.01.07.896738 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.07.896738v1](https://www.biorxiv.org/content/10.1101/2020.01.07.896738v1)
+
+## 7
+**Hierarchical organization of the human subcortex unveiled with functional connectivity gradients**  
+Tian Y, Margulies DS, Breakspear M, Zalesky A  
+bioRxiv:2020.01.13.903542 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.13.903542v1](https://www.biorxiv.org/content/10.1101/2020.01.13.903542v1)
+
+Brain parcellations provide an important tool in analysing brain data, but they are most commonly limited to neocortical regions, leading to subcortical regions often excluded from whole brain analyses. Tian and colleagues provide a hierrarchical subcortical atlas, based on the connectopic gradients of connectivity between the subcortical structures and the whole brain. While the mapping was done on resting-state HCP data, they also show that these gradients are modulated during cognitive task demands. —EB
+
+Here is a [link to the code and atlas](https://github.com/yetianmed/subcortex) and to a [tweeprint](https://twitter.com/DrBreaky/status/1206560282488668165?s=20) describing the work.
+
+## 8
+**The 24-h savings of adaptation to novel movement dynamics initially reflects the recall of previous performance**  
+Nguyen KP, Zhou W, McKenna E, Colucci-Chang K, Bray LCJ, Hosseini EA, Alhussein L, Rezazad M, Joiner WM  
+J Neurophysiol 122:933–946 (2019)  
+[https://dx.doi.org/10.1152/jn.00569.2018](https://dx.doi.org/10.1152/jn.00569.2018)
+
+## 9
+**Nearest neighbours reveal fast and slow components of motor learning**  
+Kollmorgen S, Hahnloser RHR, Mante V  
+Nature (2020)  
+[https://dx.doi.org/10.1038/s41586-019-1892-x](https://dx.doi.org/10.1038/s41586-019-1892-x)
+
+## 10
+van Opheusden B, Acerbi L, Ma WJ  
+**Unbiased and Efficient Log-Likelihood Estimation with Inverse Binomial Sampling**  
+arXiv [csLG] (2020)  
+[https://arxiv.org/abs/2001.03985](https://arxiv.org/abs/2001.03985)
+
+You have a computational model that includes stochastic elements, and you want to compare its predictions to empirical data, so what do you do? You proabably do what I do, which is generate a large number of simulations to produce a distribution, and characterize said distribution with summary statistics. Turns out in some cases this may introduce biases. It can also be  inefficient, if the model simulation is computationally intensive. van Opheusden, Acerbi, and Ma describe a clever technique that involves generating simulations until one matches the empirical observation. The log-likelihood estimate of the data under the model is then a function of the number of samples drawn. They provide sample code in a GitHub repository. —PG
+
+Also see the [tweeprint](https://twitter.com/acerbiluigi/status/1216948951959658497?s=21) and [code on GitHub](https://github.com/lacerbi/ibs).
+
+
+# Contributors
+- Andrew Pruszynski ([@andpru](https://twitter.com/andpru))
+- Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
+- Ladan Shahshahani ([@ladanshahani](https://twitter.com/@ladanshahani))
+- Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

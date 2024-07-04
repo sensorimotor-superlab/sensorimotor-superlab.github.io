@@ -1,0 +1,76 @@
+---
+layout: post
+title:  "Reading List 238"
+date:   2024-03-29 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+This week we continue our new feature (see below): the Sensorimotor Superlab **Journal Club**. In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Task-driven neural network models predict neural dynamics of proprioception**  
+Vargas AM, Bisi A, Chiappa A, Versteeg C, Miller L, Mathis A  
+[bioRxiv:2023.06.15.545147](https://www.biorxiv.org/content/10.1101/2023.06.15.545147v1)
+
+## 2
+**Changes in speech production following perceptual training with orofacial somatosensory inputs**  
+Ashokumar M, Schwartz J-L, Ito T  
+[J Speech Lang Hear Res](https://pubs.asha.org/doi/abs/10.1044/2023_JSLHR-23-00249)
+
+## 3
+**Motor unit modes in the calf muscles during a submaximal isometric contraction are changed by brief stretches**  
+Weinman LE, Del Vecchio A, Mazzo MR, Enoka RM  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP285437)
+
+## 4
+**Learning leaves a memory trace in motor cortex**  
+Losey DM, Hennig JA, Oby ER, Golub MD, Sadtler PT, Quick KM, Ryu SI, Tyler-Kabara EC, Batista AP, Yu BM, Chase SM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2024.03.003)
+
+## 5
+**Attentional modulation of secondary somatosensory and visual thalamus of mice**  
+Petty GH, Bruno RM  
+[bioRxiv:2024.03.22.586242](https://www.biorxiv.org/content/10.1101/2024.03.22.586242v1.abstract)
+
+## 6
+**Pathways for naturalistic looking behavior in primate II. Superior colliculus integrates parallel top-down and bottom-up inputs**  
+Veale R, Takahashi M  
+[Neuroscience 545:86–110](https://dx.doi.org/10.1016/j.neuroscience.2024.03.001)
+
+## 7
+**Formation of memory assemblies through the DNA-sensing TLR9 pathway**  
+Jovasevic V, Wood EM, Cicvaric A, Zhang H, Petrovic Z, Carboncino A, Parker KK, Bassett TE, Moltesen M, Yamawaki N, Login H, Kalucka J, Sananbenesi F, Zhang X, Fischer A, Radulovic J  
+[Nature](https://www.nature.com/articles/s41586-024-07220-7)
+
+## 8
+**Topographical and cell type-specific connectivity of rostral and caudal forelimb corticospinal neuron populations**  
+Carmona LM, Thomas ED, Smith K, Tasic B, Costa RM, Nelson A  
+[Cell Rep 43:113993](https://www.cell.com/article/S2211124724003218/abstract)
+
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we discussed the following paper by Mostafa Safaie, Joanna Chang, Junchol Park, Lee Miller, Joshua Dudman, Matthew Perich, and Juan Gallego. [Juan Gallego](https://www.imperial.ac.uk/people/juan-alvaro.gallego) and [Joanna Chang](http://joannachang.com) joined us via Zoom to present the paper and answer questions:
+
+**Preserved neural population dynamics across animals performing similar behaviour**  
+Safaie M, Chang JC, Park J, Miller LE, Dudman JT, Perich MG, Gallego JA  
+[bioRxiv:2022.09.26.509498](https://www.biorxiv.org/content/10.1101/2022.09.26.509498v1)
+
+Video: [https://youtu.be/AwoCJnKoIsc](https://youtu.be/AwoCJnKoIsc)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 

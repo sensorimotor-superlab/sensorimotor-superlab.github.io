@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 77"
+date:   2020-07-17 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**A size principle for recruitment of Drosophila leg motor neurons**  
+Azevedo AW, Dickinson ES, Gurung P, Venkatasubramanian L, Mann RS, Tuthill JC  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.56754](https://dx.doi.org/10.7554/eLife.56754)
+
+## 2
+**The functional relevance of task-state functional connectivity**  
+Cole MW, Ito T, Cocuzza C, Sanchez-Romero R  
+bioRxiv:2020.07.06.187245 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1](https://www.biorxiv.org/content/10.1101/2020.07.06.187245v1)
+
+## 3
+**Intrinsic network architecture predicts the effects elicited by intracranial electrical stimulation of the human brain**  
+Fox KCR, Shi L, Baek S, Raccah O, Foster BL, Saha S, Margulies DS, Kucyi A, Parvizi J  
+Nat Hum Behav (2020)  
+[https://dx.doi.org/10.1038/s41562-020-0910-1](https://dx.doi.org/10.1038/s41562-020-0910-1)
+
+## 4
+**Errors in Predicting Muscle Fiber Lengths from Joint Kinematics Point to the Need to Include Tendon Tension in Computational Neuromuscular Models**  
+Hagen DA, Valero-Cuevas FJ  
+bioRxiv:2020.07.08.194381 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.08.194381v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.08.194381v1.abstract?%3Fcollection=)
+
+## 5
+**Effects of aging on rapid grip force responses during bimanual manipulation of an active object**  
+Hibino H, Gorniak SL  
+Exp Brain Res (2020)  
+[https://dx.doi.org/10.1007/s00221-020-05865-0](https://dx.doi.org/10.1007/s00221-020-05865-0)
+
+## 6
+**Adaptation of reach action to a novel force-field is not predicted by acuity of dynamic proprioception in either older or younger adults**  
+Kitchen NM, Chris Miall R  
+bioRxiv:2020.07.13.200733 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.13.200733v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.13.200733v1.abstract?%3Fcollection=)
+
+## 7
+**Antagonistic Co-contraction Can Minimise Muscular Effort in Systems with Uncertainty**  
+Koelewijn AD, van den Bogert AJ  
+bioRxiv:2020.07.07.191197 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.07.191197v1](https://www.biorxiv.org/content/10.1101/2020.07.07.191197v1)
+
+## 8
+**Differential effects of motor skill acquisition on the primary motor and sensory cortices in healthy humans**  
+Paparella G, Rocchi L, Bologna M, Berardelli A, Rothwell J  
+J Physiol (2020)  
+[https://dx.doi.org/10.1113/JP279966](https://dx.doi.org/10.1113/JP279966)
+
+## 9
+**Generative embeddings of brain collective dynamics using variational autoencoders**  
+Perl YS, Boccacio H, Pérez-Ipiña I, Zamberlán F, Laufs H, Kringelbach M, Deco G, Tagliazucchi E  
+arXiv [q-bioNC] (2020)  
+[https://arxiv.org/abs/2007.01378](https://arxiv.org/abs/2007.01378)
+
+## 10
+**Mesoscale brain dynamics reorganizes and stabilizes during learning**  
+Sych Y, Fomins A, Novelli L, Helmchen F  
+bioRxiv:2020.07.08.193334 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.08.193334v1](https://www.biorxiv.org/content/10.1101/2020.07.08.193334v1)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

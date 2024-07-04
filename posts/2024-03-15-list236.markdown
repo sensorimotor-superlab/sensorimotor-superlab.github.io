@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 236"
+date:   2024-03-15 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**The direction of theta and alpha travelling waves modulates human memory processing**  
+Mohan UR, Zhang H, Ermentrout B, Jacobs J  
+[Nature Human Behaviour](https://www.nature.com/articles/s41562-024-01838-3)
+
+## 2
+**Modulation of somatosensory signal transmission in the primate cuneate nucleus during voluntary hand movement**  
+Kubota S, Sasaki C, Kikuta S, Ito S, Gomi H, Oya T, Seki K  
+[bioRxiv:2023.05.09.540100](https://www.biorxiv.org/content/10.1101/2023.05.09.540100v1)
+
+## 3
+**Mechanosensory encoding of forces in walking uphill and downhill: force feedback can stabilize leg movements in stick insects**  
+Zill SN, Dallmann CJ, Zyhowski WP, Chaudhry H, Gebehart C, Szczecinski NS  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00414.2023)
+
+## 4
+**The past, present, and future of the brain imaging data structure (BIDS)**  
+Poldrack RA et al.  
+[Imaging Neuroscience](https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag_a_00103/2345950/imag_a_00103.pdf)
+
+## 5
+**Interpretable statistical representations of neural population dynamics and geometry**  
+Gosztolai A, Peach RL, Arnaudon A, Barahona M, Vandergheynst P  
+[arXiv [csLG]](https://arxiv.org/abs/2304.03376)
+
+## 6
+**Heavy-tailed neuronal connectivity arises from Hebbian self-organization**  
+Lynn CW, Holmes CM, Palmer SE  
+[Nature Physics 20:484–491](https://www.nature.com/articles/s41567-023-02332-9)
+
+## 7
+**Niimath and fslmaths: Replication as a method to enhance popular neuroimaging tools**  
+Rorden C, Webster M, Drake C, Jenkinson M, Clayden JD, Li N, Hanayik T  
+[Aperture Neuro 4](https://apertureneuro.org/article/94384-niimath-and-fslmaths-replication-as-a-method-to-enhance-popular-neuroimaging-tools)
+
+## 8
+**Earlier finish of motor planning in the premotor cortex predicts faster motor command in the primary motor cortex: human intracranial EEG evidence**  
+Xia J, Gong D, Han B, Guo Q, Fink GR, Daun S, Chen Q  
+[bioRxiv:2024.03.05.583627](https://www.biorxiv.org/content/10.1101/2024.03.05.583627v1.abstract)
+
+## 9
+**Dynamic similarity and the peculiar allometry of maximum running speed**  
+Labonte D, Bishop PJ, Dick TJM, Clemente CJ  
+[Nature Communications](https://www.nature.com/articles/s41467-024-46269-w)
+
+## 10
+**The neuroscientist formerly known as Prince’s audio engineer**  
+Gulland A  
+[Nature](https://dx.doi.org/10.1038/d41586-024-00791-5)
+
+## 11
+**Active filtering of sequences of neural activity by recurrent circuits of sensory cortex**  
+Deveau CE, Zhou Z, LaFosse PK, Deng Y, Mirbagheri S, Steinmetz N, Histed MH  
+[bioRxiv:2024.02.24.581890](https://www.biorxiv.org/content/10.1101/2024.02.24.581890v1.abstract)
+
+## 12
+**Corticospinal excitability reductions during action preparation and action stopping in humans: Different sides of the same inhibitory coin?**  
+Bundt C, Huster RJ  
+[Neuropsychologia 195:108799](https://dx.doi.org/10.1016/j.neuropsychologia.2024.108799)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 

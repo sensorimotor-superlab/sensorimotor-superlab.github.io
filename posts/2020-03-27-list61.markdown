@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Reading List 61"
+date:   2020-03-27 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Gain control in the sensorimotor system**  
+Azim E, Seki K  
+Curr Opin Physiol 8:177–187 (2020)  
+[https://dx.doi.org/10.1016/j.cophys.2019.03.005](https://dx.doi.org/10.1016/j.cophys.2019.03.005)
+
+## 2
+**Spatial integration during active tactile sensation drives elementary shape perception**  
+Brown J, Oldenburg IA, Telian GI, Griffin S, Voges M, Jain V, Adesnik H  
+bioRxiv:2020.03.16.994145 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.16.994145v1](https://www.biorxiv.org/content/10.1101/2020.03.16.994145v1)
+
+## 3
+**Walking Drosophila navigate complex plumes using stochastic decisions biased by the timing of odor encounters**  
+Demir M, Kadakia N, Anderson HD, Clark DA, Emonet T  
+bioRxiv:2020.03.23.004218 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.23.004218v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.23.004218v1.abstract?%3Fcollection=)
+
+## 4
+**Embodied virtual reality for the study of real-world motor learning**  
+Haar S, Sundar G, Faisal AA  
+bioRxiv:2020.03.19.998476 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.19.998476v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.19.998476v1.abstract?%3Fcollection=)
+
+## 5
+**Visuomotor associations facilitate movement preparation**  
+Huberdeau D, Turk-Browne N  
+PsyArXiv 10.31234/osf.io/b5k92 (2020)  
+[https://psyarxiv.com/b5k92](https://psyarxiv.com/b5k92)
+
+## 6
+**Reaching decisions during ongoing movements**  
+Michalski J, Green AM, Cisek P  
+J Neurophysiol 123:1090–1102 (2020)  
+[https://dx.doi.org/10.1152/jn.00613.2019](https://dx.doi.org/10.1152/jn.00613.2019)
+
+## 7
+**Fundamental bounds on the fidelity of sensory cortical coding**  
+Rumyantsev OI, Lecoq JA, Hernandez O, Zhang Y, Savall J, Chrapkiewicz R, Li J, Zeng H, Ganguli S, Schnitzer MJ  
+Nature (2020)  
+[https://doi.org/10.1038/s41586-020-2130-2](https://doi.org/10.1038/s41586-020-2130-2)
+
+## 8
+**Cortico-motor control dynamics orchestrates visual sampling**  
+Tomassini A, Maris E, Hilt P, Fadiga L, D’Ausilio A  
+bioRxiv:2020.03.23.003228 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.23.003228v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.23.003228v1.abstract?%3Fcollection=)
+
+## 9
+**Regenerated Interneurons Integrate Into Locomotor Circuitry Following Spinal Cord Injury**  
+Vasudevan D, Liu Y-C, Barrios JP, Wheeler MK, Douglass AD, Dorsky RI  
+bioRxiv:2020.03.23.003806 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.23.003806v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.23.003806v1.abstract?%3Fcollection=)
+
+## 10
+**Hand Knob Area of Premotor Cortex Represents the Whole Body in a Compositional Way**  
+Willett FR, Deo DR, Avansino DT, Rezaii P, Hochberg LR, Henderson JM, Shenoy KV  
+Cell (2020)  
+[https://www.cell.com/article/S0092867420302208/abstract](https://www.cell.com/article/S0092867420302208/abstract)
+
+
+# Superlab Papers
+
+**Explicit feedback and instruction do not change shoulder muscle activity reduction after shoulder fixation**  
+Maeda RS, Zdybal JM, Gribble PL, Andrew Pruszynski J  
+bioRxiv:2020.03.25.008466 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.25.008466v1](https://www.biorxiv.org/content/10.1101/2020.03.25.008466v1)
+
+Also see the [tweeprint](https://twitter.com/rodrigo_maeda/status/1243305281926430721).
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

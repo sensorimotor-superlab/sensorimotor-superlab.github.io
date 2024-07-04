@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 242"
+date:   2024-04-26 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Posture-dependent modulation of marmoset cortical motor maps detected via rapid multichannel epidural stimulation**  
+Takemi M, Tia B, Kosugi A, Castagnola E, Ansaldo A, Ricci D, Fadiga L, Ushiba J, Iriki A  
+[bioRxiv:2024.01.23.576825](https://www.biorxiv.org/content/10.1101/2024.01.23.576825v1.abstract)
+
+## 2
+**A role for the cerebellum in motor-triggered alleviation of anxiety**  
+Zhang X-Y, Wu W-X, Shen L-P, Ji M-J, Zhao P-F, Yu L, Yin J, Xie S-T, Xie Y-Y, Zhang Y-X, Li H-Z, Zhang Q-P, Yan C, Wang F, De Zeeuw CI, Wang J-J, Zhu J-N  
+[Neuron 112:1165-1181.e8](https://pubmed.ncbi.nlm.nih.gov/38301648/)
+
+## 3
+**Diversity of the nature of input and output signals in the cerebellum suggests a diversity of function**  
+Orban de Xivry J-J, Diedrichsen J  
+[Curr Opin Behav Sci 57:101386](https://dx.doi.org/10.1016/j.cobeha.2024.101386)
+
+## 4
+**Targeting a specific motor control process reveals an age-related compensation that adapts movement to gravity environment**  
+Mathieu R, Chambellant F, Thomas E, Papaxanthis C, Hilt P, Manckoundia P, Mourey F, Gaveau J  
+[bioRxiv:2024.02.16.576683](https://www.biorxiv.org/content/10.1101/2024.02.16.576683v2.abstract)
+
+## 5
+**No observation of DIANA signals in rats at 7.0 and 17.2 Tesla**  
+Cloos MA, Selingue E, Hodono S, Gaudin R, Ciobanu L  
+[Imaging Neuroscience 2:1–12](https://doi.org/10.1162/imag_a_00136)
+
+## 6
+**Does bumblebee preference of continuous over interrupted strings in string-pulling tasks indicate means-end comprehension?**  
+Wen C, Lu Y, Solvi C, Wang C, Wen X, Dong S, Wen J, Peng F, Chittka L  
+[bioRxiv:2024.04.02.587731](https://www.biorxiv.org/content/10.1101/2024.04.02.587731v1.abstract)
+
+## 7
+**A theory of brain-computer interface learning via low-dimensional control**  
+Menéndez JA, Hennig JA, Golub MD, Oby ER, Sadtler PT, Batista AP, Chase SM, Yu BM, Latham PE  
+[bioRxiv:2024.04.18.589952](https://www.biorxiv.org/content/10.1101/2024.04.18.589952v1.abstract)
+
+## 8
+**Sensorimotor delays constrain robust locomotion in a 3D kinematic model of fly walking**  
+Karashchuk L, Li JS, Chou GM, Walling-Bell S, Brunton SL, Tuthill JC, Brunton BW  
+[bioRxiv:2024.04.18.589965](https://www.biorxiv.org/content/10.1101/2024.04.18.589965v1.abstract)
+
+## 9
+**Prediction error in implicit adaptation during visually- and memory-guided reaching tasks**  
+Numasawa K, Miyamoto T, Kizuka T, Ono S  
+[Sci Rep 14:1–11](https://www.nature.com/articles/s41598-024-59169-2)
+
+## 10
+**The hippocampus pre-orders movements for skilled action sequences**  
+Yewbrey R, Kornysheva K  
+[bioRxiv:2024.04.24.590889](https://www.biorxiv.org/content/10.1101/2024.04.24.590889v1.abstract)
+
+
+## Superlab Papers  
+
+**Neural correlates of online action preparation**  
+Shahbazi M, Ariani G, Kashefi M, Pruszynski JA, Diedrichsen J  
+[J Neurosci:e1880232024](https://www.jneurosci.org/content/early/2024/04/18/JNEUROSCI.1880-23.2024.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

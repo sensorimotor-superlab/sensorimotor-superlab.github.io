@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 216"
+date:   2023-10-13 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Activity in primate visual cortex is minimally driven by spontaneous movements**  
+Talluri BC, Kang I, Lazere A, Quinn KR, Kaliss N, Yates JL, Butts DA, Nienborg H  
+[bioRxiv:2022.09.08.507006](https://www.biorxiv.org/content/10.1101/2022.09.08.507006v1)
+
+## 2
+**Sensory and motor representations of internalized rhythms in the cerebellum and basal ganglia**  
+Kameda M, Niikawa K, Uematsu A, Tanaka M  
+[Proc Natl Acad Sci USA 120:e2221641120](https://www.pnas.org/doi/abs/10.1073/pnas.2221641120)
+
+## 3
+**What makes us human? Detailed cellular maps of the entire human brain reveal clues**  
+Ngai J  
+[Allen Institute](https://alleninstitute.org/news/what-makes-us-human-detailed-cellular-maps-of-the-entire-human-brain-reveal-clues/)
+
+## 4
+**Perceptual formant discrimination during speech movement planning**  
+Wang H, Ali Y, Max L  
+[bioRxiv:2023.10.11.561423](https://www.biorxiv.org/content/10.1101/2023.10.11.561423v1.abstract)
+
+## 5
+**Temporal interference stimulation disrupts spike timing in the primate brain**  
+Vieira PG, Krause MR, Pack CC  
+[bioRxiv:2023.09.25.559340](https://www.biorxiv.org/content/10.1101/2023.09.25.559340v1.abstract)
+
+## 6
+**Cerebellar interneuron activity is triggered by reach endpoint during learning of a complex locomotor task**  
+Andrianarivelo A, Stein H, Gabillet J, Batifol C, Jalil A, Cayco Gajic NA, Graupner M  
+[bioRxiv:2023.10.10.561690](https://www.biorxiv.org/content/10.1101/2023.10.10.561690v1.abstract)
+
+## 7
+**Abstract perceptual choice signals during action-linked decisions in the human brain**  
+Sandhaeger F, Omejc N, Pape A-A, Siegel M  
+[PLoS Biol 21:e3002324](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002324)
+
+## 8
+**Domestic cat larynges can produce purring frequencies without neural input**  
+Herbst CT, Prigge T, Garcia M, Hampala V, Hofer R, Weissengruber GE, Svec JG, Fitch WT  
+[Curr Biol](https://www.cell.com/article/S0960982223012307/abstract)
+
+## 9
+**Activity map of a cortico-cerebellar loop underlying motor planning**  
+Zhu J, Hasanbegović H, Liu LD, Gao Z, Li N  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01453-x)
+
+## 10
+**Reconstructing Computational Dynamics from Neural Measurements with Recurrent Neural Networks**  
+Durstewitz D, Koppe G, Thurm MI  
+[bioRxiv:2022.10.31.514408](https://www.biorxiv.org/content/10.1101/2022.10.31.514408v1)
+
+## 11
+**Attractor dynamics reflect decision confidence in macaque prefrontal cortex**  
+Wang S, Falcone R, Richmond B, Averbeck BB  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01445-x)
+
+## 12
+**Hierarchy in influence but not firing patterns among forelimb motor cortices**  
+Saiki-Ishikawa A, Agrios M, Savya S, Forrest A, Sroussi H, Hsu S, Basrai D, Xu F, Miri A  
+[bioRxiv:2023.09.23.559136](https://www.biorxiv.org/content/10.1101/2023.09.23.559136v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

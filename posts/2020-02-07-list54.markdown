@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 54"
+date:   2020-02-07 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Motor Learning Promotes Remyelination via New and Surviving Oligodendrocytes**  
+Bacmeister CM, Barr HJ, McClain CR, Thornton MA, Nettles D, Welle CG, Hughes EG  
+bioRxiv:2020.01.28.923656 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.28.923656v1](https://www.biorxiv.org/content/10.1101/2020.01.28.923656v1)
+
+## 2
+**Skill-specific changes in cortical preparatory activity during motor learning**  
+Sun X, O’Shea DJ, Golub MD, Trautmann EM, Vyas S, Ryu SI, Shenoy KV  
+bioRxiv:2020.01.30.919894 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.30.919894v1](https://www.biorxiv.org/content/10.1101/2020.01.30.919894v1)
+
+Also see the [tweeprint](https://twitter.com/xulunasun/status/1223646200257101824?s=21
+).
+
+## 3
+**Direct electrical stimulation of the premotor cortex shuts down awareness of voluntary actions**  
+Fornia L, Puglisi G, Leonetti A, Bello L, Berti A, Cerri G, Garbarini F  
+Nat Commun 11:705 (2020)  
+[https://dx.doi.org/10.1038/s41467-020-14517-4](https://dx.doi.org/10.1038/s41467-020-14517-4)
+
+## 4
+**Optimal anticipatory control as a theory of motor preparation: a thalamo-cortical circuit model**  
+Kao T-C, Sadabadi MS, Hennequin G  
+bioRxiv:2020.02.02.931246 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.02.931246v3](https://www.biorxiv.org/content/10.1101/2020.02.02.931246v3)
+
+## 5
+**Representational neural mapping of dexterous grasping before lifting in humans**  
+Marneweck M, Grafton ST  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2791-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.2791-19.2020)
+
+## 6
+**Neural Correlates of Reinforcement Learning in Mid-lateral Cerebellum**  
+Sendhilnathan N, Ipata AE, Goldberg ME  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2019.12.032](https://dx.doi.org/10.1016/j.neuron.2019.12.032)
+
+## 7
+**Changes in motoneuron excitability during voluntary muscle activity in humans with spinal cord injury**  
+Vastano R, Perez MA  
+J Neurophysiol 123:454–461 (2020)  
+[https://dx.doi.org/10.1152/jn.00367.2019](https://dx.doi.org/10.1152/jn.00367.2019)
+
+## 8
+**Electro-Haptic Enhancement of Spatial Hearing in Cochlear Implant Users**  
+Fletcher MD, Cunningham RO, Mills SR  
+Sci Rep 10:1621 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-58503-8](https://dx.doi.org/10.1038/s41598-020-58503-8)
+
+## 9
+**Gradients in the mammalian cerebellar cortex enable Fourier-like transformation and improve storing capacity**  
+Straub I, Witter L, Eshra A, Hoidis M, Byczkowicz N, Maas S, Delvendahl I, Dorgans K, Savier E, Bechmann I, Krueger M, Isope P, Hallermann S  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.51771](https://dx.doi.org/10.7554/eLife.51771)
+
+Also see the [eLife highlight article](https://t.co/r1i7LHnCBd).
+
+## 10
+**OpenMonkeyStudio: Automated Markerless Pose Estimation in Freely Moving Macaques**  
+Bala PC, Eisenreich BR, Yoo SBM, Hayden BY, Park HS, Zimmermann J  
+bioRxiv:2020.01.31.928861 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1](https://www.biorxiv.org/content/10.1101/2020.01.31.928861v1)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

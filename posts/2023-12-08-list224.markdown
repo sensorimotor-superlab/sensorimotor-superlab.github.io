@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "Reading List 224"
+date:   2023-12-08 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Also this week we begin a new feature (see below): the Sensorimotor Superlab **Journal Club**. We will discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We will post a video of the meeting on YouTube, and we will post a link to the video here. We hope that you will find this interesting and useful.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**The neural control of movement: a century of in vivo motor unit recordings is the legacy of Adrian and Bronk**  
+Farina D, Gandevia S  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP285319)
+
+## 2
+**No one knows what attention is**  
+Hommel B, Chapman CS, Cisek P, Neyedli HF, Song J-H, Welsh TN  
+[Atten Percept Psychophys 81:2288–2303](https://link.springer.com/article/10.3758/s13414-019-01846-w)
+
+## 3
+**Rapid, concerted switching of the neural code in inferotemporal cortex**  
+Shi Y, Bi D, Hesse JK, Lanfranchi FF, Chen S, Tsao DY  
+[bioRxiv:2023.12.06.570341](https://www.biorxiv.org/content/10.1101/2023.12.06.570341v1.abstract)
+
+## 4
+Podcast: **FORCE learning and finding an out with David Sussillo**  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/synaptic/force-learning-and-finding-an-out-with-david-sussillo/)
+
+## 5
+**Supraspinal control of motoneurons after paralysis enabled by spinal cord stimulation**  
+Balaguer J-M et al.  
+[bioRxiv:2023.11.29.23298779](https://www.medrxiv.org/content/10.1101/2023.11.29.23298779v1.abstract)
+
+## 6
+**Continuous estimation of reaching space in superficial layers of the motor cortex**  
+Galinanes GL, Huber D  
+[bioRxiv:2023.12.01.569527](https://www.biorxiv.org/content/10.1101/2023.12.01.569527v1.abstract)
+
+## 7
+**NeuroMotion: Open-source simulator with neuromechanical and deep network models to generate surface EMG signals during voluntary movement**  
+Ma S, Guerra IM, Caillet AH, Zhao J, Clarke AK, Maksymenko K, Deslauriers-Gauthier S, Sheng X, Zhu X, Farina D  
+[bioRxiv:2023.10.05.560588](https://www.biorxiv.org/content/10.1101/2023.10.05.560588v1.abstract)
+
+## 8
+**Should one go for individual- or group-level brain parcellations? A deep-phenotyping benchmark**  
+Thirion B, Aggarwal H, Ponce AF, Thual A  
+[Brain Structure and Function](https://link.springer.com/article/10.1007/s00429-023-02723-x)
+
+## 9
+**Adaptive stretching of representations across brain regions and deep learning model layers**  
+Zhang X-Y, Bobadilla-Suarez S, Luo X, Lemonari M, Brincat SL, Siegel M, Miller EK, Love BC  
+[bioRxiv:2023.12.01.569615](https://www.biorxiv.org/content/10.1101/2023.12.01.569615v1.abstract)
+
+## 10
+**PIEZO2‐dependent rapid pain system in humans and mice**  
+Bouchatta O et al.  
+[bioRxiv:2023.12.01.569650](https://www.biorxiv.org/content/10.1101/2023.12.01.569650v1.abstract)
+
+## 11
+**The microstructure of intra- and interpersonal coordination**  
+Nazzaro G, Emanuele M, Laroche J, Esposto C, Fadiga L, D’Ausilio A, Tomassini A  
+[Proc Biol Sci 290:20231576](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1576)
+
+
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting, we discussed the following paper by Najja Marshall and colleagues. [Mark Churchland](https://churchland.zuckermaninstitute.columbia.edu/people/mark-m-churchland) joined us via Zoom to present the paper and answer questions:
+
+**Flexible neural control of motor units**  
+Marshall NJ, Glaser JI, Trautmann EM, Amematsro EA, Perkins SM, Shadlen MN, Abbott LF, Cunningham JP, Churchland MM  
+[Nat Neurosci 25:1492–1504 (2022)](https://www.nature.com/articles/s41593-022-01165-8)
+
+Video: [(YouTube)](https://youtu.be/ZtFP6CSSUQ0?si=tXXd64xahHr4-TOy)
+
+
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

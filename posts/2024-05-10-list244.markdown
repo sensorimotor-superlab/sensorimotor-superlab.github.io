@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Reading List 244"
+date:   2024-05-10 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our new feature (see below): the Sensorimotor Superlab **Journal Club**. In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.
+
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**The convergence of monosynaptic excitatory afferents on to many different species of alpha motoneurones**  
+Eccles JC, Eccles RM, Lundberg A  
+[J Physiol 137:22–50](https://dx.doi.org/10.1113/jphysiol.1957.sp005794)
+
+## 2
+**Slow touch and ultrafast pain fibres: Revisiting peripheral nerve classification**  
+Olausson H, Marshall A, Nagi SS, Cole J  
+[Clin Neurophysiol](https://dx.doi.org/10.1016/j.clinph.2024.04.008)
+
+## 3
+**Protection of savings by reducing the salience of opposing errors**  
+Javidialsaadi M, Albert ST, Moufarrej S Al Mutairi B, Wang J  
+[bioRxiv:2024.05.03.592370](https://www.biorxiv.org/content/10.1101/2024.05.03.592370v1.abstract)
+
+## 4
+**Chord skill: learning optimized hand postures and bimanual coordination**  
+Verwey WB  
+[Exp Brain Res 241:1643–1659](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10224868/)
+
+## 5
+**The coming decade of digital brain research: A vision for neuroscience at the intersection of technology and computing**  
+Amunts K et al.  
+[Imaging Neuroscience 2:1–35](https://doi.org/10.1162/imag_a_00137)
+
+## 6
+**Hippocampal ripples mediate motor learning during brief rest breaks in humans**  
+Sjøgård M, Baxter B, Mylonas D, Driscoll B, Kwok K, Tolosa A, Thompson M, Stickgold R, Vangel M, Chu CJ, Manoach DS  
+[bioRxiv:2024.05.02.592200](https://www.biorxiv.org/content/10.1101/2024.05.02.592200v1.abstract)
+
+## 7
+**Distinct anatomical and functional corticospinal inputs innervate different spinal neuron types**  
+Fageiry S, Warriner CL, Loper J, Pianski L, Reardon T, Jessell TM, Costa RM, Miri A  
+[bioRxiv:2024.04.29.591683](https://www.biorxiv.org/content/10.1101/2024.04.29.591683v1.abstract)
+
+## 8
+**Dimensionality reduction beyond neural subspaces with slice tensor component analysis**  
+Pellegrino A, Stein H, Cayco-Gajic NA  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01626-2)
+
+## 9
+**Biases in hand perception are driven by somatosensory computations, not a distorted hand model**  
+Peviani VC, Miller LE, Medendorp WP  
+[Curr Biol](https://www.cell.com/article/S0960982224004500/abstract)
+
+## 10
+**Tactile edges and motion via patterned microstimulation of the human cortex**  
+Valle G, Alamari AH, Lienkamper R, Downey JE, Sobinov AR, Endsley LJ, Prasad D, Boninger ML, Collinger JL, Warnke PW, Hatsopoulos NG, Miller LE, Gaunt RA, Greenspon CM, Bensmaia SJ  
+[bioRxiv:2024.05.06.24306627](https://www.medrxiv.org/content/10.1101/2024.05.06.24306627v1.abstract)
+
+## 11
+**Mixed selectivity: Cellular computations for complexity**  
+Tye KM, Miller EK, Taschbach FH, Benna MK, Rigotti M, Fusi S  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2024.04.017)
+
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed Francesco Torricelli (Univ Ferrara) to discuss his recent review examining motor invariances in action execution:
+
+**Motor invariants in action execution and perception**  
+Torricelli F, Tomassini A, Pezzulo G, Pozzo T, Fadiga L, D'Ausilio A  
+[Physics of Life Reviews 44:13-47](https://doi.org/10.1016/j.plrev.2022.11.003)
+
+Video: [https://youtu.be/HUWushwxsJY](https://youtu.be/HUWushwxsJY)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

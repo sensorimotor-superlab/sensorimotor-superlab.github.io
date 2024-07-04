@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 123"
+date:   2021-07-23 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**A unified energy-optimality criterion predicts human navigation paths and speeds**  
+Brown GL, Seethapathi N, Srinivasan M  
+PNAS 118 (2021)  
+[https://dx.doi.org/10.1073/pnas.2020327118](https://dx.doi.org/10.1073/pnas.2020327118)
+
+## 2
+**Measuring fingerpad deformation during active object manipulation**  
+Delhaye BP, Schiltz F, Barrea A, Thonnard J-L, Lefevre P  
+bioRxiv:2021.07.20.453037  
+[https://www.biorxiv.org/content/10.1101/2021.07.20.453037v1](https://www.biorxiv.org/content/10.1101/2021.07.20.453037v1)
+
+## 3
+**No consolidation without representation: Correspondence between neural and psychological representations in recent and remote memory**  
+Gilboa A, Moscovitch M  
+Neuron (2021)  
+[https://dx.doi.org/10.1016/j.neuron.2021.04.025](https://dx.doi.org/10.1016/j.neuron.2021.04.025)
+
+## 4
+**Sensorimotor knowledge from task-irrelevant feedback contributes to motor learning**  
+Jiang W, Liu Y, Bi Y, Wei K  
+J Neurophysiol (2021)  
+[https://dx.doi.org/10.1152/jn.00174.2021](https://dx.doi.org/10.1152/jn.00174.2021)
+
+## 5
+**Neural representations of space in the hippocampus of a food-caching bird**  
+Payne HL, Lynch GF, Aronov D  
+Science 373:343–348 (2021)  
+[https://science.sciencemag.org/content/373/6552/343](https://science.sciencemag.org/content/373/6552/343)
+
+## 6
+**Large-scale all-optical dissection of motor cortex connectivity reveals a segregated functional organization of mouse forelimb representations**  
+Resta F, Montagni E, de Vito G, Scaglione A, Mascaro ALA, Pavone FS  
+bioRxiv:2021.07.15.452461  
+[https://www.biorxiv.org/content/10.1101/2021.07.15.452461v1](https://www.biorxiv.org/content/10.1101/2021.07.15.452461v1)
+
+## 7
+**Sensorimotor strategies and neuronal representations for shape discrimination**  
+Rodgers CC, Nogueira R, Pil BC, Greeman EA, Park JM, Hong YK, Fusi S, Bruno RM  
+Neuron (2021)  
+[https://dx.doi.org/10.1016/j.neuron.2021.05.019](https://dx.doi.org/10.1016/j.neuron.2021.05.019)
+
+## 8
+**Dopamine firing plays a double role in coding reward prediction errors and signaling motivation in a working memory task**  
+Sarno S, Beiran M, Falco-Roget J, Diaz-deLeon G, Rossi-Pool R, Romo R, Parga N  
+bioRxiv:2020.05.01.071977  
+[https://www.biorxiv.org/content/10.1101/2020.05.01.071977v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.01.071977v2.abstract?%3Fcollection=)
+
+## 9
+**Fast Grip Force Adaptation To Friction Relies On Localized Fingerpad Strains**  
+Schiltz F, Delhaye BP, Crevecoeur F, Thonnard J-L, Lefèvre P  
+bioRxiv:2021.07.20.452911  
+[https://www.biorxiv.org/content/10.1101/2021.07.20.452911v1](https://www.biorxiv.org/content/10.1101/2021.07.20.452911v1)
+
+## 10
+**Repetition effects in action selection reflect effector- but not hemisphere-specific coding**  
+Seegelke C, Schonard C, Heed T  
+bioRxiv:2021.07.16.450393  
+[https://www.biorxiv.org/content/10.1101/2021.07.16.450393v1](https://www.biorxiv.org/content/10.1101/2021.07.16.450393v1)
+
+## 11
+**The measurement, evolution, and neural representation of action grammars of human behavior**  
+Stout D, Chaminade T, Apel J, Shafti A, Faisal AA  
+Sci Rep 11:13720 (2021)  
+[https://dx.doi.org/10.1038/s41598-021-92992-5](https://dx.doi.org/10.1038/s41598-021-92992-5)
+
+## 12
+**Neurodevelopment of the association cortices: Patterns, mechanisms, and implications for psychopathology**  
+Sydnor VJ, Larsen B, Bassett DS, Alexander-Bloch A, Fair DA, Liston C, Mackey AP, Milham MP, Pines A, Roalf DR, Seidlitz J, Xu T, Raznahan A, Satterthwaite TD  
+Neuron (2021)  
+[https://dx.doi.org/10.1016/j.neuron.2021.06.016](https://dx.doi.org/10.1016/j.neuron.2021.06.016)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

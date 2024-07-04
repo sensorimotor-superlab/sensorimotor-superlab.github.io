@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 152"
+date:   2022-03-25 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**What Happens After an Error?**  
+Adkins TJ, Zhang H, Lee TG  
+[bioRxiv:2022.03.17.484792](https://www.biorxiv.org/content/10.1101/2022.03.17.484792v1)
+
+## 2
+**Neural Representation in M1 and S1 Cortex of Bilateral Hand Actions During Prehension**  
+Gardner EP, Putrino D, Chen VanDaele J  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00374.2021)
+
+## 3
+**Symmetry-Based Representations for Artificial and Biological General Intelligence**  
+Higgins I, Racanière S, Rezende D  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2203.09250)
+
+## 4
+**Discovering dynamical models of human behavior**  
+Jaffe PI, Poldrack RA, Schafer RJ, Bissett PG  
+[bioRxiv:2022.03.20.484666](https://www.biorxiv.org/content/10.1101/2022.03.20.484666v1)
+
+## 5
+**Tuning of motor outputs produced by spinal stimulation during voluntary control of torque directions in monkeys**  
+Kaneshige M, Obara K, Suzuki M, Tazoe T, Nishimura Y  
+[bioRxiv:2022.03.16.484577](https://www.biorxiv.org/content/10.1101/2022.03.16.484577v1)
+
+## 6
+**Express Arm Responses Appear Bilaterally on Upper-limb Muscles in an Arm Choice Reaching Task**  
+Kearsley SL, Cecala AL, Kozak RA, Corneil BD  
+[J Neurophysiol:2021.09.24.461726](https://dx.doi.org/10.1152/jn.00494.2021)
+
+## 7
+**Estimating the time structure of descending activation that generates movements at different speeds**  
+Ramadan R, Hummert C, Jokeit JS, Schöner G  
+[bioRxiv:2022.03.21.485078](https://www.biorxiv.org/content/10.1101/2022.03.21.485078v1.abstract?%3Fcollection=)
+
+## 8
+**Network architecture producing swing to stance transitions in an insect walking system**  
+Strohmer B, Mantziaris C, Kynigopoulos D, Manoonpong P, Larsen LB, Büschges A  
+[bioRxiv:2022.01.20.477058](https://www.biorxiv.org/content/10.1101/2022.01.20.477058v3)
+
+## 9
+**Multi-finger Receptive Field Properties in Primary Somatosensory Cortex: A Revised Account of the Spatio-Temporal Integration Functions of Area 3b**  
+Trzcinski NK, Hsiao SS, Connor CE, Gomez-Ramirez M  
+[bioRxiv:2022.03.21.485210](https://www.biorxiv.org/content/10.1101/2022.03.21.485210v1)
+
+## 10
+**A critical perspective on neural mechanisms in cognitive neuroscience: towards unification**  
+van Bree S  
+[PsyArXiv](https://psyarxiv.com/9fr2d)
+
+## 11
+Zobeiri OA, Cullen KE  
+**Distinct Representations of Body and Head motion are Dynamically Encoded by Purkinje cell Populations in the Macaque Cerebellum**  
+[bioRxiv:2021.10.25.465748](https://www.biorxiv.org/content/10.1101/2021.10.25.465748v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

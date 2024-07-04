@@ -1,0 +1,117 @@
+---
+layout: post
+title:  "Reading List 190"
+date:   2023-01-13 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Peripersonal encoding of forelimb proprioception in the mouse somatosensory cortex**  
+Alonso I, Scheer I, Palacio-Manzano M, Frézel-Jacob N, Philippides A, Prsa M  
+[bioRxiv:2022.05.25.493376](https://www.biorxiv.org/content/10.1101/2022.05.25.493376v2)
+
+## 2
+**Stimulus-specific prediction error neurons in mouse auditory cortex**  
+Audette NJ, Schneider DM  
+[bioRxiv:2023.01.06.523032](https://www.biorxiv.org/content/10.1101/2023.01.06.523032v1)
+
+## 3
+**Memory decay and generalization following distinct motor learning mechanisms**  
+Bao S, Lei Y  
+[J Neurophysiol](https://journals.physiology.org/doi/full/10.1152/jn.00105.2022)
+
+## 4
+**Cerebro-cerebellar networks facilitate learning through feedback decoupling**  
+Boven E, Pemberton J, Chadderton P, Apps R, Costa RP  
+[Nat Commun](https://www.nature.com/articles/s41467-022-35658-8)
+
+## 5
+**Worth the work? Monkeys discount rewards by a subjective adapting effort cost**  
+Burrell M, Pastor-Bernier A, Schultz W  
+[bioRxiv:2023.01.10.523384](https://www.biorxiv.org/content/10.1101/2023.01.10.523384v1)
+
+## 6
+**The centrality of population-level factors to network computation is demonstrated by a versatile approach for training spiking networks**  
+DePasquale B, Sussillo D, Abbott LF, Churchland MM  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.12.007)
+
+## 7
+**Open-ended movements structure sensorimotor information in early human development**  
+Kanazawa H, Yamada Y, Tanaka K, Kawai M, Niwa F, Iwanaga K, Kuniyoshi Y  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2209953120)
+
+## 8
+**Modeling foot sole cutaneous afferents: FootSim**  
+Katic N, Siqueira RK, Cleland L, Strzalkowski N, Bent L, Raspopovic S, Saal H  
+[iScience](https://www.sciencedirect.com/science/article/pii/S2589004222021472)
+
+## 9
+**The evidence against somatotopic organization of function in the primate corticospinal tract**  
+Lemon RN, Morecraft RJ  
+[Brain](https://dx.doi.org/10.1093/brain/awac496)
+
+## 10
+**How honey bees make fast and accurate decisions**  
+MaBouDi H, Marshall JAR, Dearden N, Barron AB  
+[bioRxiv:2023.01.02.522517](https://www.biorxiv.org/content/10.1101/2023.01.02.522517v1)
+
+## 11
+**A cerebellar internal model calibrates a feedback controller involved in sensorimotor control**  
+Markov DA, Petrucco L, Kist AM, Portugues R  
+[Nat Commun](http://dx.doi.org/10.1038/s41467-021-26988-0)
+
+## 12
+**The geometry of cortical representations of touch in rodents**  
+Nogueira R, Rodgers CC, Bruno RM, Fusi S  
+[bioRxiv:2021.02.11.430704](https://www.biorxiv.org/content/10.1101/2021.02.11.430704v2)
+
+## 13
+**Expectations about precision bias metacognition and awareness**  
+Olawole-Scott H, Yon D  
+[PsyArXiv](https://psyarxiv.com/um2wx)
+
+## 14
+**Solving the spike sorting problem with Kilosort**  
+Pachitariu M, Sridhar S, Stringer C  
+[bioRxiv:2023.01.07.523036](https://www.biorxiv.org/content/10.1101/2023.01.07.523036v1)
+
+## 15
+**NeuroAI weekly open Zoom seminar**  
+Carnegie Mellon and University of Pittsburgh organizes a NeuroAI seminar with weekly open Zoom talks that might be of interest to readers of this mailing list. Consider checking out the schedule at: [https://brain.andrew.cmu.edu/seminar](https://brain.andrew.cmu.edu/seminar)
+
+
+## Superlab Papers
+
+**Reach corrections toward moving objects are faster than reach corrections toward jumping targets**  
+Reschechtko S, Gnanaseelan C, Pruszynski JA  
+[bioRxiv:2022.12.24.521682](https://www.biorxiv.org/content/10.1101/2022.12.24.521682v3)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

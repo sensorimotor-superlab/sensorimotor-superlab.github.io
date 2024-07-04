@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Reading List 111"
+date:   2021-04-30 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+Curtis CE, Sprague TC  
+**Persistent Activity during Working Memory from Front to Back**  
+[bioRxiv:2021.04.24.441274](https://www.biorxiv.org/content/10.1101/2021.04.24.441274v1)
+
+## 2
+**Vagus nerve stimulation paired with rehabilitation for upper limb motor function after ischaemic stroke (VNS-REHAB): a randomised, blinded, pivotal, device trial**  
+Dawson J et al.  
+[Lancet 397:1545–1553 (2021)](https://dx.doi.org/10.1016/S0140-6736(21)00475-X)
+
+## 3
+**High-resolution imaging of skin deformation shows that afferents from human fingertips signal slip onset**  
+Delhaye BP, Jarocka E, Barrea A, Thonnard J-L, Edin B, Lefèvre P  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.64679)
+
+## 4
+**Motives driving gaze and walking decisions**  
+Domínguez-Zamora FJ, Marigold DS  
+[Curr Biol 31:1632–1642.e4 (2021)](https://dx.doi.org/10.1016/j.cub.2021.01.069)
+
+## 5
+**Rich and lazy learning of task representations in brains and neural networks**  
+Flesch T, Juechems K, Dumbalska T, Saxe A, Summerfield C  
+[bioRxiv:2021.04.23.441128](https://www.biorxiv.org/content/10.1101/2021.04.23.441128v1)
+
+## 6
+**Completing the puzzle: why studies in non-human primates are needed to better understand the effects of non-invasive brain stimulation**  
+Lehmann SJ, Corneil BD  
+[arXiv:2104.11844 [q-bioNC] (2021)](https://arxiv.org/abs/2104.11844)
+
+## 7
+**Proprioceptive representations of the hand in somatosensory cortex**  
+Lutz OJ, Bensmaia SJ  
+[Curr Opin Physiol (2021)](https://www.sciencedirect.com/science/article/pii/S2468867321000511)
+
+## 8
+**Skin wetness detection thresholds and wetness magnitude estimations of the human index fingerpad and their modulation by moisture temperature**  
+Merrick C, Rosati R, Filingeri D  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00538.2020)
+
+## 9
+**Individual differences in proprioception predict the extent of implicit sensorimotor adaptation**  
+Tsay JS, Kim HE, Parvin DE, Stover AR, Ivry RB  
+[J Neurophysiol 125:1307–1321 (2021)](https://dx.doi.org/10.1152/jn.00585.2020)
+
+## 10
+**Beta-band desynchronization reflects uncertainty in effector selection during motor planning**  
+van Helvert MJL, Wijdenes LO, Geerligs L, Pieter Medendorp W  
+[bioRxiv:2021.04.23.441147](https://www.biorxiv.org/content/10.1101/2021.04.23.441147v1)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

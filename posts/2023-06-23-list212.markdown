@@ -1,0 +1,145 @@
+---
+layout: post
+title:  "Reading List 212"
+date:   2023-06-23 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Does visual experience influence arm proprioception and its lateralization? Evidence from passive matching performance in congenitally-blind and sighted adults**  
+Abi Chebel N, Gaunet F, Chavet P, Assaiante C, Bourdin C, Sarlegna F  
+[Neuroscience Letters](https://dx.doi.org/10.1016/j.neulet.2023.137335)
+
+**ChatGPT summary**: The study investigates the impact of early visual experiences on the lateralization of arm proprioceptive perception in humans by comparing congenitally-blind and sighted adults. Findings suggest that lack of visual experience during development influences the lateralization of arm proprioception, as seen in the less systematic lateralization among congenitally-blind participants compared to the consistent higher proprioceptive precision in the non-dominant arm of sighted individuals.
+
+## 2
+**Task-driven neural network models predict neural dynamics of proprioception**  
+Vargas A, Bisi A, Chiappa A, Versteeg C, Miller L, Mathis A  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.15.545147)
+
+**ChatGPT summary**: The principles governing proprioceptive processing from distributed sensors in the body are poorly understood, but a study used a task-driven neural network modeling approach to investigate the neural code of proprioceptive neurons in both cuneate nucleus (CN) and somatosensory cortex area 2 (S1). They found that task-driven models outperformed linear encoding models and data-driven models and that architectures that better solved tasks were better at predicting neural data.
+
+## 3
+**Synaptic architecture of leg and wing motor control networks in<i>Drosophila</i>**  
+Lesser E, Azevedo A, Phelps J, Elabbady L, Cook A, Mark B, Kuroda S, Sustar A, Moussa A, Dallmann C, Agrawal S, Lee S, Pratt B, Skutt-Kakaria K, Gerhard S, Lu R, Kemnitz N, Lee K, Halageri A, Castro M, Ih D, Gager J, Tammam M, Dorkenwald S, Collman F, Schneider-Mizell C, Brittain D, Jordan C, Seung H, Macrina T, Dickinson M, Lee W, Tuthill J  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.30.542725)
+
+**ChatGPT summary**: Scientists have used connectomics to study the wiring logic of motor circuits in the legs and wings of fruit flies, finding that both premotor networks are organised into modules linking motor neurons with related functions. However, the connectivity patterns within leg and wing motor modules are distinct, with leg premotor neurons exhibiting proportional gradients of synaptic input onto motor neurons within each module, and wing premotor neurons lacking proportional synaptic connectivity.
+
+## 4
+**Beyond Geometry: Comparing the Temporal Structure of Computation in Neural Circuits with Dynamical Similarity Analysis**  
+Ostrow M, Eisen A, Kozachkov L, Fiete I  
+[arXiv](https://arxiv.org/abs/2306.10168)
+
+**ChatGPT summary**: This study introduces a new method to compare two neural networks based on their internal dynamics, rather than the traditional spatial geometry of latent states. By incorporating advances in data-driven dynamical systems theory and an extended version of Procrustes Analysis, the approach effectively identifies and distinguishes dynamic structure in recurrent neural networks and learning rules, providing a more rigorous way to test these networks as models of the brain.
+
+## 5
+**Multiscale model of primary motor cortex circuits predicts in vivo cell-type-specific, behavioral state-dependent dynamics**  
+Dura-Bernal S, Neymotin SA, Suter BA, Dacre J, Moreira JVS, Urdapilleta E, Schiemann J, Duguid I, Shepherd GMG, Lytton WW  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2023.112574)
+
+**ChatGPT summary**: The researchers created a highly detailed, multiscale model of the mouse primary motor cortex, which accurately predicted layer- and cell-type-specific responses associated with different behavioral states and experimental manipulations. This model serves as a quantitative theoretical framework to integrate and interpret experimental data, offering insights into the cell-type-specific multiscale dynamics under various conditions and behaviors.
+
+## 6
+**Prior Movement of One Arm Facilitates Motor Adaptation in the Other**  
+Gippert M, Leupold S, Heed T, Howard I, Villringer A, Nikulin V, Sehm B  
+[J. Neurosci.](https://dx.doi.org/10.1523/jneurosci.2166-22.2023)
+
+**ChatGPT summary**: The study investigated whether reaches can be adapted to different force fields in a bimanual motor sequence when the information about the perturbation is associated with the prior movement direction of the other arm. The key finding suggests that active segments in bimanual motion sequences are linked across limbs, and if there is a consistent association between movement kinematics of the linked and goal movement, the learning process of the goal movement can be facilitated.
+
+## 7
+**Neuroscience: Fish and fly headed in the same direction**  
+Heinze S  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.05.006)
+
+**ChatGPT summary**: This is a summary of a paper in which researchers explored the neural circuits that encode head direction in fish, particularly zebrafish larvae, leveraging their transparency and genetic manipulability. Through a combination of light-sheet microscopy, block-face electron microscopy, and genetic indicators of neural activity, they identified and traced a set of neurons in the anterior hindbrain, whose activity is tuned to the animal's heading direction and found that these neurons form a ring-attractor circuit, strikingly similar to the one found in the Drosophila brain, contributing to our understanding of how different species, from insects to fish to mammals, encode head direction.
+
+## 8
+**Testing the Tools of Systems Neuroscience on Artificial Neural Networks**  
+Lindsay GW  
+[arXiv](htts://arxiv.org/abs/2202.07035)
+
+**ChatGPT summary**: The author proposes the use of artificial neural networks (ANNs) as a testing ground for the common analysis tools applied by neuroscientists to understand neural computations, given the networks' rough similarity to biological systems and the ability to perfectly observe and manipulate them. This practice not only allows the empirical evaluation of these tools, but also offers insights into what a productive understanding of neural systems should entail, potentially accelerating progress in brain studies.
+
+## 9
+**Multimodal sensory control of motor performance by glycinergic interneurons of the spinal cord deep dorsal horn.**  
+Gradwell M, Ozeri-Engelhard N, Eisdorfer J, Laflamme O, Gonzalez M, Upadhyay A, Aoki A, Shrier T, Gandhi M, Abbas- Zadeh G, Oputa O, Thackray J, Ricci M, Yusuf N, Keating J, Imtiaz Z, Alomary S, Katz J, Haas M, Hernandez Y, Akay T, Abraira V  
+[bioRxiv](https://dx.doi.org/10.1101/2022.05.21.492933)
+
+**ChatGPT summary**: Inhibitory interneurons in the spinal cord play a crucial role in shaping motor activity by gating sensory information and setting the rhythm of motor neurons. A new study identifies a population of glycinergic inhibitory neurons expressing parvalbumin in the spinal cord, which responds to proprioceptive and cutaneous input and controls the timing and magnitude of muscle activity, suggesting a flexible influence on motor networks to increase the diversity of mechanisms by which sensory input facilitates smooth movement and transitions.
+
+## 10
+**Kinematic priming of action predictions**  
+Scaliti E, Pullar K, Borghini G, Cavallo A, Panzeri S, Becchio C  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.05.055)
+
+**ChatGPT summary**: The researchers developed a framework to measure how individuals anticipate others' intentions based on their movements, demonstrating a new form of priming, termed "kinematic priming". Their results show that the degree of kinematic priming, as reflected in response times and initial fixations, is directly proportional to the amount of intention information perceived by an individual, suggesting that people can rapidly and implicitly access intention information encoded in movement kinematics.
+
+## 11
+**Demystifying the Visual Word Form Area: Precision fMRI of Visual, Linguistic, and Attentional Properties of Ventral Temporal Cortex**  
+Li J, Hiersche K, Saygin Z  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.15.544824)
+
+**ChatGPT summary**: After 30 years of investigation, the nature and existence of the visual word form area (VWFA) in left ventrotemporal cortex (VTC) is still under debate. Using precision fMRI, the study found that the VWFA is unique in its word-selectivity within VTC and primarily operates as a visual look-up dictionary of orthographic information.
+
+## 12
+**An internal model for canceling self-generated sensory input in freely behaving electric fish**  
+Wallach A, Sawtell NB  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2023.05.019)
+
+**ChatGPT summary**: The researchers investigated the neural mechanisms of generating predictions based on motor actions in mormyrid fish, using underwater neural recording, behavioral analysis, and computational modeling. They found that neurons in the electrosensory lobe can learn and store multiple predictions related to different sensory states, providing insights into how internal motor signals and sensory information are combined within cerebellum-like circuitry to predict sensory outcomes of natural behavior.
+
+## 13
+**Implicit learning of the one-back reinforcement matching-mismatching task by pigeons**  
+Peng DN, Zentall TR  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.05.045)
+
+**ChatGPT summary**: The study contrasts human explicit learning with what is believed to be implicit learning in animals, specifically pigeons, using a complex task called the 1-back reinforcement task. The findings suggest that pigeons are able to learn the task, although gradually and not to an expected level if it were explicit learning, while humans appear unable to learn it, hinting that human explicit learning may sometimes hinder their ability to learn, whereas pigeons are not "distracted" by explicit learning attempts.
+
+## 14
+**Fast prediction in marmoset reach-to-grasp movements for dynamic prey**  
+Shaw L, Wang KH, Mitchell J  
+[bioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.08.511417v3)
+
+**ChatGPT summary**: This study explores visually guided reaching behaviors in primates, using an ecologically driven, unrestrained task involving live crickets to study marmosets' natural behaviors. The results demonstrate that reaching for dynamic targets operates at short visuo-motor delays (around 80 ms), suggesting that visual prediction plays a key role in facilitating movement adjustments when engaging with dynamic prey.
+
+
+## Superlab Papers
+
+**Neural correlates of online action preparation**  
+Shahbazi M, Ariani G, Kashefi M, Pruszynski J, Diedrichsen J  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.19.545487)
+
+**ChatGPT summary**: The study investigates how the brain coordinates preparation for an upcoming action with ongoing execution, revealing increased activity in the intra-parietal sulcus and ventral visual stream when actions overlapped. Surprisingly, the dorsal premotor cortex, usually involved in planning future movements, showed no heightened activity, suggesting that simultaneous action control and preparation bottleneck at stimulus identification and action selection, not movement planning.
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

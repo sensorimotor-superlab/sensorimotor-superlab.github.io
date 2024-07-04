@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 40"
+date:   2019-10-25 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+
+## 1
+**StartReact effects are dependent upon engagement of startle reflex circuits: Support for a subcortically mediated initiation pathway**  
+Smith, V., Maslovat, D., and Carlsen, A.N.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00505.2019](https://dx.doi.org/10.1152/jn.00505.2019)
+
+Unexpected presentation of a startling stimulus in a reaction time paradigm results in a hastening of the planned motor response, a phenomenon called the StartReact effect. The neural pathways that mediate the response speeding remain subject to debate. The present study demonstrates that even for matched levels of motor preparation levels, reaction time is reduced to the greatest extent on trials with a startle reflex. These findings suggest that the StartReact effect is not just an extreme example of a stimulus intensity effect—the effect actually relies on the engagement of startle reflex circuitry. —CF
+
+## 2
+**Muscle representation in the macaque motor cortex: an anatomical perspective**  
+Rathelot, J.-A., and Strick, P.L.  
+Proc. Natl. Acad. Sci. U. S. A. 103, 8257–8262 (2006)  
+[https://dx.doi.org/10.1073/pnas.0602933103](https://dx.doi.org/10.1073/pnas.0602933103)
+
+Peter Strick blew my mind at SFN when he casually threw out there that he thinks that the 15% of corticomotorneurons that originate in S1 target gamma motorneurons. This is such a great explanation for why you can't really evoke movement via low current electrical stimulation in S1 even though there are corticomotorneuronal cells there. If anyone has a good idea on how to show this is true, call me ASAP, I will drop pretty much everything. —AP
+
+## 3
+**Glutamatergic input varies with phrenic motor neuron size**  
+Rana, S., Mantilla, C.B., and Sieck, G.C.  
+J. Neurophysiol. 122, 1518–1529 (2019)  
+[https://dx.doi.org/10.1152/jn.00430.2019](https://dx.doi.org/10.1152/jn.00430.2019)
+
+Fun paper about the size principle and how the distribution of synaptic input may contribute to its existence. —OC
+
+## 4
+**Flexible Modulation of Neural Variance Facilitates Neuroprosthetic Skill Learning**  
+You, A.K., Liu, B., Singhal, A., Gowda, S., Moorman, H., Orsborn, A., Ganguly, K., and Carmena, J.M.  
+bioRxiv, 817346 (2019)  
+[https://www.biorxiv.org/content/10.1101/817346v1?rss=1](https://www.biorxiv.org/content/10.1101/817346v1?rss=1)
+
+The authors found that when monkeys learn a brain machine interface task (moving a cursor into targets on a screen) with perturbations applied at the level of the decoder, neurons in motor cortex showed exploratory patterns to adapt rather than generate new ones. —RM
+
+## 5
+**Sub-optimality in motor planning is not improved by explicit observation of motor uncertainty**  
+Ota, K., Shinya, M., Maloney, L.T., and Kudo, K.  
+Sci. Rep. 9, 14850 (2019)  
+[https://dx.doi.org/10.1038/s41598-019-50901-x](https://dx.doi.org/10.1038/s41598-019-50901-x)
+
+## 6
+**Modulation of the pupillary response by the content of visual working memory**  
+Zokaei, N., Board, A.G., Manohar, S.G., and Nobre, A.C.  
+Proc. Natl. Acad. Sci. U. S. A. (2019)  
+[https://dx.doi.org/10.1073/pnas.1909959116](https://dx.doi.org/10.1073/pnas.1909959116)
+
+## 7
+**Complementary encoding of priors in monkey frontoparietal network supports a dual process of decision-making**  
+Suriya-Arunroj, L., and Gail, A.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.47581](https://dx.doi.org/10.7554/eLife.47581)
+
+## 8
+**The Multi-Scale, Three-Dimensional Nature of Skeletal Muscle Contraction**  
+Roberts, T.J., Eng, C.M., Sleboda, D.A., Holt, N.C., Brainerd, E.L., Stover, K.K., Marsh, R.L., and Azizi, E.  
+Physiology 34, 402–408 (2019)  
+[https://dx.doi.org/10.1152/physiol.00023.2019](https://dx.doi.org/10.1152/physiol.00023.2019)
+
+## 9
+**openEyeTrack - A high speed multi-threaded eye tracker for head-fixed applications**  
+Casas, J., and Chandrasekaran, C.  
+JOSS 4, 1631 (2019)  
+[https://dx.doi.org/10.21105/joss.01631](https://dx.doi.org/10.21105/joss.01631)
+
+## 10
+**Autopilot: Automating behavioral experiments with lots of Raspberry Pis**  
+Saunders, J.L., and Wehr, M.  
+bioRxiv, 807693 (2019)  
+[https://www.biorxiv.org/content/10.1101/807693v1](https://www.biorxiv.org/content/10.1101/807693v1)
+
+Also check out the [tweeprint](https://twitter.com/json_dirs/status/1185274981032185856?s=20).
+
+
+# Contributors
+- Chris Forgaard
+- Andrew Pruszynski [@andpru](https://twitter.com/andpru)
+- Olivier Codol [@OlivierCodol](https://twitter.com/OlivierCodol)
+- Rodrigo Maeda [@rodrigo_maeda](https://twitter.com/rodrigo_maeda)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,112 @@
+---
+layout: post
+title:  "Reading List 112"
+date:   2021-05-07 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**An analytical method reduces noise bias in motor adaptation analysis**  
+Blustein DH, Shehata AW, Kuylenstierna ES, Englehart KB, Sensinger JW  
+Sci Rep 11:9245 (2021) [https://dx.doi.org/10.1038/s41598-021-88688-5](https://dx.doi.org/10.1038/s41598-021-88688-5)
+
+## 2
+**Convergence of proprioceptive and visual feedback on neurons in primary motor cortex**  
+Cross KP, Cook DJ, Scott SH  
+bioRxiv:2021.05.01.442274 [https://www.biorxiv.org/content/10.1101/2021.05.01.442274v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2021.05.01.442274v1.abstract?%3Fcollection=)
+
+## 3
+**Online modification of goal-directed control in human reaching movements**  
+De Comite A, Crevecoeur F, Lefèvre P  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00536.2020](https://dx.doi.org/10.1152/jn.00536.2020)
+
+## 4
+**Object motion kinematics influence both feedforward and feedback motor responses during virtual catching**  
+Gómez-Granados A, Kurtzer I, Singh T  
+bioRxiv:2021.04.20.440704 [https://www.biorxiv.org/content/10.1101/2021.04.20.440704v1](https://www.biorxiv.org/content/10.1101/2021.04.20.440704v1)
+
+## 5
+**Perceived and mentally rotated contents are differentially represented in cortical depth of V1**  
+Iamshchinina P, Kaiser D, Yakupov R, Haenelt D, Sciarra A, Mattern H, Lüesebrink F, Duezel E, Speck O, Weiskopf N, Cichy RM  
+bioRxiv:2021.04.27.440989 [https://www.biorxiv.org/content/10.1101/2021.04.27.440989v1](https://www.biorxiv.org/content/10.1101/2021.04.27.440989v1)
+
+## 6
+**High-density spinal cord stimulation selectively activates lower urinary tract afferents**  
+Jantz MK, Gopinath C, Kumar R, Chin C, Wong L, Ogren JI, Fisher LE, McLaughlin BL, Gaunt RA  
+bioRxiv:2021.04.30.442206 [https://www.biorxiv.org/content/10.1101/2021.04.30.442206v1](https://www.biorxiv.org/content/10.1101/2021.04.30.442206v1)
+
+## 7
+**Early fMRI responses to somatosensory and optogenetic stimulation reflect neural information flow**  
+Jung WB, Im GH, Jiang H, Kim S-G  
+Proc Natl Acad Sci USA 118 (2021) [https://dx.doi.org/10.1073/pnas.2023265118](https://dx.doi.org/10.1073/pnas.2023265118)
+
+## 8
+**Sequence learning recodes cortical representations instead of strengthening initial ones**  
+Kalm K, Norris D  
+bioRxiv:496893 (2020) [https://www.biorxiv.org/content/10.1101/496893v4](https://www.biorxiv.org/content/10.1101/496893v4)
+
+## 9
+**Speech auditory-motor adaptation to formant-shifted feedback lacks an explicit component: Reduced adaptation in adults who stutter reflects limitations in implicit sensorimotor learning**  
+Kim KS, Max L  
+Eur J Neurosci 53:3093–3108 (2021) [https://dx.doi.org/10.1111/ejn.15175](https://dx.doi.org/10.1111/ejn.15175)
+
+## 10
+**The Human Brain encodes a Chronicle of Visual Events at each Instant of Time**  
+King J-R, Wyart V  
+bioRxiv:846576 (2019) [https://www.biorxiv.org/content/10.1101/846576v1](https://www.biorxiv.org/content/10.1101/846576v1)
+
+## 11
+**Habitual coffee drinkers display a distinct pattern of brain functional connectivity**  
+Magalhães R, Picó-Pérez M, Esteves M, Vieira R, Castanho TC, Amorim L, Sousa M, Coelho A, Fernandes HM, Cabral J, Moreira PS, Sousa N  
+Mol Psychiatry (2021) [https://dx.doi.org/10.1038/s41380-021-01075-4](https://dx.doi.org/10.1038/s41380-021-01075-4)
+
+## 12
+**The Forward Model: A Unifying Theory for the Role of the Cerebellum in Motor Control and Sense of Agency**  
+Welniarz Q, Worbe Y, Gallea C  
+Front Syst Neurosci 15:644059 (2021) [https://dx.doi.org/10.3389/fnsys.2021.644059](https://dx.doi.org/10.3389/fnsys.2021.644059)
+
+## 13
+**Flexible neural control of motor units**  
+Marshall NJ, Glaser JI, Trautmann EM, Amematsro EA, Perkins SM, Shadlen MN, Abbott LF, Cunningham JP, Churchland MM  
+bioRxiv:2021.05.05.442653 [https://www.biorxiv.org/content/10.1101/2021.05.05.442653v1](https://www.biorxiv.org/content/10.1101/2021.05.05.442653v1)
+
+## 14
+**Contribution of Excitatory and Inhibitory Neuronal Activity to BOLD fMRI**  
+Moon HS, Jiang H, Vo TT, Jung WB, Vazquez AL, Kim S-G  
+Cereb Cortex (2021) [https://dx.doi.org/10.1093/cercor/bhab068](https://dx.doi.org/10.1093/cercor/bhab068)
+
+## 15
+**Neural development of speech sensorimotor learning**  
+Ohashi H, Ostry DJ  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.2884-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.2884-20.2021)
+
+## 16
+**A potential role for reinforcement learning in speech production**  
+Parrell B  
+bioRxiv:2020.10.05.327072 (2021) [https://www.biorxiv.org/content/10.1101/2020.10.05.327072v3](https://www.biorxiv.org/content/10.1101/2020.10.05.327072v3)
+
+## 17
+**Neural code of motor planning and execution during goal-directed movements in crows**  
+Rinnert P, Nieder A  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.0739-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.0739-20.2021)
+
+## 18
+**If I fits I sits: A citizen science investigation into illusory contour susceptibility in domestic cats (Felis silvestris catus)**  
+Smith GE, Chouinard PA, Byosiere S-E  
+Appl Anim Behav Sci 240:105338 (2021) [https://www.sciencedirect.com/science/article/pii/S0168159121001258](https://www.sciencedirect.com/science/article/pii/S0168159121001258)
+
+## 19
+**Movement-Preceding Neural Activity under Parametrically Varying Levels of Time Pressure**  
+Trovò B, Visser Y, İşcan Z, Schurger A  
+bioRxiv:2021.04.29.441753 [https://www.biorxiv.org/content/10.1101/2021.04.29.441753v1](https://www.biorxiv.org/content/10.1101/2021.04.29.441753v1)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

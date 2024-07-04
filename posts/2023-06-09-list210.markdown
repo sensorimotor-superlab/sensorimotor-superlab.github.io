@@ -1,0 +1,129 @@
+---
+layout: post
+title:  "Reading List 210"
+date:   2023-06-09 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Cortical circuitry mediating inter-areal touch signal amplification**  
+Ryan L, Sun-Yan A, Laughton M, Peron S  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.06.543886)
+
+**ChatGPT summary**: The study explores how topographically matched regions in primary and secondary vibrissal somatosensory cortices (vS1 and vS2) of mice interact during whisker touch, revealing a sparse population of broadly tuned neurons in both areas that are highly active and responsible for the main communication of touch-evoked activity between the two areas. Any focal lesions in the whisker touch-responsive region of either vS1 or vS2 significantly degraded touch responses in the unlesioned area, underscoring the importance of these broadly tuned neurons in amplifying touch responses across both cortices.
+
+## 2
+**Recurrent pattern completion drives the neocortical representation of sensory inference**  
+Shin H, Ogando M, Abdeladim L, Durand S, Belski H, Cabasco H, Loefler H, Bawany A, Hardcastle B, Wilkes J, Nguyen K, Suarez L, Johnson T, Han W, Ouellette B, Grasso C, Swapp J, Ha V, Young A, Caldejon S, Williford A, Groblewski P, Olsen S, Kiselycznyk C, Lecoq J, Adesnik H  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.05.543698)
+
+**ChatGPT summary**: Researchers have identified a group of neurons in the visual cortex that respond to illusory contours, which are key tools to study sensory inference. These "IC-encoders" mediate the neural representation of inferred sensory input, suggesting that primary sensory cortex facilitates sensory inference by selectively strengthening input patterns that match prior expectations through local, recurrent circuitry.
+
+## 3
+**Tuning in to real-time social interactions in macaques**  
+Tomatsu S, Isoda M  
+[PNAS](https://dx.doi.org/10.1073/pnas.2301614120)
+
+**ChatGPT summary**: The study demonstrates that macaque monkeys naturally exhibit social motor entrainment - synchronization of movements with one another, a behavior specific to individual pairs, consistent, dependent on visual inputs, and influenced by social hierarchy. This entrainment is notably reduced when interacting with prerecorded movements, suggesting that real-time social interactions facilitate motor entrainment, offering a basis for exploring the neural underpinnings of such mechanisms that may support group cohesion.
+
+## 4
+**Prior Movement of One Arm Facilitates Motor Adaptation in the Other**  
+Gippert M, Leupold S, Heed T, Howard I, Villringer A, Nikulin V, Sehm B  
+[J. Neurosci.](https://dx.doi.org/10.1523/jneurosci.2166-22.2023)
+
+**ChatGPT summary**: The study investigated whether bimanual motor sequences can support motor adaptation processes when linked movements and prior perceptual feedback are present. The results showed that active participation in bimanual sequential tasks supports pronounced adaptation and suggests that the learning of goal movements can be facilitated if there is a consistent association between movement kinematics of the linked and goal movement, which may be a key mechanism of the human motor system for learning complex bimanual skills.
+
+## 5
+**Six tips for better coding with ChatGPT**  
+Perkel J  
+[Nature](https://dx.doi.org/10.1038/d41586-023-01833-0)
+
+**ChatGPT summary** ChatGPT, a chatbot developed by OpenAI, is a powerful tool for software debugging, code annotation, and performing routine operations, as it can solve complex tasks in bioinformatics and translate code between different programming languages, thus democratizing the coding process. However, users should be cautious as these tools are not truly intelligent and can produce errors or vulnerabilities, therefore, their results should be carefully reviewed, tested, and iteratively refined, treating the chatbot as a helpful but error-prone intern, while also embracing the constant evolution of these language models.
+
+## 6
+**Sensory and motor representations of internalized rhythms in the cerebellum and basal ganglia**  
+Kameda M, Niikawa K, Uematsu A, Tanaka M  
+[PNAS](https://dx.doi.org/10.1073/pnas.2221641120)
+
+**ChatGPT summary**: This study investigated the roles of the cerebellum and basal ganglia in rhythm perception, finding that the cerebellum is involved in multiple stages from sensory prediction to motor control, while the striatum consistently plays a role in motor preparation. Additionally, the study demonstrated that neuronal activity in these areas is dependent on the direction of movement.
+
+## 7
+**Accurate neuroprosthetic control through latent state transition training**  
+Agudelo-Toro A, Michaels J, Sheng W, Scherberger H  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.02.543242)
+
+**ChatGPT summary**: Researchers have developed a brain-computer interface (BCI) training approach to develop neural activity latent variables for accurate hand shape control, achieving hand configuration accuracy comparable to native grasping in monkeys. The approach provides incremental control of degrees of freedom, is advantageous in collision tasks and can potentially extend to control in higher-dimensions, making it a potential tool to study cortical learning.
+
+## 8
+**Cortico-cerebellar coordination facilitates neuroprosthetic control**  
+Abbasi A, Rangwani R, Bowen D, Fealy A, Danielsen N, Gulati T  
+[bioRxiv](https://dx.doi.org/10.1101/2022.07.07.499221)
+
+**ChatGPT summary**: The study investigated the neural dynamics between primary motor cortex (M1) and the cerebellar cortex during neuroprosthetic learning in rats and found that coordinated neural activity emerged between these regions, supporting task-relevant activity in M1 neuronal populations. The study also showed that cerebellar influence is necessary for M1-driven neuroprosthetic control.
+
+## 9
+**Geometric constraints on human brain function**  
+Pang J, Aquino K, Oldehinkel M, Robinson P, Fulcher B, Breakspear M, Fornito A  
+[Nature](https://dx.doi.org/10.1038/s41586-023-06098-1)
+
+**ChatGPT summary**: Neural field theory predicts that the geometry of the brain is a more fundamental constraint on dynamics than complex interregional connectivity, and this has been confirmed by analysing human magnetic resonance imaging data. Cortical and subcortical activity can be understood as resulting from excitations of fundamental, resonant modes of the brain's geometry rather than from modes of complex interregional connectivity, challenging prevailing views and identifying a previously underappreciated role of geometry in shaping function.
+
+## 10
+**A tonically active master neuron continuously modulates mutually exclusive motor states at two-time scales**  
+Meng J, Ahamed T, Yu B, Hung W, Mouridi S, Wang Z, Zhang Y, Wen Q, Boulin T, Gao S, Zhen M  
+[bioRxiv](https://dx.doi.org/10.1101/2022.04.06.487231)
+
+**ChatGPT summary**: Researchers have discovered that the spontaneous and mutually exclusive forward/backward movements of the C. elegans worm are controlled by a single, tonically active interneuron AVA, which maintains a tonic, extrasynaptic excitation on the forward promoting interneuron AVB over the longer timescale and phasically inhibits AVB at a fast timescale, offering a new master neuron model for locomotion that breaks the symmetry between the underlying forward and backward motor circuits.
+
+## 11
+**Distinct neural representations during a brain-machine interface and manual reaching task in motor cortex, prefrontal cortex, and striatum**  
+Zippi E, Shvartsman G, Vendrell-Llopis N, Wallis J, Carmena J  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.31.542532)
+
+**ChatGPT summary**: This study compares the neural activity of the primary motor cortex, prefrontal cortex, and striatum in nonhuman primates performing a task under brain-machine control and manual control. The results suggest that there is distinct neural representation for BMI control in all three areas, and there is distributed network activity between these areas during BMI control that is different from manual control.
+
+## 12
+**Visual Accuracy Dominates Over Haptic Speed for State Estimation of a Partner During Collaborative Sensorimotor Interactions**  
+Lokesh R, Sullivan S, St. Germain L, Roth A, Calalo J, Buggeln J, Ngo T, Marchhart V, Carter M, Cashaback J  
+[J. Neurophysiol.](https://dx.doi.org/10.1152/jn.00053.2023)
+
+**ChatGPT summary**: Humans rely on both visual feedback and haptic feedback to estimate their own movement state, but little is known on how these senses are used to estimate the state of another person during collaborative sensorimotor tasks. This study found that visual feedback dominated over haptic feedback during collaboration, leading to lower movement variability, smoother movements, and faster trial completion times. An optimal feedback controller model that considered both visual and haptic feedback was developed and demonstrated that visual accuracy was more important than haptic speed for performing state-estimation of a partner during collaboration.
+
+## 13
+**Mouse frontal cortex mediates additive multisensory decisions**  
+Coen P, Sit TPH, Wells MJ, Carandini M, Harris KD  
+[Neuron](https://www.cell.com/article/S0896627323003811/abstract)
+
+**ChatGPT summary**: The study demonstrates that the frontal cortex in mice processes and combines auditory and visual information for object localization, a process that evolves with learning and mirrors behavioral strategy. Upon deactivation of the frontal cortex, responses to both visual and auditory stimuli were affected, suggesting its adaptability to combine sensory evidence for decision-making, a process that can be modeled and predicted by an accumulator model.
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

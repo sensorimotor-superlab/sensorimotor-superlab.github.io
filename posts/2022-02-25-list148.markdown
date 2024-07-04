@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 148"
+date:   2022-02-25 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Interplay between external inputs and recurrent dynamics during movement preparation and execution in a network model of motor cortex**  
+Bachschmid-Romano L, Hatsopoulos NG, Brunel N  
+[bioRxiv:2022.02.19.481140](https://www.biorxiv.org/content/10.1101/2022.02.19.481140v1)
+
+## 2
+**Estimation of the firing behaviour of a complete motoneuron pool by combining EMG signal decomposition and realistic motoneuron modelling**  
+Caillet A, Phillips ATM, Farina D, Modenese L  
+[bioRxiv:2022.02.21.481337](https://www.biorxiv.org/content/10.1101/2022.02.21.481337v1)
+
+## 3
+**Organic electrochemical neurons and synapses with ion mediated spiking**  
+Harikesh PC, Yang C-Y, Tu D, Gerasimov JY, Dar AM, Armada-Moreira A, Massetti M, Kroon R, Bliman D, Olsson R, Stavrinidou E, Berggren M, Fabiano S  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-28483-6)
+
+## 4
+**Learning vs. minding: How subjective costs can mask motor learning**  
+Healy CM, Berniker M, Ahmed AA  
+[bioRxiv:2022.02.11.479978](https://www.biorxiv.org/content/10.1101/2022.02.11.479978v1)
+
+## 5
+**Active haptic training improves somatosensory-motor feedback control in the motor skills of experts**  
+Hirano M, Furuya S  
+[bioRxiv:2022.02.17.480969](https://www.biorxiv.org/content/10.1101/2022.02.17.480969v1)
+
+## 6
+**Cell-type-specific responses to associative learning in the primary motor cortex**  
+Lee C, Harkin EF, Yin X, Naud R, Chen S  
+[Elife](https://dx.doi.org/10.7554/eLife.72549)
+
+## 7
+**Long-term learning transforms prefrontal cortex selectivity during working memory**  
+Miller JA, Tambini A, Kiyonaga A, D’Esposito M  
+[bioRxiv:2022.02.22.481537](https://www.biorxiv.org/content/10.1101/2022.02.22.481537v1)
+
+## 8
+**Factors governing the assignment of visual consequence to the corresponding action**  
+Reichenbach A, Urgen BM, Apostolakis S, Michlin L, Diedrichsen J  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00450.2021)
+
+## 9
+**Clustering analysis of movement kinematics in reinforcement learning**  
+Sidarta A, Komar J, Ostry DJ  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00229.2021)
+
+## 10
+**Functional Connections Among Neurons within Single Columns of Macaque V1**  
+Trepka EB, Zhu S, Xia R, Chen X, Moore T  
+[bioRxiv:2022.02.18.481095](https://www.biorxiv.org/content/10.1101/2022.02.18.481095v1)
+
+## 11
+**The importance of accounting for movement when relating neuronal activity to sensory and cognitive processes**  
+Zagha E, Erlich JC, Lee S, Lur G, O’Connor DH, Steinmetz NA, Stringer C, Yang H  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.1919-21.2021)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,120 @@
+---
+layout: post
+title:  "Reading List 189"
+date:   2022-12-23 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Population coding strategies in human tactile afferents**  
+Corniani G, Casal MA, Panzeri S, Saal HP  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010763)
+
+## 2
+**Molecular identity of proprioceptor subtypes innervating different muscle groups in mice**  
+Dietrich S, Company C, Song K, Lowenstein ED, Riedel L, Birchmeier C, Gargiulo G, Zampieri N  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-34589-8)
+
+## 3
+**A complex reach direction rule that delays reaction time causes alternating excitation and inhibition in express muscle responses and corticospinal excitability**  
+Divakar R, Loeb GE, Corneil BD, Wallis G, Carroll TJ  
+[bioRxiv:2022.12.13.520353](https://www.biorxiv.org/content/10.1101/2022.12.13.520353v1)
+
+## 4
+**The hippocampus binds movements to their temporal position in a motor sequence**  
+Dolfen N, Reverberi S, Op de beeck H, King BR, Albouy G  
+[bioRxiv:2022.12.20.521084](https://www.biorxiv.org/content/10.1101/2022.12.20.521084v1)
+
+## 5
+**Comparing the speed of action initiation and action inhibition**  
+Du Y, Forrence AD, Metcalf DM, Haith AM  
+[bioRxiv:2022.06.29.497798](https://www.biorxiv.org/content/10.1101/2022.06.29.497798v3)
+
+## 6
+**Can moving in a redundant workspace accelerate motor adaptation?**  
+Esfandiari J, Razavizadeh S, Stenner M-P  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00458.2021)
+
+## 7
+**Towards a somatosensory theory of speech perception**  
+Franken MK, Liu BC, Ostry DJ  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00381.2022)
+
+## 8
+**Distinct patterns of cortical manifold expansion and contraction underlie human sensorimotor adaptation**  
+Gale DJ, Areshenkoff CN, Standage DI, Nashed JY, Markello RD, Flanagan JR, Smallwood J, Gallivan JP  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2209960119)
+
+## 9
+**Multitask representations in the human cortex transform along a sensory-to-motor hierarchy**  
+Ito T, Murray JD  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01224-0)
+
+## 10
+**Dynamic Predictive Coding: A New Model of Hierarchical Sequence Learning and Prediction in the Cortex**  
+Jiang LP, Rao RPN  
+[bioRxiv:2022.06.23.497415](https://www.biorxiv.org/content/10.1101/2022.06.23.497415v3)
+
+## 11
+**Cortical-hippocampal coupling during manifold exploration in motor cortex**  
+Kim J, Joshi A, Frank L, Ganguly K  
+[Nature](https://dx.doi.org/10.1038/s41586-022-05533-z)
+
+## 12
+**Has the concept of systems consolidation outlived its usefulness? Identification and evaluation of premises underlying systems consolidation**  
+Moscovitch M, Gilboa A  
+[Fac Rev](https://dx.doi.org/10.12703/r/11-33)
+
+## 13
+**Vector production via mental navigation in the entorhinal cortex**  
+Neupane S, Fiete I, Jazayeri M  
+[bioRxiv:2022.12.15.520640](https://www.biorxiv.org/content/10.1101/2022.12.15.520640v1)
+
+## 14
+**Direct neural perturbations reveal a dynamical mechanism for robust computation**  
+O’Shea DJ, Duncker L, Goo W, Sun X, Vyas S, Trautmann EM, Diester I, Ramakrishnan C, Deisseroth K, Sahani M, Shenoy KV  
+[bioRxiv:2022.12.16.520768](https://www.biorxiv.org/content/10.1101/2022.12.16.520768v1)
+
+## 15
+**Space is a latent sequence: Structured sequence learning as a unified theory of representation in the hippocampus**  
+Raju RV, Swaroop Guntupalli J, Zhou G, Lázaro-Gredilla M, George D  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2212.01508)
+
+## 16
+**Orthogonal neural encoding of targets and distractors supports multivariate cognitive control**  
+Ritz H, Shenhav A  
+[bioRxiv:2022.12.01.518771](https://www.biorxiv.org/content/10.1101/2022.12.01.518771v2)
+
+## 17
+**Integrated neural dynamics of sensorimotor decisions and actions**  
+Thura D, Cabana J-F, Feghaly A, Cisek P  
+[PLoS Biol](https://dx.doi.org/10.1371/journal.pbio.3001861)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 45"
+date:   2019-11-29 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Unsupervised Bayesian Ising Approximation for revealing the neural dictionary in songbirds**  
+Hernández, D.G., Sober, S.J., and Nemenman, I.  
+bioRxiv, 849034 (2019)  
+[https://www.biorxiv.org/content/10.1101/849034v1](https://www.biorxiv.org/content/10.1101/849034v1)
+
+Also see the [tweeprint](https://twitter.com/samuel_j_sober/status/1197873944692449287?s=21)
+
+## 2
+**Distributed coding of choice, action and engagement across the mouse brain**  
+Steinmetz, N.A., Zatka-Haas, P., Carandini, M., and Harris, K.D.  
+Nature, 1–8 (2019)  
+[https://dx.doi.org/10.1038/s41586-019-1787-x](https://dx.doi.org/10.1038/s41586-019-1787-x)
+
+## 3
+**Cortical Output Is Gated by Horizontally Projecting Neurons in the Deep Layers**  
+Egger, R., Narayanan, R.T., Guest, J.M., Bast, A., Udvary, D., Messore, L.F., Das, S., de Kock, C.P.J., and Oberlaender, M.  
+Neuron (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0896627319308840](https://www.sciencedirect.com/science/article/pii/S0896627319308840)
+
+## 4
+**Decision making in slow and rapid reaching**  
+Hesse, C., Kangur, K., and Hunt, A.R.  
+PsyArXiv (2019)  
+[https://psyarxiv.com/9w6jp](https://psyarxiv.com/9w6jp)
+
+## 5
+**Proprioception is subject-specific and improved without performance feedback**  
+Wang, T., Zhu, Z., Kana, I., Yu, Y., He, H., and Wei, K.  
+bioRxiv, 850727 (2019)  
+[https://www.biorxiv.org/content/10.1101/850727v1](https://www.biorxiv.org/content/10.1101/850727v1)
+
+## 6
+**Fast and specific: insights into the acquisition and generalization of motor acuity**  
+Gonda, S., Shkedy Rabani, A., Horesh, N., and Shmuelof, L.  
+J. Neurophysiol. 122, 2354–2363 (2019)  
+[https://dx.doi.org/10.1152/jn.00558.2018](https://dx.doi.org/10.1152/jn.00558.2018)
+
+## 7
+**Unravelling the modulation of intracortical inhibition during motor imagery: An adaptive threshold-hunting study**  
+Neige, C., Rannaud-Monany, D., Stinear, C.M., Byblow, W.D., Papaxanthis, C., and Lebon, F.  
+bioRxiv, 846931 (2019)  
+[https://www.biorxiv.org/content/10.1101/846931v2](https://www.biorxiv.org/content/10.1101/846931v2)
+
+## 8
+**Deep neuroethology of a virtual rodent**  
+Merel, J., Aldarondo, D., Marshall, J., Tassa, Y., Wayne, G., and Ölveczky, B.  
+arXiv (2019)  
+[https://arxiv.org/abs/1911.09451](https://arxiv.org/abs/1911.09451)
+
+## 9
+**Beware of deep water after subthalamic deep brain stimulation**  
+Waldvogel, D., Baumann-Vogel, H., Stieglitz, L., Hänggi-Schickli, R., and Baumann, C.R.  
+Neurology (2019)  
+[https://n.neurology.org/content/early/2019/11/26/WNL.0000000000008664](https://n.neurology.org/content/early/2019/11/26/WNL.0000000000008664)
+
+Also see the [article in the NYT](https://www.nytimes.com/2019/11/27/health/swimming-Parkinsons-brain-implants.html)
+
+## 10
+**The Generalizability Crisis**  
+Yarkoni, T.  
+PsyArXiv (2019)  
+[https://psyarxiv.com/jqw35](https://psyarxiv.com/jqw35)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

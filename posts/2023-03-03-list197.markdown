@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 197"
+date:   2023-03-03 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**A response to claims of emergent intelligence and sentience in a dish**  
+Balci F et al.  
+[Neuron](https://www.sciencedirect.com/science/article/pii/S0896627323001137)
+
+## 2
+**Decoding the business of brain–computer interfaces**  
+Drew L  
+[Nature Electronics](https://www.nature.com/articles/s41928-023-00929-9)
+
+## 3
+**THINGS-data, a multimodal collection of large-scale datasets for investigating object representations in human brain and behavior**  
+Hebart MN, Contier O, Teichmann L, Rockter AH, Zheng CY, Kidder A, Corriveau A, Vaziri-Pashkam M, Baker CI  
+[Elife](https://dx.doi.org/10.7554/eLife.82580)
+
+## 4
+**Abstract representations emerge naturally in neural networks trained to perform multiple tasks**  
+Johnston WJ, Fusi S  
+[Nat Commun](https://www.nature.com/articles/s41467-023-36583-0)
+
+## 5
+**Low-dimensional encoding of decisions in parietal cortex reflects long-term training history**  
+Latimer KW, Freedman DJ  
+[bioRxiv:2021.10.07.463576](https://www.biorxiv.org/content/10.1101/2021.10.07.463576v1)
+
+## 6
+**Metabolite-induced in vivo fabrication of substrate-free organic bioelectronics**  
+Strakosas X et al.  
+[Science](https://dx.doi.org/10.1126/science.adc9998)
+
+## 7
+**Assistive loading promotes goal-directed tuning of stretch reflex gains**  
+Torell F, Franklin S, Franklin DW, Dimitriou M  
+[bioRxiv:2022.10.28.514224](https://www.biorxiv.org/content/10.1101/2022.10.28.514224v2)
+
+## 8
+**Kinematic markers of skill in first-person shooter video games**  
+Warburton M, Campagnoli C, Mon-Williams M, Mushtaq F, Ryan Morehead J  
+[bioRxiv:2023.02.27.530169](https://www.biorxiv.org/content/10.1101/2023.02.27.530169v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 48"
+date:   2019-12-20 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Asymptotic limits of sensorimotor adaptation**  
+Albert ST, Jang J, Sheahan H, Teunissen L, Vandevoorde K, Shadmehr R  
+bioRxiv:868406 (2019)  
+[https://www.biorxiv.org/content/10.1101/868406v1](https://www.biorxiv.org/content/10.1101/868406v1)
+
+## 2
+**Attractor dynamics gate cortical information flow during decision-making**  
+Finkelstein A, Fontolan L, Economo MN, Li N, Romani S, Svoboda K  
+bioRxiv:2019.12.14.876425 (2019)  
+[https://www.biorxiv.org/content/10.1101/2019.12.14.876425v1](https://www.biorxiv.org/content/10.1101/2019.12.14.876425v1)
+
+## 3
+**Grasping adjustments to haptic, visual, and visuo-haptic object perturbations are contingent on the sensory modality**  
+Camponogara I, Volcic R  
+J Neurophysiol 122:2614–2620 (2019)  
+[https://dx.doi.org/10.1152/jn.00452.2019](https://dx.doi.org/10.1152/jn.00452.2019)
+
+## 4
+**Multimodal stimuli modulate rapid visual responses during reaching**  
+Glover IS, Baker SN  
+J Neurophysiol 122:1894–1908 (2019)  
+[https://dx.doi.org/10.1152/jn.00158.2019](https://dx.doi.org/10.1152/jn.00158.2019)
+
+## 5
+**Precise timing is ubiquitous, consistent, and coordinated across a comprehensive, spike-resolved flight motor program**  
+Putney J, Conn R, Sponberg S  
+Proc Natl Acad Sci U S A (2019)  
+[https://dx.doi.org/10.1073/pnas.1907513116](https://dx.doi.org/10.1073/pnas.1907513116)
+
+## 6
+**Latent space visualization, characterization, and generation of diverse vocal communication signals**  
+Sainburg T, Thielk M, Gentner TQ  
+bioRxiv:870311 (2019)  
+[https://www.biorxiv.org/content/10.1101/870311v1](https://www.biorxiv.org/content/10.1101/870311v1)
+
+## 7
+**Short reaction times in response to multi-electrode intracortical microstimulation may provide a basis for rapid movement-related feedback**  
+Sombeck JT, Miller LE  
+J Neural Eng 17:016013 (2019)  
+[https://dx.doi.org/10.1088/1741-2552/ab5cf3](https://dx.doi.org/10.1088/1741-2552/ab5cf3)
+
+## 8
+**Quantifying exploration in reward-based motor learning**  
+van Mastrigt NM, Smeets JBJ, van der Kooij K  
+bioRxiv:869735 (2019)  
+[https://www.biorxiv.org/content/10.1101/869735v1.article-info](https://www.biorxiv.org/content/10.1101/869735v1.article-info)
+
+## 9
+**Forelimb movements evoked by optogenetic stimulation of the macaque motor cortex**  
+Watanabe H, Sano H, Chiken S, Kobayashi K, Fukata Y, Fukata M, Mushiake H, Nambu A  
+bioRxiv:2019.12.13.876219 (2019)  
+[https://www.biorxiv.org/content/10.1101/2019.12.13.876219v1](https://www.biorxiv.org/content/10.1101/2019.12.13.876219v1)
+
+## 10
+**Deep Convolutional Neural Networks as Models of the Visual System: Q&A**  
+Lindsay, G  
+Neurdiness (2019)  
+[https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/](https://neurdiness.wordpress.com/2018/05/17/deep-convolutional-neural-networks-as-models-of-the-visual-system-qa/)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

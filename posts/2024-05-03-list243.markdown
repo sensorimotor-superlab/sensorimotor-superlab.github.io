@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Reading List 243"
+date:   2024-05-03 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Ouvrai opens access to remote virtual reality studies of human behavioural neuroscience**  
+Cesanek E, Shivkumar S, Ingram JN, Wolpert DM  
+[Nat Hum Behav](https://www.nature.com/articles/s41562-024-01834-7)
+
+## 2
+**Why animals can outrun robots**  
+Burden SA, Libby T, Jayaram K, Sponberg S, Donelan JM  
+[Sci Robot](https://www.science.org/doi/10.1126/scirobotics.adi9754)
+
+## 3
+**Personality traits vary in their association with brain activity across situations**  
+Hardikar S, McKeown B, Turnbull A, Xu T, Valk SL, Bernhardt BC, Margulies DS, Milham MP, Jefferies E, Leech R, Villringer A, Smallwood J  
+[bioRxiv:2024.04.18.590056](https://www.biorxiv.org/content/10.1101/2024.04.18.590056v1.abstract)
+
+## 4
+**Abstract deliberation by visuomotor neurons in prefrontal cortex**  
+Charlton JA, Goris RLT  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01635-1)
+
+## 5
+**Intracranial recordings reveal three distinct neural response patterns in the language network**  
+Regev TI, Casto C, Hosseini EA, Adamek M, Brunner P, Fedorenko E  
+[bioRxiv:2022.12.30.522216](https://www.biorxiv.org/content/10.1101/2022.12.30.522216v4.abstract)
+
+## 6
+**Brain-wide arousal signals are segregated from movement planning in the superior colliculus**  
+Johnston R, Smith MA  
+[bioRxiv:2024.04.26.591284](https://www.biorxiv.org/content/10.1101/2024.04.26.591284v1.abstract)
+
+## 7
+**Sequential predictive learning is a unifying theory for hippocampal representation and replay**  
+Levenstein D, Efremov A, Eyono RH, Peyrache A, Richards BA  
+[bioRxiv:2024.04.28.591528](https://www.biorxiv.org/content/10.1101/2024.04.28.591528v1.abstract)
+
+## 8
+**Two common and distinct forms of variation in human functional brain networks**  
+Dworetsky A, Seitzman BA, Adeyemo B, Smith DM, Petersen SE, Gratton C  
+[bioRxiv:2021.09.17.460799](https://www.biorxiv.org/content/10.1101/2021.09.17.460799v3)
+
+## 9
+**Repix: reliable, reusable, versatile chronic Neuropixels implants using minimal components**  
+Horan M et al.  
+[bioRxiv:2024.04.25.591118](https://www.biorxiv.org/content/10.1101/2024.04.25.591118v2.abstract)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

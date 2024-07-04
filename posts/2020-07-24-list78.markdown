@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Reading List 78"
+date:   2020-07-24 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Passive training with upper extremity exoskeleton robot affects proprioceptive acuity and performance of motor learning**  
+Chiyohara S, Furukawa J-I, Noda T, Morimoto J, Imamizu H  
+Sci Rep 10:11820 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-68711-x](https://dx.doi.org/10.1038/s41598-020-68711-x)
+
+## 2
+**Perceptual responses to microstimulation frequency are spatially organized in human somatosensory cortex**  
+Hughes CL, Flesher SN, Weiss JM, Boninger M, Collinger JL, Gaunt R  
+bioRxiv:2020.07.16.207506 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.16.207506v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.16.207506v1.abstract?%3Fcollection=)
+
+## 3
+**Hierarchical motor adaptations negotiate failures during force field learning**  
+Ikegami T, Ganesh G, Gibo TL, Yoshioka T, Osu R, Kawato M  
+bioRxiv:2020.07.16.207084 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.16.207084v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.16.207084v1.abstract?%3Fcollection=)
+
+## 4
+**Proprioceptive afferents differentially contribute to effortful perception of object heaviness and mass distribution**  
+Mangalam M, Desai N, Singh T  
+bioRxiv:2020.07.18.210401 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.18.210401v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.18.210401v1.abstract?%3Fcollection=)
+
+## 5
+**A neuromechanical model and kinematic analyses for Drosophila larval crawling based on physical measurements**  
+Sun X, Liu Y, Liu C, Mayumi K, Ito K, Nose A, Kohsaka H  
+bioRxiv:2020.07.17.208611 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.17.208611v1](https://www.biorxiv.org/content/10.1101/2020.07.17.208611v1)
+
+## 6
+**Use-dependent plasticity explains aftereffects in visually guided locomotor learning of a novel step length asymmetry**  
+Wood JM, Kim HE, French MA, Reisman DS, Morton SM  
+J Neurophysiol 124:32–39 (2020)  
+[https://dx.doi.org/10.1152/jn.00083.2020](https://dx.doi.org/10.1152/jn.00083.2020)
+
+## 7
+**Re-exposure to a sensorimotor perturbation produces opposite effects on explicit and implicit learning processes**  
+Avraham G, Ryan Morehead J, Kim HE, Ivry RB  
+bioRxiv:2020.07.16.205609 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.16.205609v1](https://www.biorxiv.org/content/10.1101/2020.07.16.205609v1)
+
+## 8
+**Unexpected complexity of everyday manual behaviors**  
+Yan Y, Goodman JM, Moore DD, Solla SA, Bensmaia SJ  
+Nat Commun 11:3564 (2020)  
+[https://dx.doi.org/10.1038/s41467-020-17404-0](https://dx.doi.org/10.1038/s41467-020-17404-0)
+
+## 9
+**Individual differences in frontal midline theta activity during visuomotor adaptation are related to execution noise**  
+Jonker ZD, van der Vliet R, Maquelin G, van der Cruijsen J, Ribbers GM, Selles RW, Donchin O, Frens MA  
+bioRxiv:2020.07.12.188581 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.12.188581v1](https://www.biorxiv.org/content/10.1101/2020.07.12.188581v1)
+
+## 10
+**Dissociable Neural Systems Support the Learning and Transfer of Hierarchical Control Structure**  
+Eichenbaum A, Scimeca JM, D’Esposito M  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0847-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.0847-20.2020)
+
+
+
+# Superlab Papers
+
+**The planning horizon for movement sequences**  
+Ariani G, Kordjazi N, Diedrichsen J  
+bioRxiv:2020.07.15.204529 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.15.204529v2](https://www.biorxiv.org/content/10.1101/2020.07.15.204529v2)
+
+Also see the [tweeprint](https://twitter.com/GiacomoAriani/status/1285204373539258378?s=20).
+
+**Voluntary modification of rapid tactile-motor responses during reaching differs from its visuomotor counterpart**  
+Reschechtko S, Pruszynski JA  
+J Neurophysiol 124:284–294 (2020)  
+[https://dx.doi.org/10.1152/jn.00232.2020](https://dx.doi.org/10.1152/jn.00232.2020)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

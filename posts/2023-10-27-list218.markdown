@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 218"
+date:   2023-10-27 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Attenuation of muscle spindle firing with artificially increased series compliance during stretch of relaxed muscle**  
+Abbott EM, Stephens JD, Simha SN, Wood L, Nardelli P, Cope TC, Sawicki GS, Ting LH  
+[Exp Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/EP090872)
+
+## 2
+**A Unified, Scalable Framework for Neural Population Decoding**  
+Azabou M, Arora V, Ganesh V, Mao X, Nachimuthu S, Mendelson MJ, Richards B, Perich MG, Lajoie G, Dyer EL  
+[arXiv [csLG]](https://arxiv.org/abs/2310.16046)
+
+## 3
+**Presynaptic gating of monkey proprioceptive signals for proper motor action**  
+Tomatsu S, Kim G, Kubota S, Seki K  
+[Nat Commun 14:1–14](https://www.nature.com/articles/s41467-023-42077-w)
+
+## 4
+**Brain-wide representations of prior information in mouse decision-making**  
+Findling C et al.  
+[bioRxiv:2023.07.04.547684](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v4.abstract)
+
+## 5
+**Presynaptic inhibition selectively suppresses leg proprioception in behaving Drosophila**  
+Dallmann CJ, Agrawal S, Cook A, Brunton BW, Tuthill JC  
+[bioRxiv:2023.10.20.563322](https://www.biorxiv.org/content/10.1101/2023.10.20.563322v1.abstract)
+
+## 6
+**Dissociable causal roles of dorsolateral prefrontal cortex and primary motor cortex as a function of motor skill expertise**  
+Nguyen QN, Michon KJ, Lee TG  
+[bioRxiv:2023.10.20.563280](https://www.biorxiv.org/content/10.1101/2023.10.20.563280v1.abstract)
+
+## 7
+**Emergence of a somatosensory tonotopic map for substrate vibration in the brainstem**  
+Lee K-S, de Thomas Wagner D, Sanders M, Huber D  
+[bioRxiv:2023.09.26.559502](https://www.biorxiv.org/content/10.1101/2023.09.26.559502v1.abstract)
+
+## 8
+**Pseudo-linear summation explains neural geometry of multi-finger movements in human premotor cortex**  
+Shah NP, Avansino D, Kamdar F, Nicolas C, Kapitonava A, Vargas-Irwin C, Hochberg L, Pandarinath C, Shenoy K, Willett FR, Henderson J  
+[bioRxiv:2023.10.11.561982](https://www.biorxiv.org/content/10.1101/2023.10.11.561982v1.abstract)
+
+## 9
+**On the Rotational Structure in Neural Data**  
+Kuzmina E, Kriukov D, Lebedev M  
+[bioRxiv:2023.09.11.557230](https://www.biorxiv.org/content/10.1101/2023.09.11.557230v2.abstract)
+
+## 10
+**Bilateral intracortical inhibition during unilateral motor preparation and sequence learning**  
+Hamel R, Waltzing BM, Hinder MR, McAllister CJ, Jenkinson N, Galea JM  
+[bioRxiv:2023.10.19.563212](https://www.biorxiv.org/content/10.1101/2023.10.19.563212v1.abstract)
+
+## 11
+**Noninvasive theta-burst stimulation of the human striatum enhances striatal activity and motor skill learning**  
+Wessel MJ et al.,    
+[Nat Neurosci:1–12](https://www.nature.com/articles/s41593-023-01457-7)
+
+## 12
+**The making of a proprioceptor: a tale of two identities**  
+de Nooij JC, Zampieri N  
+[Trends Neurosci](https://www.cell.com/article/S0166223623002266/abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

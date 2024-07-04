@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 35"
+date:   2019-09-20 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+September is here in full force. The leaves are changing (at least in London Ontario), a new academic year has begun at Western University, and this week's list [goes to 11](https://www.youtube.com/watch?v=KOO5S4vxi0o)!
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Flexible routing of motor control signals through neocortical projection neuron classes**  
+Park, J., Phillips, J.A., Martin, K.A., Hantman, A.W., and Dudman, J.T.  
+bioRxiv, 772517 (2019)  
+[https://www.biorxiv.org/content/10.1101/772517v1.abstract](https://www.biorxiv.org/content/10.1101/772517v1.abstract)
+
+# 2
+**Motor behaviour selectively inhibits hair cells activated by forward motion in the lateral line of Zebrafish**  
+Pichler, P., and Lagnado, L.  
+bioRxiv, 772129 (2019)  
+[https://www.biorxiv.org/content/10.1101/772129v1](https://www.biorxiv.org/content/10.1101/772129v1)
+
+## 3
+**Simultaneous multi-area recordings suggest that attention improves performance by reshaping stimulus representations**  
+Ruff, D.A., and Cohen, M.R.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0477-1](https://dx.doi.org/10.1038/s41593-019-0477-1)
+
+## 4
+**A repeated molecular architecture across thalamic pathways**  
+Phillips, J.W., Schulmann, A., Hara, E., Winnubst, J., Liu, C., Valakh, V., Wang, L., Shields, B.C., Korff, W., Chandrashekar, J., Lemire, A.L., Mensh, B., Dudman, J.T., Nelson, S.B., Hantman, A.W.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0483-3](https://dx.doi.org/10.1038/s41593-019-0483-3)
+
+## 5
+**Motor cortical beta transients delay movement initiation and track errors**  
+Little, S., Bonaiuto, J., Barnes, G., and Bestmann, S.  
+bioRxiv, 384370 (2019)  
+[https://www.biorxiv.org/content/10.1101/384370v1](https://www.biorxiv.org/content/10.1101/384370v1)
+
+## 6
+**Modulation of local field potentials and neuronal activity in primate hippocampus during saccades**  
+Doucet, G., Gulli, R.A., Corrigan, B.W., Duong, L.R., and Martinez-Trujillo, J.C.  
+Hippocampus (2019)  
+[https://dx.doi.org/10.1002/hipo.23140](https://dx.doi.org/10.1002/hipo.23140)
+
+## 7
+**Neocortical inhibitory interneuron subtypes display distinct responses to synchrony and rate of inputs**  
+Tran, M.M., Prince, L.Y., Gray, D., Saad, L., Chasiotis, H., Kwag, J., Kohl, M.M., and Richards, B.A.  
+bioRxiv, 671248 (2019)  
+[https://www.biorxiv.org/content/10.1101/671248v3](https://www.biorxiv.org/content/10.1101/671248v3)
+
+## 8
+**Eye movements support behavioral pattern completion**  
+Wynn, J.S., Ryan, J.D., and Buchsbaum, B.R.  
+bioRxiv, 764084 (2019)  
+[https://www.biorxiv.org/content/10.1101/764084v1](https://www.biorxiv.org/content/10.1101/764084v1)
+
+## 9
+**Parietal Cortex Integrates Visual and Oculomotor Signals to Update Grasp Plans**  
+Baltaretu, B.R., Monaco, S., Velji-Ibrahim, J., Luabeya, G.N., and Crawford, J.D.  
+bioRxiv, 758532 (2019)  
+[https://www.biorxiv.org/content/10.1101/758532v1](https://www.biorxiv.org/content/10.1101/758532v1)
+
+## 10
+**Stimulus-Locked Responses on Human Upper Limb Muscles and Corrective Reaches are Preferentially Evoked by Low Spatial Frequencies**  
+Kozak, R.A., Kreyenmeier, P., Gu, C., Johnston, K., and Corneil, B.D.  
+bioRxiv, 690354 (2019)  
+[https://www.biorxiv.org/content/10.1101/690354v1](https://www.biorxiv.org/content/10.1101/690354v1)
+
+## 11
+**Neural Signal Processing (UCSD COGS118C)**  
+Course material including course documents, finished slides in .pdf, and assignments for a UC San Diego  course taught by Richard Gao, on Signal Processing for Neuroscientists.  
+[https://github.com/rdgao/COGS118C](https://github.com/rdgao/COGS118C)
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

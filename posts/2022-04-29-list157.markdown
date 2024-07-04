@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Reading List 157"
+date:   2022-04-29 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Predicting individual skill learning, a cautionary tale**  
+Abeles D, Hertzage J, Shahar M, Censor N  
+[bioRxiv:2022.04.24.489296](https://www.biorxiv.org/content/10.1101/2022.04.24.489296v1)
+
+## 2
+**Neural excursions from manifold structure explain patterns of learning during human sensorimotor adaptation**  
+Areshenkoff C, Gale DJ, Standage D, Nashed JY, Flanagan JR, Gallivan JP  
+[Elife 11](https://dx.doi.org/10.7554/eLife.74591)
+
+## 3
+**Time and tide of cerebellar synchrony**  
+De Zeeuw CI, Romano V  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2204155119)
+
+## 4
+**Subthalamic nucleus stabilizes movements by reducing neural spike variability in monkey basal ganglia**  
+Hasegawa T, Chiken S, Kobayashi K, Nambu A  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-29750-2)
+
+## 5
+**Sequential sampling from memory underlies action selection during abstract decision-making**  
+Shushruth S, Zylberberg A, Shadlen MN  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.03.014)
+
+## 6
+**Dissociable use-dependent processes for volitional goal-directed reaching**  
+Tsay JS, Kim HE, Saxena A, Parvin DE, Verstynen T, Ivry RB  
+[Proc Biol Sci](https://dx.doi.org/10.1098/rspb.2022.0415)
+
+## 7
+**Short latency stretch reflexes depend on the balance of activity in agonist and antagonist muscles during ballistic elbow movements**  
+Villamar Z, Ludvig D, Perreault EJ  
+[bioRxiv:2021.12.06.471376](https://www.biorxiv.org/content/10.1101/2021.12.06.471376v2)
+
+## 8
+**Malleability of the cortical hand map following a finger nerve block**  
+Wesselink DB, Sanders Z-B, Edmondson LR, Dempsey-Jones H, Kieliba P, Kikkert S, Themistocleous AC, Emir U, Diedrichsen J, Saal HP, Makin TR  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.abk2393)
+
+
+## Superlab Papers
+
+**Evaluating brain parcellations using the distance-controlled boundary coefficient**  
+Zhi D, King M, Hernandez-Castillo CR, Diedrichsen J  
+[Hum Brain Mapp](https://dx.doi.org/10.1002/hbm.25878)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

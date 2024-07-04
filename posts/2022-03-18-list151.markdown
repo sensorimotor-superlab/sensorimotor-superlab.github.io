@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 151"
+date:   2022-03-18 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Synapse-type-specific competitive Hebbian learning forms functional recurrent networks**  
+Eckmann S, Gjorgjieva J  
+[bioRxiv:2022.03.11.483899](https://www.biorxiv.org/content/10.1101/2022.03.11.483899v1)
+
+## 2
+**Principles of human movement augmentation and the challenges in making it a reality**  
+Eden J, Bräcklein M, Ibáñez J, Barsakcioglu DY, Di Pino G, Farina D, Burdet E, Mehring C  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-28725-7)
+
+## 3
+**Cortico-fugal regulation of predictive coding**  
+Lesicko AMH, Angeloni CF, Blackwell JM, De Biasi M, Geffen MN  
+[Elife](https://dx.doi.org/10.7554/eLife.73289)
+
+## 4
+**Texture is encoded in precise temporal spiking patterns in primate somatosensory cortex**  
+Long KH, Lieber JD, Bensmaia SJ  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-28873-w)
+
+## 5
+**A secondary motor area contributing to interlimb coordination during visually guided locomotion in the cat**  
+Nakajima T, Fortier-Lebel N, Drew T  
+[Cereb Cortex](https://dx.doi.org/10.1093/cercor/bhac068)
+
+## 6
+**Neural correlates of blood flow measured by ultrasound**  
+Nunez-Elizalde AO, Krumin M, Reddy CB, Montaldo G, Urban A, Harris KD, Carandini M  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.02.012)
+
+## 7
+**Motor cortical output for skilled forelimb movement is selectively distributed across projection neuron classes**  
+Park J, Phillips JW, Guo J-Z, Martin KA, Hantman AW, Dudman JT  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abj5167)
+
+## 8
+**Interpreting dynamics of neural activity after dimensionality reduction**  
+Proix T, Perich MG, Milekovic T  
+[bioRxiv:2022.03.04.482986](https://www.biorxiv.org/content/10.1101/2022.03.04.482986v1)
+
+## 9
+**Putting perception into action: Inverse optimal control for continuous psychophysics**  
+Straub D, Rothkopf CA  
+[bioRxiv:2021.12.23.473976](https://www.biorxiv.org/content/10.1101/2021.12.23.473976v1)
+
+## 10
+**Implicit sensorimotor adaptation is preserved in Parkinson’s Disease**  
+Tsay JS, Najafi T, Schuck L, Wang T, Ivry RB  
+[bioRxiv:2022.03.11.484047](https://www.biorxiv.org/content/10.1101/2022.03.11.484047v1.abstract?%3Fcollection=)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

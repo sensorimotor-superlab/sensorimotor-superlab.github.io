@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 206"
+date:   2023-05-12 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Spike-phase coupling patterns reveal laminar identity in primate cortex**  
+Davis Z, Dotson N, Franken T, Muller L, Reynolds J  
+[eLife](https://dx.doi.org/10.7554/elife.84512)
+
+**ChatGPT summary**: Researchers have developed a new method for identifying the boundaries that separate laminar compartments in the cortex, using a pattern of laminar spike-field phase relationships that can be detected in recordings from multiple cortical areas in non-human primates. This method can estimate laminar identity rapidly and accurately without requiring averaging or specific evoked activity, making it a useful alternative to current-source density analysis.
+
+## 2
+**Revealing unexpected complex encoding but simple decoding mechanisms in motor cortex via separating behaviorally relevant neural signals**  
+Li Y, Zhu X, Qi Y, Wang Y  
+[bioRxiv](https://dx.doi.org/10.1101/2022.11.13.515644)
+
+**ChatGPT summary**: This article discusses the difficulty in studying motor cortex encoding and decoding mechanisms due to the entanglement of behaviorally-relevant and irrelevant signals. The authors propose a framework to separate these signals, and their findings suggest that previously considered useless neural responses actually encode rich behavioral information, demonstrating that movement behaviors occupy a higher-dimensional neural space than previously thought.
+
+## 3
+**Flexible locomotion in complex environments: the influence of species, speed and sensory feedback on panarthropod inter-leg coordination**  
+Nirody JA  
+[J Exp Biol](https://dx.doi.org/10.1242/jeb.245111)
+
+**ChatGPT summary**: In this review the author discusses the variability of walking coordination in panarthropods (a group that includes arthropods, tardigrades, and onychophorans) across different terrains, and how sensory feedback and local pattern-generating activity, along with factors like species, walking speed, and behavioral goal, play a significant role. The author highlights the importance of designing experiments that reflect natural environments, integrating various experimental techniques (like neurophysiological and biomechanical studies), and expanding data collection across a wider range of species for future comparisons.
+
+## 4
+**Exploration biases how forelimb reaches to a spatial target are learned**  
+Mosberger A, Sibener L, Chen T, Rodrigues H, Hormigo R, Ingram J, Athalye V, Tabachnik T, Wolpert D, Murray J, Costa R  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.08.539291)
+
+**ChatGPT summary**: The study introduces a new task where mice use a joystick to reach a circular target area and investigates how different variables affect which strategies the mice use to perform the task. The study found that the mice gradually learned to reach the target and their strategy was influenced by individual exploratory behavior during training.
+
+## 5
+**Neural spike signatures determine the behavioral presentation of cerebellar disease**  
+van der Heijden M, Brown A, Kizek D, Sillitoe R  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.07.539767)
+
+**ChatGPT summary**: The study aimed to investigate whether the neural spike activity of cerebellar output neurons can predict the phenotypic presentation of cerebellar pathophysiology. Using in vivo recordings, a supervised classifier model was trained to differentiate the spike parameters between mouse models for ataxia, dystonia, and tremor. The research found that distinct spike signatures promote the behavioral presentation of cerebellar diseases, and mimicking these pathophysiological spike signatures with optogenetics induced the predicted motor impairments in otherwise healthy mice.
+
+## 6
+**Whole mouse body histology using standard IgG antibodies**  
+Mai H, Luo J, Hoeher L, Al-Maskari R, Horvath I, Paetzold J, Todorov M, Hellal F, Ertürk A  
+[bioRxiv](https://dx.doi.org/10.1101/2023.02.17.528921)
+
+**ChatGPT summary**: A new technology called wildDISCO uses cholesterol extraction to enable deep tissue penetration of standard antibodies in chemically fixed whole mice, allowing for the generation of whole-body maps of the nervous, immune, and lymphatic systems. These whole mouse atlases are available online and allow for the disentanglement of complex anatomical structures between organs and biological systems.
+
+## 7
+**Open Review of "Open Review of 'A somato-cognitive action network alternates with effector regions in motor cortex' (Gordon et al., 2023)"**  
+Dosenbach NUF, Gordon EM  
+[dosenbachlab.wustl.edu](https://dosenbachlab.wustl.edu/media/papers/response_to_muret_et_al_20230504_v2.pdf)
+
+## 8
+**Modulation of somatosensory signal transmission in the primate cuneate nucleus during voluntary hand movement**  
+Kubota S, Sasaki C, Kikuta S, Ito S, Gomi H, Oya T, Seki K  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.09.540100)
+
+**ChatGPT summary**: The study found that sensory signals are attenuated during voluntary movement in the primate cuneate nucleus, an early processing site in the ascending lemniscus pathway, suggesting that psychological attenuation of somatosensation could be ascribed to the cuneate. The results also reveal that this sensory attenuation was of descending origin, suggesting that cortical sensory prediction signals could regulate cuneate sensory transmission for extracting meaningful, and attenuate unnecessary, signals for movement regulation.
+
+## 9
+**The developmental timing of spinal touch processing alterations and its relation to ASD-associated behaviors in mouse models**  
+Tasnim A, Alkislar I, Hakim R, Turecek J, Abdelaziz A, Orefice L, Ginty D  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.09.539589)
+
+**ChatGPT summary**: Multiple mouse models of autism exhibit altered somatosensory behaviors, with some models showing changes in embryonic development while others develop changes later in life. Tactile over-reactivity during neonatal development is linked to anxiety-like behaviors and social interaction deficits in adulthood, while tactile over-reactivity that emerges later in life is not, and the timing of aberrant touch processing can predict ASD-associated behaviors in mouse models.
+
+## 10
+**Push–Pull Control of Motor Output**  
+Johnson M, Hyngstrom A, Manuel M, Heckman C  
+[J. Neurosci.](https://dx.doi.org/10.1523/jneurosci.4709-11.2012)
+
+**ChatGPT summary**: This study reveals the presence and functional impact of a push-pull mechanism in the motor output stage of the feline spinal cord, where increasing inhibition can paradoxically result in increased neuron excitability and force output. Specifically, it was found that the stronger the background of inhibition, the greater the peak force production, illustrating the role of this paradoxical push-pull organization in modulating synaptic currents and overall system performance.
+
+## 11
+**Voluntary muscle coactivation in quiet standing elicits reciprocal rather than coactive agonist-antagonist control of reactive balance**  
+Martino G, Beck O, Ting L  
+[Journal of Neurophysiology](https://dx.doi.org/10.1152/jn.00458.2022)
+
+**ChatGPT summary**: The study aimed to investigate the relationship between feedforward and feedback muscle coactivation in response to postural perturbations in young adults. Contrary to their hypothesis, it was found that feedforward muscle coactivation did not increase intrinsic resistance to perturbations, but rather elicited medium- to long-latency increases of feedback-mediated agonist activity and reductions in feedback-mediated antagonist activity, enabling quicker joint torque generation. This suggests that the use of feedforward muscle coactivation could enable quicker joint torque generation through reciprocal, rather than coactivated, agonist-antagonist feedback muscle activity and may be useful for agility over stability.
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

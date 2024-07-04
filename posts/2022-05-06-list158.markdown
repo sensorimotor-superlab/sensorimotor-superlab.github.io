@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 158"
+date:   2022-05-06 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**On the dimensionality of behavior**  
+Bialek W  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2021860119)
+
+## 2
+**Modular lung ventilation in Boa constrictor**  
+Capano JG, Boback SM, Weller HI, Cieri RL, Zwemer CF, Brainerd EL  
+[J Exp Biol](https://dx.doi.org/10.1242/jeb.243119)
+
+## 3
+**Population coding strategies in human tactile afferents**  
+Corniani G, Casal MA, Panzeri S, Saal HP  
+[bioRxiv:2022.05.04.490609](https://www.biorxiv.org/content/10.1101/2022.05.04.490609v1)
+
+## 4
+**A Model for Self-Organization of Sensorimotor Function: Spinal Interneuronal Integration**  
+Enander JMD, Loeb GE, Jorntell H  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00054.2022)
+
+## 5
+**The role of intraspinal sensory neurons in the control of quadrupedal locomotion**  
+Gerstmann K, Jurčić N, Blasco E, Kunz S, de Almeida Sassi F, Wanaverbecq N, Zampieri N  
+[Curr Biol](https://www.cell.com/article/S0960982222005887/abstract)
+
+## 6
+**Molecular and neural basis of pleasant touch sensation**  
+Liu B, Qiao L, Liu K, Liu J, Piccinni-Ash TJ, Chen Z-F  
+[Science](https://dx.doi.org/10.1126/science.abn2479)
+
+## 7
+**Rational arbitration between statistics and rules in human sequence processing**  
+Maheu M, Meyniel F, Dehaene S  
+[Nat Hum Behav](https://dx.doi.org/10.1038/s41562-021-01259-6)
+
+## 8
+**Beyond body maps: Information content of specific body parts is distributed across the somatosensory homunculus**  
+Muret D, Root V, Kieliba P, Clode D, Makin TR  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.110523)
+
+## 9
+**Motor and Visual Plasticity Interact in Adult Humans**  
+Sari ID, Lunghi C  
+[bioRxiv:2022.05.03.490377](https://www.biorxiv.org/content/10.1101/2022.05.03.490377v1)
+
+## 10
+**Theories of consciousness**  
+Seth AK, Bayne T  
+[Nat Rev Neurosci](https://www.nature.com/articles/s41583-022-00587-4)
+
+## 11
+**A common framework for discriminability and perceived intensity of sensory stimuli**  
+Zhou J, Duong LR, Simoncelli EP  
+[bioRxiv:2022.04.30.490146](https://www.biorxiv.org/content/10.1101/2022.04.30.490146v1)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

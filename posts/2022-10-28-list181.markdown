@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 181"
+date:   2022-10-28 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Learning shapes cortical dynamics to enhance integration of relevant sensory input**  
+Chadwick A, Khan AG, Poort J, Blot A, Hofer SB, Mrsic-Flogel TD, Sahani M  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.10.001)
+
+## 2
+**Spike-phase coupling patterns reveal laminar identity in primate cortex**  
+Davis ZW, Dotson NM, Franken T, Muller L, Reynolds J  
+[bioRxiv:2022.10.26.513932](https://www.biorxiv.org/content/10.1101/2022.10.26.513932v1)
+
+## 3
+**Concurrent Contribution of Co-contraction to Error Reduction during Dynamic Adaptation of the Wrist**  
+Farrens AJ, Schmidt K, Cohen H, Sergi F  
+[bioRxiv:2022.10.26.513872](https://www.biorxiv.org/content/10.1101/2022.10.26.513872v1)
+
+## 4
+**Bayesian multilevel hidden Markov models identify stable state dynamics in longitudinal recordings from macaque primary motor cortex**  
+Kirchherr S, Moraga SM, Coudé G, Bimbi M, Ferrari PF, Aarts E, Bonaiuto JJ  
+[bioRxiv:2022.10.17.512024](https://www.biorxiv.org/content/10.1101/2022.10.17.512024v1)
+
+## 5
+**Birdsong**  
+Mooney R  
+[Curr Biol](https://www.cell.com/current-biology/fulltext/S0960-9822(22)01107-1)
+
+## 6
+**Coding of latent variables in sensory, parietal, and frontal cortices during closed-loop virtual navigation**  
+Noel J-P, Balzani E, Avila E, Lakshminarasimhan KJ, Bruni S, Alefantis P, Savin C, Angelaki DE  
+[Elife](https://dx.doi.org/10.7554/eLife.80280)
+
+## 7
+**Neural dynamics of causal inference in the macaque frontoparietal circuit**  
+Qi G, Fang W, Li S, Li J, Wang L  
+[Elife](https://dx.doi.org/10.7554/eLife.76145)
+
+## 8
+**Braking slows passive flexion during goal-directed movements of a small limb**  
+Rossoni S, Niven JE  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.08.052)
+
+## 9
+**Bright multicolor labeling of neuronal circuits with fluorescent proteins and chemical tags**  
+Sakaguchi R, Leiwe MN, Imai T  
+[Elife](https://dx.doi.org/10.7554/eLife.40350)
+
+## 10
+**Local prediction-learning enables neural networks to plan**  
+Stöckl C, Maass W  
+[bioRxiv:2022.10.17.512572](https://www.biorxiv.org/content/10.1101/2022.10.17.512572v1)
+
+## 11
+**Mechanotransduction events at the physiological site of touch detection**  
+Ziolkowski LH, Gracheva EO, Bagriantsev SN  
+[bioRxiv:2022.10.23.513402](https://www.biorxiv.org/content/10.1101/2022.10.23.513402v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 86"
+date:   2020-09-18 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**An associative learning account of sensorimotor adaptation**  
+Avraham G, Taylor JA, Ivry RB, McDougle SD  
+bioRxiv:2020.09.14.297143 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.14.297143v1](https://www.biorxiv.org/content/10.1101/2020.09.14.297143v1)
+
+## 2
+**Reinforcement Signaling Can Be Used to Reduce Elements of Cerebellar Reaching Ataxia**  
+Therrien AS, Statton MA, Bastian AJ  
+Cerebellum (2020)  
+[https://dx.doi.org/10.1007/s12311-020-01183-x](https://dx.doi.org/10.1007/s12311-020-01183-x)
+
+## 3
+**Spatiotemporal dissociation of fMRI activity in the caudate nucleus underlies human de novo motor skill learning**  
+Choi Y, Shin EY, Kim S  
+Proc Natl Acad Sci USA (2020)  
+[https://dx.doi.org/10.1073/pnas.2003963117](https://dx.doi.org/10.1073/pnas.2003963117)
+
+## 4
+**Use of Peripheral Sensory Information for Central Nervous Control of Arm Movement by Octopus vulgaris**  
+Gutnick T, Zullo L, Hochner B, Kuba MJ  
+Curr Biol (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.08.037](https://dx.doi.org/10.1016/j.cub.2020.08.037)
+
+## 5
+**A cerebellar internal model calibrates a feedback controller involved in sensorimotor control**  
+Markov DA, Petrucco L, Kist AM, Portugues R  
+bioRxiv:2020.02.12.945956 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.12.945956v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.02.12.945956v2.abstract?%3Fcollection=)
+
+## 6
+**Minimally dependent activity subspaces for working memory and motor preparation in the lateral prefrontal cortex**  
+Tang C, Herikstad R, Parthasarathy A, Libedinsky C, Yen S-C  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.58154](https://dx.doi.org/10.7554/eLife.58154)
+
+## 7
+**Sensory feedback-dependent coding of arm position in local field potentials of the posterior parietal cortex**  
+VanGilder P, Shi Y, Apker G, Buneo CA  
+bioRxiv:2020.09.11.293365 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.11.293365v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.09.11.293365v1.abstract?%3Fcollection=)
+
+## 8
+**The probability of choosing both hands depends on an interaction between motor capacity and limb-specific control in chronic stroke**  
+Varghese R, Kutch JJ, Schweighofer N, Winstein CJ  
+Exp Brain Res (2020)  
+[https://dx.doi.org/10.1007/s00221-020-05909-5](https://dx.doi.org/10.1007/s00221-020-05909-5)
+
+# 9
+**The Detailed Organization of the Human Cerebellum Estimated by Intrinsic Functional Connectivity Within the Individual**  
+Xue A, Kong R, Yang Q, Eldaief MC, Angeli P, DiNicola LM, Braga RM, Buckner RL, Thomas Yeo BT  
+bioRxiv:2020.09.15.297911 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.15.297911v1](https://www.biorxiv.org/content/10.1101/2020.09.15.297911v1)
+
+## 10
+**Dense neuronal reconstruction through X-ray holographic nano-tomography**  
+Kuan AT, Phelps JS, Thomas LA, Nguyen TM, Han J, Chen C-L, Azevedo AW, Tuthill JC, Funke J, Cloetens P, Pacureanu A, Lee W-CA  
+Nat Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41593-020-0704-9](https://dx.doi.org/10.1038/s41593-020-0704-9)
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

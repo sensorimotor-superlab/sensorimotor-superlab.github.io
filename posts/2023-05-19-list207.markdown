@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 207"
+date:   2023-05-19 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Neuromorphic sensorimotor loop embodied by monolithically integrated, low-voltage, soft e-skin**  
+Wang W et al.  
+[Science](https://www.science.org/doi/abs/10.1126/science.ade0086)
+
+**ChatGPT summary**: Researchers have created a monolithic soft prosthetic electronic skin (e-skin) through careful design and engineering, capable of mimicking sensory feedback and mechanical properties of natural skin. This advanced e-skin, developed with a trilayer, high-permittivity elastomeric dielectric, offers multimodal perception, neuromorphic pulse-train signal generation, and closed-loop actuation, with efficient energy consumption and medium-scale circuit integration, resembling the biological sensorimotor loop in its responses to varying pressure.
+
+## 2
+**Memory at your fingertips: how viscoelasticity affects tactile neuron signaling**  
+Saal H, Birznieks I, Johansson R  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.15.540820)
+
+**ChatGPT summary**: This study examined the effect of past loading on the responses of first-order tactile neurons in the human fingertip to different loadings representative of object manipulation tasks. The results suggest that tactile neurons signal continuous information about the fingertip's viscoelastic deformation state, shaped by both its recent history and current loading, which may help the brain interpret current force loading for accurate motor commands in interactions with objects.
+
+## 3
+**High-Dimensional Encoding of Movement by Single Neurons in Basal Ganglia Output**  
+Zur G, Larry N, Joshua M  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.17.541090)
+
+**ChatGPT summary**: The Substantia Nigra pars reticulata (SNpr) has been thought to regulate movement execution, but previous studies have mainly focused on saccadic eye movements. However, recordings in monkeys during smooth pursuit and saccades showed diverse reaction patterns in SNpr neurons, indicating a higher coding capacity beyond movement gating.
+
+## 4
+**What are C-tactile afferents and how do they relate to “affective touch”?**  
+Schirmer A, Croy I, Ackerley R  
+[Neuroscience &amp; Biobehavioral Reviews](https://dx.doi.org/10.1016/j.neubiorev.2023.105236)
+
+**ChatGPT summary**: The field of "affective touch," focused on understanding low-threshold C-fiber mechanoreceptors (C-tactile or CT afferents) initially discovered in cats and now pursued in humans, has grown considerably, as explored in a review of over 1000 abstracts and expert opinions. It concludes that while CTs contribute to gentle, affective touch, not all affective touch is necessarily pleasant or reliant on CTs, suggesting that underappreciated aspects of CT signaling could play a crucial role in how humans physically and emotionally connect.
+
+## 5
+**Prefrontal Manifold Geometry Explains Reaction Time Variability**  
+Herikstad R, Libedinsky C  
+[bioRxiv](https://dx.doi.org/10.1101/2023.05.11.540459)
+
+**ChatGPT summary**: This study investigates the neural mechanisms behind the stochastic drift-diffusion model, which proposes that randomness during the accumulation of evidence leads to variability in reaction time. The authors use a dynamical systems approach and microstimulation to analyze primate frontal eye field activity and propose that randomness in evidence accumulation is due to the amplification of noise during movement preparation by the geometry of the frontal eye field manifold.
+
+## 6
+**Glutamatergic cerebellar neurons differentially contribute to the acquisition of motor and social behaviors**  
+van der Heijden M, Rey Hipolito A, Kim L, Kizek D, Perez R, Lin T, Sillitoe R  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-023-38475-9)
+
+**ChatGPT summary**: The study investigates whether different developmental insults to cerebellar neurons affect the ability to acquire cerebellar-dependent behaviors, such as motor and social skills. The research found that altering cortical and nuclei neurons has an impact on both postnatal motor control and social vocalizations, and that normalizing neurotransmission in cortical neurons restores social behaviors while motor deficits persist in adulthood.
+
+## 7
+**Allometric rules for mammalian cortical layer 5 neuron biophysics**  
+Beaulieu-Laroche L, Brown N, Hansen M, Toloza E, Sharma J, Williams Z, Frosch M, Cosgrove G, Cash S, Harnett M  
+[Nature](https://dx.doi.org/10.1038/s41586-021-04072-3)
+
+**ChatGPT summary**: Researchers studying the biophysical properties of neurons across 10 mammalian species discovered conserved rules that control the conductance of voltage-gated potassium and HCN channels, adjusting for larger neurons' decreased surface-to-volume ratio to maintain a consistent conductance per unit brain volume. However, human neurons deviate from these rules, exhibiting much lower voltage-gated potassium and HCN conductances, which points to distinct features in the human cortex.
+
+## 8
+**Biosignal-based co-adaptive user-machine interfaces for motor control**  
+Madduri MM, Burden SA, Orsborn AL  
+[Current Opinion in Biomedical Engineering](https://www.sciencedirect.com/science/article/pii/S2468451123000181)
+
+**Chat GPT summary**: The authors discuss the development of biosignal-based co-adaptive user-machine interfaces for motor control. They examine how these interfaces can be optimised for effective biological interaction, which is of critical importance for biomedical engineering applications.
+
+## 9
+**Cross-Modal Facilitation of Episodic Memory by Sequential Action Execution**  
+Gasser C, Davachi L  
+[Psychol Sci](https://dx.doi.org/10.1177/09567976231158292)
+
+**ChatGPT summary**: The study investigated whether engaging in a familiar sequence of actions can influence memory for unrelated information. The results showed that temporal order memory was significantly enhanced for novel items encoded while participants executed predictable compared with random action sequences, suggesting that engaging in familiar behaviors during novel learning can improve temporal memory.
+
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

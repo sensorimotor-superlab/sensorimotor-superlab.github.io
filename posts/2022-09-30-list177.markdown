@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Reading List 177"
+date:   2022-09-30 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Three aspects of representation in neuroscience**  
+Baker B, Lansdell B, Kording KP  
+[Trends Cogn Sci](https://www.cell.com/article/S1364661322002108/abstract)
+
+## 2
+**Cortical Mechanisms for Reaches Versus Saccades: Progression of Effector-Specificity Through Target Memory to Movement Planning and Execution**  
+Cappadocia DC, Monaco S, Chen Y, Douglas Crawford J  
+[bioRxiv:415562](https://www.biorxiv.org/content/10.1101/415562v1)
+
+## 3
+**GABA facilitates spike propagation through branch points of sensory axons in the spinal cord**  
+Hari K, Lucas-Osma AM, Metz K, Lin S, Pardell N, Roszko DA, Black S, Minarik A, Singla R, Stephens MJ, Pearce RA, Fouad K, Jones KE, Gorassini MA, Fenrich KK, Li Y, Bennett DJ  
+[bioRxiv:2021.01.20.427494](https://biorxiv.org/content/early/2022/04/24/2021.01.20.427494.abstract)
+
+## 4
+**A natural language fMRI dataset for voxelwise encoding models**  
+LeBel A, Wagner L, Jain S, Adhikari-Desai A, Gupta B, Morgenthal A, Tang J, Xu L, Huth AG  
+[bioRxiv:2022.09.22.509104](https://www.biorxiv.org/content/10.1101/2022.09.22.509104v1.abstract?%3Fcollection=)
+
+## 5
+**Preserved neural population dynamics across animals performing similar behaviour**  
+Safaie M, Chang JC, Park J, Miller LE, Dudman JT, Perich MG, Gallego JA  
+[bioRxiv:2022.09.26.509498](https://www.biorxiv.org/content/10.1101/2022.09.26.509498v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

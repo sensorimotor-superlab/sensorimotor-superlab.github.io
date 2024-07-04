@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Reading List 5"
+date:   2019-02-22 08:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here is what we've been reading this week:
+
+1. Cichy, R.M., and Kaiser, D. (2019). [Deep Neural Networks as Scientific Models.](https://www.sciencedirect.com/science/article/pii/S1364661319300348) Trends Cogn. Sci.
+
+2. D'Anna, E., Valle, G., Mazzoni, A., Strauss, I., Iberite, F., Patton, J., Petrini, F.M., Raspopovic, S., Granata, G., Di Iorio, R., et al. (2019). [A closed-loop hand prosthesis with simultaneous intraneural tactile and position feedback.](https://dx.doi.org/10.1126/scirobotics.aau8892) Science Robotics 4, eaau8892.
+
+3. Darmohray, D.M., Jacobs, J.R., Marques, H.G., and Carey, M.R. (2019). [Spatial and Temporal Locomotor Learning in Mouse Cerebellum.](https://www.cell.com/article/S0896627319300650/abstract) Neuron
+
+   Also check out this [fantastic audio-visual visualization](https://twitter.com/meganinlisbon/status/1098133108279324673) of split-belt treadmill adaptation in mice, posted on twitter. Turn up the sound!
+
+4. Koch, G., Bonnì, S., Casula, E.P., Iosa, M., Paolucci, S., Pellicciari, M.C., Cinnera, A.M., Ponzo, V., Maiella, M., Picazio, S., et al. (2018). [Effect of Cerebellar Stimulation on Gait and Balance Recovery in Patients With Hemiparetic Stroke: A Randomized Clinical Trial.](https://dx.doi.org/10.1001/jamaneurol.2018.3639) JAMA Neurol.
+
+5. Lacefield, C.O., Pnevmatikakis, E.A., Paninski, L., and Bruno, R.M. (2019). [Reinforcement Learning Recruits Somata and Apical Dendrites across Layers of Primary Sensory Cortex.](https://dx.doi.org/10.1016/j.celrep.2019.01.093) Cell Rep. 26, 2000–2008.e2.
+
+6. Mendelsohn, A.I., Simon, C.M., Abbott, L.F., Mentis, G.Z., and Jessell, T.M. (2015). [Activity Regulates the Incidence of Heteronymous Sensory-Motor Connections.](https://dx.doi.org/10.1016/j.neuron.2015.05.045) Neuron 87, 111–123.
+
+7. Muthukrishna, M., and Henrich, J. (2019). [A problem in theory.](https://dx.doi.org/10.1038/s41562-018-0522-1) Nature Human Behaviour
+
+8. Ward, N.S., Brander, F., and Kelly, K. (2019). [Intensive upper limb neurorehabilitation in chronic stroke: outcomes from the Queen Square programme.](https://dx.doi.org/10.1136/jnnp-2018-319954) J. Neurol. Neurosurg. Psychiatry.
+
+9. [Introducing eLife’s first computationally reproducible article](https://elifesciences.org/labs/ad58f08d/introducing-elife-s-first-computationally-reproducible-article) (2019). eLife.
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+

@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 198"
+date:   2023-03-10 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**On the money and right on target: How robust are reward and task success effects on implicit motor adaptation?**  
+Al-Fawakhiri N, Ma A, Taylor JA, Kim OA  
+[bioRxiv:2023.02.01.526533](https://www.biorxiv.org/content/10.1101/2023.02.01.526533v1)
+
+## 2
+**Coding of object location by heterogeneous neural populations with spatially dependent correlations in weakly electric fish**  
+Haggard M, Chacron MJ  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010938)
+
+## 3
+**Capacity limits lead to information bottlenecks in ongoing rapid motor behaviours**  
+Moulton RH, Rudie K, Dukelow SP, Benson BW, Scott SH  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0289-22.2023)
+
+## 4
+**Flexible early prospection of potential behavior in working memory**  
+Nasrawi R, Boettcher SEP, van Ede F  
+[bioRxiv:2023.03.01.530584](https://www.biorxiv.org/content/10.1101/2023.03.01.530584v1)
+
+## 5
+**A reassessment of the role of joint receptors in human position sense**  
+Proske U  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06582-0)
+
+## 6
+**Trans-segmental imaging in the spinal cord of behaving mice**  
+Shekhtmeyster P, Duarte D, Carey EM, Ngo A, Gao G, Olmstead JA, Nelson NA, Nimmerjahn A  
+[Nat Biotechnol](https://dx.doi.org/10.1038/s41587-023-01700-3)
+
+## 7
+**Reward-based improvements in motor sequence learning are differentially affected by dopamine**  
+Sporn S, Galea JM  
+[bioRxiv:2023.03.02.530811](https://www.biorxiv.org/content/10.1101/2023.03.02.530811v1?s=31)
+
+## 8
+**Contrary neuronal recalibration in different multisensory cortical areas**  
+Zeng F, Zaidel A, Chen A  
+[Elife 12](https://dx.doi.org/10.7554/eLife.82895)
+
+## 9
+**Light-Guided Rabies Virus Tracing for Neural Circuit Analysis** 
+Zhang S, Ma Y, Ngamkanjanarat W, Takahashi S, Gibbs D, Coleman T, Doan S, Kyriakakis P  
+[bioRxiv:2023.03.04.531104](https://www.biorxiv.org/content/10.1101/2023.03.04.531104v1)
+
+
+## Superlab Papers
+
+**Done in 65 ms: Express visuomotor responses in upper limb muscles in Rhesus Macaques**  
+Cecala AL, Kozak RA, Andrew Pruszynski J, Corneil BD  
+[bioRxiv:2023.03.02.530807](https://www.biorxiv.org/content/10.1101/2023.03.02.530807v1)
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

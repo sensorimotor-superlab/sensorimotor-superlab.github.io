@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Reading List 150"
+date:   2022-03-11 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**A practical guide for studying human behavior in the lab**  
+Barbosa J, Stein H, Zorowitz S, Niv Y, Summerfield C, Soto-Faraco S, Hyafil A  
+[Behav Res Methods](https://doi.org/10.3758/s13428-022-01793-9)
+
+## 2
+**Secondary auditory cortex mediates a sensorimotor mechanism for action timing**  
+Cook JR, Li H, Nguyen B, Huang H-H, Mahdavian P, Kirchgessner MA, Strassmann P, Engelhardt M, Callaway EM, Jin X  
+[Nat Neurosci](https://www.nature.com/articles/s41593-022-01025-5)
+
+## 3
+**Separability of Human Motor Memories during Reaching Adaptation with Force Cues**  
+Crevecoeur F, Mathew J, Lefèvre P  
+[bioRxiv:2022.02.28.482223](https://www.biorxiv.org/content/10.1101/2022.02.28.482223v1)
+
+## 4
+**Frequency shapes the quality of tactile percepts evoked through electrical stimulation of the nerves**  
+Graczyk EL, Christie BP, He Q, Tyler DJ, Bensmaia SJ  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.1494-21.2021)
+
+## 5
+**A midbrain-thalamus-cortex circuit reorganizes cortical dynamics to initiate movement**  
+Inagaki HK, Chen S, Ridder MC, Sah P, Li N, Yang Z, Hasanbegovic H, Gao Z, Gerfen CR, Svoboda K  
+[Cell](https://dx.doi.org/10.1016/j.cell.2022.02.006)
+
+## 6
+**The role of higher order thalamus during learning and correct performance in goal-directed behavior**  
+La Terra D, Rosier M, Bjerre A-S, Masuda R, Ryan TJ, Palmer LM  
+[Elife 11](https://dx.doi.org/10.7554/eLife.77177)
+
+## 7
+**Decoding cognition from spontaneous neural activity**  
+Liu Y, Nour MM, Schuck NW, Behrens TEJ, Dolan RJ  
+[Nat Rev Neurosci](https://www.nature.com/articles/s41583-022-00570-z)
+
+## 8
+**Retinal optic flow during natural locomotion**  
+Matthis JS, Muller KS, Bonnen KL, Hayhoe MM  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1009575)
+
+## 9
+**The influence of movement-related costs when searching to act and acting to search**  
+Moskowitz JB, Berger SA, Castelhano MS, Gallivan JP, Flanagan JR  
+[bioRxiv:2022.03.01.482521](https://www.biorxiv.org/content/10.1101/2022.03.01.482521v1)
+
+## 10
+**Cortico-striatal circuits for bilaterally coordinated movements**  
+Pimentel-Farfan AK, Báez-Cordero AS, Peña-Rangel TM, Rueda-Orozco PE  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abk2241)
+
+## 11
+**Proactive inhibition is marked by differences in the pattern of motor cortex activity during movement preparation and execution**  
+Rawji V, Modi S, Rocchi L, Jahanshahi M, Rothwell J  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00359.2021)
+
+## 12
+**Controversies and current progress on large-scale brain network nomenclature from OHBM WHATNET: Workgroup for HArmonized Taxonomy of NETworks**  
+Uddin LQ et al.  
+[OSF Preprints](https://dx.doi.org/10.31219/osf.io/25za6)
+
+## 13
+**Cortical processing of flexible and context-dependent sensorimotor sequences**  
+Xu D, Dong M, Chen Y, Delgado AM, Hughes NC, Zhang L, O’Connor DH  
+[Nature](https://www.nature.com/articles/s41586-022-04478-7)
+
+## 14
+**Time-of-day matters - pronounced regional morning-to-evening effects in structural brain metrics**  
+Zareba MR, Fafrowicz M, Marek T, Beldzik E, Oginska H, Domagalik A  
+[bioRxiv:2022.03.06.483163](https://www.biorxiv.org/content/10.1101/2022.03.06.483163v1)
+
+## 15
+**A New Power Law Linking the Speed to the Geometry of Tool-Tip Orientation in Teleoperation of a Robot-Assisted Surgical System**  
+Zruya O, Sharon Y, Kossowsky H, Forni F, Geftler A, Nisky I  
+[bioRxiv:2022.03.02.482648](https://www.biorxiv.org/content/10.1101/2022.03.02.482648v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 200"
+date:   2023-03-24 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Thalamus drives vocal onsets in the zebra finch courtship song**  
+Moll F, Kranz D, Corredera Asensio A, Elmaleh M, Ackert-Smith L, Long M  
+[Nature](http://dx.doi.org/10.1038/s41586-023-05818-x)
+
+## 2
+**Fascicle dynamics of the tibialis anterior muscle reflect whole-body walking economy**  
+Kwak S, Chang Y  
+[Sci Rep](http://dx.doi.org/10.1038/s41598-023-31501-2)
+
+## 3
+**Nerve injury disrupts temporal processing in the spinal cord dorsal horn through alterations in PV+ interneurons**  
+Rankin G, Chirila A, Emanuel A, Zhang Z, Woolf C, Drugowitsch J, Ginty D  
+[bioRxiv](http://dx.doi.org/10.1101/2023.03.20.533541)
+
+## 4
+**Using a chopping task to compare expert and competent motor memory**  
+Nepotiuk A, Brown L  
+[Journal of Neurophysiology](http://dx.doi.org/10.1152/jn.00394.2021)
+
+## 5
+**Three-dimensional reconstructions of mechanosensory end organs suggest a unifying mechanism underlying dynamic, light touch**  
+Handler A, Zhang Q, Pang S, Nguyen T, Iskols M, Nolan-Tamariz M, Cattel S, Plumb R, Sanchez B, Ashjian K, Shotland A, Brown B, Kabeer M, Turecek J, Rankin G, Xiang W, Pavarino E, Africawala N, Santiago C, Lee W, Shan Xu C, Ginty D  
+[bioRxiv](http://dx.doi.org/10.1101/2023.03.17.533188)
+
+## 6
+**Generalization indicates asymmetric and interactive control networks for multi-finger dexterous movements**  
+Kamara G, Rajchert O, Solomonow-Avnon D, Mawase F  
+[Cell Reports](http://dx.doi.org/10.1016/j.celrep.2023.112214)
+
+## 7
+**The Neurochemical Mechanisms Underlying the Enhancing Effects of Rewards and Punishments on Motor Performance**  
+Hamel R, Pearson J, Sifi L, Patel D, Hinder M, Jenkinson N, Galea J  
+[bioRxiv](http://dx.doi.org/10.1101/2023.03.16.532906)
+
+## 8
+**Primate Cerebellar Scaling in Connection to the Cerebrum: A 34-Species Phylogenetic Comparative Analysis**  
+Magielse N, Toro R, Steigauf V, Abbaspour M, Eickhoff S, Heuer K, Valk S  
+[bioRxiv](http://dx.doi.org/10.1101/2023.03.15.532597)
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

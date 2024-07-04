@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 117"
+date:   2021-06-11 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**One-to-one innervation of vocal muscles allows precise control of birdsong**  
+Adam I, Maxwell A, Rößler H, Hansen EB, Vellema M, Brewer J, Elemans CPH  
+Curr Biol (2021) [https://dx.doi.org/10.1016/j.cub.2021.05.008](https://dx.doi.org/10.1016/j.cub.2021.05.008)
+
+## 2
+**The Cortical Motor Areas and the Emergence of Motor Skills: A Neuroanatomical Perspective**  
+Strick PL, Dum RP, Rathelot J-A  
+Annu Rev Neurosci (2021) [https://dx.doi.org/10.1146/annurev-neuro-070918-050216](https://dx.doi.org/10.1146/annurev-neuro-070918-050216)
+
+## 3
+**Neural Substrates of Muscle Co-contraction during Dynamic Motor Adaptation**  
+Babadi S, Vahdat S, Milner TE  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.2924-19.2021](https://dx.doi.org/10.1523/JNEUROSCI.2924-19.2021)
+
+## 4
+**Anatomy of avian rictal bristles in Caprimulgiformes reveals reduced tactile function in open-habitat, partially diurnal foraging species**  
+Delaunay MG, Larsen C, Lloyd H, Sullivan M, Grant RA  
+J Anat 237:355–366 (2020) [https://dx.doi.org/10.1111/joa.13188](https://dx.doi.org/10.1111/joa.13188)
+
+## 5
+**Reactivation-induced motor skill learning**  
+Herszage J, Sharon H, Censor N  
+Proc Natl Acad Sci 118 (2021) [https://dx.doi.org/10.1073/pnas.2102242118](https://dx.doi.org/10.1073/pnas.2102242118)
+
+## 6
+**On the encoding capacity of human motor adaptation**  
+Kim S-Y, Kwon J-W, Kim J-M, Park FC-W, Yeo S-H  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00593.2020](https://dx.doi.org/10.1152/jn.00593.2020)
+
+## 7
+**The influence of stimulus and behavioral histories on predictive control of smooth pursuit eye movements**  
+Miyamoto T, Hirata Y, Katoh A, Miura K, Ono S  
+bioRxiv:2021.06.05.447182 [https://www.biorxiv.org/content/10.1101/2021.06.05.447182v1](https://www.biorxiv.org/content/10.1101/2021.06.05.447182v1)
+
+## 8
+**Augmentation of task-relevant variability enhances consolidation of motor learning**  
+Pagano M, Stochino G, Casadio M, Ranganathan R  
+bioRxiv:2021.06.03.446469 [https://www.biorxiv.org/content/10.1101/2021.06.03.446469v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2021.06.03.446469v1.abstract?%3Fcollection=)
+
+## 9
+**Spinal neurons innervating multiple local and distant motor pools**  
+Ronzano R, Lancelin C, Bhumbra GS, Brownstone RM, Beato M  
+bioRxiv:2021.06.03.446906 [https://www.biorxiv.org/content/10.1101/2021.06.03.446906v2](https://www.biorxiv.org/content/10.1101/2021.06.03.446906v2)
+
+## 10
+**Cerebro-Cerebellar Response to Sequence Violation in a Cognitive Task: an fMRI Study**  
+Sheu Y-S, Desmond JE  
+Cerebellum (2021) [https://dx.doi.org/10.1007/s12311-021-01279-y](https://dx.doi.org/10.1007/s12311-021-01279-y)
+
+## 11
+**The Roles of the Cortical Motor Areas in Sequential Movements**  
+Ohbayashi M  
+Front Behav Neurosci 15:97 (2021) [https://www.frontiersin.org/article/10.3389/fnbeh.2021.640659](https://www.frontiersin.org/article/10.3389/fnbeh.2021.640659)
+
+## 12
+**Mini-review: The Role of the Cerebellum in Visuomotor Adaptation**  
+Tzvi E, Loens S, Donchin O  
+Cerebellum (2021) [https://dx.doi.org/10.1007/s12311-021-01281-4](https://dx.doi.org/10.1007/s12311-021-01281-4)
+
+## 13
+**“impossible” somatosensation and the (Ir)rationality of perception**  
+Won I, Gross S, Firestone C  
+Open Mind:1–12 (2021) [https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00040/102173/Impossible-Somatosensation-and-the-Ir-rationality](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00040/102173/Impossible-Somatosensation-and-the-Ir-rationality)
+
+
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

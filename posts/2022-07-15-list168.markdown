@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Reading List 168"
+date:   2022-07-15 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Amplified cortical neural responses as animals learn to use novel activity patterns**  
+Akitake B, Douglas HM, LaFosse PK, Deveau CE, Li AJ, Ryan LN, Duffy SP, Zhou Z, Deng Y, Histed MH  
+[bioRxiv:2022.07.10.499496](https://www.biorxiv.org/content/10.1101/2022.07.10.499496v1)
+
+## 2
+**A call for more clarity around causality in neuroscience**  
+Barack DL, Miller EK, Moore CI, Packer AM, Pessoa L, Ross LN, Rust NC  
+[Trends Neurosci](https://dx.doi.org/10.1016/j.tins.2022.06.003)
+
+## 3
+**Large-scale capture of hidden fluorescent labels for training generalizable markerless motion capture models**  
+Butler DJ, Keim AP, Ray S, Azim E  
+[bioRxiv:2022.07.07.499213](https://www.biorxiv.org/content/10.1101/2022.07.07.499213v1)
+
+## 4
+**Strike or ball? Batters know it better: an fMRI study of action anticipation in baseball players**  
+Chen Y-H, Chang C-Y, Huang S-K  
+[Cereb Cortex](https://dx.doi.org/10.1093/cercor/bhac271)
+
+## 5
+**Human muscle spindles are wired to function as controllable signal-processing devices**  
+Dimitriou M  
+[eLife](https://elifesciences.org/articles/78091)
+
+## 6
+**Coevolution of motor cortex and behavioral specializations associated with flight and echolocation in bats**  
+Halley AC, Baldwin MKL, Cooke DF, Englund M, Pineda CR, Schmid T, Yartsev MM, Krubitzer L  
+[Curr Biol](https://www.cell.com/article/S0960982222007333/abstract)
+
+## 7
+**Joining a conversation: the problem/gap/hook heuristic**  
+Lingard L  
+[Perspect Med Educ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4602011/)
+
+## 8
+**Parallel planning through an optimal neural subspace in motor cortex**  
+Meirhaeghe N, Riehle A, Brochier T  
+[bioRxiv:2022.07.09.499417](https://www.biorxiv.org/content/10.1101/2022.07.09.499417v1)
+
+## 9
+**Mesoscale cortex-wide neural dynamics predict self-initiated actions in mice several seconds prior to movement**  
+Mitelut C, Zhang Y, Sekino Y, Boyd J, Bolanos F, Swindale NV, Silasi G, Saxena S, Murphy TH  
+[bioRxiv:2021.12.17.473193](https://www.biorxiv.org/content/10.1101/2021.12.17.473193v2)
+
+## 10
+**Parallel processing relies on a distributed, low-dimensional cortico-cerebellar architecture**  
+Müller EJ, Hou KY, Palesi F, Tan J, Close T, Gandini Wheeler-Kingschott CA, D’Angelo E, Calamante F, Shine JM  
+[bioRxiv:2022.07.10.499497](https://www.biorxiv.org/content/10.1101/2022.07.10.499497v1)
+
+## 11
+**Signaling the agency of an erroneous outcome via synchronization of spikes in the cerebellum**  
+Pi JS, Sedaghat-Nejad E, Fakharian MA, Hage P, Shadmehr R  
+[bioRxiv:2022.07.11.499614](https://www.biorxiv.org/content/10.1101/2022.07.11.499614v1)
+
+## 12
+**Neuromechanical Coupling is Reflected in the Spatial Organization of the Spinal Motoneuron Pools**  
+Taitano RI, Yakovenko S, Gritsenko V  
+[bioRxiv:2022.07.09.499432](https://www.biorxiv.org/content/10.1101/2022.07.09.499432v1)
+
+## 13
+**OpenCap: 3D human movement dynamics from smartphone videos**  
+Uhlrich SD, Falisse A, Kidziński Ł, Muccini J, Ko M, Chaudhari AS, Hicks JL, Delp SL  
+[bioRxiv:2022.07.07.499061](https://www.biorxiv.org/content/10.1101/2022.07.07.499061v1)
+
+## 14
+**Multisensory information about changing object properties can be used to quickly correct predictive force scaling for object lifting**  
+van Polanen V  
+[bioRxiv:2022.01.26.477825](https://www.biorxiv.org/content/10.1101/2022.01.26.477825v1)
+
+## 15
+**Disentangling Hierarchical and Sequential Computations during Sentence Processing**  
+Zacharopoulos C-N, Dehaene S, Lakretz Y  
+[bioRxiv:2022.07.08.499161](https://www.biorxiv.org/content/10.1101/2022.07.08.499161v2)
+
+## 16
+**Multiplexing working memory and time: encoding retrospective and prospective information in neural trajectories**  
+Zhou S, Seay M, Taxidis J, Golshani P, Buonomano DV  
+[bioRxiv:2022.07.08.499383](https://www.biorxiv.org/content/10.1101/2022.07.08.499383v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

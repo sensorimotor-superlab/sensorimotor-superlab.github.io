@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Reading List 155"
+date:   2022-04-15 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Is our retina really upside down?**  
+Baden T, Nilsson D-E  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.02.065)
+
+## 2
+**Both Corticospinal and Reticulospinal Tracts Control Force of Contraction**  
+Glover IS, Baker SN  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.0627-21.2022)
+
+## 3
+**Functional characterization of the fronto-parietal reaching and grasping network: Reversible deactivation of M1, areas 2, 5 and 7b in awake behaving monkeys**  
+Goldring AB, Cooke DF, Pineda CR, Recanzone GH, Krubitzer LA  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00279.2021)
+
+## 4
+**Continuity within the somatosensory cortical map facilitates learning**  
+Lassagne H, Goueytes D, Shulz DE, Estebanez L, Ego-Stengel V  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.110617)
+
+## 5
+**Optimal routing to cerebellum-like structures**  
+Muscinelli S, Wagner M, Litwin-Kumar A  
+[bioRxiv:2022.02.10.480014](https://www.biorxiv.org/content/10.1101/2022.02.10.480014v2)
+
+## 6
+**Sensorimotor ability and inhibitory control independently predict attainment in mathematics in children and adolescents**  
+Pickavance JP, Giles OT, Morehead JR, Mushtaq F, Wilkie RM, Mon-Williams M  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00365.2021)
+
+## 7
+**Learnable latent embeddings for joint behavioral and neural analysis**  
+Schneider S, Lee JH, Mathis MW  
+[arXiv [csLG]](https://arxiv.org/abs/2204.00673)
+
+## 8
+**Diverse operant control of different motor cortex populations during learning**  
+Vendrell-Llopis N, Fang C, Qü AJ, Costa RM, Carmena JM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.02.006)
+
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

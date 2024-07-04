@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Reading List 176"
+date:   2022-09-23 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Investigating the online control of goal-directed actions to a tactile target on the body**  
+Abdulrabba S, Tremblay L, Manson GA  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-022-06445-0)
+
+## 2
+**Submillimeter Lateral Displacement Enables Friction Sensing and Awareness of Surface Slipperiness**  
+Afzal N, Stubbs E, Khamis H, Loutit AJ, Redmond SJ, Vickery RM, Wiertlewski M, Birznieks I  
+[IEEE Trans Haptics](https://dx.doi.org/10.1109/TOH.2021.3139890)
+
+## 3
+**Corticothalamic Neurons in Motor Cortex Have a Permissive Role in Motor Execution**  
+Carmona LM, Tun LT, Kim A, Shiao R, Kissner MD, Menon V, Costa RM  
+[bioRxiv:2022.09.20.508799](https://www.biorxiv.org/content/10.1101/2022.09.20.508799v1)
+
+## 4
+**Seeing does not mean processing: Where we look and the visual information we rely on change independently as we learn to walk**  
+Cates A, Gordon K  
+[OSFPreprints](https://osf.io/659cr)
+
+## 5
+**Nav1.1 is essential for proprioceptive signaling and motor behaviors**  
+Espino CM, Lewis CM, Ortiz S, Dalal MS, Garlapalli S, Wells KM, O’Neil DA, Wilkinson KA, Griffith TN  
+[bioRxiv:2022.05.05.490851](https://www.biorxiv.org/content/10.1101/2022.05.05.490851v2)
+
+## 6
+**Two types of motor inhibition after action errors in humans**  
+Guan Y, Wessel JR  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.1191-22.2022)
+
+## 7
+**Error correction and improved precision of spike timing in converging cortical networks**  
+Levi A, Spivak L, Sloin HE, Someck S, Stark E  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.111383)
+
+## 8
+**Triggers for mother love**  
+Livingstone MS  
+[PNAS](https://dx.doi.org/10.1073/pnas.2212224119)
+
+## 9
+**Monosynaptic facilitation of flexor digitorum superficialis motoneurons mediated by Group Ia afferents from the extensor carpi radialis in humans**  
+Nito M, Yoshimoto T, Hashizume W, Sato T, Shimada K, Shindo M, Naito A  
+[Eur J Neurosci](https://dx.doi.org/10.1111/ejn.15784)
+
+## 10
+**A brainstem map for visceral sensations**  
+Ran C, Boettcher JC, Kaye JA, Gallori CE, Liberles SD  
+[Nature](https://dx.doi.org/10.1038/s41586-022-05139-5)
+
+## 11
+**Sensory attenuation from action observation**  
+Scott M  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-022-06460-1)
+
+## 12
+**Perceived tactile intensity at a fixed primary afferent spike rate varies with the temporal pattern of spikes**  
+Sharma D, Ng KKW, Birznieks I, Vickery RM  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00284.2022)
+
+## 13
+**Cell-type-specific population dynamics of diverse reward computations**  
+Sylwestrak EL, Jo Y, Vesuna S, Wang X, Holcomb B, Tien RH, Kim DK, Fenno L, Ramakrishnan C, Allen WE, Chen R, Shenoy KV, Sussillo D, Deisseroth K  
+[Cell](https://dx.doi.org/10.1016/j.cell.2022.08.019)
+
+## 14
+**Self-Supervised Learning Of Brain Dynamics From Broad Neuroimaging Data**  
+Thomas AW, Ré C, Poldrack RA  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2206.11417)
+
+## 15
+**Transformation of primary sensory cortical representations from layer 4 to layer 2**  
+Voelcker B, Pancholi R, Peron S  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-33249-1)
+
+## 16
+**Advanced Feedback Enhances Sensorimotor Adaptation**  
+Wang T, Avraham G, Tsay JS, Thummala T, Ivry RB  
+[bioRxiv:2022.09.14.508027](https://www.biorxiv.org/content/10.1101/2022.09.14.508027v1)
+
+## 17
+**Functionally distinct NPAS4-expressing somatostatin interneuron ensembles critical for motor skill learning**  
+Yang J, Serrano P, Yin X, Sun X, Lin Y, Chen SX  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.08.018)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

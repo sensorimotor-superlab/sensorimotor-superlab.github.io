@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 165"
+date:   2022-06-24 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Dynamical differential covariance recovers directional network structure in multiscale neural systems**  
+Chen Y, Rosen BQ, Sejnowski TJ  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2117234119)
+
+## 2
+**Computational role of exploration noise in error-based de novo motor learning**  
+Dal’Bello LR, Izawa J  
+[Neural Netw](https://www.sciencedirect.com/science/article/pii/S0893608022002246)
+
+## 3
+**Pre-neuronal processing of haptic sensory cues via dispersive high-frequency vibrational modes**  
+Ding Y, Vlasov Y  
+[bioRxiv:2022.06.15.496141](https://www.biorxiv.org/content/10.1101/2022.06.15.496141v1)
+
+## 4
+**Gradient-based learning drives robust representations in recurrent neural networks by balancing compression and expansion**  
+Farrell M, Recanatesi S, Moore T, Lajoie G, Shea-Brown E  
+[Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00498-0)
+
+## 5
+**Two types of motor inhibition after action errors in humans**  
+Guan Y, Wessel JR  
+[bioRxiv:2022.06.17.496641](https://www.biorxiv.org/content/10.1101/2022.06.17.496641v1)
+
+## 6
+**GABA facilitates spike propagation through branch points of sensory axons in the spinal cord**  
+Hari K, Lucas-Osma AM, Metz K, Lin S, Pardell N, Roszko DA, Black S, Minarik A, Singla R, Stephens MJ, Pearce RA, Fouad K, Jones KE, Gorassini MA, Fenrich KK, Li Y, Bennett DJ  
+[bioRxiv:2021.01.20.427494](https://biorxiv.org/content/early/2022/04/24/2021.01.20.427494.abstract)
+
+## 7
+**Fish swimming efficiency**  
+Liao JC  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.04.073)
+
+## 8
+**Learned Motor Patterns Are Replayed in Human Motor Cortex during Sleep**  
+Rubin DB, Hosman T, Kelemen JN, Kapitonava A, Willett FR, Coughlin BF, Halgren E, Kimchi EY, Williams ZM, Simeral JD, Hochberg LR, Cash SS  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.2074-21.2022)
+
+## 9
+**Prediction of external events with our motor system: towards a new framework**  
+Schubotz RI  
+[Trends Cogn Sci](https://dx.doi.org/10.1016/j.tics.2007.02.006)
+
+## 10
+**Distinct trajectories in low-dimensional neural oscillation state space track dynamic decision-making in humans**  
+Thiery T, Rainville P, Cisek P, Jerbi K  
+[bioRxiv:2022.06.14.494674](https://www.biorxiv.org/content/10.1101/2022.06.14.494674v1)
+
+
+## Superlab Papers
+
+**Sensorimotor feedback loops are selectively sensitive to reward**  
+Codol O, Kashefi M, Forgaard CJ, Galea JM, Andrew Pruszynski J, Gribble PL  
+[bioRxiv:2021.09.16.460659](https://www.biorxiv.org/content/10.1101/2021.09.16.460659v3)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

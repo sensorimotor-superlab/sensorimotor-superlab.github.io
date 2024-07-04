@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Reading List 196"
+date:   2023-02-24 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Sensory prediction error drives subconscious motor learning outside of the laboratory**  
+Albert ST, Blaum E, Blustein D  
+[bioRxiv:2023.02.22.529399](https://www.biorxiv.org/content/10.1101/2023.02.22.529399v1)
+
+## 2
+**Hebbian priming of human spinal motor learning**  
+Bjørndal JR, Beck MM, Jespersen L, Christiansen L, Lundbye-Jensen J  
+[bioRxiv:2023.02.17.528541](https://www.biorxiv.org/content/10.1101/2023.02.17.528541v1.abstract?%3Fcollection=)
+
+## 3
+**Ventral premotor cortex influences spinal cord activation during force generation**  
+Braaß H, Feldheim J, Chu Y, Tinnermann A, Finsterbusch J, Büchel C, Schulz R, Gerloff C  
+[bioRxiv:2023.02.22.529375](https://www.biorxiv.org/content/10.1101/2023.02.22.529375v1)
+
+## 4
+**People adapt a consistent center-of-mass trajectory in a novel force field**  
+Bucklin MA, Brown G, Gordon KE  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00391.2021)
+
+## 5
+**Larger and denser: an optimal design for surface grids of EMG electrodes to identify greater and more representative samples of motor units**  
+Caillet AH, Avrillon S, Kundu A, Yu T, Phillips ATM, Modenese L, Farina D  
+[bioRxiv:2023.02.18.529050](https://www.biorxiv.org/content/10.1101/2023.02.18.529050v1)
+
+## 6
+**Ongoing movement controls sensory integration in the dorsolateral striatum**  
+de la Torre-Martinez R, Ketzef M, Silberberg G  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-023-36648-0)
+
+## 7
+**Increased cortical inhibition immediately following brief motor memory reactivation supports reconsolidation and overnight offline learning gains**  
+Eisenstein T, Furman-Haran E, Tal A  
+[bioRxiv:2023.02.21.529358](https://www.biorxiv.org/content/10.1101/2023.02.21.529358v1)
+
+## 8
+**Pupil size encodes uncertainty during exploration**  
+Fan H, Burke TD, Sambrano D, Dial E, Phelps EA, Gershman SJ  
+[PsyArXiv](https://psyarxiv.com/jnu45/)
+
+## 9
+**The developmental basis of fingerprint pattern formation and variation**  
+Glover JD et al.  
+[Cell](https://www.cell.com/article/S0092867423000454/abstract)
+
+## 10
+**How to construct liquid-crystal spectacles to control vision of real-world objects and environments**  
+Gomez MA, Snow JC  
+[Behav Res Methods](https://dx.doi.org/10.3758/s13428-023-02059-8)
+
+## 11
+**Biomimetic Multi-channel Microstimulation of Somatosensory Cortex Conveys High Resolution Force Feedback for Bionic Hands**  
+Greenspon CM et al.  
+[bioRxiv:2023.02.18.528972](https://www.biorxiv.org/content/10.1101/2023.02.18.528972v1)
+
+## 12
+**Age-related increases in reaction time result from slower preparation, not delayed initiation**  
+Hardwick RM, Forrence AD, Costello MG, Zackowski K, Haith AM  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00072.2022)
+
+## 13
+**Statistical power in network neuroscience**  
+Helwegen K, Libedinsky I, van den Heuvel MP  
+[Trends Cogn Sci](https://dx.doi.org/10.1016/j.tics.2022.12.011)
+
+## 14
+**Rate versus synchrony codes for cerebellar control of motor behavior**  
+Herzfeld DJ, Joshua M, Lisberger SG  
+[bioRxiv:2023.02.17.529019](https://www.biorxiv.org/content/10.1101/2023.02.17.529019v1)
+
+## 15
+**Loss of set in muscle responses to limb perturbations during cerebellar dysfunction**  
+Hore J, Vilis T  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.1984.51.6.1137)
+
+## 16
+**Whole mouse body histology using standard IgG antibodies**  
+Mai H, Luo J, Hoeher L, Al-Maskari R, Horvath I, Paetzold JC, Todorov M, Hellal F, Ertürk A  
+[bioRxiv:2023.02.17.528921](https://www.biorxiv.org/content/10.1101/2023.02.17.528921v1.full)
+
+## 17
+**Parallel movement planning is achieved via an optimal preparatory state in motor cortex**  
+Meirhaeghe N, Riehle A, Brochier T  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2023.112136)
+
+## 18
+**Epidural stimulation of the cervical spinal cord for post-stroke upper-limb paresis**  
+Powell MP et al.  
+[Nat Med](https://dx.doi.org/10.1038/s41591-022-02202-6)
+
+## 19
+**Reorganization of corticospinal projections after prominent recovery of finger dexterity from partial spinal cord injury in macaque monkeys**  
+Sawada M, Yoshino-Saito K, Ninomiya T, Oishi T, Yamashita T, Onoe H, Takada M, Nishimura Y, Isa T  
+[bioRxiv:2023.02.19.529046](https://www.biorxiv.org/content/10.1101/2023.02.19.529046v1)
+
+## 20
+**Manipulating the rapid consolidation periods in a learning task affects general skills more than statistical learning and changes the dynamics of learning**  
+Szücs-Bencze L, Fanuel L, Szabó N, Quentin R, Nemeth D, Vékony T  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0228-22.2022)
+
+## 21
+**A wearable platform for closed-loop stimulation and recording of single-neuron and local field potential activity in freely moving humans**  
+Topalovic U et al.  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01260-4)
+
+## 22
+**Tracking neural activity from the same cells during the entire adult life of mice**  
+Zhao S, Tang X, Tian W, Partarrieu S, Liu R, Shen H, Lee J, Guo S, Lin Z, Liu J  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01267-x)
+
+
+## Superlab Papers
+
+**MotorNet: a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks**  
+Codol O, Michaels JA, Kashefi M, Pruszyski JA, Gribble PL  
+[bioRxiv:2023.02.17.528969](https://www.biorxiv.org/content/10.1101/2023.02.17.528969v2)
+
+**Myomatrix arrays for high-definition muscle recording**  
+Chung B et al.  
+[bioRxiv:2023.02.21.529200](https://www.biorxiv.org/content/10.1101/2023.02.21.529200v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

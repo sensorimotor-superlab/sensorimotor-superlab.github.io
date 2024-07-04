@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Reading List 121"
+date:   2021-07-09 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Mental compression of spatial sequences in human working memory using numerical and geometrical primitives**  
+Al Roumi F, Marti S, Wang L, Amalric M, Dehaene S  
+Neuron (2021) [https://dx.doi.org/10.1016/j.neuron.2021.06.009](https://dx.doi.org/10.1016/j.neuron.2021.06.009)
+
+## 2
+**What is behavior? No seriously, what is it?**  
+Calhoun A, El Hady A  
+bioRxiv:2021.07.04.451053 [https://www.biorxiv.org/content/10.1101/2021.07.04.451053v1?rss=1](https://www.biorxiv.org/content/10.1101/2021.07.04.451053v1?rss=1)
+
+## 3
+**Brain-like functional specialization emerges spontaneously in deep neural networks**  
+Dobs K, Martinez J, Kell AJE, Kanwisher N  
+bioRxiv:2021.07.05.451192 [https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1](https://www.biorxiv.org/content/10.1101/2021.07.05.451192v1)
+
+## 4
+**What to do if N is two?**  
+Fries P, Maris E  
+arXiv [statME] (2021) [https://arxiv.org/abs/2106.14562](https://arxiv.org/abs/2106.14562)
+
+## 5
+**Tactile suppression stems from sensation-specific sensorimotor predictions**  
+Führer E, Voudouris D, Lezkan A, Drewing K, Fiehler K  
+bioRxiv:2021.07.04.451060 [https://www.biorxiv.org/content/10.1101/2021.07.04.451060v1](https://www.biorxiv.org/content/10.1101/2021.07.04.451060v1)
+
+## 6
+**The Strength of the Corticospinal Tract Not the Reticulospinal Tract Determines Upper-Limb Impairment Level and Capacity for Skill-Acquisition in the Sub-Acute Post-Stroke Period**  
+Hammerbeck U, Tyson SF, Samraj P, Hollands K, Krakauer JW, Rothwell J  
+Neurorehabil Neural Repair (2021) [https://dx.doi.org/10.1177/15459683211028243](https://dx.doi.org/10.1177/15459683211028243)
+
+## 7
+**A fast link between face perception and memory in the temporal pole**  
+Landi SM, Viswanathan P, Serene S, Freiwald WA  
+Science (2021) [https://dx.doi.org/10.1126/science.abi6671](https://dx.doi.org/10.1126/science.abi6671)
+
+## 8
+**Classification of Cortical Neurons by Spike Shape and the Identification of Pyramidal Neurons**  
+Lemon RN, Baker SN, Kraskov A  
+Cereb Cortex (2021) [https://dx.doi.org/10.1093/cercor/bhab147](https://dx.doi.org/10.1093/cercor/bhab147)
+
+## 9
+**Gender bias in academia: A lifetime problem that needs solutions**  
+Llorens A et al.  
+Neuron 109:2047–2074 (2021) [https://www.cell.com/article/S0896627321004177/abstract](https://www.cell.com/article/S0896627321004177/abstract)
+
+## 10
+**Contribution of dorsal horn CGRP-expressing interneurons to mechanical sensitivity**  
+Löken LS, Braz JM, Etlin A, Sadeghi M, Bernstein M, Jewell M, Steyert M, Kuhn J, Hamel K, Llewellyn-Smith IJ, Basbaum A  
+Elife 10 (2021) [https://dx.doi.org/10.7554/eLife.59751](https://dx.doi.org/10.7554/eLife.59751)
+
+## 11
+**A topographical and physiological exploration of C-tactile afferents and their response to menthol and histamine**  
+Löken LS, Wasling HB, Olausson H, McGlone F, Wessberg J  
+bioRxiv:2021.07.02.450784 [https://www.biorxiv.org/content/10.1101/2021.07.02.450784v1](https://www.biorxiv.org/content/10.1101/2021.07.02.450784v1)
+
+## 12
+**Adaptive control of movement deceleration during saccades**  
+Orozco SP, Albert ST, Shadmehr R  
+PLoS Comput Biol 17:e1009176 (2021) [https://dx.doi.org/10.1371/journal.pcbi.1009176](https://dx.doi.org/10.1371/journal.pcbi.1009176)
+
+## 13
+**A topological solution to object segmentation and tracking**  
+Tsao T, Tsao DY  
+arXiv [csCV] (2021) [https://arxiv.org/abs/2107.02036](https://arxiv.org/abs/2107.02036)
+
+## 14
+**A neural circuit state change underlying skilled movements**  
+Wagner MJ, Savall J, Hernandez O, Mel G, Inan H, Rumyantsev O, Lecoq J, Kim TH, Li JZ, Ramakrishnan C, Deisseroth K, Luo L, Ganguli S, Schnitzer MJ  
+Cell (2021) [https://dx.doi.org/10.1016/j.cell.2021.06.001](https://dx.doi.org/10.1016/j.cell.2021.06.001)
+
+
+## Superlab Papers
+
+**Mapping the integration of sensory information across fingers in human sensorimotor cortex**  
+Arbuckle SA, Andrew Pruszynski J, Diedrichsen J  
+bioRxiv:2021.07.07.451552 [https://www.biorxiv.org/content/10.1101/2021.07.07.451552v1](https://www.biorxiv.org/content/10.1101/2021.07.07.451552v1)  
+[tweeprint](https://twitter.com/saarbuckle/status/1413177135683051526)
+
+**The role of feedback in the production of skilled finger sequences**  
+Popp NJ, Hernandez-Castillo CR, Gribble PL, Diedrichsen J  
+bioRxiv:2021.07.02.450916 [https://www.biorxiv.org/content/10.1101/2021.07.02.450916v1](https://www.biorxiv.org/content/10.1101/2021.07.02.450916v1)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

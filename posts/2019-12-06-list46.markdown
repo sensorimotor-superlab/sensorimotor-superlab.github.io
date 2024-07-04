@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 46"
+date:   2019-12-06 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Control of species-dependent cortico-motoneuronal connections underlying manual dexterity**  
+Gu, Z., Kalambogias, J., Yoshioka, S., Han, W., Li, Z., Kawasawa, Y.I., Pochareddy, S., Li, Z., Liu, F., Xu, X., et al.  
+Science 357, 400–404 (2019)  
+[https://dx.doi.org/10.1126/science.aan3721](https://dx.doi.org/10.1126/science.aan3721)
+
+## 2
+**Automatic postural responses are scaled from the association between online feedback and feedforward control**  
+Teixeira, L.A., Azzi, N.M., Ávila de Oliveira, J., Ribeiro de Souza, C., da Silva Rezende, L., and Coelho, D.B.  
+Eur. J. Neurosci. (2019)  
+[https://dx.doi.org/10.1111/ejn.14625](https://dx.doi.org/10.1111/ejn.14625)
+
+In this paper the authors studied the contributions of feedback and feedforward control during postural perturbations in human participants. In brief, it shows that automatic postural responses are scaled according to perturbation magnitude (feedback) and postural responses from preceding perturbations (feedforward control). —RM
+
+## 3
+**Dissociating effects of error size, training duration, and amount of adaptation on the ability 
+to retain motor memories**  Alhussein, L., Hosseini, E.A., Nguyen, K.P., Smith, M.A., and Joiner, W.M.  
+J. Neurophysiol. 122, 2027–2042 (2019)  
+[https://dx.doi.org/10.1152/jn.00387.2018](https://dx.doi.org/10.1152/jn.00387.2018)
+
+## 4
+**StartReact increases probability of muscle activity and distance in severe/moderate stroke survivors during two-dimensional reaching task**  
+Rahimi, M., and Honeycutt, C.  
+Rehabilitation Medicine and Physical Therapy (2019)  
+[https://www.medrxiv.org/content/10.1101/19012252v1.abstract](https://www.medrxiv.org/content/10.1101/19012252v1.abstract)
+
+## 5
+**Distinct Processing of Selection and Execution Errors in Neural Signatures of Outcome Monitoring**  
+Mushtaq, F., McDougle, S.D., Craddock, M.P., Parvin, D.E., Brookes, J., Schaefer, A., Mon-Williams, M., Taylor, J.A., and Ivry, R.B.  
+bioRxiv, 853317 (2019)  
+[https://www.biorxiv.org/content/10.1101/853317v1.abstract](https://www.biorxiv.org/content/10.1101/853317v1.abstract)
+
+## 6
+**Computational noise in reward-guided learning drives behavioral variability in volatile environments**  
+Findling, C., Skvortsova, V., Dromnelle, R., Palminteri, S., and Wyart, V.  
+Nat. Neurosci. 22, 2066–2077
+[https://dx.doi.org/10.1038/s41593-019-0518-9](https://dx.doi.org/10.1038/s41593-019-0518-9)
+
+## 7
+**Diverse muscle spindle firing properties emerge from multiscale muscle mechanics**  
+Blum, K.P., Campbell, K.S., Horslen, B.C., Nardelli, P., Housley, S.N., Cope, T.C., and Ting, L.H.  
+bioRxiv, 858209 (2019)  
+[https://www.biorxiv.org/content/10.1101/858209v1](https://www.biorxiv.org/content/10.1101/858209v1)
+
+## 8
+**Cortex-wide Computations in Complex Decision Making in Mice**  
+Gupta, P.K., and Murphy, T.H.  
+Neuron 104, 631–633 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.10.043](https://dx.doi.org/10.1016/j.neuron.2019.10.043)
+
+## 9
+**Task-Dependent Changes in the Large-Scale Dynamics and Necessity of Cortical Regions**  
+Pinto, L., Rajan, K., DePasquale, B., Thiberge, S.Y., Tank, D.W., and Brody, C.D.  
+Neuron 104, 810–824.e9 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.08.025](https://dx.doi.org/10.1016/j.neuron.2019.08.025)
+
+## 10
+**Data-driven analyses of motor impairments in animal models of neurological disorders**  
+Ryait, H., Bermudez-Contreras, E., Harvey, M., Faraji, J., Mirza Agha, B., Gomez-Palacio Schjetnan, A., Gruber, A., Doan, J., Mohajerani, M., Metz, G.A.S., et al.  
+PLoS Biol. 17, e3000516 (2019)  
+[https://dx.doi.org/10.1371/journal.pbio.3000516](https://dx.doi.org/10.1371/journal.pbio.3000516)
+
+
+# Contributors
+- Rodrigo Maeda ([@rodrigo_maeda](https://twitter.com/rodrigo_maeda))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

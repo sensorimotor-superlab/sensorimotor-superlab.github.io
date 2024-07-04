@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "Reading List 147"
+date:   2022-02-18 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Interplay of tactile and motor information in constructing spatial self-perception **  
+Cataldo A, Dupin L, Dempsey-Jones H, Gomi H, Haggard P  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.01.047)
+
+## 2
+**Proprioceptive and visual feedback responses in macaques exploit goal redundancy**  
+Cross KP, Guang H, Scott SH  
+[bioRxiv:2022.02.11.480080](https://www.biorxiv.org/content/10.1101/2022.02.11.480080v1)
+
+## 3
+**Eye-hand coordination during online reach corrections is task-dependent**  
+de Brouwer AJ, Spering M  
+[bioRxiv:2021.06.13.448238](https://www.biorxiv.org/content/10.1101/2021.06.13.448238v2)
+
+## 4
+**Human muscle spindles are wired to function as controllable signal-processing devices**  
+Dimitriou M  
+[Preprints.org](https://www.preprints.org/manuscript/202202.0161/v1)
+
+## 5
+**Orthogonal representations for robust context-dependent task performance in brains and neural networks**  
+Flesch T, Juechems K, Dumbalska T, Saxe A, Summerfield C  
+[Neuron](https://www.sciencedirect.com/science/article/pii/S0896627322000058)
+
+## 6
+**Proprioception: a new look at an old concept**  
+Heroux ME, Butler AA, Robertson LS, Fisher G, Gandevia SC  
+[J Appl Physiol](https://dx.doi.org/10.1152/japplphysiol.00809.2021)
+
+## 7
+**Optimal routing to cerebellum-like structures**  
+Muscinelli S, Wagner M, Litwin-Kumar A  
+[bioRxiv:2022.02.10.480014](https://www.biorxiv.org/content/10.1101/2022.02.10.480014v1)
+
+## 8
+**Estimated Gray Matter Volume Rapidly Changes after a Short Motor Task**  
+Olivo G, Lövdén M, Manzouri A, Terlau L, Jenner B, Jafari A, Petersson S, Li T-Q, Fischer H, Månsson KNT  
+[Cereb Cortex](https://dx.doi.org/10.1093/cercor/bhab488)
+
+## 9
+**Structured random receptive fields enable informative sensory encodings**  
+Pandey B, Pachitariu M, Brunton BW, Harris KD  
+[bioRxiv:2021.09.09.459651](https://www.biorxiv.org/content/10.1101/2021.09.09.459651v3)
+
+## 10
+**Irissometry: Effects of Pupil Size on Iris Elasticity Measured With Video-Based Feature Tracking**  
+Strauch C, Naber M  
+[Invest Ophthalmol Vis Sci](https://dx.doi.org/10.1167/iovs.63.2.20)
+
+## 11
+**EvoJAX: Hardware-Accelerated Neuroevolution**  
+Tang Y, Tian Y, Ha D  
+[arXiv [csNE]](https://arxiv.org/abs/2202.05008)
+
+## 12
+**Geometry of sequence working memory in macaque prefrontal cortex**  
+Xie Y, Hu P, Li J, Chen J, Song W, Wang X-J, Yang T, Dehaene S, Tang S, Min B, Wang L  
+[Science](https://dx.doi.org/10.1126/science.abm0204)
+
+## 13
+**Working Memory for Spatial Sequences: Developmental and Evolutionary Factors in Encoding Ordinal and Relational Structures**  
+Zhang H, Zhen Y, Yu S, Long T, Zhang B, Jiang X, Li J, Fang W, Sigman M, Dehaene S, Wang L  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.0603-21.2021)
+
+## 14
+**Outsourced hearing in an orb-weaving spider that uses its web as an auditory sensor**  
+Zhou J, Lai J, Menda G, Stafstrom JA, Miles CI, Hoy RR, Miles RN  
+[bioRxiv:2021.10.17.464740](https://www.biorxiv.org/content/10.1101/2021.10.17.464740v2)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

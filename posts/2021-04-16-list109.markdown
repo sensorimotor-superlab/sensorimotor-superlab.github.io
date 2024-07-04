@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Reading List 109"
+date:   2021-04-16 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Astrocytes close a motor circuit critical period**  
+Ackerman SD, Perez-Catalan NA, Freeman MR, Doe CQ  
+Nature (2021) [https://www.nature.com/articles/s41586-021-03441-2](https://www.nature.com/articles/s41586-021-03441-2)
+
+## 2
+**People systematically overlook subtractive changes**  
+Adams GS, Converse BA, Hales AH, Klotz LE  
+Nature (2021) [https://www.nature.com/articles/s41586-021-03380-y](https://www.nature.com/articles/s41586-021-03380-y)
+
+## 3
+**Energy expenditure does not explain step length-width choices during walking**  
+Antos SA, Kording KP, Gordon KE  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.11.439375v1](https://www.biorxiv.org/content/10.1101/2021.04.11.439375v1)
+
+## 4
+**Challenges and future directions for representations of functional brain organization**  
+Bijsterbosch J, Harrison SJ, Jbabdi S, Woolrich M, Beckmann C, Smith S, Duff EP  
+Nat Neurosci (2020) [https://dx.doi.org/10.1038/s41593-020-00726-z](https://dx.doi.org/10.1038/s41593-020-00726-z)
+
+## 5
+**Consolidation of human skill linked to waking hippocampo-neocortical replay**  
+Buch ER, Claudino L, Quentin R, Bönstrup M, Cohen LG  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.07.438819v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2021.04.07.438819v1.abstract?%3Fcollection=)
+
+## 6
+**Thunderstruck: The ACDC model of flexible sequences and rhythms in recurrent neural circuits**  
+Calderon CB, Verguts T, Frank MJ  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.07.438842v1](https://www.biorxiv.org/content/10.1101/2021.04.07.438842v1)
+
+## 7
+**Slowing the Body slows down Time (Perception)**  
+De Kock R, Zhou W, Joiner WM, Wiener M  
+Elife (2021) [https://doi.org/10.7554/eLife.63607](https://doi.org/10.7554/eLife.63607)
+
+## 8
+**Complete neuroanatomy and sensor maps of Odonata wings for fly-by-feel flight control**  
+Fabian J, Siwanowicz I, Uhrhan M, Maeda M, Bomphrey RJ, Lin H-T  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.11.439336v1](https://www.biorxiv.org/content/10.1101/2021.04.11.439336v1)
+
+## 9
+**Direct and indirect cues can enable dual-adaptation, but through different learning processes**  
+Forano M, Schween R, Taylor JA, Hegele M, Franklin DW  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.09.439164v1](https://www.biorxiv.org/content/10.1101/2021.04.09.439164v1)
+
+## 10
+**A cross-species neural integration of gravity for motor optimization**  
+Gaveau J, Grospretre S, Berret B, Angelaki DE, Papaxanthis C  
+Science Advances (2021) [https://advances.sciencemag.org/content/7/15/eabf7800](https://advances.sciencemag.org/content/7/15/eabf7800)
+
+## 11
+**A developmental transition in the sensory coding of limb kinematics in primary motor cortex**  
+Glanz RM, Dooley JC, Sokoloff G, Blumberg MS  
+bioRxiv (2020) [https://www.biorxiv.org/content/10.1101/2020.12.14.422707v2](https://www.biorxiv.org/content/10.1101/2020.12.14.422707v2)
+
+## 12
+**Parallel and serial sensory processing in developing primary somatosensory and motor cortex**  
+Gómez LJ, Dooley JC, Sokoloff G, Blumberg MS  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.2614-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.2614-20.2021)
+
+## 13
+**Human Fronto-Striatal Connectivity is Organized into Discrete Functional Subnetworks**  
+Gordon EM, Laumann TO, Marek S, Newbold DJ, Hampton JM, Seider NA, Montez DF, Nielsen AM, Van AN, Zheng A, Miller R, Siegel JS, Kay BP, Snyder AZ, Greene DJ, Schlaggar BL, Petersen SE, Nelson SM, Dosenbach NUF  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.12.439415v1?s=09](https://www.biorxiv.org/content/10.1101/2021.04.12.439415v1?s=09)
+
+## 14
+**State-dependent egocentric and allocentric heading representation in the monarch butterfly brain**  
+Jerome Beetz M, Kraus C, Franzke M, Dreyer D, Strube-Bloss MF, Rössler W, Warrant EJ, Merlin C, el Jundi B  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.07.438824v1](https://www.biorxiv.org/content/10.1101/2021.04.07.438824v1)
+
+## 15
+**Rotational dynamics reduce interference between sensory and memory representations**  
+Libby A, Buschman TJ  
+Nat Neurosci (2021) [https://dx.doi.org/10.1038/s41593-021-00821-9](https://dx.doi.org/10.1038/s41593-021-00821-9)
+
+## 16
+**Flexible modulation of sequence generation in the entorhinal-hippocampal system**  
+McNamee DC, Stachenfeld KL, Botvinick MM, Gershman SJ  
+Nat Neurosci (2021) [https://dx.doi.org/10.1038/s41593-021-00831-7](https://dx.doi.org/10.1038/s41593-021-00831-7)
+
+## 17
+**Stopping a Continuous Movement: A Novel Approach to Investigating Motor Control**  
+Schultz KE, Denning D, Hufnagel V, Swann N  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.04.08.439070v1](https://www.biorxiv.org/content/10.1101/2021.04.08.439070v1)
+
+## 18
+**Our child’s TBI: a rehabilitation engineer's personal experience, technological approach, and lessons learned**  
+Sulzer J, Karfeld-Sulzer LS  
+J Neuroeng Rehabil (2021) [https://dx.doi.org/10.1186/s12984-021-00862-y](https://dx.doi.org/10.1186/s12984-021-00862-y)
+
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 33"
+date:   2019-09-06 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Context-dependent decision making in a premotor circuit**  
+Wu, Z., Litwin-Kumar, A., Shamash, P., Taylor, A., Axel, R., and Shadlen, M.N.  
+bioRxiv, 757104 (2019)  
+[https://www.biorxiv.org/content/10.1101/757104v1?ct=](https://www.biorxiv.org/content/10.1101/757104v1?ct=)
+
+## 2
+**Exercise, fatigue and proprioception: a retrospective**  
+Proske, U.  
+Exp. Brain Res (2019)  
+[https://doi.org/10.1007/s00221-019-05634-8](https://doi.org/10.1007/s00221-019-05634-8)
+
+## 3
+**Highlights from the 29th Annual Meeting of the Society for the Neural Control of Movement**  
+Mathis, A., Pack, A.R., Maeda, R.S., and McDougle, S.D.  
+J. Neurophysiol (2019)  
+[https://doi.org/10.1152/jn.00484.2019](https://doi.org/10.1152/jn.00484.2019)
+
+## 4
+**Why is the explicit component of motor adaptation limited in elderly adults?**  
+Vandevoorde, K., and Orban de Xivry, J.J.  
+bioRxiv, 753160 (2019)  
+[https://www.biorxiv.org/content/10.1101/753160v1](https://www.biorxiv.org/content/10.1101/753160v1)
+
+## 5
+**Movement Improves the Quality of Temporal Perception and Decision-Making**  
+Wiener, M., Zhou, W., Bader, F., and Joiner, W.M.  
+eNeuro 6 (2019)  
+[https://dx.doi.org/10.1523/ENEURO.0042-19.2019](https://dx.doi.org/10.1523/ENEURO.0042-19.2019)
+
+## 6
+**Modeling the Role of Sensory Feedback in Speech Motor Control and Learning**  
+Parrell, B., and Houde, J.  
+J Speech Lang Hear Res 62, 2963–2985 (2019)  
+[https://dx.doi.org/10.1044/2019_JSLHR-S-CSMC7-18-0127](https://dx.doi.org/10.1044/2019_JSLHR-S-CSMC7-18-0127)
+
+## 7
+**Tactile angle discriminability improvement: roles of training time intervals and different types of training tasks**
+Wang, W., Yang, J., Yu, Y., Wu, Q., Yu, J., Takahashi, S., Ejima, Y., and Wu, J.  
+J. Neurophysiol (2019)  
+[https://dx.doi.org/10.1152/jn.00161.2019](https://dx.doi.org/10.1152/jn.00161.2019)
+
+## 8
+**The Sensorimotor Basis of Whisker-Guided Anteroposterior Object Localization in Head-Fixed Mice**  
+Cheung, J., Maire, P., Kim, J., Sy, J., and Hires, S.A.  
+Current Biology (2019)  
+[https://www.cell.com/current-biology/fulltext/S0960-9822(19)30948-0](https://www.cell.com/current-biology/fulltext/S0960-9822(19)30948-0)
+
+## 9
+**Impaired Motor Learning Following a Pain Episode in Intact Rats**  
+Huot-Lavoie, M., Ting, W.K.-C., Demers, M., Mercier, C., and Ethier, C.  
+Frontiers in Neurology 10, 927 (2019)  
+[https://dx.doi.org/10.3389/fneur.2019.00927](https://dx.doi.org/10.3389/fneur.2019.00927)
+
+## 10
+**Anatomically accurate model of EMG during index finger flexion and abduction derived from diffusion tensor imaging**  
+Pereira Botelho, D., Curran, K., and Lowery, M.M.  
+PLoS Comput. Biol. 15, e1007267 (2019)  
+[https://dx.doi.org/10.1371/journal.pcbi.1007267](https://dx.doi.org/10.1371/journal.pcbi.1007267)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

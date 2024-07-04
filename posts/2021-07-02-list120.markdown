@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Reading List 120"
+date:   2021-07-02 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Savings in sensorimotor learning during balance-challenged walking but not reaching**  
+Bakkum A, Donelan JM, Marigold DS  
+J Neurophysiol 125:2384–2396 (2021) [https://dx.doi.org/10.1152/jn.00627.2020](https://dx.doi.org/10.1152/jn.00627.2020)
+
+## 2
+**Serial sarcomere number is substantially decreased within the paretic biceps brachii in individuals with chronic hemiparetic stroke**  
+Adkins AN, Dewald JPA, Garmirian LP, Nelson CM, Murray WM  
+Proc Natl Acad Sci (2021) [https://dx.doi.org/10.1073/pnas.2008597118](https://dx.doi.org/10.1073/pnas.2008597118)
+
+## 3
+**The human cerebellum is essential for modulating perceptual sensitivity based on temporal expectations**  
+Breska A, Ivry RB  
+Elife 10 (2021) [https://dx.doi.org/10.7554/eLife.66743](https://dx.doi.org/10.7554/eLife.66743)
+
+## 4
+**Early functional connectivity in the developing sensorimotor network that is independent of sensory experience**  
+Cross CM, Santos LM, Whiteley N, Luyt K, Ashby MC  
+bioRxiv:2021.06.14.448057 [https://www.biorxiv.org/content/10.1101/2021.06.14.448057v2](https://www.biorxiv.org/content/10.1101/2021.06.14.448057v2)
+
+## 5
+**Trading accuracy for speed over the course of a decision**  
+Derosiere G, Thura D, Cisek P, Duqué J  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00038.2021](https://dx.doi.org/10.1152/jn.00038.2021)
+
+## 6
+**Sensory and choice responses in MT distinct from motion encoding**  
+Levi AJ, Zhao Y, Park IM, Huk AC  
+bioRxiv:2021.06.24.449836 [https://www.biorxiv.org/content/10.1101/2021.06.24.449836v1](https://www.biorxiv.org/content/10.1101/2021.06.24.449836v1)
+
+## 7
+**Enduring motor memory of walking on a split-belt treadmill in young children and adults**  
+Lissinna B, Smith A, La K, Yang JF  
+bioRxiv:2021.02.12.430812 [https://www.biorxiv.org/content/10.1101/2021.02.12.430812v2](https://www.biorxiv.org/content/10.1101/2021.02.12.430812v2)
+
+## 8
+**Metastable attractors explain the variable timing of stable behavioral action sequences**  
+Recanatesi S, Pereira U, Murakami M, Mainen Z, Mazzucato L  
+bioRxiv:2020.01.24.919217 [https://www.biorxiv.org/content/10.1101/2020.01.24.919217v2](https://www.biorxiv.org/content/10.1101/2020.01.24.919217v2)
+
+## 9
+**Increasing the gradient of energetic cost does not initiate adaptation in human walking**  
+Simha SN, Wong JD, Selinger JC, Abram SJ, Donelan JM  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00311.2020](https://dx.doi.org/10.1152/jn.00311.2020)
+
+## 10
+**Evidence and urgency related EEG signals during dynamic decision-making in humans**  
+Yau Y, Hinault T, Taylor M, Cisek P, Fellows LK, Dagher A  
+J Neurosci (2021) [https://dx.doi.org/10.1523/JNEUROSCI.2551-20.2021](https://dx.doi.org/10.1523/JNEUROSCI.2551-20.2021)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

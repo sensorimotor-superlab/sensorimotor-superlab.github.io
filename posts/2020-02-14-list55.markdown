@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "Reading List 55"
+date:   2020-02-14 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Causal Role of Motor Preparation during Error-Driven Learning**  
+Vyas S, O’Shea DJ, Ryu SI, Shenoy KV  
+Neuron (2020)  
+[https://www.cell.com/article/S0896627320300453/abstract](https://www.cell.com/article/S0896627320300453/abstract)
+
+Also check out the [tweeprint](https://twitter.com/saurabhsneurons/status/1227622179329593344?s=21).
+
+## 2
+**Postural control of arm and fingers through integration of movement commands**  
+Albert ST, Hadjiosif AM, Jang J, Zimnik AJ, Soteropoulos DS, Baker SN, Churchland MM, Krakauer JW, Shadmehr R  
+Elife 9:e52507 (2020)  
+[https://dx.doi.org/10.7554/eLife.52507](https://dx.doi.org/10.7554/eLife.52507)
+
+## 3
+**Scaling of inertial delays in terrestrial mammals**  
+Mohamed Thangal SN, Donelan JM  
+PLoS One 15:e0217188 (2020)  
+[https://dx.doi.org/10.1371/journal.pone.0217188](https://dx.doi.org/10.1371/journal.pone.0217188)
+
+## 4
+**Role of muscle coactivation in adaptation of standing posture during arm reaching**  
+Pienciak-Siewert A, Horan DP, Ahmed AA  
+J Neurophysiol 123:529–547 (2020)  
+[https://dx.doi.org/10.1152/jn.00939.2017](https://dx.doi.org/10.1152/jn.00939.2017)
+
+## 5
+**Abstract sequential task control is facilitated by practice and embedded motor sequences**  
+Trach JE, McKim TH, Desrochers TM  
+bioRxiv:2020.02.06.937938 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.06.937938v1](https://www.biorxiv.org/content/10.1101/2020.02.06.937938v1)
+
+## 6
+**How optimal is bimanual tracking? The key role of hand coordination in space**  
+Mathew J, de Rugy A, Danion FR  
+J Neurophysiol 123:511–521 (2020)  
+[https://dx.doi.org/10.1152/jn.00119.2019](https://dx.doi.org/10.1152/jn.00119.2019)
+
+## 7
+**Large prospective losses lead to sub-optimal sensorimotor decisions in humans**  
+Adkins TJ, Lewis RL, Lee TG  
+bioRxiv:406439 (2020)  
+[https://www.biorxiv.org/content/10.1101/406439v4.full](https://www.biorxiv.org/content/10.1101/406439v4.full)
+
+## 8
+**What do blind people “see” with retinal prostheses? Observations and qualitative reports of epiretinal implant users**  
+Erickson-Davis C, Korzybska H  
+bioRxiv:2020.02.03.932905 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.03.932905v1](https://www.biorxiv.org/content/10.1101/2020.02.03.932905v1)
+
+Erickson-Davis and Korzybska provide fascinating insights into the use of retinal prostheses, in particular: what sensations arise from retinal implants, and how do users learn to make sense of them? User experiences are potentially cautionary, as they report that retinal implants continue to be taxing to use and their sensory percepts are very distinct from real vision. Many of these concerns are probably not unique to any particular modality of sensory prosthesis, although continued progress in ecological stimulation could help alleviate them (perhaps in some modalities more easily than in others). —SR
+
+## 9
+**Long-gap peripheral nerve repair through sustained release of a neurotrophic factor in nonhuman primates**  
+Fadia NB et al.  
+Sci Transl Med 12 (2020)  
+[https://dx.doi.org/10.1126/scitranslmed.aav7753](https://dx.doi.org/10.1126/scitranslmed.aav7753)
+
+Long-gap peripheral nerve repair through sustained release of a neurotrophic factor in nonhuman primates
+When long segments of peripheral nerves are damaged, a common solution is to use an autograft from another part of the body -- but these autografts come with their own drawbacks, including loss of functionality at the donor site. Fadia and Colleagues report on the use of a biodegradable conduit that secretes a neurotrophic factor to repair longer segments of peripheral nerves. In a NHP model with upper limb peripheral nerve injury, individuals who received this conduit with neurotrophic factor showed similar functional recovery over a year as those who received an autograft, accompanied by elevated conduction velocities along the repaired nerve. —SR
+
+See (hear) also: [short interview](https://www.cbc.ca/radio/quirks/new-implantable-nerve-guide-tricks-severed-nerves-into-growing-together-again-1.5454928) with some of the authors on CBC Quirks and Quarks.
+
+## 10
+**Increased error-correction leads to both higher levels of variability and adaptation**  
+Knelange EB, López-Moliner J  
+PLoS One 15:e0227913 (2020)  
+[https://dx.doi.org/10.1371/journal.pone.0227913](https://dx.doi.org/10.1371/journal.pone.0227913)
+
+
+# Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

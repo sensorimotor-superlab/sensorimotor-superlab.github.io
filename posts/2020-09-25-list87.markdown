@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 87"
+date:   2020-09-25 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**The Dorsal Striatum Energizes Motor Routines**  
+Jurado-Parras M-T, Safaie M, Sarno S, Louis J, Karoutchi C, Berret B, Robbe D  
+Curr Biol (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.08.049](https://dx.doi.org/10.1016/j.cub.2020.08.049)
+
+## 2
+**Neural Correlates of Evidence and Urgency During Human Perceptual Decision-Making in Dynamically Changing Conditions**  
+Yau Y, Dadar M, Taylor M, Zeighami Y, Fellows LK, Cisek P, Dagher A  
+Cereb Cortex 30:5471–5483 (2020)  
+[https://dx.doi.org/10.1093/cercor/bhaa129](https://dx.doi.org/10.1093/cercor/bhaa129)
+
+## 3
+**Rapid changes in movement representations during human reaching could be preserved in memory for at least 850ms**  
+Mathew J, Lefevre P, Crevecoeur F  
+eNeuro (2020)  
+[https://dx.doi.org/10.1523/ENEURO.0266-20.2020](https://dx.doi.org/10.1523/ENEURO.0266-20.2020)
+
+## 4
+**Increased upper-limb sensory attenuation with age**  
+Parthasharathy M, Mantini D, Orban de Xivry J-J  
+bioRxiv:2020.09.17.301739 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.17.301739v1](https://www.biorxiv.org/content/10.1101/2020.09.17.301739v1)
+
+## 5
+**Neural representations of task context and temporal order during action sequence execution**  
+Shahnazian D, Senoussi M, Krebs RM, Verguts T, Holroyd CB  
+bioRxiv:2020.09.10.290965 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.10.290965v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.09.10.290965v2.abstract?%3Fcollection=)
+
+## 6
+**Cognitive and motor perseveration are associated in older adults**  
+Sombric C, Torres-Oviedo G  
+bioRxiv:2020.09.17.302083 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.17.302083v1](https://www.biorxiv.org/content/10.1101/2020.09.17.302083v1)
+
+## 7
+**Wireless Programmable Recording and Stimulation of Deep Brain Activity in Freely Moving Humans**  
+Topalovic U, Aghajan ZM, Villaroman D, Hiller S, Christov-Moore L, Wishard TJ, Stangl M, Hasulak NR, Inman CS, Fields TA, Rao VR, Eliashiv D, Fried I, Suthana N  
+Neuron (2020)  
+[https://www.cell.com/article/S0896627320306528/abstract](https://www.cell.com/article/S0896627320306528/abstract)
+
+## 8
+**Deep posteromedial cortical rhythm in dissociation**  
+Vesuna S, Kauvar IV, Richman E, Gore F, Oskotsky T, Sava-Segal C, Luo L, Malenka RC, Henderson JM, Nuyujukian P, Parvizi J, Deisseroth K  
+Nature (2020)  
+[https://doi.org/10.1038/s41586-020-2731-9](https://doi.org/10.1038/s41586-020-2731-9)
+
+## 9
+**Dense neuronal reconstruction through X-ray holographic nano-tomography**  
+Kuan AT, Phelps JS, Thomas LA, Nguyen TM, Han J, Chen C-L, Azevedo AW, Tuthill JC, Funke J, Cloetens P, Pacureanu A, Lee W-CA  
+Nat Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41593-020-0704-9](https://dx.doi.org/10.1038/s41593-020-0704-9)
+
+## 10
+**Neural Sequences as an Optimal Dynamical Regime for the Readout of Time**  
+Zhou S, Masmanidis SC, Buonomano DV  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.08.020](https://dx.doi.org/10.1016/j.neuron.2020.08.020)
+
+
+# Superlab Papers
+
+**Stretch reflexes**  
+Reschechtko S, Pruszynski JA  
+Curr Biol 30:R1025–R1030 (2020)  
+[https://dx.doi.org/10.1016/j.cub.2020.07.092](https://dx.doi.org/10.1016/j.cub.2020.07.092)
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

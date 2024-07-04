@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Reading List 4"
+date:   2019-02-15 08:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here is our reading list for the week, featuring a new paper by our own Jeff Weiler [@Jeff_Weiler](https://twitter.com/Jeff_Weiler) in Nature Neuroscience:
+
+1. Weiler, J., Gribble, P.L., and Pruszynski, J.A. (2019). [Spinal stretch reflexes support efficient hand control.](https://doi.org/10.1038/s41593-019-0336-0) Nat. Neurosci.
+
+   We show that there is a spinal feedback pathway that integrates somatosensory feedback from the wrist and the elbow, ‘understands’ how this multi-joint feedback maps onto the hand’s location in external space, and is able to generate elbow muscle activity that supports postural hand control.
+
+   [tweeprint](https://twitter.com/Jeff_Weiler/status/1094994925052080130)
+
+2. Gerwin, L., Haupt, C., Wilkinson, K.A., and Kröger, S. (2019). [Acetylcholine receptors in the equatorial region of intrafusal muscle fibers modulate mouse muscle spindle sensitivity.](http://dx.doi.org/10.1113/JP277139) J. Physiol.
+
+3. Lieber, J.D., and Bensmaia, S.J. (2019). [High-dimensional representation of texture in somatosensory cortex of primates.](https://dx.doi.org/10.1073/pnas.1818501116) Proc. Natl. Acad. Sci. U.S.A.
+
+   The authors describe a complex, high-dimensional representation of texture in somatosensory cortex, the structure of which does a good job accounting for texture perception. The complexity arises because S1 neurons idiosyncratically detect specific spatial and/or temporal aspects of the peripheral input.
+
+4. Maheu, M., Dehaene, S., and Meyniel, F. (2019). [Brain signatures of a multiscale process of sequence learning in humans.](https://dx.doi.org/10.7554/eLife.41541) Elife 8.
+
+5. Parrell, B., Ramanarayanan, V., Nagarajan, S., and Houde, J. (2019). [The FACTS model of speech motor control: fusing state estimation and task-based control.](https://www.biorxiv.org/content/10.1101/543728v1) bioRxiv, 543728.
+
+   [tweeprint](https://twitter.com/parrell/status/1094972845535518726)
+
+6. Striemer, C.L., Enns, J.T., and Whitwell, R.L. (2019). [Visuomotor adaptation in the absence of input from early visual cortex.](https://www.sciencedirect.com/science/article/pii/S0010945219300425) Cortex.
+
+6. van Ede, F., Chekroud, S.R., Stokes, M.G., and Nobre, A.C. (2019). [Concurrent visual and motor selection during visual working memory guided action.](https://dx.doi.org/10.1038/s41593-018-0335-6) Nat. Neurosci.
+
+7. Zhou, X., Tien, R.N., Ravikumar, S., and Chase, S.M. (2019). [Distinct Types of Neural Reorganization During Long-Term Learning.](https://dx.doi.org/10.1152/jn.00466.2018) J. Neurophysiol.
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+
+

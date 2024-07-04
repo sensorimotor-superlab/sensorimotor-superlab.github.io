@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 19"
+date:   2019-05-31 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Learning the signatures of the human grasp using a scalable tactile glove**  
+Sundaram, S., Kellnhofer, P., Li, Y., Zhu, J.-Y., Torralba, A., and Matusik, W.  
+Nature 569, 698–702 (2019)  
+[https://dx.doi.org/10.1038/s41586-019-1234-z](https://dx.doi.org/10.1038/s41586-019-1234-z)
+
+## 2
+**Emergent modular neural control drives coordinated motor actions**  
+Lemke, S.M., Ramanathan, D.S., Guo, L., Won, S.J., and Ganguly, K.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0407-2](https://dx.doi.org/10.1038/s41593-019-0407-2)
+
+## 3
+**Motor control by sensory cortex**  
+Matyas, F., Sreenivasan, V., Marbach, F., Wacongne, C., Barsy, B., Mateo, C., Aronoff, R., and Petersen, C.C.H.  
+Science 330, 1240–1243 (2010)  
+[https://dx.doi.org/10.1126/science.1195797](https://dx.doi.org/10.1126/science.1195797)
+
+## 4
+**Reversible Block of Cerebellar Outflow Reveals Cortical Circuitry for Motor Coordination**  
+Nashef, A., Cohen, O., Harel, R., Israel, Z., and Prut, Y.  
+Cell Reports 27, 2608–2619.e4 (2019)  
+[https://dx.doi.org/10.1016/j.celrep.2019.04.100](https://dx.doi.org/10.1016/j.celrep.2019.04.100)
+
+## 5
+**Molecular Logic of Spinocerebellar Tract Neuron Diversity and Connectivity**  
+Baek, M., Menon, V., Jessell, T.M., Hantman, A.W., and Dasen, J.S.  
+bioRxiv, 516435 (2019)  
+[https://www.biorxiv.org/content/10.1101/516435v1](https://www.biorxiv.org/content/10.1101/516435v1)
+
+Also see the [twitter thread](https://twitter.com/AdamHantman/status/1083322969508724736)
+
+## 6
+**Neural trajectories in the supplementary motor area and primary motor cortex exhibit distinct geometries, compatible with different classes of computation**  
+Russo, A., Khajeh, R., Bittner, S.R., Perkins, S.M., Cunningham, J.P., Abbott, L.F., and Churchland, M.M.  
+bioRxiv, 650002 (2019)  
+[https://www.biorxiv.org/content/10.1101/650002v1](https://www.biorxiv.org/content/10.1101/650002v1)
+
+## 7
+**Emergence of an invariant representation of texture in primate somatosensory cortex**  
+Lieber, J.D., and Bensmaia, S.  
+bioRxiv, 646042 (2019)  
+[https://www.biorxiv.org/content/10.1101/646042v1](https://www.biorxiv.org/content/10.1101/646042v1)
+
+## 8
+**Single Cortical Neurons as Deep Artificial Neural Networks**  
+David, B., Idan, S., and Michael, L.  
+bioRxiv, 613141 (2019)  
+[https://www.biorxiv.org/content/10.1101/613141v1](https://www.biorxiv.org/content/10.1101/613141v1)
+
+Also see the [twitter thread](https://twitter.com/davidbeniaguev/status/1131890349578829825?s=12)
+
+## 9
+**The dynamics of motor learning through the formation of internal models**  
+Pierella, C., Casadio, M., Solla, S.A., and Mussa-Ivaldi, F.A.  
+bioRxiv, 652727 (2019).  
+[https://www.biorxiv.org/content/10.1101/652727v1.abstract](https://www.biorxiv.org/content/10.1101/652727v1.abstract)
+
+## 10
+**The intelligent reflex**  
+Krakauer, J.  
+Philos. Psychol. 32, 823–831 (2019)  
+[https://dx.doi.org/10.1080/09515089.2019.1607281](https://dx.doi.org/10.1080/09515089.2019.1607281)
+
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

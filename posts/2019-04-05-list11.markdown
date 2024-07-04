@@ -1,0 +1,110 @@
+---
+layout: post
+title:  "Reading List 11"
+date:   2019-04-05 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that caught our attention this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+
+## 1
+**What, if anything, is the true neurophysiological significance of rotational dynamics?**  
+Lebedev, M.A., Mill, N.A., Urpi, N.A., Cervera, M.R., and AL Nicolelis, M.  
+bioRxiv, 597419 (2019)  
+[https://www.biorxiv.org/content/10.1101/597419v1](https://www.biorxiv.org/content/10.1101/597419v1)
+
+A saucy paper about how to interpret so-called "rotational dynamics" observed from population recordings, for example in primary motor cortex. Also see this [tweet thread](https://twitter.com/JonAMichaels/status/1113438118143623168) about related papers by Michaels et al. and by Sussillo et al.:
+
+**Neural Population Dynamics during Reaching Are Better Explained by a Dynamical System than Representational Tuning**  
+Michaels, J.A., Dann, B., and Scherberger, H.  
+PLoS Comput. Biol. 12, e1005175 (2016)  
+
+**A neural network that finds a naturalistic solution for the production of muscle activity**  
+Sussillo, D., Churchland, M.M., Kaufman, M.T., and Shenoy, K.V.  
+Nat. Neurosci. 18, 1025–1033 (2015)  
+[https://dx.doi.org/10.1038/nn.4042](https://dx.doi.org/10.1038/nn.4042)
+
+## 2
+**The increase in muscle force after 4 weeks of strength training is mediated by adaptations in motor unit recruitment and rate coding**  
+Del Vecchio, A., Casolo, A., Negro, F., Scorcelletti, M., Bazzucchi, I., Enoka, R., Felici, F., and Farina, D.  
+J. Physiol. 597, 1873–1887 (2019)  
+[https://dx.doi.org/10.1113/JP277250](https://dx.doi.org/10.1113/JP277250)
+
+An interesting sEMG decomposition method (reported in Martinez-Valdez et Al. 2017, see below) allows Del Vecchio and colleagues to track individual motor units longitudinally during strength training. Profiling these adaptations at the motor unit level provides new clues regarding the physiology underlying rapid #gainz.
+
+**Tracking motor units longitudinally across experimental sessions with high-density surface electromyography**  
+Martinez-Valdes, E., Negro, F., Laine, C.M., Falla, D., Mayer, F., and Farina, D.  
+J. Physiol. 595, 1479–1496 (2017)  
+[https://dx.doi.org/10.1113/JP273662](https://dx.doi.org/10.1113/JP273662)
+
+## 3
+**Human electrocortical dynamics while stepping over obstacles**  
+Nordin, A.D., Hairston, W.D., and Ferris, D.P.  
+Sci. Rep. 9, 4693 (2019)  
+[https://dx.doi.org/10.1038/s41598-019-41131-2](https://dx.doi.org/10.1038/s41598-019-41131-2)
+
+Tracking brain dynamics during running and hurdling over obstacles. Also see the [tweet thread](https://twitter.com/Ferris_vball/status/1107674431994953728).
+
+## 4
+**Time-to-target explains task-dependent modulation of temporal feedback gain evolution**  
+Česonis, J., and Franklin, D.W.  
+bioRxiv, 582874 (2019)  
+[https://www.biorxiv.org/content/10.1101/582874v1.abstract](https://www.biorxiv.org/content/10.1101/582874v1.abstract)
+
+## 5
+**Subthalamic nucleus and sensorimotor cortex activity during speech production**  
+Chrabaszcz, A., Neumann, W.J., Stretcu, O., Lipski, W.J., Bush, A., Dastolfo-Hromack, C., Wang, D., Crammond, D.J., Shaiman, S., Dickey, M.W., et al.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2842-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.2842-18.2019)
+
+## 6
+**The decision to move: response times, neuronal circuits and sensory memory in a simple vertebrate**  
+Roberts A., Borisyuk R., Buhl E., Ferrario A., Koutsikou S., Li W., and Soffe S.R.  
+Proceedings of the Royal Society B: Biological Sciences 286, 20190297 (2019)  
+[https://dx.doi.org/10.1098/rspb.2019.0297](https://dx.doi.org/10.1098/rspb.2019.0297)
+
+## 7
+**Sensorimotor uncertainty modulates corticospinal excitability during skilled object manipulation**  
+Davare, M., Parikh, P.J., and Santello, M.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00800.2018](https://dx.doi.org/10.1152/jn.00800.2018)
+
+## 8
+**Temporal signals underlying a cognitive process in the dorsal premotor cortex**  
+Rossi-Pool, R., Zizumbo, J., Alvarez, M., Vergara, J., Zainos, A., and Romo, R.  
+Proc Natl Acad Sci USA (2019)  
+[https://dx.doi.org/10.1073/pnas.1820474116](https://dx.doi.org/10.1073/pnas.1820474116)
+
+## 9
+**Feeling a Touch to the Hand on the Foot**  
+Badde, S., Röder, B., and Heed, T.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219302635/abstract](https://www.cell.com/article/S0960982219302635/abstract)
+
+## 10
+**Expectation-induced modulation of metastable activity underlies faster coding of sensory stimuli**  
+Mazzucato, L., La Camera, G., and Fontanini, A.  
+Nat. Neurosci. (2019)  
+[https://doi.org/10.1038/s41593-019-0364-9](https://doi.org/10.1038/s41593-019-0364-9)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+
+
+

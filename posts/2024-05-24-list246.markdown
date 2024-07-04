@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Reading List 246"
+date:   2024-05-24 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**De novo motor learning creates structure in neural activity that shapes adaptation**  
+Chang JC, Perich MG, Miller LE, Gallego JA, Clopath C  
+[Nat Commun 15:4084](https://www.nature.com/articles/s41467-024-48008-7)
+
+## 2
+**Left-right-alternating theta sweeps in the entorhinal-hippocampal spatial map**  
+Vollan AZ, Gardner RJ, Moser M-B, Moser EI  
+[bioRxiv:2024.05.16.594473](https://www.biorxiv.org/content/10.1101/2024.05.16.594473v1.abstract)
+
+## 3
+**Sensorimotor adaptation to destabilizing dynamics in weakly electric fish**  
+Yang Y, Yared DG, Fortune ES, Cowan NJ  
+[Curr Biol 34:2118-2131.e5](https://www.cell.com/article/S0960982224004597/abstract)
+
+## 4
+**A unifying framework for functional organization in early and higher ventral visual cortex**  
+Margalit E, Lee H, Finzi D, DiCarlo JJ, Grill-Spector K, Yamins DLK  
+[Neuron](https://www.cell.com/article/S0896627324002794/abstract)
+
+## 5
+**Motor learning selectively strengthens cortical and striatal synapses of motor engram neurons**  
+Hwang F-J, Roth RH, Wu Y-W, Sun Y, Kwon DK, Liu Y, Ding JB  
+[Neuron 110:2790-2801.e5](https://pubmed.ncbi.nlm.nih.gov/35809573/)
+
+## 6
+**Non-invasive spinal cord electrical stimulation for arm and hand function in chronic tetraplegia: a safety and efficacy trial**  
+Moritz C et al.  
+[Nat Med 30:1276–1283](https://www.nature.com/articles/s41591-024-02940-9)
+
+## 7
+**Mapping model units to visual neurons reveals population code for social behaviour**  
+Cowley BR, Calhoun AJ, Rangarajan N, Ireland E, Turner MH, Pillow JW, Murthy M  
+[Nature](https://www.nature.com/articles/s41586-024-07451-8)
+
+## 8
+**What’s the n? On sample size vs. subject number for brain-behavior neurophysiology and neuromodulation**  
+Asaad WF, Sheth SA  
+[Neuron](https://doi.org/10.1016/j.neuron.2024.04.033)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

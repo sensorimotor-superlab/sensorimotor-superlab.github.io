@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 18"
+date:   2019-05-24 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Area 2 of primary somatosensory cortex encodes kinematics of the whole arm**  
+Chowdhury, R.H., Glaser, J.I., and Miller, L.E.  
+bioRxiv, 643205 (2019)  
+[https://www.biorxiv.org/content/10.1101/643205v1.abstract](https://www.biorxiv.org/content/10.1101/643205v1.abstract)
+
+## 2
+**Distinct sensorimotor feedback loops for dynamic and static control of primate precision grip**  
+Oya, T., Takei, T., and Seki, K.  
+bioRxiv, 640201 (2019)  
+[https://www.biorxiv.org/content/10.1101/640201v2](https://www.biorxiv.org/content/10.1101/640201v2)
+
+## 3
+**Differential effects of left and right prefrontal cortex anodal transcranial direct current stimulation during probabilistic sequence learning**  
+Greeley, B., and Seidler, R.D.  
+J. Neurophysiol. 121, 1906–1916 (2019)  
+[https://dx.doi.org/10.1152/jn.00795.2018](https://dx.doi.org/10.1152/jn.00795.2018)
+
+## 4
+**Energy Optimization is a Major Objective in the Real-Time Control of Step Width in Human Walking**  
+Abram, S.J., Selinger, J.C., and Maxwell Donelan, J.  
+Journal of Biomechanics (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0021929019303422](https://www.sciencedirect.com/science/article/pii/S0021929019303422)
+
+## 5
+**Sensorimotor priors are effector-dependent**  
+Yin, C., Wang, H., Wei, K., and Kording, K.P.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00228.2018](https://dx.doi.org/10.1152/jn.00228.2018)
+
+## 6
+**Exploring Contextual Interference in Implicit and Explicit Motor Learning**  
+Dang, K., Parvin, D., and Ivry, R.  
+bioRxiv, 644211 (2019)  
+[https://www.biorxiv.org/content/10.1101/644211v1](https://www.biorxiv.org/content/10.1101/644211v1)
+
+## 7
+**Amplitude cancellation influences the association between frequency components in the neural drive to muscle and the rectified EMG signal**  
+Dideriksen, J.L., and Farina, D.  
+PLoS Comput. Biol. 15, e1006985 (2019)  
+[https://dx.doi.org/10.1371/journal.pcbi.1006985](https://dx.doi.org/10.1371/journal.pcbi.1006985)
+
+## 8
+**Premovement suppression of corticospinal excitability may be a necessary part of movement preparation**  
+Ibanez, J., Hannah, R., Rocchi, L., and Rothwell, J.C.  
+bioRxiv, 470153 (2019)  
+[https://www.biorxiv.org/content/10.1101/470153v6.abstract](https://www.biorxiv.org/content/10.1101/470153v6.abstract)
+
+## 9
+**Insect Flight: From Newton’s Law to Neurons**  
+Jane Wang, Z.  
+Annual Review of Condensed Matter Physics (2016)  
+[
+https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031113-133853](
+https://www.annualreviews.org/doi/abs/10.1146/annurev-conmatphys-031113-133853)
+
+## 10
+**Whisking mechanics and active sensing**  
+Bush, N.E., Solla, S.A., and Hartmann, M.J.  
+Curr. Opin. Neurobiol. 40, 178–188 (2016)  
+[https://dx.doi.org/10.1016/j.conb.2016.08.001](https://dx.doi.org/10.1016/j.conb.2016.08.001)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

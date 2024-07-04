@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 27"
+date:   2019-07-26 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Successful auditory motor adaptation requires task-relevant auditory errors**  
+Daliri, A., and Dittman, J  
+J. Neurophysiol. 122, 552–562 (2019)  
+[https://dx.doi.org/10.1152/jn.00662.2018](http://dx.doi.org/10.1152/jn.00662.2018)
+
+## 2
+**Elementary motion sequence detectors in whisker somatosensory cortex**  
+Laboy-Juárez, K.J., Langberg, T., Ahn, S., and Feldman, D.E.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0448-6](https://dx.doi.org/10.1038/s41593-019-0448-6)
+
+## 3
+**Universality and individuality in neural dynamics across large populations of recurrent networks**  
+Maheswaranathan, N., Williams, A.H., Golub, M.D., Ganguli, S., and Sussillo, D.  
+arXiv [q-bio.NC] (2019)  
+[https://arxiv.org/abs/1907.08549](https://arxiv.org/abs/1907.08549)
+
+## 4
+**M1 disruption delays motor processes but not deliberation about action choices**  
+Derosiere, G., Thura, D., Cisek, P., and Duque, J.  
+bioRxiv, 501205 (2019)  
+[https://www.biorxiv.org/content/10.1101/501205v3](https://www.biorxiv.org/content/10.1101/501205v3)
+
+## 5
+**Human Replay Spontaneously Reorganizes Experience**  
+Liu, Y., Dolan, R.J., Kurth-Nelson, Z., and Behrens, T.E.J.  
+Cell. (2019)  
+[https://dx.doi.org/10.1016/j.cell.2019.06.012](https://dx.doi.org/10.1016/j.cell.2019.06.012)
+
+## 6
+**Population subspaces reflect movement intention for arm and brain-machine interface control**  
+Lalazar, H., Murray, J.M., Abbott, L.F., and Vaadia, E.  
+bioRxiv, 688259 (2019)  
+[https://www.biorxiv.org/content/10.1101/688259v1.abstract](https://www.biorxiv.org/content/10.1101/688259v1.abstract)
+
+## 7
+**A neuro-inspired artificial peripheral nervous system for scalable electronic skins**  
+Lee, W.W., Tan, Y.J., Yao, H., Li, S., See, H.H., Hon, M., Ng, K.A., Xiong, B., Ho, J.S., and Tee, B.C.K.  
+Science Robotics 4, eaax2198 (2019)  
+[https://dx.doi.org/10.1126/scirobotics.aax2198](https://dx.doi.org/10.1126/scirobotics.aax2198)
+
+## 8
+**Inference in the Brain: Statistics Flowing in Redundant Population Codes**  
+Pitkow, X., and Angelaki, D.E.  
+Neuron 94, 943–953 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2017.05.028](https://dx.doi.org/10.1016/j.neuron.2017.05.028)
+
+## 9
+**Credit assignment to state-independent task representations and its relationship with model-based decision making**  
+Shahar, N., Moran, R., Hauser, T.U., Kievit, R.A., McNamee, D., Moutoussis, M., NSPN Consortium, and Dolan, R.J.  
+Proc. Natl. Acad. Sci. U. S. A. (2019)  
+[https://dx.doi.org/10.1073/pnas.1821647116](https://dx.doi.org/10.1073/pnas.1821647116)
+
+## 10
+**Cerebellar Control of Reach Kinematics for Endpoint Precision**  
+Becker, M.I., and Person, A.L.  
+Neuron (2019)  
+[https://www.cell.com/neuron/pdfExtended/S0896-6273(19)30432-5](https://www.cell.com/neuron/pdfExtended/S0896-6273(19)30432-5)
+
+
+# Superlab Papers
+
+**The language of the brain: real-world neural population codes**  
+Pruszynski, J.A., and Zylberberg, J.  
+Curr. Opin. Neurobiol. 58, 30–36 (2019)  
+[https://dx.doi.org/10.1016/j.conb.2019.06.005](https://dx.doi.org/10.1016/j.conb.2019.06.005)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

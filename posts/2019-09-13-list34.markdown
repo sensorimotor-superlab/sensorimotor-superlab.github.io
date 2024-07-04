@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 34"
+date:   2019-09-13 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Organized Toe Maps in Extreme Foot Users**  
+Dempsey-Jones, H., Wesselink, D.B., Friedman, J., and Makin, T.R.  
+Cell Rep. 28, 2748–2756.e4 (2019)  
+[https://dx.doi.org/10.1016/j.celrep.2019.08.027](https://dx.doi.org/10.1016/j.celrep.2019.08.027)
+
+## 2
+**Fatigue induces long-lasting detrimental changes in motor-skill learning**  
+Branscheidt, M., Kassavetis, P., Anaya, M., Rogers, D., Huang, H.D., Lindquist, M.A., and Celnik, P.  
+Elife 8. (2019)  
+[https://dx.doi.org/10.7554/eLife.40578](https://dx.doi.org/10.7554/eLife.40578)
+
+## 3
+**Robust control in human reaching movements: a model-free strategy to compensate for unpredictable disturbances**  
+Crevecoeur, F., Scott, S.H., and Cluff, T.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0770-19.2019](https://dx.doi.org/10.1523/JNEUROSCI.0770-19.2019)
+
+## 4
+**Similar somatotopy for active and passive digit representation in primary somatosensory cortex**  
+Sanders, Z.-B., Wesselink, D.B., Dempsey-Jones, H., and Makin, T.R.  
+bioRxiv, 754648 (2019)  
+[https://www.biorxiv.org/content/10.1101/754648v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/754648v1.abstract?%3Fcollection=)
+
+## 5
+**Serotonergic development of active sensing**  
+Azarfar, A., Zhang, Y., Alishbayli, A., Schubert, D., Homberg, J.R., and Celikel, T.  
+bioRxiv, 762534 (2019)  
+[https://www.biorxiv.org/content/10.1101/762534v3](https://www.biorxiv.org/content/10.1101/762534v3)
+
+## 6
+**Sensory feedback restoration in leg amputees improves walking speed, metabolic cost and phantom pain**  
+Petrini, F.M., Bumbasirevic, M., Valle, G., Ilic, V., Mijović, P., Čvančara, P., Barberi, F., Katic, N., Bortolotti, D., Andreu, D., Lechler, K., Lesic, A., Mazic, S., Mijović, B., Guiraud, D., Stieglitz, T., Alexandersson, A., Micera, S., Raspopovic, S.  
+Nat. Med. 25, 1356–1363 (2019)  
+[https://dx.doi.org/10.1038/s41591-019-0567-3](https://dx.doi.org/10.1038/s41591-019-0567-3)
+
+## 7
+**The evolution of human and ape hand proportions**  
+Almécija, S., Smaers, J.B., and Jungers, W.L.  
+Nat. Commun. 6, 7717 (2019)  
+[https://dx.doi.org/10.1038/ncomms8717](https://dx.doi.org/10.1038/ncomms8717)
+
+## 8
+**From competing motor plans to a single action within a single trial on the human motor periphery**  
+Gu, C., Corneil, B.D., Medendorp, P.W., and Selen, L.P.J.  
+bioRxiv, 765180 (2019)  
+[https://www.biorxiv.org/content/10.1101/765180v1?rss=1](https://www.biorxiv.org/content/10.1101/765180v1?rss=1)
+
+## 9
+**Behavioral and neural correlates of hide-and-seek in rats**  
+Reinhold, A.S., Sanguinetti-Scheck, J.I., Hartmann, K., and Brecht, M.  
+Science 365, 1180–1183 (2019)  
+[https://dx.doi.org/10.1126/science.aax4705](https://dx.doi.org/10.1126/science.aax4705)
+
+## 10
+**A tale of too many tasks: Fragmentation of tasks in motor learning and a call for model task paradigms**  
+Ranganathan, R., Tomlinson, A., Lokesh, R., Lin, T.-H., and Patel, P.  
+SportRxiv (2019)  
+[https://dx.doi.org/10.31236/osf.io/2zsgj](https://dx.doi.org/10.31236/osf.io/2zsgj)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

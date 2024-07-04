@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 104"
+date:   2021-03-12 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Modulation of tactile feedback for the execution of dexterous movement**  
+Conner JM, Bohannon A, Igarashi M, Taniguchi J, Baltar N, Azim E  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.03.04.433649v1](https://www.biorxiv.org/content/10.1101/2021.03.04.433649v1)
+
+## 2
+**The Motor Representation of Sensory Experience**  
+Cont C, Zimmermann E  
+Curr Biol (2021) [https://dx.doi.org/10.1016/j.cub.2020.11.032](https://dx.doi.org/10.1016/j.cub.2020.11.032)
+
+## 3
+**Dopamine and the interdependency of time perception and reward**  
+Fung BJ, Sutlief E, Shuler MGH  
+Neurosci Biobehav Rev (2021) [https://dx.doi.org/10.1016/j.neubiorev.2021.02.030](https://dx.doi.org/10.1016/j.neubiorev.2021.02.030)
+
+## 4
+**Age-related deficits in rapid visuomotor decision-making**  
+Gómez-Granados A, Barany DA, Schrayer M, Kurtzer I, Bonnet C, Singh T  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.02.07.430152v1](https://www.biorxiv.org/content/10.1101/2021.02.07.430152v1)
+
+## 5
+**Influence of a light touch reference on cutaneous reflexes from the hand during standing**  
+Misiaszek JE, Hackett H, McMahon AJ, Krutz J  
+Exp Brain Res (2021) [https://dx.doi.org/10.1007/s00221-020-06019-y](https://dx.doi.org/10.1007/s00221-020-06019-y)
+
+## 6
+**The role of mental simulation in primate physical inference abilities**  
+Rajalingham R, Piccato A, Jazayeri M  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.01.14.426741v1](https://www.biorxiv.org/content/10.1101/2021.01.14.426741v1)
+
+## 7
+**Mechanisms of proprioceptive realignment in human motor learning**  
+Rossi C, Bastian AJ, Therrien AS  
+Curr Opin Physiol (2021) [https://www.sciencedirect.com/science/article/pii/S2468867321000195](https://www.sciencedirect.com/science/article/pii/S2468867321000195)
+
+## 8
+**Rare rewards amplify dopamine responses**  
+Rothenhoefer KM, Hong T, Alikaya A, Stauffer WR  
+Nat Neurosci (2021) [https://dx.doi.org/10.1038/s41593-021-00807-7](https://dx.doi.org/10.1038/s41593-021-00807-7)
+
+## 9
+**Activation and disruption of a neural mechanism for novel choice in monkeys**  
+Bongioanni A, Folloni D, Verhagen L, Sallet J, Klein-Flügge MC, Rushworth MFS  
+Nature (2021) [https://dx.doi.org/10.1038/s41586-020-03115-5](https://dx.doi.org/10.1038/s41586-020-03115-5)
+
+## 10
+**Circuit organization of the excitatory sensorimotor loop through hand/forelimb S1 and M1**  
+Yamawaki N, Raineri Tapies MG, Stults AM, Smith GA, Shepherd GMG  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2021.01.22.427843v1](https://www.biorxiv.org/content/10.1101/2021.01.22.427843v1)
+
+
+## Superlab Papers
+**The planning horizon for movement sequences**  
+Ariani G, Kordjazi N, Pruszynski JA, Diedrichsen J  
+bioRxiv (2021) [https://www.biorxiv.org/content/10.1101/2020.07.15.204529v4](https://www.biorxiv.org/content/10.1101/2020.07.15.204529v4)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

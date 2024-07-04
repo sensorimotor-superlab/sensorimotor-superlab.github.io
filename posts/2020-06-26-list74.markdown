@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 74"
+date:   2020-06-26 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Variation in error-based and reward-based human motor learning is related and associated with entorhinal volume**  
+de Brouwer AJ, Rashid MR, Randall Flanagan J, Poppenk J, Gallivan JP  
+bioRxiv:2020.05.27.119529 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.27.119529v2](https://www.biorxiv.org/content/10.1101/2020.05.27.119529v2)
+
+## 2
+**Altered Resting-State Functional Connectivity Between Awake and Isoflurane Anesthetized Marmosets**  
+Hori Y, Schaeffer DJ, Gilbert KM, Hayrynen LK, Cléry JC, Gati JS, Menon RS, Everling S  
+Cereb Cortex (2020)  
+[https://dx.doi.org/10.1093/cercor/bhaa168](https://dx.doi.org/10.1093/cercor/bhaa168)
+
+## 3
+**A bang-bang control model predicts the triphasic muscles activity during hand reaching**  
+Leib R, Russo M, d’Avella A, Nisky I  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00132.2020](https://dx.doi.org/10.1152/jn.00132.2020)
+
+## 4
+**Synthesis of higher order feature codes through stimulus-specific supra-linear summation**  
+Lyall EH, Mossing DP, Pluta SR, Dudai A, Adesnik H  
+bioRxiv:2020.06.24.169359 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.24.169359v1](https://www.biorxiv.org/content/10.1101/2020.06.24.169359v1)
+
+## 5
+**The human motor cortex microcircuit: insights for neurodegenerative disease**  
+McColgan P, Joubert J, Tabrizi SJ, Rees G  
+Nat Rev Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41583-020-0315-1](https://dx.doi.org/10.1038/s41583-020-0315-1)
+
+## 6
+**The role of dopamine in dynamic effort-reward integration**  
+Michely J, Viswanathan S, Hauser TU, Delker L, Dolan RJ, Grefkes C  
+Neuropsychopharmacology (2020)  
+[https://dx.doi.org/10.1038/s41386-020-0669-0](https://dx.doi.org/10.1038/s41386-020-0669-0)
+
+## 7
+**Meissner corpuscles and their spatially intermingled afferents underlie gentle touch perception**  
+Neubarth NL, Emanuel AJ, Liu Y, Springel MW, Handler A, Zhang Q, Lehnert BP, Guo C, Orefice LL, Abdelaziz A, DeLisle MM, Iskols M, Rhyins J, Kim SJ, Cattel SJ, Regehr W, Harvey CD, Drugowitsch J, Ginty DD  
+Science 368 (2020)  
+[https://dx.doi.org/10.1126/science.abb2751](https://dx.doi.org/10.1126/science.abb2751)
+
+## 8
+**Reverse-engineering Recurrent Neural Network solutions to a hierarchical inference task for mice**  
+Schaeffer R, Khona M, Meshulam L, International Brain Laboratory, Fiete IR  
+bioRxiv:2020.06.09.142745 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.09.142745v1](https://www.biorxiv.org/content/10.1101/2020.06.09.142745v1)
+
+## 9
+**Speed-accuracy trade-off in plants**  
+Ceccarini F, Guerra S, Peressotti A, Peressotti F, Bulgheroni M, Baccinelli W, Bonato B, Castiello U  
+Psychon Bull Rev (2020)  
+[https://dx.doi.org/10.3758/s13423-020-01753-4](https://dx.doi.org/10.3758/s13423-020-01753-4)
+
+## 10
+**Does Tweeting Improve Citations? One-Year Results from the TSSMN Prospective Randomized Trial**  
+Luc JGY, Archer MA, Arora RC, Bender EM, Blitz A, Cooke DT, Hlci TN, Kidane B, Ouzounian M, Varghese TK Jr, Antonoff MB  
+Ann Thorac Surg (2020)  
+[https://dx.doi.org/10.1016/j.athoracsur.2020.04.065](https://dx.doi.org/10.1016/j.athoracsur.2020.04.065)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

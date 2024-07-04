@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 38"
+date:   2019-10-11 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Motorized shoes induce robust sensorimotor adaptation in walking**  
+Aucie, Y., Zhang, X., Sargent, R., and Torres-Oviedo, G.  
+bioRxiv, 788943 (2019)  
+[https://www.biorxiv.org/content/10.1101/788943v2](https://www.biorxiv.org/content/10.1101/788943v2)
+
+## 2
+**Inception of memories that guide vocal learning in the songbird**  
+Zhao, W., Garcia-Oscos, F., Dinh, D., and Roberts, T.F.  
+Science 366, 83–89 (2019)  
+[https://dx.doi.org/10.1126/science.aaw4226](https://dx.doi.org/10.1126/science.aaw4226)
+
+## 3
+**Reward-based improvements in motor control are driven by multiple error-reducing mechanisms**  
+Codol, O., Holland, P.J., Manohar, S.G., and Galea, J.M.  
+bioRxiv, 792598 (2019)  
+[https://dx.doi.org/10.1101/792598](https://dx.doi.org/10.1101/792598)
+
+## 4
+**Minimizing Precision-Weighted Sensory Prediction Errors via Memory Formation and Switching in Motor Adaptation**  
+Oh, Y., and Schweighofer, N.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.3250-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.3250-18.2019)
+
+Internal models are updated to minimize sensory prediction errors which result from the mismatch between the predicted and measured sensory consequences of an action. Oh and Schweighofer address whether an error should lead us to create an entirely new internal model, update an existing perturbation model, or update the model of the body. They propose a novel model of adaptation which uses multiple precision-weighted prediction errors for memory creation, selection, and updating. —SC
+
+## 5
+**Internal models of sensorimotor integration regulate cortical dynamics**  
+Egger, S.W., Remington, E.D., Chang, C.-J., and Jazayeri, M.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0500-6](https://dx.doi.org/10.1038/s41593-019-0500-6)
+
+## 6
+**Spatially and temporally distinct encoding of muscle and kinematic information in rostral and caudal primary motor cortex**  
+Kolasinski, J., Dima, D.C., Mehler, D.M.A., Stephenson, A., Valadan, S., Kusmia, S., and Rossiter, H.E.  
+bioRxiv, 613323 (2019)  
+[https://www.biorxiv.org/content/10.1101/613323v3.abstract](https://www.biorxiv.org/content/10.1101/613323v3.abstract)
+
+## 7
+Kostadinov, D., Beau, M., Pozo, M.B., and Häusser, M.  
+**Predictive and reactive reward signals conveyed by climbing fiber inputs to cerebellar Purkinje cells**  
+Nat. Neurosci. 22, 950–962 (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0381-8](https://dx.doi.org/10.1038/s41593-019-0381-8)
+
+## 8
+**Bayesian Decision Models: A Primer**  
+Ma, W.J.  
+Neuron 104, 164–175 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.09.037](https://dx.doi.org/10.1016/j.neuron.2019.09.037)
+
+## 9
+**Ten common statistical mistakes to watch out for when writing or reviewing a manuscript**  
+Makin, T.R., and Orban de Xivry, J.-J.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.48175](https://dx.doi.org/10.7554/eLife.48175)
+
+Tamar Makin and Jean-Jacques Orban de Xivry in a friendly written paper Highlight 10 common statistical mistakes while providing one way of potentially avoiding them. —RM
+
+## 10
+**Insights from a survey-based analysis of the academic job market**  
+Fernandes, J.D., Sarabipour, S., Smith, C.T., Niemi, N.M., Jadavji, N.M., Kozik, A.J., Holehouse, A.S., Pejaver, V., Symmons, O., Bisson Filho, A.W., Haage, A.  
+bioRxiv, 796466 (2019)  
+[https://www.biorxiv.org/content/10.1101/796466v1](https://www.biorxiv.org/content/10.1101/796466v1)
+
+## Bonus
+**John Krakauer**  
+Neuron 104, 6–8 (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.09.022](https://dx.doi.org/10.1016/j.neuron.2019.09.022)
+
+An interview with John Krakauer, who is, as usual, often hilarious and always insightful. —PG
+
+
+# Contributors
+- Susan Coltman ([@SusanColtman04
+](https://twitter.com/SusanColtman04))
+- Rodrigo Maeda ([@rodrigo_maeda](https://twitter.com/rodrigo_maeda))
+- Paul Gribble ([@paulgribble](https://twitter.com/paulgribble))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

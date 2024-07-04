@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 133"
+date:   2021-11-12 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Elephants evolved strategies reducing the biomechanical complexity of their trunk**  
+Dagenais P, Hensman S, Haechler V, Milinkovitch MC  
+[Curr Biol (2021)](https://dx.doi.org/10.1016/j.cub.2021.08.029)  
+Also see the Dispatch article [here](https://www.cell.com/article/S0960982221013488/abstract)
+
+## 2
+**Magnetic resonance-based eye tracking using deep neural networks**  
+Frey M, Nau M, Doeller CF  
+[Nat Neurosci (2021)](https://dx.doi.org/10.1038/s41593-021-00947-w)
+
+## 3
+**Rotational dynamics in motor cortex are consistent with a feedback controller**  
+Kalidindi HT, Cross KP, Lillicrap TP, Omrani M, Falotico E, Sabes PN, Scott SH  
+[Elife 10 (2021)](https://dx.doi.org/10.7554/eLife.67256)
+
+## 4
+**Express Arm Responses Appear Bilaterally on Upper-limb Muscles in an Arm Choice Reaching Task**  
+Kearsley SL, Cecala AL, Kozak RA, Corneil BD  
+[bioRxiv:2021.09.24.461726](https://www.biorxiv.org/content/10.1101/2021.09.24.461726v2)
+
+## 5
+**Insular cortex neurons encode and retrieve specific immune responses**  
+Koren T, Yifa R, Amer M, Krot M, Boshnak N, Ben-Shaanan TL, Azulay-Debby H, Zalayat I, Avishai E, Hajjo H, Schiller M, Haykin H, Korin B, Farfara D, Hakim F, Kobiler O, Rosenblum K, Rolls A  
+[Cell (2021)](https://dx.doi.org/10.1016/j.cell.2021.10.013)
+
+## 6
+**Distributed sensory coding by cerebellar complex spikes in units of cortical segments**  
+Michikawa T, Yoshida T, Kuroki S, Ishikawa T, Kakei S, Kimizuka R, Saito A, Yokota H, Shimizu A, Itohara S, Miyawaki A  
+[Cell Rep 37:109966 (2021)](https://dx.doi.org/10.1016/j.celrep.2021.109966)
+
+## 7
+**Finger representations in primary somatosensory cortex are modulated during vibrotactile working memory**  
+Rabe F, Kikkert S, Wenderoth N  
+[bioRxiv:2021.10.29.466459](https://www.biorxiv.org/content/10.1101/2021.10.29.466459v1)
+
+## 8
+**insideOut: A Bio-Inspired Machine Learning Approach to Estimating Posture in Robots Driven by Compliant Tendons**  
+Hagen DA, Marjaninejad A, Loeb GE, Valero-Cuevas FJ  
+[Front Neurorobot 15:679122 (2021)](https://dx.doi.org/10.3389/fnbot.2021.679122)
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

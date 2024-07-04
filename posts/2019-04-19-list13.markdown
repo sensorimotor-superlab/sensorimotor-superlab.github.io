@@ -1,0 +1,106 @@
+---
+layout: post
+title:  "Reading List 13"
+date:   2019-04-19 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that caught our attention this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+
+## 1
+**Single-trial neural dynamics are dominated by richly varied movements**  
+Musall, S., Kaufman, M.T., Juavinett, A.L., Gluf, S., and Churchland, A.K.  
+bioRxiv, 308288 (2019)  
+[https://www.biorxiv.org/content/10.1101/308288v3](https://www.biorxiv.org/content/10.1101/308288v3)
+
+## 2
+**Rats Generate Vibrissal Sensory Evidence until Boundary Crossing Triggers a Decision**  
+Zuo, Y., and Diamond, M.E.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219303148/abstract](https://www.cell.com/article/S0960982219303148/abstract)
+
+**Texture Identification by Bounded Integration of Sensory Cortical Signals**  
+Zuo, Y., and Diamond, M.E.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S096098221930315X/abstract](https://www.cell.com/article/S096098221930315X/abstract)
+
+## 3
+**Physiological validation of the decomposition of surface EMG signals**  
+Enoka, R.M.  
+J. Electromyogr. Kinesiol. 46, 70–83 (2019)  
+[https://dx.doi.org/10.1016/j.jelekin.2019.03.010](https://dx.doi.org/10.1016/j.jelekin.2019.03.010)
+
+## 4
+**Macaque dorsal premotor cortex exhibits decision-related activity only when specific stimulus–response associations are known**  
+Wang, M., Montanède, C., Chandrasekaran, C., Peixoto, D., Shenoy, K.V., and Kalaska, J.F.  
+Nat. Commun. 10, 1793 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-09460-y](https://dx.doi.org/10.1038/s41467-019-09460-y)
+
+## 5
+**Blocking tactile input to one finger using anaesthetic enhances touch perception and learning in other fingers**  
+Dempsey-Jones, H., Themistocleous, A.C., Carone, D., Ng, T.W.C., Harrar, V., and Makin, T.R.  
+J. Exp. Psychol. Gen. 148, 713–727 (2019)  
+[https://dx.doi.org/10.1037/xge0000514](https://dx.doi.org/10.1037/xge0000514)
+
+## 6
+**The interplay between cerebellum and basal ganglia in motor adaptation: A modeling study**  
+Todorov, D.I., Capps, R.A., Barnett, W.H., Latash, E.M., Kim, T., Hamade, K.C., Markin, S.N., Rybak, I.A., and Molkov, Y.I.  
+PLoS One 14, e0214926 (2019)  
+[https://dx.doi.org/10.1371/journal.pone.0214926](https://dx.doi.org/10.1371/journal.pone.0214926)
+
+## 7
+**Unsupervised learning by competing hidden units**  
+Krotov, D., and J Hopfield, J.  
+Proc. Natl. Acad. Sci. U. S. A. (2019)  
+[https://dx.doi.org/10.1073/pnas.1820458116](https://dx.doi.org/10.1073/pnas.1820458116)
+
+## 8
+**Opposing Influence of Sensory and Motor Cortical Input on Striatal Circuitry and Choice Behavior**  
+Lee, C.R., Yonk, A.J., Wiskerke, J., Paradiso, K.G., Tepper, J.M., and Margolis, D.J.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219303264/abstract](https://www.cell.com/article/S0960982219303264/abstract)
+
+## 9
+**Rapid changes in tissue mechanics regulate cell behaviour in the developing embryonic brain**  
+Thompson, A.J., Pillai, E.K., Dimov, I.B., Foster, S.K., Holt, C.E., and Franze, K.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.39356](https://dx.doi.org/10.7554/eLife.39356)
+
+
+# Superlab Publications
+Here we list new papers by members of the sensoriomotor superlab:
+
+
+**Neural Signatures of Reward and Sensory Error Feedback Processing in Motor Learning**  
+Palidis, D.J., Cashaback, J.G.A., and Gribble, P.L.  
+J. Neurophysiol. 121:1561-74 (2019)  
+[https://dx.doi.org/10.1152/jn.00792.2018](https://dx.doi.org/10.1152/jn.00792.2018)
+
+
+**Both Fast and Slow Learning Processes Contribute to Savings Following Sensorimotor Adaptation**  
+Coltman, S.K., Cashaback, J.G., and Gribble, P.L.  
+J. Neurophysiol. 121:1575-83 (2019)  
+[https://dx.doi.org/10.1152/jn.00794.2018](https://dx.doi.org/10.1152/jn.00794.2018)
+
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+
+
+

@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "Reading List 101"
+date:   2021-02-05 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Welcome back to the Sensorimotor Superlab Reading List, and welcome to 2021! Here's hoping the year will bring many improvements to all of our lives.
+
+We are restarting the tradition of including short descriptions of each of the papers we feature in our weekly list, written by our wonderful Superlab lab members, who are credited below each blurb. We are also switching to a publication schedule every two weeks instead of weekly. Our next list will be out on February 19th, 2021.
+
+Here are the articles that we have been reading.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Prolonged response time helps eliminate residual errors in visuomotor adaptation**  
+Langsdorf L, Maresch J, Hegele M, McDougle SD, Schween R. Psychon Bull Rev (2021)  
+[http://dx.doi.org/10.3758/s13423-020-01865-x](http://dx.doi.org/10.3758/s13423-020-01865-x)
+
+In visuomotor adaptation studies participants often do not fully adapt to maximal performance—why? In a series of three behavioral experiments, Langsdorf and colleagues show that this under-compensation is due to suboptimal or incomplete motor planning stemming from intrinsic speed-accuracy tradeoffs. When participants invest more time and cognitive resources for planning, expressed as increases in reaction time, they can fully counteract the imposed perturbations.  
+—*Giacomo Ariani* [ [google scholar](https://scholar.google.com/citations?user=IYbgVnUAAAAJ) | [twitter](https://twitter.com/GiacomoAriani) ]
+
+## 2
+**The cost of correcting for error during sensorimotor adaptation**  
+Sedaghat-Nejad E, Shadmehr R. bioRxiv (2021)  
+[http://dx.doi.org/10.1101/2021.01.13.426535](http://dx.doi.org/10.1101/2021.01.13.426535)
+
+A movement error occurs when we execute a movement that results in an unexpected outcome. Movement errors are often followed by a corrective response which consumes time, potentially providing an implicit loss that can affect the amount of learning from the movement error. Sedaghat-Nejad and Shadmehr (2021) combined the adaptation of saccades to a visual target with a decision-making task that relied on motion discrimination to modulate the sensorimotor loss function. By varying the coherence of the random dots in the discrimination task, thereby varying the error cost, they found that the rate of adaptation was greater when the error correction carried a large cost.    
+—*Susan Coltman* [ [google scholar](https://scholar.google.ca/citations?user=fI2YLbMAAAAJ) | [twitter](https://twitter.com/SusanColtman04) ]
+
+## 3
+**Supporting generalization in non-human primate behavior by tapping into structural knowledge: Examples from sensorimotor mappings, inference, and decision-making**  
+Noel J-P, Caziot B, Bruni S, Fitzgerald NE, Avila E, Angelaki DE. Prog Neurobiol (2021)  
+[http://dx.doi.org/10.1016/j.pneurobio.2021.101996](http://dx.doi.org/10.1016/j.pneurobio.2021.101996)
+
+Behavioural paradigms are often carefully crafted to disentangle variables of interest, but this runs the risk of overtraining animals on behaviours outside of their natural repertoire. Noel and colleagues designed a novel virtual navigation task which taps into the animal's typical behaviour of foraging. After learning, the animals readily generalized learnt behaviour to new and more complex task variants with no further training, thereby illustrating the possibilities of studying flexible and intelligent behaviours in experiments built from animals' naturalistic tendencies.  
+—*Eva Berlot* [ [google scholar](https://scholar.google.com/citations?user=JTC6M_MAAAAJ) | [twitter](https://twitter.com/EvaBerlot) ]
+
+## 4
+**High contrast, moving targets in an emerging target paradigm promote fast visuomotor responses during visually guided reaching**  
+Kozak RA, Corneil BD. bioRxiv (2021)  
+[http://dx.doi.org/10.1101/2021.01.27.428509](http://dx.doi.org/10.1101/2021.01.27.428509)
+
+How does the brain transform vision into action for movements that must occur with very little delay? Here we test how visual properties of a target and cognitive aspects of a movement task can both affect fast, stimulus locked responses (SLRs) that appear on limb muscles in response to the appearance of a movement target. High contrast and fast-moving targets are most effective at eliciting rapid muscle activation and movement responses, and these effects can change depending on the movement task. Our results support the hypothesis that a rapid subcortical pathway links vision with action to aid in movement production when time is of the essence.  
+—*Rebecca Kozak* [ [twitter](https://twitter.com/becca62881430) ]
+
+## 5
+**A novel somatosensory spatial navigation system outside the hippocampal formation**  
+Long X, Zhang S-J. Cell Res (2021)  
+[http://dx.doi.org/10.1038/s41422-020-00448-8](http://dx.doi.org/10.1038/s41422-020-00448-8)
+
+Although spatial navigation is a hallmark of the hippocampus and the entorhinal cortex, neural activity driven by spatial exploration is also found in connected brain regions that provide salient inputs. Long and Zhang expected to see spatially driven activity in the primary sensory cortex (S1) as sensory feedback influences spatial navigation. Instead, they discovered a full complement of cells that showed spatial tuning similar to hippocampal cells. This discovery suggests a complete and potentially independent spatial navigation system in S1, and raises interesting questions about the redundancy of the hippocampal-entorhinal circuit.  
+—*Vaishnavi Sukumar* [ [google scholar](https://scholar.google.com/citations?user=sKpKFYwAAAAJ&hl=en) | [twitter](https://twitter.com/Vaishu_Sukumar) ]
+
+## 6
+**Early life experience sets hard limits on motor learning as evidenced from artificial arm use**  
+Maimon-Mor RO, Schone HR, Slater DH, Aldo Faisal A, Makin TR. bioRxiv (2021)  
+[http://dx.doi.org/10.1101/2021.01.26.428281](http://dx.doi.org/10.1101/2021.01.26.428281)
+
+Artistic and athletic virtuosos often start practicing their skills extremely early in life; similarly, it might make sense that people who begin using an artificial arm early in childhood due to congenital one-handedness would demonstrate virtuosic skill that others cannot match. Maimon-Mor and Colleagues report that, in fact, people who began using an artificial arm later in life (following amputation) make more accurate reaches than the former group despite having used their artificial arms for a shorter time. While experience affects limb use within each of these groups of artificial limb users, these overall results raise intriguing questions regarding the role of neural development in motor control and how artificial limbs are incorporated by their users.  
+—*Sasha Reschechtko* [ [google scholar](https://scholar.google.com/citations?hl=en&user=oxyl3i8AAAAJ) | [twitter](https://twitter.com/res_chetko) ]
+
+## 7
+**Striatal activity topographically reflects cortical activity**  
+Peters AJ, Fabre JMJ, Steinmetz NA, Harris KD, Carandini M. Nature (2021)  
+[http://dx.doi.org/10.1038/s41586-020-03166-8](http://dx.doi.org/10.1038/s41586-020-03166-8)
+
+The dorsal striatum receives topographically organized inputs from many areas of cortex, yet neural activity in the striatum hasn’t always been found to reflect cortical activity. In this work, Peter et al. show that activity along the striatum in mice closely matched the cortical area providing input regardless of behavioural task. Importantly, this activity was abolished or enhanced when the specific input area was lesioned or training increased, suggesting that the striatum contains a scalable map of cortex and could act as a key integration site to determine ongoing behaviour.  
+—*Jonathan A Michaels* [ [google scholar](https://scholar.google.com/citations?user=2EdPJ4QAAAAJ&hl=en) | [twitter](https://twitter.com/JonAMichaels) ]
+
+## 8
+**Sensation, movement and learning in the absence of barrel cortex**  
+Hong YK, Lacefield CO, Rodgers CC, Bruno RM. Nature (2018)  
+[http://dx.doi.org/10.1038/s41586-018-0527-y](http://dx.doi.org/10.1038/s41586-018-0527-y)
+
+To examine the role of barrel cortex (S1) in active sensing, Hong and colleagues trained mice to perform an object detection task using their whiskers. While both transient optogenetic inactivation and chronic lesions of contralateral S1 produced sensory and movement deficits, lesioned mice were able to quickly recover in just a couple of sessions. This suggests that other brain structures are capable of coordinating movement and sensation in the absence of S1. Moreover early re-exposure to the task after lesioning accelerated recovery, carrying important implications for neurorehabilitation.  
+—*Giacomo Ariani* [ [google scholar](https://scholar.google.com/citations?user=IYbgVnUAAAAJ) | [twitter](https://twitter.com/GiacomoAriani) ]
+
+## 9
+**Measurement, manipulation and modeling of brain-wide neural population dynamics**  
+Shenoy KV, Kao JC. Nat Commun (2021)  
+[http://dx.doi.org/10.1038/s41467-020-20371-1](http://dx.doi.org/10.1038/s41467-020-20371-1)
+
+Shenoy and Kao briefly review how studying neural population dynamics has emerged as a powerful framework for gaining insight into neural computations. Then they lay out an exciting 'cheat sheet' on how to leverage the framework with new technologies to better understand neural circuits and how they relate to behavior.  
+—*Andrew Pruszynski* [ [google scholar](https://scholar.google.com/citations?hl=en&user=xze3nnkAAAAJ) | [twitter](https://twitter.com/andpru) ]
+
+## 10
+**Adaptive Behavior and the Role of Primary Somatosensory Cortex**  
+Waiblinger C, Borden PY, Stanley GB. bioRxiv (2021)  
+[http://dx.doi.org/10.1101/2021.01.29.428886](http://dx.doi.org/10.1101/2021.01.29.428886)
+
+One of the most surprising things to learn in an introductory Psychology course is that the visual system is not a neural camera obscura, simply rendering the outside world veridically. Rather neural representations of the visual world are modulated by context, by our expectations and experience, and many other interesting factors. Wailblinger et al. investigate a similar question in the somatosensory system of the mouse. They measure perceptual capabilities of the mouse vibrissa system during a whisker-deflection discrimination task, and neural activity from S1 using wide-field optical imaging (GEVI 'ArcLight'). During the initial stages of learning, psychometric functions and neural activity in S1 are stable and driven by the properties of the stimulus. However after an animal reaches expert levels of performance and is able to follow changes in experimentally imposed stimulus statistics, psychometric functions shift to adapt perceptual thresholds, and similarly, neural activity shifts to represent higher order perceptual decision criteria. The findings imply that like the visual system, S1 does not simply represent the properties of the sensory stimulus but rather combines sensory information with stimulus context, to support flexible sensory processing and experience dependent behavioral adaptation.  
+—*Paul Gribble* [ [google scholar](https://scholar.google.com/citations?user=kACnRf8AAAAJ) | [twitter](https://twitter.com/paulgribble)]
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

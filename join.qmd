@@ -1,0 +1,13 @@
+---
+title: "Join the Superlab"
+---
+
+We are accepting applications for **MSc/PhD students** and **Postdoctoral Fellows**
+
+Applications should be submitted electronically as a single pdf file entitled `Lastname_Firstname.pdf`
+
+The pdf must include:
+
+1. CV (including a list of publications and conference presentations)
+2. Statement of research interest outlining your experience to date and your interest in future research, not exceeding 2 pages
+3. Names and contact information for three academic referees

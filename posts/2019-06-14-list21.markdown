@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Reading List 21"
+date:   2019-06-14 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Independent population coding of the present and the past in prefrontal cortex during learning**  
+Maggi, S., and Humphries, M.D.  
+bioRxiv, 668962 (2019)  
+[https://www.biorxiv.org/content/10.1101/668962v1](https://www.biorxiv.org/content/10.1101/668962v1)
+
+## 2
+**Motor primitives are determined in early development and are then robustly conserved into adulthood**  
+Yang, Q., Logan, D., and Giszter, S.F.  
+Proc. Natl. Acad. Sci. U. S. A. (2019)  
+[https://dx.doi.org/10.1073/pnas.1821455116](https://dx.doi.org/10.1073/pnas.1821455116)
+
+## 3
+**Cerebellar Contribution to Preparatory Activity in Motor Neocortex**  
+Chabrol, F.P., Blot, A., and Mrsic-Flogel, T.D.  
+Neuron (2019)  
+[https://www.cell.com/article/S0896627319304477/abstract](https://www.cell.com/article/S0896627319304477/abstract)
+
+## 4
+**Neural population dynamics in motor cortex are different for reach and grasp**  
+Suresh, A.K., Goodman, J.M., Okorokova, E.V., Kaufman, M.T., Hatsopoulos, N.G., and Bensmaia, S.J.  
+bioRxiv, 667196 (2019)  
+[https://dx.doi.org/10.1101/667196](https://dx.doi.org/10.1101/667196)
+
+## 5
+**Layer-specific integration of locomotion and sensory information in mouse barrel cortex**  
+Ayaz, A., Stäuble, A., Hamada, M., Wulf, M.-A., Saleem, A.B., and Helmchen, F.  
+Nat. Commun. 10, 2585 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-10564-8](https://dx.doi.org/10.1038/s41467-019-10564-8)
+
+## 6
+**Reorganization of Recurrent Layer 5 Corticospinal Networks Following Adult Motor Training**  
+Biane, J.S., Takashima, Y., Conner, J.M., Scanziani, M., and Tuszynski, M.H.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.3442-17.2019](https://dx.doi.org/10.1523/JNEUROSCI.3442-17.2019)
+
+## 7
+**An Intrafascicular Neural Interface With Enhanced Interconnection for Recording of Peripheral Nerve Signals**  
+Kang, Y.N., Chou, N., Jang, J.-W., Byun, D., Kang, H., Moon, D.-J., Kim, J., and Kim, S.  
+IEEE Trans. Neural Syst. Rehabil. Eng. 27, 1312–1319 (2019)  
+[https://dx.doi.org/10.1109/TNSRE.2019.2917916](https://dx.doi.org/10.1109/TNSRE.2019.2917916)
+
+## 8
+**New neural activity patterns emerge with long-term learning**  
+Oby, E.R., Golub, M.D., Hennig, J.A., Degenhart, A.D., Tyler-Kabara, E.C., Yu, B.M., Chase, S.M., and Batista, A.P.  
+PNAS, 201820296 (2019)  
+[https://dx.doi.org/10.1073/pnas.1820296116](https://dx.doi.org/10.1073/pnas.1820296116)
+
+## 9
+**Subcortical Substrates of Explore-Exploit Decisions in Primates**  
+Costa, V.D., Mitz, A.R., and Averbeck, B.B.  
+Neuron (2019)  
+[https://www.cell.com/article/S0896627319304428/abstract](https://www.cell.com/article/S0896627319304428/abstract)
+
+## 10
+**Discovering precise temporal patterns in large-scale neural recordings through robust and interpretable time warping**  
+Williams, A.H., Poole, B., Maheswaranathan, N., Dhawale, A.K., Fisher, T., Wilson, C.D., Brann, D.H., Trautmann, E., Ryu, S., Shusterman, R., Rinberg D., Ölveczky B.P., Shenoy K.V., Ganguli S.  
+bioRxiv, 661165 (2019)  
+[https://www.biorxiv.org/content/10.1101/661165v1](https://www.biorxiv.org/content/10.1101/661165v1)
+
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

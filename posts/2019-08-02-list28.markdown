@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 28"
+date:   2019-08-02 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Motor learning without doing: use-dependent plasticity induced by motor imagery**  
+Ruffino, C., Gaveau, J., Papaxanthis, C., and Lebon, F.  
+bioRxiv, 716357 (2019)  
+[https://www.biorxiv.org/content/10.1101/716357v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/716357v1.abstract?%3Fcollection=)
+
+## 2
+**Grip force preparation for collisions**  
+Kuling, I.A., Salmen, F., and Lefèvre, P.  
+Exp. Brain Res. (2019)  
+[https://doi.org/10.1007/s00221-019-05606-y](https://doi.org/10.1007/s00221-019-05606-y)
+
+## 3
+**A review of grasping as the movements of digits in space**  
+Smeets, J.B.J., van der Kooij, K., and Brenner, E.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00123.2019](https://dx.doi.org/10.1152/jn.00123.2019)
+
+## 4
+**Increase in Grasp Force Reflects a Desire to Improve Movement Precision**  
+Takagi, A., Kambara, H., and Koike, Y.  
+eNeuro 6 (2019)  
+[https://dx.doi.org/10.1523/ENEURO.0095-19.2019](https://dx.doi.org/10.1523/ENEURO.0095-19.2019)
+
+## 5
+**Dopamine-dependent loss aversion during effort-based decision-making**  
+Chen, X., Voets, S., Jenkinson, N., and Galea, J.M.  
+bioRxiv, 714840 (2019)  
+[https://www.biorxiv.org/content/10.1101/714840v1](https://www.biorxiv.org/content/10.1101/714840v1)
+
+## 6
+**Metabolic constraints on synaptic learning and memory**  
+Karbowski, J.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00092.2019](https://dx.doi.org/10.1152/jn.00092.2019)
+
+## 7
+**Reward prediction error does not explain movement selectivity in DMS-projecting dopamine neurons**  
+Lee, R.S., Mattar, M.G., Parker, N.F., Witten, I.B., and Daw, N.D.  
+bioRxiv, 447532 (2019)  
+[https://www.biorxiv.org/content/10.1101/447532v2](https://www.biorxiv.org/content/10.1101/447532v2)
+
+## 8
+**Brain state stability during working memory is explained by network control theory, modulated by dopamine D1/D2 receptor function, and diminished in schizophrenia**  
+Braun, U., Harneit, A., Pergola, G., Menara, T., Schaefer, A., Betzel, R.F., Zang, Z., Schweiger, J.I., Schwarz, K., Chen, J., Blasi, G., Bertolini, A., Durstewitz, D., Pasqualetti, F., Schwarz, E., Meyer-Lindenberg, A., Bassett, D.S., Tost, H.  
+arXiv [q-bio.NC] (2019)  
+[https://arxiv.org/abs/1906.09290](https://arxiv.org/abs/1906.09290)
+
+## 9
+**Resynthesizing behavior through phylogenetic refinement**  
+Cisek, P.  
+Atten Percept Psychophys. (2019)  
+[https://dx.doi.org/10.3758/s13414-019-01760-1](https://dx.doi.org/10.3758/s13414-019-01760-1)
+
+## 10
+**Julia: come for the syntax, stay for the speed**  
+Perkel, J.M.  
+Nature 572, 141 (2019)  
+[https://dx.doi.org/10.1038/d41586-019-02310-3](https://dx.doi.org/10.1038/d41586-019-02310-3)
+
+A dispatch from Nature on a relatively new and increasingly interesting programming language for scientific computing, called [Julia](https://julialang.org). The promise is the interactivity, convenience and rich open-source package environment you get in Python, R, and other interpreted languages, but with the speed you get in compiled languages like C and Fortran. It's a language to keep an eye on. There was a recent conference called [JuliaCon](https://juliacon.org), here is a link to [videos of all of the talks](https://www.youtube.com/playlist?list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H).
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

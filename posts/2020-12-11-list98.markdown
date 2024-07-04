@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 98"
+date:   2020-12-11 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Fingerprint ridges allow primates to regulate grip**  
+Yum, S.-M., Baek, I.-K., Hong, D., Kim, J., Jung, K., Kim, S., Eom, K., Jang, J., Kim, S., Sattorov, M., et al.  
+PNAS (2020)  
+[https://dx.doi.org/10.1073/pnas.2001055117](https://dx.doi.org/10.1073/pnas.2001055117)
+
+## 2
+**Using asymmetry to your advantage: learning to acquire and accept external assistance during prolonged split-belt walking**  
+Sanchez, N., Simha, S.N., Donelan, J.M., and Finley, J.M.  
+J. Neurophysiol. (2020)  
+[https://dx.doi.org/10.1152/jn.00416.2020](https://dx.doi.org/10.1152/jn.00416.2020)
+
+## 3
+**Shape perception via a high-channel-count neuroprosthesis in monkey visual cortex**  
+Chen, X., Wang, F., Fernandez, E., and Roelfsema, P.R.  
+Science (2020)  
+[https://dx.doi.org/10.1126/science.abd7435](https://dx.doi.org/10.1126/science.abd7435)
+
+## 4
+**When Natural Behavior Engages Working Memory**  
+Draschkow, D., Kallmayer, M., and Nobre, A.C.  
+Curr. Biol. (2020)  
+[http://dx.doi.org/10.1016/j.cub.2020.11.013](http://dx.doi.org/10.1016/j.cub.2020.11.013)
+
+## 5
+**Diversity and dynamism in the cerebellum**  
+De Zeeuw, C.I., Lisberger, S.G., and Raymond, J.L.  
+Nat. Neurosci. (2020)  
+[https://dx.doi.org/10.1038/s41593-020-00754-9](https://dx.doi.org/10.1038/s41593-020-00754-9)
+
+## 6
+**Forced choices reveal a trade-off between cognitive effort and physical pain**  
+Vogel, T.A., Savelson, Z.M., Otto, A.R., and Roy, M.  
+Elife (2020)  
+[https://dx.doi.org/10.7554/eLife.59410](https://dx.doi.org/10.7554/eLife.59410)
+
+## 7
+**MR-based camera-less eye tracking using deep neural networks**  
+Frey, M., Nau, M., and Doeller, C.F.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.11.30.401323v1](https://www.biorxiv.org/content/10.1101/2020.11.30.401323v1)
+
+## 8
+**Strong inhibitory signaling underlies stable temporal dynamics and working memory in spiking neural networks**  
+Kim, R., and Sejnowski, T.J.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.11.944751v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.02.11.944751v1.abstract?%3Fcollection=)
+
+## 9
+**Bridging neuronal correlations and dimensionality reduction**  
+Umakantha, A., Morina, R., Cowley, B.R., Snyder, A.C., Smith, M.A., and Yu, B.M.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.04.383604v1](https://www.biorxiv.org/content/10.1101/2020.12.04.383604v1)
+
+## 10
+**Nonsense correlations in neuroscience**  
+Harris, K.D.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.11.29.402719v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.11.29.402719v2.abstract?%3Fcollection=)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

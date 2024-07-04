@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 56"
+date:   2020-02-21 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Increasing muscle speed drives changes in the neuromuscular transform of motor commands during postnatal development in songbirds**  
+Adam I, Elemans CPH  
+bioRxiv:2020.02.19.955799 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.19.955799v1](https://www.biorxiv.org/content/10.1101/2020.02.19.955799v1)
+
+## 2
+**Physics-Based Simulations to Predict the Differential Effects of Motor Control and Musculoskeletal Deficits on Gait Dysfunction in Cerebral Palsy: A Retrospective Case Study**  
+Falisse A, Pitto L, Kainz H, Hoang H, Wesseling M, Van Rossom S, Papageorgiou E, Bar-On L, Hallemans A, Desloovere K, Molenaers G, Van Campenhout A, De Groote F, Jonkers I  
+Front Hum Neurosci 14:40 (2020)  
+[https://dx.doi.org/10.3389/fnhum.2020.00040](https://dx.doi.org/10.3389/fnhum.2020.00040)
+
+## 3
+**Distinct representations of finger movement and force in human motor and premotor cortices**  
+Flint RD, Tate MC, Li K, Templer JW, Rosenow JM, Pandarinath C, Slutzky MW  
+bioRxiv:2020.02.18.952945 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.18.952945v1](https://www.biorxiv.org/content/10.1101/2020.02.18.952945v1)
+
+## 4
+**An anatomical substrate of credit assignment in reinforcement learning**  
+Kornfeld JM, Januszewski M, Schubert PJ, Jain V, Denk W, Fee MS  
+bioRxiv:2020.02.18.954354 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.18.954354v1](https://www.biorxiv.org/content/10.1101/2020.02.18.954354v1)
+
+## 5
+**A model of flexible motor sequencing through thalamic control of cortical dynamics**  
+Logiaco L, Abbott LF, Escola S  
+bioRxiv:2019.12.17.880153 (2020)  
+[https://dx.doi.org/10.1101/2019.12.17.880153](https://dx.doi.org/10.1101/2019.12.17.880153)
+
+Also check out the [tweeprint](https://twitter.com/seanescola/status/1229387866179899392?s=21)
+
+## 6
+**The cerebellum recalibrates a feedback controller involved in motor control**  
+Markov DA, Kist AM, Petrucco L, Portugues R  
+bioRxiv:2020.02.12.945956 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.12.945956v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.02.12.945956v1.abstract?%3Fcollection=)
+
+## 7
+**Spinal circuits mediate a stretch reflex between the upper limbs in humans**  
+Muraoka T, Kurtzer I  
+Neuroscience (2020)  
+[https://dx.doi.org/10.1016/j.neuroscience.2020.02.007](https://dx.doi.org/10.1016/j.neuroscience.2020.02.007)
+
+Muraoka and Kurtzer investigated inter-limb stretch reflexes in shoulder muscles. The authors provide the first evidence of a short-latency stretch reflex in non-perturbed contralateral muscles of the arm. Interestingly, this crossed short-latency reflex is of the opposite sign to the long-latency reflex. The authors go on to demonstrate independence between inter- and intra-limb stretch reflexes and suggest that inter-limb short-latency reflexes may contribute to balance control while standing upright. —CF
+
+## 8
+**When vision lags, motor prediction follows**  
+Rohde M, Altan G, Ernst MO  
+bioRxiv:2020.02.13.937235 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.13.937235v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.02.13.937235v1.abstract?%3Fcollection=)
+
+## 9
+**Motor training strengthens corticospinal suppression during movement preparation**  
+Vassiliadis P, Derosiere G, Grandjean J, Duque J  
+bioRxiv:2020.02.14.948877 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.14.948877v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.02.14.948877v1.abstract?%3Fcollection=)
+
+## 10
+**A How-to-Model Guide for Neuroscience**  
+Blohm G, Kording KP, Schrater PR  
+eNeuro 7 (2020)  
+[https://dx.doi.org/10.1523/ENEURO.0352-19.2019](https://dx.doi.org/10.1523/ENEURO.0352-19.2019)
+
+
+# Contributors
+- Chris Forgaard ([@CForgaard](https://twitter.com/CForgaard))
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 99"
+date:   2020-12-18 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Welcome to the 99th (!) Reading List. As we begin our winter break, we have decided to also take a break from the Reading List, and return in January with a special 100th edition to launch the new year. The 100th edition is slated to appear on Friday January 22nd. Have a safe holiday break.
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Sensory coding of limb kinematics in developing primary motor cortex**  
+Glanz, R.M., Dooley, J.C., Sokoloff, G., and Blumberg, M.S.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.14.422707v1](https://www.biorxiv.org/content/10.1101/2020.12.14.422707v1)
+
+## 2
+**A midbrain - thalamus - cortex circuit reorganizes cortical dynamics to initiate planned movement**  
+Inagaki, H.K., Chen, S., Ridder, M.C., Sah, P., Li, N., Yang, Z., Hasanbegovic, H., Gao, Z., Gerfen, C.R., and Svoboda, K.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.16.423127v1](https://www.biorxiv.org/content/10.1101/2020.12.16.423127v1)
+
+## 3
+**Increased connectivity among sensory and motor regions during visual and audiovisual speech perception**  
+Peelle, J.E., Spehar, B., Jones, M.S., McConkey, S., Myerson, J., Hale, S., Sommers, M.S., and Tye-Murray, N.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.15.422726v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.12.15.422726v1.abstract?%3Fcollection=)
+
+## 4
+**Stretch-activated ion channels identified in the touch-sensitive structures of carnivorous Droseraceae plants**  
+Procko, C., Murthy, S., Keenan, W.T., Mousavi, S.A.R., Dabi, T., Coombs, A., Procko, E., Baird, L., Patapoutian, A., and Chory, J.  
+[https://www.biorxiv.org/content/10.1101/2020.12.15.422915v1](https://www.biorxiv.org/content/10.1101/2020.12.15.422915v1)
+
+## 5
+**Information transfer and recovery for the sense of touch**  
+Huang, C., Englitz, B., Reznik, A., Zeldenrust, F., and Celikel, T.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.08.415729v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.12.08.415729v2.abstract?%3Fcollection=)
+
+## 6
+**Capacity sharing between concurrent movement plans in the frontal eye field during the planning of sequential saccades**  
+Basu, D., Sendhilnathan, N., and Murthy, A.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.04.411454v1](https://www.biorxiv.org/content/10.1101/2020.12.04.411454v1)
+
+## 7
+**Rules warp feature encoding in decision-making circuits**  
+Ebitz, R.B., Tu, J.C., and Hayden, B.Y.  
+PLoS Biol (2020)  
+[https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000951](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000951)
+
+## 8
+**The Gradient Clusteron: A model neuron that learns via dendritic nonlinearities, structural plasticity, and gradient descent**  
+Moldwin, T., Kalmenson, M., and Segev, I.  
+bioRxiv (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.12.15.417790v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.12.15.417790v1.abstract?%3Fcollection=)
+
+## 9
+**Transforming task representations to perform novel tasks**  
+Lampinen, A.K., and McClelland, J.L.  
+PNAS (2020)  
+[https://dx.doi.org/10.1073/pnas.2008852117](https://dx.doi.org/10.1073/pnas.2008852117)
+
+## 10
+**The rise to dominance of genetic model organisms and the decline of curiosity-driven organismal research**  
+Farris, S.M.  
+PLoS ONE (2020)  
+[https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0243088](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0243088)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

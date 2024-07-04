@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Reading List 164"
+date:   2022-06-17 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Semantic relatedness retroactively boosts memory and promotes memory interdependence across episodes**  
+Antony JW, Romero A, Vierra AH, Luenser RS, Hawkins RD, Bennion KA  
+[eLife](https://dx.doi.org/10.7554/eLife.72519)
+
+## 2
+**Motor Learning Drives Dynamic Patterns of Intermittent Myelination on Learning-activated Axons**  
+Bacmeister CM, Huang R, Osso LA, Thornton MA, Conant L, Chavez A, Poleg-Polsky A, Hughes EG  
+[bioRxiv:2021.10.13.464319](https://www.biorxiv.org/content/10.1101/2021.10.13.464319v3)
+
+## 3
+**High-density single-unit human cortical recordings using the Neuropixels probe**  
+Chung JE, Sellers KK, Leonard MK, Gwilliams L, Xu D, Dougherty ME, Kharazia V, Metzger SL, Welkenhuysen M, Dutta B, Chang EF  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.05.007)
+
+## 4
+**The Legacy of Gerald L. Gottlieb in Human Movement Neuroscience**  
+Corcos DM, Myklebust BM, Latash ML  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00141.2022)
+
+## 5
+**Off-manifold coding in visual cortex revealed by sleep**  
+de Oliveira EF, Kim S, Qiu TS, Peyrache A, Batista-Brito R, Sjulson L  
+[bioRxiv:2022.06.10.495710](https://www.biorxiv.org/content/10.1101/2022.06.10.495710v1)
+
+## 6
+**Updating contextual sensory expectations for adaptive behaviour**  
+Ferrari A, Richter D, de Lange FP  
+[bioRxiv:2022.06.08.495309](https://www.biorxiv.org/content/10.1101/2022.06.08.495309v1)
+
+## 7
+**Multilevel atlas comparisons reveal divergent evolution of the primate brain**  
+Garin CM, Garin M, Silenzi L, Jaffe R, Constantinidis C  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2202491119)
+
+## 8
+**Measures of Implicit and Explicit Adaptation Do Not Linearly Add**  
+Hart BM ’t, Taqvi U, Gastrock RQ, Ruttle JE, Modchalingam S, Henriques DYP  
+[bioRxiv:2022.06.07.495044](https://www.biorxiv.org/content/10.1101/2022.06.07.495044v1)
+
+## 9
+**Generalization reveals asymmetric and history-dependent control networks for multi-finger dexterous movements**  
+Kamara G, Rajchert O, Mawase F  
+[bioRxiv:2022.06.07.495015](https://www.biorxiv.org/content/10.1101/2022.06.07.495015v1)
+
+## 10
+**Running modulates primate and rodent visual cortex via common mechanism but quantitatively distinct implementation**  
+Liska JP, Rowley DP, Nguyen TTK, Muthmann J-O, Butts DA, Yates JL, Huk AC  
+[bioRxiv:2022.06.13.495712](https://www.biorxiv.org/content/10.1101/2022.06.13.495712v1)
+
+## 11
+**Similar striatal activity exerts different control over automatic and flexible motor sequences**  
+Mizes KGC, Lindsey J, Sean Escola G, Ölveczky BP  
+[bioRxiv:2022.06.13.495989](https://www.biorxiv.org/content/10.1101/2022.06.13.495989v1)
+
+## 12
+**An Internal Model of Sensorimotor Context in Freely Swimming Electric Fish**  
+Wallach A, Sawtell NB  
+[bioRxiv:2022.06.08.495343](https://www.biorxiv.org/content/10.1101/2022.06.08.495343v1)
+
+## 13
+**Slowly-adapting type II afferents contribute to conscious touch sensation in humans: evidence from single unit intraneural microstimulation**  
+Watkins RH, Amante M, Wasling HB, Wessberg J, Ackerley R  
+[J Physiol](https://dx.doi.org/10.1113/JP282873)
+
+## 14
+**Prehension kinematics in humans and macaques**  
+Yan Y, Sobinov AR, Bensmaia SJ  
+[bioRxiv:2021.11.09.467947](https://www.biorxiv.org/content/10.1101/2021.11.09.467947v2)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

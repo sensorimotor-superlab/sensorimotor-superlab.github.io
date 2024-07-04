@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Reading List 229"
+date:   2024-01-26 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Memory, space, and planning: Multiscale predictive representations**  
+Momennejad I  
+[arXiv [csAI]](https://arxiv.org/abs/2401.09491)
+
+## 2
+**Skin preparation–free, stretchable microneedle adhesive patches for reliable electrophysiological sensing and exoskeleton robot control**  
+Kim H et al.  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.adk5260)
+
+## 3
+**The developmental timing of spinal touch processing alterations predicts behavioral changes in genetic mouse models of autism spectrum disorders**  
+Tasnim A, Alkislar I, Hakim R, Turecek J, Abdelaziz A, Orefice LL, Ginty DD  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01552-9)
+
+## 4
+**Neural population dynamics reveals disruption of spinal circuits’ responses to proprioceptive input during electrical stimulation of sensory afferents**  
+Katic Secerovic N et al.  
+[Cell Rep 43:113695](https://www.cell.com/article/S2211124724000238/abstract)
+
+## 5
+**Cerebellar-Induced Aphasia After Stroke: Evidence for the “Linguistic Cerebellum.”**  
+Satoer D, Koudstaal PJ, Visch-Brink E, van der Giessen RS  
+[The Cerebellum](https://link.springer.com/article/10.1007/s12311-024-01658-1)
+
+## 6
+**Somatosensory impact on motor cortex: how touch shapes motor behaviour**  
+Zafarana A, Muret D, Farne A, Tamè L  
+[PsyArXiv](https://www.researchgate.net/publication/377485449_Somatosensory_impact_on_motor_cortex_how_touch_shapes_motor_behaviour)
+
+## 7
+**Rapid online corrections for proprioceptive and visual perturbations recruit similar circuits in primary motor cortex**  
+Cross KP, Cook DJ, Scott SH  
+[eNeuro:ENEURO.0083-23.2024](https://www.eneuro.org/content/early/2024/01/11/ENEURO.0083-23.2024.abstract)
+
+## 8
+**Proprioceptive acuity for landmarks on the hand and digits**  
+Darling WG, Zuck BI, Mikhail L, Adhikari J  
+[Exp Brain Res 242:491–503](https://link.springer.com/article/10.1007/s00221-023-06761-z)
+
+## 9
+**Modulation of motor surround inhibition during motor tasks**  
+Kassavetis P, Camacho T, Levine M, Hallett M  
+[Exp Brain Res 242:367–374](https://link.springer.com/article/10.1007/s00221-023-06748-w)
+
+## 10
+**Bridging two insect flight modes in evolution, physiology and robophysics**  
+Gau J, Lynch J, Aiello B, Wold E, Gravish N, Sponberg S  
+[Nature 622:767–774](https://www.nature.com/articles/s41586-023-06606-3)
+
+## 11
+**A specialized inhibitory function sharpens somatosensory hand representation and enhances the production and perception of fast multifinger movements in pianists**  
+Hirano M, Kimoto Y, Shiotani S, Furuya S  
+[bioRxiv:2024.01.23.576947](https://www.biorxiv.org/content/10.1101/2024.01.23.576947v1.abstract)
+
+## 12
+**Task structure and nonlinearity jointly determine learned representational geometry**  
+Alleman M, Lindsey JW, Fusi S  
+[arXiv [csLG]](https://arxiv.org/abs/2401.13558)
+
+
+## Superlab Papers
+
+
+**A hierarchical atlas of the human cerebellum for functional precision mapping**  
+Nettekoven CR, Zhi D, Shahshahani L, Luisa Pinho A, Saadon-Grosmann N, Diedrichsen J  
+[bioRxiv:2023.09.14.557689](https://www.biorxiv.org/content/10.1101/2023.09.14.557689v2.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

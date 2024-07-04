@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 8"
+date:   2019-03-15 08:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+New feature! Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Click the [subscribe link](https://superlab.ca/subscribe) on the [superlab website](https://superlab.ca) to sign up. We won’t spam you or share your email info with anyone else.
+
+Here is our reading list for the week.
+
+# 1
+**How skilled are the skilled limb movements of the raccoon (Procyon lotor)?**  
+Iwaniuk, A.N., and Whishaw, I.Q.  
+[Behavioural Brain Research 99, 35–44 (1999)](https://dx.doi.org/10.1016/S0166-4328(98)00067-9)
+
+This overlooked classic addresses the widely held belief that racoons should be considered as primates with respect to their highly skilled hand use. The apparent manipulatory ability of racoons is puzzling because they are far form primates on the evolutionary tree and their taxon cousins are not especially skilled in this respect. Iwaniuk and Whishaw take a close look and dispel the myth of racoon hand function concluding that "racoons are specialized, but not special"---basically, they use their hands like big squirrels and the big makes it look fancier than it is.
+
+# 2
+**Backpropagation through time and the brain**  
+Lillicrap, T.P., and Santoro, A.  
+[Curr. Opin. Neurobiol. 55, 82–89 (2019)](https://dx.doi.org/10.1016/j.conb.2019.01.011)
+
+As Blake Richards said on Twitter, ["(1) We know the brain doesn't do backprop, but... (2) The brain still needs a solution to the credit assignment problem."](https://twitter.com/tyrell_turing/status/1105831064864505856) In this paper Adam Santoro and Tim Lillicrap present an overview of how the backpropagation through time algorithm is applied to the credit assignment problem in artificial neural network systems, and they argue that backpropagation through time should be considered as a normative guide for the credit assignment problem, in other words a kind of benchmark against which to compare theories about how the brain solves (or not) the credit assignment problem. Also see [Adam's tweet thread about the paper](https://twitter.com/santoroAI/status/1105383355267379200).
+
+# 3
+**Somatosensory responses to nothing: An MEG study of expectations during omission of tactile stimulations**  
+Andersen, L.M., and Lundqvist, D.  
+[Neuroimage 184, 78–89 (2019)](https://dx.doi.org/10.1016/j.neuroimage.2018.09.014)
+
+When somatosensory stimulation is expected (in this case, tactile stimulation of the index fingertip using an inflatable membrane), but it doesn't actually happen, there is nevertheless a neural "response" that is localized (using MEG) to the second somatosensory cortex, and the insula, at about 135 ms after the time of the expected stimulus.
+
+# 4
+**The roles of supervised machine learning in systems neuroscience**  
+Glaser, J.I., Benjamin, A.S., Farhoodi, R., and Kording, K.P.  
+[Prog Neurobiol 175, 126–137 (2019)](https://dx.doi.org/10.1016/j.pneurobio.2019.01.008)
+
+A high-level review of the roles of machine learning in systems neuroscience. The authors argue that machine learning is a useful tool to have at one's disposal as a modern neuroscientist, and they list four primary ways that machine learning can play a role: 1) solving engineering problems, 2) identifying predictive variables, 3) setting benchmarks for models of the brain, and 4) serving itself as a model for the brain.
+
+# 5
+**Spike-timing-dependent ensemble encoding by non-classically responsive cortical neurons**  
+Insanally, M.N., Carcea, I., Field, R.E., Rodgers, C.C., DePasquale, B., Rajan, K., DeWeese, M.R., Albanna, B.F., and Froemke, R.C.  
+[Elife 8 (2019)](https://dx.doi.org/10.7554/eLife.42409)
+
+Those neurons that are not classically "task dependent" may be playing a role in coding behaviour after all.
+
+# 6
+**Human non-olfactory cognition phase-locked with inhalation**  
+Perl, O., Ravia, A., Rubinson, M., Eisen, A., Soroka, T., Mor, N., Secundo, L., and Sobel, N.  
+[Nature Human Behaviour, 1. (2019)](https://dx.doi.org/10.1038/s41562-019-0556-z)
+
+People spontaneously inhale at the beginning of cognitive tasks, and this inhalation relates to a shift in functional brain architecture. Inhaling during a visuospatial perceptual task was related to increased task-related brain activity in task-related brain regions and resulted in improved performance accuracy.
+
+# 7
+**Refinement of the primate corticospinal pathway during prenatal development**  
+Gomes, A.R.R., Olivier, E., Killackey, H.P., Giroud, P., Berland, M., Knoblauch, K., Dehay, C., and Kennedy, H.  
+[bioRxiv, 575936. (2019)](https://www.biorxiv.org/content/10.1101/575936v1)
+
+# 8
+**Feature-selective encoding of substrate vibrations in the forelimb somatosensory cortex**  
+Prsa, M., Morandell, K., Cuenu, G., and Huber, D.  
+[Nature (2019)](https://doi.org/10.1038/s41586-019-1015-8)
+
+# 9
+**Intrinsic Variable Learning for Brain-Machine Interface Control by Human Anterior Intraparietal Cortex**  
+Sakellaridi, S., Christopoulos, V.N., Aflalo, T., Pejsa, K.W., Rosario, E.R., Ouellette, D., Pouratian, N., and Andersen, R.A.  
+[Neuron (2019)](https://dx.doi.org/10.1016/j.neuron.2019.02.012)
+
+# 10
+**Movement Vigor as a Reflection of Subjective Economic Utility**  
+Shadmehr, R., Reppert, T.R., Summerside, E.M., Yoon, T., and Ahmed, A.A.  
+[Trends in Neurosciences (2019)](https://www.sciencedirect.com/science/article/pii/S0166223619300190)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+

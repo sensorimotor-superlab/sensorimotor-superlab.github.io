@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 142"
+date:   2022-01-14 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**A massive 7T fMRI dataset to bridge cognitive neuroscience and artificial intelligence**  
+Allen EJ, St-Yves G, Wu Y, Breedlove JL, Prince JS, Dowdle LT, Nau M, Caron B, Pestilli F, Charest I, Hutchinson JB, Naselaris T, Kay K  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-021-00962-x)
+
+## 2
+**Keeping time and rhythm by replaying a sensory-motor engram**  
+de Lafuente V, Jazayeri M, Merchant H, Gracía-Garibay O, Cadena-Valencia J, Malagón AM  
+[bioRxiv:2022.01.03.474812](https://www.biorxiv.org/content/10.1101/2022.01.03.474812v1.abstract)
+
+## 3
+**Toroidal topology of population activity in grid cells**  
+Gardner RJ, Hermansen E, Pachitariu M, Burak Y, Baas NA, Dunn BA, Moser M-B, Moser EI  
+[Nature](https://www.nature.com/articles/s41586-021-04268-7)
+
+## 4
+**An emergent temporal basis set robustly supports cerebellar time-series learning**  
+Gilmer JI, Farries MA, Kilpatrick Z, Delis I, Person AL  
+[bioRxiv:2022.01.06.475265](https://www.biorxiv.org/content/10.1101/2022.01.06.475265v1)
+
+## 5
+**Cerebellar volume of musicians**  
+Hutchinson S, Lee LH-L, Gaab N, Schlaug G  
+[Cereb Cortex 13:943–949 (2003)](https://dx.doi.org/10.1093/cercor/13.9.943)
+
+## 6
+**Dissociating encoding of memory and salience by manipulating long-term synaptic potentiation**  
+Kaganovsky K, Plitt MH, Yang R, Sando R, Giocomo LM, Ding JB, Südhof TC  
+[bioRxiv:2022.01.04.474865](https://www.biorxiv.org/content/10.1101/2022.01.04.474865v1?s=09)
+
+## 7
+**Limb development genes underlie variation in human fingerprint patterns**  
+Li J et al.  
+[Cell](https://dx.doi.org/10.1016/j.cell.2021.12.008)
+
+## 8
+**Context-independent encoding of passive and active self-motion in vestibular afferent fibers during locomotion in primates**  
+Mackrous I, Carriot J, Cullen KE  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-021-27753-z)
+
+## 9
+**Real-time processes in the development of action planning**  
+Ossmy O, Kaplan BE, Han D, Xu M, Bianco C, Mukamel R, Adolph KE  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2021.11.018)
+
+## 10
+**Membrane tension propagation couples axon growth and collateral branching**  
+Shi Z, Innes-Gold S, Cohen AE  
+[bioRxiv:2022.01.09.475560](https://www.biorxiv.org/content/10.1101/2022.01.09.475560v1)
+
+## 11
+**Mechanisms of Human Motor Learning Do Not Function Independently**  
+Therrien AS, Wong AL  
+[Front Hum Neurosci](https://www.frontiersin.org/article/10.3389/fnhum.2021.785992)
+
+## 12
+**Population coding and oscillatory subspace synchronization integrate context into actions**  
+Weber J, Solbakk A-K, Blenkmann AO, Llorens A, Funderud I, Leske S, Larsson PG, Ivanovic J, Knight RT, Endestad T, Helfrich RF  
+[bioRxiv:2021.12.17.473118](https://www.biorxiv.org/content/10.1101/2021.12.17.473118v1)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 70"
+date:   2020-05-29 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Sensory stimulation enhances phantom limb perception and movement decoding**  
+Osborn LE, Ding K, Hays MA, Bose R, Iskarous MM, Dragomir A, Tayeb Z, Lèvay GM, Hunt CL, Cheng G, Armiger RS, Bezerianos A, Fifer MS, Thakor NV  
+Rehabilitation Medicine and Physical Therapy (2020)  
+[https://www.medrxiv.org/content/10.1101/2020.05.22.20109330v1.abstract](https://www.medrxiv.org/content/10.1101/2020.05.22.20109330v1.abstract)
+
+Also see the [tweeprint](https://twitter.com/losborn1/status/1264910704525672448?s=20).
+
+## 2
+**Increasing the gradient of energetic cost does not initiate adaptation in human walking**  
+Simha SN, Wong JD, Selinger JC, Abram SJ, Maxwell Donelan J  
+bioRxiv:2020.05.20.107250 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.20.107250v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.20.107250v1.abstract?%3Fcollection=)
+
+## 3
+**Learning is shaped by abrupt changes in neural engagement**  
+Hennig JA, Oby ER, Golub MD, Bahureksa LA, Sadtler PT, Quick KM, Ryu SI, Tyler-Kabara EC, Batista AP, Chase SM, Yu BM  
+bioRxiv:2020.05.24.112714 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.24.112714v1](https://www.biorxiv.org/content/10.1101/2020.05.24.112714v1)
+
+Also see the [tweeprint](https://twitter.com/jehosafet/status/1265660040851206146?s=21).
+
+## 4
+**Principles of intrinsic motor cortex connectivity in primates**  
+Card NS, Gharbawie OA  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0003-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.0003-20.2020)
+
+## 5
+**Learning to play the piano with the Supernumerary Robotic 3rd Thumb**  
+Shafti A, Haar S, Zaldivar RM, Guilleminot P, Aldo Faisal A  
+bioRxiv:2020.05.21.108407 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.21.108407v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.21.108407v1.abstract?%3Fcollection=)
+
+## 6
+**Cerebellar-Motor Cortex Connectivity: One or Two Different Networks?**  
+Spampinato DA, Celnik PA, Rothwell JC  
+J Neurosci 40:4230–4239 (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.2397-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.2397-19.2020)
+
+## 7
+**Predictive whisker kinematics reveal context-dependent sensorimotor strategies**  
+Wallach A, Deutsch D, Oram TB, Ahissar E  
+PLoS Biol 18:e3000571 (2020)  
+[https://dx.doi.org/10.1371/journal.pbio.3000571](https://dx.doi.org/10.1371/journal.pbio.3000571)
+
+## 8
+**Somatosensation in the Brain: A Theoretical Re-evaluation and a New Model**  
+de Haan EHF, Dijkerman HC  
+Trends Cogn Sci (2020)  
+[https://doi.org/10.1016/j.tics.2020.04.003](https://doi.org/10.1016/j.tics.2020.04.003)
+
+## 9
+**Separating Neural Influences from Peripheral Mechanics: The Speed-Curvature Relation in Mechanically-Constrained Actions**  
+Hermus JR, Doeringer J, Sternad D, Hogan N  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00536.2019](https://dx.doi.org/10.1152/jn.00536.2019)
+
+## 10
+**Focused ultrasound excites neurons via mechanosensitive calcium accumulation and ion channel amplification**  
+Yoo S, Mittelstein DR, Hurt R, Lacroix J, Shapiro MG  
+bioRxiv:2020.05.19.101196 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.19.101196v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.19.101196v1.abstract?%3Fcollection=)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

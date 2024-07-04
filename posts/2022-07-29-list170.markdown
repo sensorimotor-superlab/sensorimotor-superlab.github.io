@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Reading List 170"
+date:   2022-07-29 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Continuous tracking of task parameters tunes reaching control online**  
+De Comite A, Crevecoeur F, Lefèvre P  
+[eNeuro](https://www.eneuro.org/content/9/4/ENEURO.0055-22.2022)
+
+## 2
+**Non-linear multimodal integration in a distributed premotor network controls proprioceptive reflex gain in the insect leg**  
+Gebehart C, Hooper SL, Büschges A  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.07.005)
+
+## 3
+**A single exposure to altered auditory feedback causes observable sensorimotor adaptation in speech**  
+Hantzsch L, Parrell B, Niziolek CA  
+[Elife](https://dx.doi.org/10.7554/eLife.73694)
+
+## 4
+**Dissecting motor skill acquisition: Spatial coordinates take precedence**  
+Maceira-Elvira P, Timmermann JE, Popa T, Schmid A-C, Krakauer JW, Morishita T, Wessel MJ, Hummel FC  
+[Sci Adv](https://dx.doi.org/10.1126/sciadv.abo3505)
+
+## 5
+**No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit**  
+Schaeffer R, Khona M, Fiete IR  
+[OpenReview](https://openreview.net/forum?id=mxi1xKzNFrb)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

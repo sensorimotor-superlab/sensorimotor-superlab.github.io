@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 53"
+date:   2020-01-31 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Layer and rhythm specificity for predictive routing**  
+Bastos AM, Lundqvist M, Waite AS, Kopell N, Miller EK  
+bioRxiv:2020.01.27.921783 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.27.921783v1](https://www.biorxiv.org/content/10.1101/2020.01.27.921783v1)
+
+## 2
+**Asymmetric transcallosal conduction delay leads to finer bimanual coordination**  
+Bortoletto M, Bonzano L, Zazio A, Pedullà L, Gasparotti R, Miniussi C, Bove M  
+bioRxiv:2020.01.24.918102 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.24.918102v1](https://www.biorxiv.org/content/10.1101/2020.01.24.918102v1)
+
+## 3
+**All-Optical Electrophysiology Reveals the Role of Lateral Inhibition in Sensory Processing in Cortical Layer 1**  
+Fan LZ, Kheifets S, Böhm UL, Wu H, Piatkevich KD, Xie ME, Parot V, Ha Y, Evans KE, Boyden ES, Takesian AE, Cohen AE  
+Cell (2020)  
+[https://dx.doi.org/10.1016/j.cell.2020.01.001](https://dx.doi.org/10.1016/j.cell.2020.01.001)
+
+## 4
+**Implicit adaptation is driven by direct policy updates rather than forward-model-based learning**  
+Hadjiosif AM, Krakauer JW, Haith AM  
+bioRxiv:2020.01.22.914473 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.22.914473v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.01.22.914473v1.abstract?%3Fcollection=)
+
+## 5
+**Visual and oculomotor abilities predict professional baseball batting performance**  
+Liu S, Edmunds FR, Burris K, Appelbaum LG  
+bioRxiv:2020.01.21.913152 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.21.913152v1](https://www.biorxiv.org/content/10.1101/2020.01.21.913152v1)
+
+## 6
+**Somatosensory changes associated with motor skill learning**  
+Mirdamadi JL, Block HJ  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00497.2019](https://dx.doi.org/10.1152/jn.00497.2019)
+
+## 7
+**Rapid event-related, BOLD, NHP: choose two out of three**  
+Pelekanos V, Mok R, Joly O, Ainsworth M, Kyriazis D, Kelly M, Bell A, Kriegeskorte N  
+bioRxiv:2020.01.27.919555 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.27.919555v1](https://www.biorxiv.org/content/10.1101/2020.01.27.919555v1)
+
+## 8
+**How Sensitive are EEG Results to Preprocessing Methods: A Benchmarking Study**  
+Robbins KA, Touryan J, Mullen T, Kothe C, Bigdely-Shamlo N  
+bioRxiv:2020.01.20.913327 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.20.913327v1](https://www.biorxiv.org/content/10.1101/2020.01.20.913327v1)
+
+## 9
+**The Efficiency, Efficacy, and Retention of Motor Training in Chronic Stroke**  
+Wang C, Winstein CJ, D’Argenio DZ, Schweighofer N  
+bioRxiv:2020.01.27.922096 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.27.922096v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.01.27.922096v1.abstract?%3Fcollection=)
+
+## 10
+**Forward Models: Supervised Learning with a Distal Teacher**  
+Jordan MI, Rumelhart DE  
+Cognitive Science 16:307–354 (1992)  
+[https://dx.doi.org/10.1207/s15516709cog1603_1](https://dx.doi.org/10.1207/s15516709cog1603_1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

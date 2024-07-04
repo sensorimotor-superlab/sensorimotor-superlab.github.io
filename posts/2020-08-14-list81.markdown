@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 81"
+date:   2020-08-14 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Reaching movements are automatically redirected to nearby options during target split**  
+Kurtzer IL, Muraoka T, Singh T, Prasad M, Chauhan R, Adhami E  
+J Neurophysiol (2020)  
+[https://doi.org/10.1152/jn.00336.2020](https://doi.org/10.1152/jn.00336.2020)
+
+## 2
+**Somatosensory versus cerebellar contributions to proprioceptive changes associated with motor skill learning: A theta burst stimulation study**  
+Mirdamadi JL, Block HJ  
+bioRxiv:2020.08.06.239707 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.06.239707v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.08.06.239707v1.abstract?%3Fcollection=)
+
+## 3
+**Structure in Neural Activity during Observed and Executed Movements Is Shared at the Neural Population Level, Not in Single Neurons**  
+Jiang X, Saggar H, Ryu SI, Shenoy KV, Kao JC  
+Cell Rep 32 (2020)  
+[https://www.cell.com/article/S2211124720309918/abstract](https://www.cell.com/article/S2211124720309918/abstract)
+
+## 4
+**Engineering recurrent neural networks from task-relevant manifolds and dynamics**  
+Pollock E, Jazayeri M  
+PLoS Comput Biol 16:e1008128 (2020)  
+[https://dx.doi.org/10.1371/journal.pcbi.1008128](https://dx.doi.org/10.1371/journal.pcbi.1008128)
+
+## 5
+**What are the gray and white matter volumes of the human spinal cord?**  
+Henmar S, Simonsen EB, Berg RW  
+bioRxiv:2020.07.01.182444 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.01.182444v2](https://www.biorxiv.org/content/10.1101/2020.07.01.182444v2)
+
+## 6
+**Scanned optogenetic control of mammalian somatosensory input to map input-specific behavioral outputs**  
+Schorscher-Petcu A, Takács F, Browne LE  
+bioRxiv:2020.08.10.244046 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.10.244046v1](https://www.biorxiv.org/content/10.1101/2020.08.10.244046v1)
+
+## 7
+**Neural mechanisms underlying the effects of physical fatigue on effort-based choice**  
+Hogan PS, Chen SX, Teh WW, Chib VS  
+Nat Commun 11:4026 (2020)  
+[https://dx.doi.org/10.1038/s41467-020-17855-5](https://dx.doi.org/10.1038/s41467-020-17855-5)
+
+## 8
+**Skilled reaching in rats and humans: evidence for parallel development or homology**
+Whishaw IQ, Pellis SM, Gorny BP  
+Behav Brain Res 47:59–70 (1992)  
+[https://dx.doi.org/10.1016/S0166-4328(05)80252-9](https://dx.doi.org/10.1016/S0166-4328(05)80252-9)
+
+## 9
+**Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields**  
+Grossman N, Bono D, Dedic N, Kodandaramaiah SB, Rudenko A, Suk H-J, Cassara AM, Neufeld E, Kuster N, Tsai L-H, Pascual-Leone A, Boyden ES  
+Cell 169:1029–1041.e16 (2017)  
+[https://dx.doi.org/10.1016/j.cell.2017.05.024](https://dx.doi.org/10.1016/j.cell.2017.05.024)
+
+## 10
+**The Brain-Cognitive Behavior Problem: A Retrospective**  
+Buzsáki G  
+eNeuro 7 (2020)  
+[https://dx.doi.org/10.1523/ENEURO.0069-20.2020](https://dx.doi.org/10.1523/ENEURO.0069-20.2020)
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

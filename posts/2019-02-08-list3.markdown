@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Reading List 3"
+date:   2019-02-08 08:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here is our list for the week:
+
+1. Brette, R. (2018). [Is coding a relevant metaphor for the brain?](https://www.biorxiv.org/content/10.1101/168237v3) bioRxiv, 168237.
+   
+   This essay caused quite a stir this week [on Twitter](https://twitter.com/andpru/status/1091822990906609664) with far ranging scientific and philosophical discussions. Also relevant in the context of the Brette article, this great essay by Paul Cisek:
+
+2. Cisek, P. (1999). [Beyond the computer metaphor: behaviour as interaction.](https://www.ingentaconnect.com/content/imp/jcs/1999/00000006/f0020011/994) Journal of Consciousness Studies 6, 125–142.
+
+3. Ehrlich, D.E., and Schoppik, D. (2019). [A primal role for balance in the development of coordinated locomotion.](https://www.biorxiv.org/content/10.1101/538546v1) bioRxiv, 538546.
+
+   Ehrlich & Schoppik report on a fantastically thorough set of experiments using a zebrafish model, aimed at understanding the development of motor synergies. Also check out [their fantastic "tweeprint" twitter thread describing their findings](https://twitter.com/schoppik/status/1092577559886397440).
+
+4. Lowrey, C.R., Bourke, T.C., Bagg, S.D., Dukelow, S.P., and Scott, S.H. (2019). [A postural unloading task to assess fast corrective responses in the upper limb following stroke.](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-019-0483-2) J. Neuroeng. Rehabil. 16, 16.
+
+5. Manuel, M., Chardon, M., Tysseling, V., and Heckman, C.J. (2019). [Scaling of Motor Output, From Mouse to Humans.](https://www.physiology.org/doi/full/10.1152/physiol.00021.2018) Physiology 34, 5–13.
+
+6. van Ede, F., Chekroud, S.R., Stokes, M.G., and Nobre, A.C. (2019). [Concurrent visual and motor selection during visual working memory guided action.](http://dx.doi.org/10.1038/s41593-018-0335-6) Nat. Neurosci.
+
+   van Ede et al. show that both sensory qualities and motor responses associated with information held in mind are accessed simultaneously to guide behavior. The findings help bridge the fields of visual working memory and action planning.
+
+7. [How the BBC Visual and Data Journalism team works with graphics in R.](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) Medium.
+
+   A pleasing ggplot theme for R, and beyond that, well documented code so that you can learn how to change ggplot defaults to develop your own theme for scientific plots in R. Linked in the article: the [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/) showing how to use their theme to produce common plots, and their [GitHub code repository](https://github.com/bbc/bbplot) in which you can find (and adapt) their source code. I firmly believe R is the fastest way to manuscript-ready scientific graphics.
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+
+

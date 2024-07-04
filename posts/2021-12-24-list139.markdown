@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 139"
+date:   2021-12-24 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Cerebellar associative learning underlies skilled reach adaptation**  
+Calame DJ, Becker MI, Person AL  
+[bioRxiv:2021.12.17.473247](https://www.biorxiv.org/content/10.1101/2021.12.17.473247v1)
+
+## 2
+**Integrated linkage-driven dexterous anthropomorphic robotic hand**  
+Kim U, Jung D, Jeong H, Park J, Jung H-M, Cheong J, Choi HR, Do H, Park C  
+[Nat Commun 12:7177 (2021)](https://dx.doi.org/10.1038/s41467-021-27261-0)
+
+## 3
+**Transforming representations of movement from body- to world-centric space**  
+Lu J, Behbahani AH, Hamburg L, Westeinde EA, Dawson PM, Lyu C, Maimon G, Dickinson MH, Druckmann S, Wilson RI  
+[Nature (2021)](https://dx.doi.org/10.1038/s41586-021-04191-x)
+
+## 4
+**Building an allocentric travelling direction signal via vector computation**  
+Lyu C, Abbott LF, Maimon G  
+[Nature (2021)](https://dx.doi.org/10.1038/s41586-021-04067-0)
+
+## 5
+**Preparing to move: Setting initial conditions to simplify interactions with complex objects**  
+Nayeem R, Bazzi S, Sadeghi M, Hogan N, Sternad D  
+[PLoS Comput Biol 17:e1009597](https://dx.doi.org/10.1371/journal.pcbi.1009597)
+
+## 6
+**Neuronal population dynamics during motor plan cancellation in non-human primates**  
+Pani P, Giamundo M, Giarrocco F, Mione V, Brunamonti E, Mattia M, Ferraina S  
+[bioRxiv:774307](https://www.biorxiv.org/content/10.1101/774307v2)
+
+## 7
+**Neural Readout of a Latency Code in the Active Electrosensory System**  
+Perks KE, Sawtell NB  
+[bioRxiv:2021.12.14.472594](https://www.biorxiv.org/content/10.1101/2021.12.14.472594v2)
+
+## 8
+**Central nervous system physiology**  
+Rothwell J, Antal A, Burke D, Carlsen A, Georgiev D, Jahanshahi M, Sternad D, Valls-Solé J, Ziemann U  
+[Clin Neurophysiol 132:3043–3083](https://dx.doi.org/10.1016/j.clinph.2021.09.013)
+
+## 9
+**The geometry of decision-making in individuals and collectives**  
+Sridhar VH, Li L, Gorbonos D, Nagy M, Schell BR, Sorochkin T, Gov NS, Couzin ID  
+[Proc Natl Acad Sci USA 118](https://dx.doi.org/10.1073/pnas.2102157118)
+
+## 10
+**Rapid adaptation of brain-computer interfaces to new neuronal ensembles or participants via generative modelling**  
+Wen S, Yin A, Furlanello T, Perich MG, Miller LE, Itti L  
+[Nat Biomed Eng (2021)](https://dx.doi.org/10.1038/s41551-021-00811-z)
+
+## 11
+**Categorical working memory codes in human visual cortex**  
+Yan C, Christophel TB, Allefeld C, Haynes J-D  
+[bioRxiv:2021.12.16.472288](https://www.biorxiv.org/content/10.1101/2021.12.16.472288v1)
+
+## 12
+**Resurgent Na+ currents promote ultrafast spiking in projection neurons that drive fine motor control**  
+Zemel BM, Nevue AA, Dagostin A, Lovell PV, Mello CV, von Gersdorff H  
+[Nat Commun 12:6762](https://dx.doi.org/10.1038/s41467-021-26521-3)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

@@ -1,0 +1,17 @@
+---
+title: "Reading Lists"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  fields: [date, title]
+  page-size: 1000
+  categories: false
+  feed: true
+  sort-ui: false
+  filter-ui: false
+page-layout: article
+title-block-banner: false
+---
+
+

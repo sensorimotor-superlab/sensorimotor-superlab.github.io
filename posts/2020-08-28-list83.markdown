@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Reading List 83"
+date:   2020-08-28 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Feedback Gains modulate with Motor Memory Uncertainty**  
+Franklin S, Franklin DW  
+arXiv [q-bioNC] (2020)  
+[https://arxiv.org/abs/2008.07574](https://arxiv.org/abs/2008.07574)
+
+## 2
+**The motor cortex uses active suppression to sculpt movement**  
+Griffin DM, Strick PL  
+Science Advances 6:eabb8395 (2020)  
+[https://dx.doi.org/10.1126/sciadv.abb8395](https://dx.doi.org/10.1126/sciadv.abb8395)
+
+## 3
+**Energy optimization during walking can be a primarily implicit process**  
+McAllister MJ, Blair RL, Maxwell Donelan J, Selinger JC  
+bioRxiv:2020.08.21.261057 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.21.261057v1](https://www.biorxiv.org/content/10.1101/2020.08.21.261057v1)
+
+## 4
+**Decoding the infrastructure of the cerebellum**  
+van Hoogstraten WS, De Zeeuw CI  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.60852](https://dx.doi.org/10.7554/eLife.60852)
+
+## 5
+**Pushing the Rehabilitation Boundaries: Hand Motor Impairment Can Be Reduced in Chronic Stroke**  
+Mawase F, Cherry-Allen K, Xu J, Anaya M, Uehara S, Celnik P  
+Neurorehabil Neural Repair 34:733–745 (2020)  
+[https://dx.doi.org/10.1177/1545968320939563](https://dx.doi.org/10.1177/1545968320939563)
+
+## 6
+**Precise Holographic Manipulation of Olfactory Circuits Reveals Coding Features Determining Perceptual Detection**  
+Gill JV, Lerman GM, Zhao H, Stetler BJ, Rinberg D, Shoham S  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.07.034](https://dx.doi.org/10.1016/j.neuron.2020.07.034)
+
+## 7
+**Motor memories in manipulation tasks are linked to contact goals between objects**  
+McGarity-Shipley MR, Heald JB, Ingram JN, Gallivan JP, Wolpert D, Flanagan JR  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00252.2020](https://dx.doi.org/10.1152/jn.00252.2020)
+
+## 8
+**Subthreshold Electrical Noise Applied to the Plantar Foot Enhances Lower-Limb Cutaneous Reflex Generation**  
+Sharma T, Peters RM, Bent LR  
+Front Hum Neurosci 14:351 (2020)  
+[https://dx.doi.org/10.3389/fnhum.2020.00351](https://dx.doi.org/10.3389/fnhum.2020.00351)
+
+## 9
+**Optimal synaptic dynamics for memory maintenance in the presence of noise**  
+Raman DV, O’Leary T  
+bioRxiv:2020.08.19.257220 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.19.257220v1](https://www.biorxiv.org/content/10.1101/2020.08.19.257220v1)
+
+## 10
+**Towards Reproducible Brain-Wide Association Studies**  
+Marek S et al.  
+bioRxiv:2020.08.21.257758 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.21.257758v1](https://www.biorxiv.org/content/10.1101/2020.08.21.257758v1)
+
+
+# Superlab Papers
+
+**Shared internal models for feedforward and feedback control of arm dynamics in non-human primates**  
+Maeda RS, Kersten R, Andrew Pruszynski J  
+bioRxiv:2020.04.05.026757 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.04.05.026757v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.04.05.026757v2.abstract?%3Fcollection=)
+
+**The role of primary motor cortex in sequence learning: resolving conflicting fMRI evidence from repetition suppression and pattern analysis**  
+Berlot E, Popp NJ, Grafton ST, Diedrichsen J  
+bioRxiv:2020.08.21.261453 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.21.261453v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.08.21.261453v1.abstract?%3Fcollection=)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 174"
+date:   2022-09-09 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Theoretical limits on the speed of learning inverse models explain the rate of adaptation in arm reaching tasks**  
+Barradas VR, Koike Y, Schweighofer N  
+[bioRxiv:2022.09.07.506913](https://www.biorxiv.org/content/10.1101/2022.09.07.506913v1)
+
+## 2
+**Why I shrank my lab by half**  
+Carpenter AE  
+[Elife](https://elifesciences.org/articles/82831)
+
+## 3
+**Small sensory spinal lesions that affect hand function in monkeys greatly alter primary afferent and motor neuron connections in the cord**  
+Fisher KM, Garner JP, Darian-Smith C  
+[J Comp Neurol](https://dx.doi.org/10.1002/cne.25395)
+
+## 4
+**Locomotor resilience through load-dependent modulation of muscle co-contraction**  
+Günzel Y, Schmitz J, Dürr V  
+[J Exp Biol](https://journals.biologists.com/jeb/article/doi/10.1242/jeb.244361/276472/Locomotor-resilience-through-load-dependent)
+
+## 5
+**Basic principles of processing of afferent information by spinal interneurons**  
+Jankowska E  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00344.2022)
+
+## 6
+**Tracking subject’s strategies in behavioural choice experiments at trial resolution**  
+Maggi S, Hock RM, O’Neill M, Buckley MJ, Moran PM, Bast T, Sami M, Humphries MD  
+[bioRxiv:2022.08.30.505807](https://www.biorxiv.org/content/10.1101/2022.08.30.505807v2)
+
+## 7
+**Neurocognitive and motor-control challenges for the realization of bionic augmentation**  
+Makin TR, Micera S, Miller LE  
+[Nat Biomed Eng](https://dx.doi.org/10.1038/s41551-022-00930-1)
+
+## 8
+**Dorsal striatum coding for the timely execution of action sequences**  
+Martinez MC, Zold CL, Coletti MA, Murer MG, Belluscio MA  
+[bioRxiv:2021.11.01.466347](https://www.biorxiv.org/content/10.1101/2021.11.01.466347v2)
+
+## 9
+**Guidelines for Reporting Action Simulation Studies (GRASS): proposals to improve reporting of research in Motor Imagery and Action Observation**  
+Moreno-Verdú M, Hamoline G, Van Caenegem EE, Waltzing BM, Forest S, Chembila-Valappil A, Khan AH, Chye S, Esselaar M, Campbell M, al. E  
+[PsyArXiv](https://psyarxiv.com/9vywr)
+
+## 10
+**Situated Neural Representations: Solving the Problems of Content**  
+Piccinini G  
+[Front Neurorobot](https://dx.doi.org/10.3389/fnbot.2022.846979)
+
+## 11
+**Contrasting action and posture coding with hierarchical deep neural network models of proprioception**  
+Sandbrink KJ, Mamidanna P, Michaelis C, Bethge M, Mathis MW, Mathis A  
+[bioRxiv:2020.05.06.081372](https://www.biorxiv.org/content/10.1101/2020.05.06.081372v3)
+
+## 12
+**Neural cognitive signals during spontaneous movements in the macaque**  
+Tremblay S, Testard C, DiTullio RW, Inchauspé J, Petrides M  
+[bioRxiv:2022.09.05.506681](https://www.biorxiv.org/content/10.1101/2022.09.05.506681v1)
+
+## 13
+**Predicting brain activation maps for arbitrary tasks with cognitive encoding models**  
+Walters J, King M, Bissett PG, Ivry RB, Diedrichsen J, Poldrack RA  
+[Neuroimage:119610](https://dx.doi.org/10.1016/j.neuroimage.2022.119610)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

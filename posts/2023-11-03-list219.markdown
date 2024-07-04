@@ -1,0 +1,92 @@
+---
+layout: post
+title:  "Reading List 219"
+date:   2023-11-03 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**The laminar pattern of proprioceptive activation in human primary motor cortex**  
+Knudsen L, Guo F, Huang J, Blicher JU, Lund TE, Zhou Y, Zhang P, Yang Y  
+[bioRxiv:2023.10.29.564658](https://www.biorxiv.org/content/10.1101/2023.10.29.564658v1.abstract)
+
+## 2
+**Neural population dynamics reveals disruption of spinal sensorimotor computations during electrical stimulation of sensory afferents**  
+Secerovic NK et al.  
+[bioRxiv:2021.11.19.469209](https://www.biorxiv.org/content/10.1101/2021.11.19.469209v2.abstract)
+
+## 3
+**Dynamic spinal reflex adaptation during locomotor adaptation**  
+Refy O et al.  
+[J Neurophysiol 130:1008–1014](https://journals.physiology.org/doi/10.1152/jn.00248.2023)
+
+## 4
+**Vagal sensory neurons mediate the Bezold-Jarisch reflex and induce syncope**  
+Lovelace JW et al.  
+[Nature](https://www.nature.com/articles/s41586-023-06680-7)
+
+## 5
+**Neural signal propagation atlas of Caenorhabditis elegans**  
+Randi F, Sharma AK, Dvali S, Leifer AM  
+[Nature](https://www.nature.com/articles/s41586-023-06683-4)
+
+## 6
+**Early selection of task-relevant features through population gating**  
+Barbosa J, Proville R, Rodgers CC, DeWeese MR, Ostojic S, Boubenec Y  
+[Nat Commun 14:6837](https://www.nature.com/articles/s41467-023-42519-5)
+
+## 7
+**Sleep consolidation potentiates skill maintenance**  
+Solano A, Lerner G, Griffa G, Deleglise A, Caffaro P, Riquelme L, Perez-Chada D, Della-Maggiore V  
+[bioRxiv:2023.10.26.564031](https://www.biorxiv.org/content/10.1101/2023.10.26.564031v2.abstract)
+
+## 8
+**Computational mechanism underlying switching of motor actions**  
+Zhong S, Pouratian N, Christopoulos V  
+[bioRxiv:2023.10.27.564490](https://www.biorxiv.org/content/10.1101/2023.10.27.564490v2.abstract)
+
+## 9
+**Cortical network and projection neuron types that articulate serial order in a skilled motor behavior**  
+Li Y, An X, Qian Y, Xu XH, Zhao S, Mohan H, Bachschmid-Romano L, Brunel N, Whishaw IQ, Huang ZJ  
+[bioRxiv:2023.10.25.563871](https://www.biorxiv.org/content/10.1101/2023.10.25.563871v1.abstract)
+
+## 10
+**Discovering individual-specific gait signatures from data-driven models of neuromechanical dynamics**  
+Winner TS, Rosenberg MC, Kesar TM, Ting LH, Berman GJ  
+[bioRxiv:2022.12.22.521665](https://www.biorxiv.org/content/10.1101/2022.12.22.521665v1.abstract)
+
+## 11
+**Mechanical stimulation of human hair follicle outer root sheath cultures activates adjacent sensory neurons**  
+Agramunt J et al.  
+[Sci Adv 9:eadh3273](https://www.science.org/doi/10.1126/sciadv.adh3273)
+
+## 12
+**How deep is the brain? The shallow brain hypothesis**  
+Suzuki M, Pennartz CMA, Aru J  
+[Nat Rev Neurosci](https://www.nature.com/articles/s41583-023-00756-z)
+
+
+## Superlab Papers
+
+
+**Durability of Motor Learning by Observing**  
+Mangos N, Forgaard CJ, Gribble PL  
+[bioRxiv:2023.10.25.563597](https://www.biorxiv.org/content/10.1101/2023.10.25.563597v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

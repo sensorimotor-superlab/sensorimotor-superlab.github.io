@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Reading List 80"
+date:   2020-08-07 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Morphological and functional variability in central and subcentral motor cortex of the human brain**  
+Eichert N, Watkins KE, Mars RB, Petrides M  
+bioRxiv:2020.03.17.995035 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.17.995035v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.03.17.995035v2.abstract?%3Fcollection=)
+
+## 2
+**Validating layer-specific VASO across species**  
+Huber LR, Poser BA, Kaas AL, Fear EJ, Desbach S, Berwick J, Goebel R, Turner R, Kennerley AJ  
+bioRxiv:2020.07.24.219378 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.24.219378v1](https://www.biorxiv.org/content/10.1101/2020.07.24.219378v1)
+
+## 3
+**Poststroke Impairment and Recovery Are Predicted by Task-Specific Regionalization of Injury**  
+Jeffers MS, Touvykine B, Ripley A, Lahey G, Carter A, Dancause N, Corbett D  
+J Neurosci 40:6082–6097 (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0057-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.0057-20.2020)
+
+## 4
+**Principles of Corticocortical Communication: Proposed Schemes and Design Considerations**  
+Kohn A, Jasper AI, Semedo JD, Gokcen E, Machens CK, Yu BM  
+Trends Neurosci (2020)  
+[https://www.cell.com/article/S016622362030165X/abstract](https://www.cell.com/article/S016622362030165X/abstract)
+
+## 5
+**Differential effects of motor skill acquisition on the primary motor and sensory cortices in healthy humans**  
+Paparella G, Rocchi L, Bologna M, Berardelli A, Rothwell J  
+J Physiol (2020)  
+[https://dx.doi.org/10.1113/JP279966](https://dx.doi.org/10.1113/JP279966)
+
+## 6
+**Motor cortical dynamics are shaped by multiple distinct subspaces during naturalistic behavior**  
+Perich MG, Conti S, Badi M, Bogaard A, Barra B, Wurth S, Bloch J, Courtine G, Micera S, Capogrosso M, Milekovic T  
+bioRxiv:2020.07.30.228767 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.30.228767v2](https://www.biorxiv.org/content/10.1101/2020.07.30.228767v2)
+
+## 7
+**Corticospinal Circuits from the Sensory and Motor Cortices Differentially Regulate Skilled Movements through Distinct Spinal Interneurons**  
+Ueno M, Nakamura Y, Li J, Gu Z, Niehaus J, Maezawa M, Crone SA, Goulding M, Baccei ML, Yoshida Y  
+Cell Rep 23:1286–1300.e7 (2018)  
+[https://dx.doi.org/10.1016/j.celrep.2018.03.137](https://dx.doi.org/10.1016/j.celrep.2018.03.137)
+
+## 8
+**New measures of agency from an adaptive sensorimotor task**  
+Wang S, Rajananda S, Lau H, Knotts JD  
+bioRxiv:2020.07.28.223503 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.28.223503v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.28.223503v1.abstract?%3Fcollection=)
+
+## 9
+**An elasticity-curvature illusion decouples cutaneous and proprioceptive cues in active exploration of soft objects**  
+Xu C, Wang Y, Gerling GJ  
+bioRxiv:2020.08.04.237016 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.04.237016v1](https://www.biorxiv.org/content/10.1101/2020.08.04.237016v1)
+
+## 10
+**Chronic pain alters microvascular architectural organization of somatosensory cortex**  
+Zippo AG, Del Grosso V, Patera A, Riccardi MP, Tredici IG, Bertoli G, Mittone A, Valente M, Stampanoni M, Coan P, Bravin A, Biella GEM  
+bioRxiv:755132 (2020)  
+[https://www.biorxiv.org/content/10.1101/755132v3.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/755132v3.abstract?%3Fcollection=)
+
+
+# Superlab Papers
+
+**Time course of changes in the long-latency feedback response parallels the fast process of short-term motor adaptation**  
+Coltman SK, Gribble PL  
+J Neurophysiol 124:388–399 (2020)  
+[https://dx.doi.org/10.1152/jn.00286.2020](https://dx.doi.org/10.1152/jn.00286.2020)
+
+**Whole brain mapping of somatosensory responses in awake marmosets investigated with ultra-high field fMRI**  
+Clery JC, Hori Y, Schaeffer DJ, Gati JS, Pruszynski JA, Everling S  
+bioRxiv:2020.08.05.238592 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.05.238592v1](https://www.biorxiv.org/content/10.1101/2020.08.05.238592v1)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

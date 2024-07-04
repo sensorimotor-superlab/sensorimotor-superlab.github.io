@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Reading List 160"
+date:   2022-05-20 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Implicit mechanisms of intention**  
+Aflalo T, Zhang C, Revechkis B, Rosario E, Pouratian N, Andersen RA  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.03.047)
+
+## 2
+**Efficient neural codes naturally emerge through gradient descent learning**  
+Benjamin AS, Zhang L-Q, Qiu C, Stocker A, Kording KP  
+[bioRxiv:2022.05.11.491548](https://www.biorxiv.org/content/10.1101/2022.05.11.491548v1)
+
+## 3
+**Sensory adaptation mediates efficient and unambiguous encoding of natural stimuli by vestibular thalamocortical pathways**  
+Carriot J, McAllister G, Hooshangnejad H, Mackrous I, Cullen KE, Chacron MJ  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-30348-x)
+
+## 4
+**Complementary feedback control enables effective gaze stabilization in animals**  
+Cellini B, Salem W, Mongeau J-M  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2121660119)
+
+## 5
+**Cortical basis for skilled vocalization**  
+Cerkevich CM, Rathelot J-A, Strick PL  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2122345119)
+
+## 6
+**Movement-specific signaling is differentially distributed across motor cortex layer 5 projection neuron classes**  
+Currie SP, Ammer JJ, Premchand B, Dacre J, Wu Y, Eleftheriou C, Colligan M, Clarke T, Mitchell L, Faisal AA, Hennig MH, Duguid I  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.110801)
+
+## 7
+**Evidence for a common mechanism supporting invigoration of action selection and action execution**  
+Kita K, Du Y, Haith AM  
+[bioRxiv:2022.05.12.491560](https://www.biorxiv.org/content/10.1101/2022.05.12.491560v2)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

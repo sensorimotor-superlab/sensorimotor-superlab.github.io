@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 184"
+date:   2022-11-18 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Networking brainstem and basal ganglia circuits for movement**  
+Arber S, Costa RM  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-022-00581-w)
+
+## 2
+**Different control strategies drive interlimb differences in performance and adaptation during reaching movements in novel dynamics**  
+Bulens DC, Cluff T, Blondeau L, Moore RT, Lefèvre P, Crevecoeur F  
+[bioRxiv:2022.11.11.516159](https://www.biorxiv.org/content/10.1101/2022.11.11.516159v1)
+
+## 3
+**Visuomotor association orthogonalizes visual cortical population codes**  
+Failor SW, Carandini M, Harris KD  
+[bioRxiv:2021.05.23.445338](https://www.biorxiv.org/content/10.1101/2021.05.23.445338v2)
+
+## 4
+**Anterior-posterior gradient in the integrated processing of forelimb movement direction and distance in macaque parietal cortex**  
+Hadjidimitrakis K, De Vitis M, Ghodrati M, Filippini M, Fattori P  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.111608)
+
+## 5
+**Long-term stability of single neuron activity in the motor system**  
+Jensen KT, Kadmon Harpaz N, Dhawale AK, Wolff SBE, Ölveczky BP  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01194-3)
+
+## 6
+**Cerebellar-driven cortical dynamics enable task acquisition, switching and consolidation**  
+Pemberton J, Chadderton P, Costa RP  
+[bioRxiv:2022.11.14.516257](https://www.biorxiv.org/content/10.1101/2022.11.14.516257v1)
+
+## 7
+**Combining Reflexes and External Sensory Information in a Neuromusculoskeletal Model to Control a Quadruped Robot**  
+Saputra AA, Botzheim J, Ijspeert AJ, Kubota N  
+[IEEE Trans Cybern](https://dx.doi.org/10.1109/TCYB.2021.3052253)
+
+## 8
+**Allocation of Visuospatial Attention Indexes Evidence Accumulation for Reach Decisions**  
+Schonard C, Heed T, Seegelke C  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0313-22.2022)
+
+## 9
+**Real-time brain-machine interface in non-human primates achieves high-velocity prosthetic finger movements using a shallow feedforward neural network decoder**  
+Willsey MS, Nason-Tomaszewski SR, Ensel SR, Temmar H, Mender MJ, Costello JT, Patil PG, Chestek CA  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-022-34452-w)
+
+## 10
+**Multiplexing working memory and time: encoding retrospective and prospective information in neural trajectories**  
+Zhou S, Seay M, Taxidis J, Golshani P, Buonomano DV  
+[bioRxiv:2022.07.08.499383](https://www.biorxiv.org/content/10.1101/2022.07.08.499383v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

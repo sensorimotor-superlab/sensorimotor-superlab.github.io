@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Reading List 97"
+date:   2020-12-04 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Competition between parallel sensorimotor learning systems**  
+Albert, S. T., Jang, J., Haith, A. M., Lerner, G., Della-Maggiore, V., Krakauer, J. W., & Shadmehr, R.  
+bioRxiv (2020)  
+[https://doi.org/10.1101/2020.12.01.406777](https://doi.org/10.1101/2020.12.01.406777)
+
+## 2
+**Constructing spatial perception through self-touch**  
+Cataldo, A., Dupin, L., Dempsey-Jones, H., Gomi, H., & Haggard, P.  
+bioRxiv (2020)  
+[https://doi.org/10.1101/2020.11.21.392563](https://doi.org/10.1101/2020.11.21.392563)
+
+## 3
+**Sensory redundancy and perceptual invariance in force production and object manipulation**  
+Mangalam, M., Cuadra, C., & Singh, T.  
+Current Opinion in Physiology (2020)  
+[https://doi.org/10.1016/j.cophys.2020.11.002](https://doi.org/10.1016/j.cophys.2020.11.002)
+
+## 4
+**Influence of age on the frequency characteristics of the soleus muscle response to Achilles tendon vibration during standing**  
+Mildren, R. L., Schmidt, M. E., Eschelmuller, G., Carpenter, M. G., Blouin, J.-S., & Inglis, J. T.  
+The Journal of Physiology (2020)  
+[https://doi.org/10.1113/JP280324](https://doi.org/10.1113/JP280324)
+
+## 5
+**Neuronal correlates of strategic cooperation in monkeys**  
+Ong, W. S., Madlon-Kay, S., & Platt, M. L.  
+Nature Neuroscience (2020)  
+[https://doi.org/10.1038/s41593-020-00746-9](https://doi.org/10.1038/s41593-020-00746-9)
+
+## 6
+**Lift observation conveys object weight distribution but partly enhances predictive lift planning**  
+Rens, G., Orban de Xivry, J.-J., Davare, M., & van Polanen, V.  
+bioRxiv (2020)  
+[https://doi.org/10.1101/2020.06.21.163352](https://doi.org/10.1101/2020.06.21.163352)
+
+## 7
+**Anticipatory reinstatement of expected perceptual events during visual sequence learning**  
+Senoussi, M., VanRullen, R., & Reddy, L.  
+bioRxiv (2020)  
+[https://doi.org/10.1101/2020.11.28.402123](https://doi.org/10.1101/2020.11.28.402123)
+
+## 8
+**The thalamus integrates the macrosystems of the brain to facilitate complex, adaptive brain network dynamics**  
+Shine, J. M.  
+Progress in Neurobiology (2020)  
+[https://dx.doi.org/10.1016/j.pneurobio.2020.101951](https://dx.doi.org/10.1016/j.pneurobio.2020.101951)
+
+## 9
+**Whole-brain dynamics of human sensorimotor adaptation**  
+Standage, D. I., Areshenkoff, C. N., Gale, D. J., Nashed, J. Y., Randall Flanagan, J., & Gallivan, J. P.  
+bioRxiv (2020)  
+[https://doi.org/10.1101/2020.11.27.401679](https://doi.org/10.1101/2020.11.27.401679)
+
+## 10
+**U-Net Model for Brain Extraction on Non-human Primates**  
+Wang, X., Li, X.-H., Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia-Saldivar, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Cameron Craddock, R., Fox, A. S., Evans, A. C., Messinger, A., Milham, M. P., & Xu, T.  
+bioRxiv (2020)  
+[https://doi.org/10.1101/2020.11.17.385898](https://doi.org/10.1101/2020.11.17.385898)
+
+
+# Superlab Papers
+
+**A goal-driven modular neural network predicts parietofrontal neural dynamics during grasping**  
+Michaels, J. A., Schaffelhofer, S., Agudelo-Toro, A., & Scherberger, H.  
+PNAS (2020)  
+[https://doi.org/10.1073/pnas.2005087117](https://doi.org/10.1073/pnas.2005087117)
+
+**Orientation processing by synaptic integration across first-order tactile neurons**  
+Hay, E., & Pruszynski, J. A.  
+PLoS Comp Biol (2020)  
+[https://dx.doi.org/10.1371/journal.pcbi.1008303](https://dx.doi.org/10.1371/journal.pcbi.1008303)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

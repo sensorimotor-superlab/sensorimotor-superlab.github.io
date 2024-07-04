@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 231"
+date:   2024-02-09 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Memory’s gatekeeper: the role of PFC in the encoding of familiar events**  
+Guerreiro IC, Clopath C  
+[bioRxiv:2024.02.01.578356](https://www.biorxiv.org/content/10.1101/2024.02.01.578356v1.abstract)
+
+## 2
+**Brain-wide neural activity underlying memory-guided movement**  
+Chen S, Liu Y, Wang ZA, Colonell J, Liu LD, Hou H, Tien N-W, Wang T, Harris T, Druckmann S, Li N, Svoboda K  
+[Cell 187:676-691.e16](https://www.cell.com/article/S0092867423014459/abstract)
+
+## 3
+**Being a non-native English speaker in science and medicine**  
+Carlsson SV, Esteves SC, Grobet-Jeandin E, Masone MC, Ribal MJ, Zhu Y  
+[Nat Rev Urol](https://www.nature.com/articles/s41585-023-00839-7)
+
+## 4
+**Emergent human-like covert attention in feedforward convolutional neural networks**  
+Srivastava S, Wang WY, Eckstein MP  
+[Curr Biol 34:579-593.e12](https://www.cell.com/article/S096098222301758X/abstract)
+
+## 5
+**The cerebellum directly modulates the substantia nigra dopaminergic activity**  
+Washburn S, Oñate M, Yoshida J, Vera J, Bhuvanasundaram R, Khatami L, Nadim F, Khodakhah K  
+[Nature Neuroscience](https://www.nature.com/articles/s41593-023-01560-9)
+
+## 6
+**Building compositional tasks with shared neural subspaces**  
+Tafazoli S, Bouchacourt F, Ardalan A, Markov NT, Uchimura M, Gomes Mattar MG, Daw ND, Buschman TJ  
+[bioRxiv:2024.01.31.578263](https://www.biorxiv.org/content/10.1101/2024.01.31.578263v1.abstract)
+
+## 7
+**Human Motor Cortex Encodes Complex Handwriting Through a Sequence of Primitive Neural States**  
+Qi Y, Zhu X, Xiong X, Yang X, Ding N, Wu H, Xu K, Zhu J, Zhang J, Wang Y  
+[bioRxiv:2024.02.05.578548](https://www.biorxiv.org/content/10.1101/2024.02.05.578548v1.abstract)
+
+## 8
+**Ramping dynamics in the frontal cortex unfold over multiple timescales during motor planning**  
+Affan RO, Bright IM, Pemberton L, Cruzado NA, Scott BB, Howard MO  
+[bioRxiv:2024.02.05.578819](https://www.biorxiv.org/content/10.1101/2024.02.05.578819v1.abstract)
+
+## 9
+**Wearable Neural Interfaces: Real-Time Identification of Motor Neuron Discharges in Dynamic Motor Tasks**  
+Guerra IM, Barsakcioglu DY, Farina D  
+[bioRxiv:2024.02.05.578874](https://www.biorxiv.org/content/10.1101/2024.02.05.578874v1.abstract)
+
+## 10
+**Parallel processing of value-related information during multi-attribute decisions**  
+Nakahashi A, Cisek P  
+[J Neurophysiol 130:967–979](https://journals.physiology.org/doi/10.1152/jn.00230.2023)
+
+## 11
+**Task dependent coarticulation of movement sequences**  
+Kalidindi HT, Crevecoeur F  
+[bioRxiv:2023.12.15.571847](https://www.biorxiv.org/content/10.1101/2023.12.15.571847v2.abstract)
+
+## 12
+**Striatal dopamine contributions to skilled motor learning**  
+Phillips CD, Myers CC, Leventhal DK, Burgess CR  
+[bioRxiv:2024.02.06.579240](https://www.biorxiv.org/content/10.1101/2024.02.06.579240v1.abstract)
+
+## 13
+**Identifying Interpretable Latent Factors with Sparse Component Analysis**  
+Zimnik AJ, Cora Ames K, An X, Driscoll L, Lara AH, Russo AA, Susoy V, Cunningham JP, Paninski L, Churchland MM, Glaser JI  
+[bioRxiv:2024.02.05.578988](https://www.biorxiv.org/content/10.1101/2024.02.05.578988v1.abstract)
+
+## 14
+**Neural basis of self-control**  
+Lee KE, Elsey J, Hwang J, Emeric E, Stuphorn V  
+[bioRxiv:2024.02.07.578652](https://www.biorxiv.org/content/10.1101/2024.02.07.578652v1.abstract)
+
+## 15
+**Spike neural network of Motor Cortex model for arm reaching controlling**  
+Jiang H, Bu X, Sui X, Tang H, Pan X, Chen Y  
+[bioRxiv:2024.02.07.579412](https://www.biorxiv.org/content/10.1101/2024.02.07.579412v1.abstract)
+
+## 16
+**µSim: A goal-driven framework for elucidating the neural control of movement through musculoskeletal modeling**  
+Almani MN, Lazzari J, Chacon A, Saxena S  
+[bioRxiv:2024.02.02.578628](https://www.biorxiv.org/content/10.1101/2024.02.02.578628v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

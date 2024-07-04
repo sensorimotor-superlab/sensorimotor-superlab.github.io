@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 36"
+date:   2019-09-27 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Dendritic calcium signals in rhesus macaque motor cortex drive an optical brain-computer interface**  
+Trautmann, E.M., O’Shea, D.J., Sun, X., Marshel, J.H., Crow, A., Hsueh, B., Vesuna, S., Cofer, L., Bohner, G., Allen, W., Kauver, I., Quirin, S., Macdougall, M., Chen, Y., Whitmire, M.P., Ramakrishnan, C., Sahani, M., Seidemann, E., Ryu, S., Deisseroth, K., Shenoy, K.  
+bioRxiv, 780486 (2019)  
+[https://www.biorxiv.org/content/10.1101/780486v2](https://www.biorxiv.org/content/10.1101/780486v2)
+
+Also check out the [tweeprint](https://twitter.com/EricMTrautmann/status/1176864712463699968?s=20).
+
+## 2
+**Demonstration of a portable intracortical brain-computer interface**  
+Weiss, J.M., Gaunt, R.A., Franklin, R., Boninger, M.L., and Collinger, J.L.  
+Rehabilitation Medicine and Physical Therapy (2019)  
+[https://www.medrxiv.org/content/10.1101/19004721v1.abstract](https://www.medrxiv.org/content/10.1101/19004721v1.abstract)
+
+## 3
+**Learning and adaptation in speech production without a vocal tract**  
+Thompson, M.M.C., Houde, J.F., and Nagarajan, S.S.  
+Sci Rep 9, 13582 (2019)  
+[https://dx.doi.org/10.1038/s41598-019-49074-4](https://dx.doi.org/10.1038/s41598-019-49074-4)
+
+## 4
+**Feedback adaptation to unpredictable force fields in 250ms**  
+Crevecoeur, F., Mathew, J., Bastin, M., and Lefevre, P.  
+bioRxiv, 773002 (2019)  
+[https://www.biorxiv.org/content/10.1101/773002v1.abstract](https://www.biorxiv.org/content/10.1101/773002v1.abstract)
+
+## 5
+**Coordination amongst quadriceps muscles suggests neural regulation of internal joint stresses, not simplification of task performance**  
+Alessandro, C., Prashara, A., Tentler, D.P., Yeh, H.-Y., Barroso, F.O., and Tresch, M.C.  
+bioRxiv, 781534 (2019)  
+[https://www.biorxiv.org/content/10.1101/781534v1](https://www.biorxiv.org/content/10.1101/781534v1)
+
+## 6
+**Neural Organization of Hierarchical Motor Sequence Representations in the Human Neocortex**  
+Yokoi, A., and Diedrichsen, J.  
+Neuron (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.06.017](https://dx.doi.org/10.1016/j.neuron.2019.06.017)
+
+Also check out the Previews article by Aaron Wong and John Krakauer [here](https://dx.doi.org/10.1016/j.neuron.2019.09.011).
+
+## 7
+**Stochastic optimal open-loop control as a theory of force and impedance planning via muscle co-contraction**  
+Berret, B., and Jean, F.  
+bioRxiv, 780056 (2019)  
+[https://www.biorxiv.org/content/10.1101/780056v1](https://www.biorxiv.org/content/10.1101/780056v1)
+
+## 8
+**Layer-dependent activity in human prefrontal cortex during working memory**  
+Finn, E.S., Huber, L., Jangraw, D.C., and Bandettini, P.A.  
+bioRxiv, 425249 (2019)  
+[https://www.biorxiv.org/content/early/2018/09/24/425249](https://www.biorxiv.org/content/early/2018/09/24/425249)
+
+## 9
+**Quantifying normal and parkinsonian gait features from home movies: Practical application of a deep learning–based 2D pose estimator**  
+Sato, K., Nagashima, Y., Mano, T., Iwata, A., and Toda, T.  
+bioRxiv, 782367 (2019)  
+[https://www.biorxiv.org/content/10.1101/782367v1](https://www.biorxiv.org/content/10.1101/782367v1)
+
+## 10
+**Pretraining boosts out-of-domain robustness for pose estimation**  
+Mathis, A., Yüksekgönül, M., Rogers, B., Bethge, M., and Mathis, M.W.  
+arXiv [cs.CV] (2019)  
+[https://arxiv.org/abs/1909.11229](https://arxiv.org/abs/1909.11229)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

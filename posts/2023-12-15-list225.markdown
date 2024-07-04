@@ -1,0 +1,138 @@
+---
+layout: post
+title:  "Reading List 225"
+date:   2023-12-15 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Internal Dynamics Interact with Proprioceptive Feedback During Movement Execution in an RNN Model of Motor Cortex**  
+Jiang H, Bu X, Zheng Z, Pan X, Chen Y  
+[bioRxiv:2023.12.05.570033](https://www.biorxiv.org/content/10.1101/2023.12.05.570033v1.abstract)
+
+## 2
+**Connectivity underlying motor cortex activity during naturalistic goal-directed behavior**  
+Finkelstein A, Daie K, Rózsa M, Darshan R, Svoboda K  
+[bioRxiv:2023.11.25.568673](https://www.biorxiv.org/content/10.1101/2023.11.25.568673v3)
+
+## 3
+**Sleep consolidation potentiates skill maintenance**  
+Solano A, Lerner G, Griffa G, Deleglise A, Caffaro P, Riquelme L, Perez-Chada D, Della-Maggiore V  
+[bioRxiv:2023.10.26.564031](https://www.biorxiv.org/content/10.1101/2023.10.26.564031v3)
+
+## 4
+**Cortical circuitry mediating interareal touch signal amplification**  
+Ryan L, Sun-Yan A, Laughton M, Peron S  
+[Cell Rep 42:113532](https://dx.doi.org/10.1016/j.celrep.2023.113532)
+
+## 5
+**Fast feedback responses to categorical sensorimotor errors that do not indicate error magnitude are optimized based on short and long term memory**  
+McGarity-Shipley MR, Markovik Jantz S, Johansson RS, Wolpert DM, Flanagan JR  
+[J Neurosci 43:JN-RM-1990-22](https://www.jneurosci.org/content/43/49/8525.abstract)
+
+## 6
+**Scale‐invariant changes in corticospinal excitability reflect multiplexed oscillations in the motor output**  
+Emanuele M, D’Ausilio A, Koch G, Fadiga L, Tomassini A  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP284273)
+
+## 7
+**Muscle-driven simulations and experimental data of cycling**  
+Clancy CE, Gatti AA, Ong CF, Maly MR, Delp SL  
+[Sci Rep 13:1–10](https://www.nature.com/articles/s41598-023-47945-5)
+
+## 8
+**The neural control of movement: a century of in vivo motor unit recordings is the legacy of Adrian and Bronk**  
+Farina D, Gandevia S  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP285319)
+
+## 9
+**Your Eyes Talk to Your Ears. Scientists Know What They’re Saying**  
+[Duke Today](https://today.duke.edu/2023/11/your-eyes-talk-your-ears-scientists-know-what-theyre-saying)
+
+## 10
+**Computational demonstration of a spinal circuit that modulatesγ-MN activity via anα-MN collateral mitigates the inevitable disruptions from velocity-dependent stretch reflexes during voluntary movements**  
+Niyo G, Almofeez LI, Erwin A, Valero-Cuevas FJ  
+[bioRxiv:2023.12.08.570843](https://www.biorxiv.org/content/10.1101/2023.12.08.570843v1.abstract)
+
+## 11
+**Daily vocal exercise is necessary for peak performance singing in a songbird**  
+Adam I, Riebel K, Stål P, Wood N, Previs MJ, Elemans CPH  
+[Nat Commun 14:1–12](https://www.nature.com/articles/s41467-023-43592-6)
+
+## 12
+**Ashley Kopec’s journey out of academia**  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/craft-and-careers/ashley-kopecs-journey-out-of-academia/)
+
+## 13
+**Effort cost of harvest affects decisions and movement vigor of marmosets during foraging**  
+Hage P, Jang IK, Looi V, Fakharian MA, Orozco SP, Pi JS, Sedaghat-Nejad E, Shadmehr R  
+[eLife](https://elifesciences.org/articles/87238)
+
+## 14
+**Large-scale single-neuron speech sound encoding across the depth of human cortex**  
+Leonard MK, Gwilliams L, Sellers KK, Chung JE, Xu D, Mischler G, Mesgarani N, Welkenhuysen M, Dutta B, Chang EF  
+[Nature](https://www.nature.com/articles/s41586-023-06839-2)
+
+## 15
+**BICCN: The first complete cell census and atlas of a mammalian brain**  
+Krzysztofiak J  
+[Nature](https://www.nature.com/immersive/d42859-023-00069-2/index.html)
+
+## 16
+**CORNN: Convex optimization of recurrent neural networks for rapid inference of neural dynamics**  
+Dinc F, Shai A, Schnitzer M, Tanaka H  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2311.10200)
+
+## 17
+**Cortical reactivations predict future sensory responses**  
+Nguyen ND, Lutas A, Amsalem O, Fernando J, Ahn AY-E, Hakim R, Vergara J, McMahon J, Dimidschstein J, Sabatini BL, Andermann ML  
+[Nature](https://www.nature.com/articles/s41586-023-06810-1)
+
+## 18
+**Disruption of somatosensory cortex impairs motor learning and retention**  
+Darainy M, Manning TF, Ostry DJ  
+[J Neurophysiol 130:1521–1528](https://dx.doi.org/10.1152/jn.00231.2023)
+
+## 19
+**A software tool for at-home measurement of sensorimotor adaptation**  
+Jang J, Shadmehr R, Albert ST  
+[bioRxiv:2023.12.12.571359](https://biorxiv.org/content/early/2023/12/13/2023.12.12.571359.abstract)
+
+## 20
+**The neuronal implementation of representational geometry in primate prefrontal cortex**  
+Lin X-X, Nieder A, Jacob SN  
+[Sci Adv 9](https://www.science.org/doi/10.1126/sciadv.adh8685)
+
+## 21
+**Stable cortical body maps before and after arm amputation**  
+Schone HR, Maimon-Mor RO, Kollamkulam MT, Gerrand C, Woollard A, Kang NV, Baker CI, Makin TR  
+[bioRxiv:2023.12.13.571314](https://www.biorxiv.org/content/10.1101/2023.12.13.571314v1.abstract)
+
+## 22
+**Restoration of sensory feedback from the foot and reduction of phantom limb pain via closed-loop spinal cord stimulation**  
+Nanivadekar AC, Bose R, Petersen BA, Okorokova EV, Sarma D, Madonna TJ, Barra B, Farooqui J, Dalrymple AN, Levy I, Helm ER, Miele VJ, Boninger ML, Capogrosso M, Bensmaia SJ, Weber DJ, Fisher LE  
+[Nat Biomed Eng:1–12](https://www.nature.com/articles/s41551-023-01153-8)
+
+## 23
+**Rapid integration of face detection and task set in visually guided reaching**  
+Mekhaiel DY, Goodale MA, Corneil BD  
+[bioRxiv:2023.12.07.570480](https://www.biorxiv.org/content/10.1101/2023.12.07.570480v1.abstract)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

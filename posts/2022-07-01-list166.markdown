@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 166"
+date:   2022-07-01 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Contextual cues are not unique for motor learning: Task-dependant switching of feedback controllers**  
+Česonis J, Franklin DW  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010192)
+
+## 2
+**Adversarially trained neural representations may already be as robust as corresponding biological neural representations**  
+Guo C, Lee MJ, Leclerc G, Dapello J, Rao Y, Madry A, DiCarlo JJ  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2206.11228)
+
+## 3
+**Motor unit dysregulation following 15 days of unilateral lower limb immobilisation**  
+Inns TB, Bass JJ, Hardy EJO, Wilkinson DJ, Stashuk DW, Atherton PJ, Phillips BE, Piasecki M  
+[bioRxiv:2022.06.01.494421](https://www.biorxiv.org/content/10.1101/2022.06.01.494421v2)
+
+## 4
+**Eye-movement replay supports episodic remembering**  
+Johansson R, Nyström M, Dewhurst R, Johansson M  
+[Proc Biol Sci](https://dx.doi.org/10.1098/rspb.2022.0964)
+
+## 5
+**Rotational dynamics reduce interference between sensory and memory representations**  
+Libby A, Buschman TJ  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-021-00821-9)
+
+## 6
+**Neuro-inspired electronic skin for robots**  
+Liu F, Deswal S, Christou A, Sandamirskaya Y, Kaboli M, Dahiya R  
+[Sci Robot](https://dx.doi.org/10.1126/scirobotics.abl7344)
+
+## 7
+**The structures and functions of correlations in neural population codes**  
+Panzeri S, Moroni M, Safaai H, Harvey CD  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-022-00606-4)
+
+## 8
+**VIP-expressing interneurons in the anterior insular cortex contribute to sensory processing to regulate adaptive behavior**  
+Ramos-Prats A, Paradiso E, Castaldi F, Sadeghi M, Mir MY, Hörtnagl H, Göbel G, Ferraguti F  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.110893)
+
+## 9
+**How to talk so your robot will learn: Instructions, descriptions, and pragmatics**  
+Sumers TR, Hawkins RD, Ho MK, Griffiths TL, Hadfield-Menell D  
+[arXiv [csAI]](https://arxiv.org/abs/2206.07870)
+
+## 10
+**Pathway sampling by regenerating peripheral axons**  
+Witzel C, Rohde C, Brushart TM  
+[J Comp Neurol](https://dx.doi.org/10.1002/cne.20436)
+
+## 11
+**An action-observation network in the common marmoset identified by ultra-high field fMRI**  
+Zanini A, Dureux A, Everling S  
+[bioRxiv:2022.06.22.497225](https://www.biorxiv.org/content/10.1101/2022.06.22.497225v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

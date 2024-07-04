@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 84"
+date:   2020-09-04 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**The influence of temporal predictability on express visuomotor responses**  
+Contemori S, Loeb GE, Corneil BD, Wallis G, Carroll TJ  
+bioRxiv:2020.08.28.269449 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.28.269449v1](https://www.biorxiv.org/content/10.1101/2020.08.28.269449v1)
+
+## 2
+**Somatosensory target information is used for reaching but not for saccadic eye movements**  
+Goettker A, Fiehler K, Voudouris D  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00258.2020](https://dx.doi.org/10.1152/jn.00258.2020)
+
+## 3
+**Brain Activity Reveals Multiple Motor-Learning Mechanisms in a Real-World Task**  
+Haar S, Faisal AA  
+Front Hum Neurosci 14:354 (2020)  
+[https://dx.doi.org/10.3389/fnhum.2020.00354](https://dx.doi.org/10.3389/fnhum.2020.00354)
+
+## 4
+**Somatosensory Cortex of Macaque Monkeys is Designed for Opposable Thumb**  
+Lazar L, Chand P, Rajan R, Mohammed H, Jain N  
+bioRxiv:2020.08.31.261115 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.31.261115v1](https://www.biorxiv.org/content/10.1101/2020.08.31.261115v1)
+
+## 5
+**Intact tactile detection yet biased tactile localization in a hand-centered frame of reference: Evidence from a dissociation**  
+Liu Y, O’Neal A, Rafal RD, Medina J  
+Neuropsychologia 147:107585 (2020)  
+[https://dx.doi.org/10.1016/j.neuropsychologia.2020.107585](https://dx.doi.org/10.1016/j.neuropsychologia.2020.107585)
+
+## 6
+**Corticospinal neurons encode complex motor signals that are broadcast to dichotomous striatal circuits**  
+Nelson A, Abdelmesih B, Costa RM  
+bioRxiv:2020.08.31.275180 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.31.275180v1](https://www.biorxiv.org/content/10.1101/2020.08.31.275180v1)
+
+## 7
+**Sequential Reaching Task for the Study of Motor Skills in Monkeys**  
+Ohbayashi M, Picard N  
+Bio-protocol 10:e3719–e3719 (2020)  
+[https://bio-protocol.org/e3719](https://bio-protocol.org/e3719)
+
+## 8
+**Polarity of uncertainty representation during exploration and exploitation in ventromedial prefrontal cortex**  
+Trudel N, Scholl J, Klein-Flügge MC, Fouragnan E, Tankelevitch L, Wittmann MK, Rushworth MFS  
+Nat Hum Behav (2020)  
+[https://dx.doi.org/10.1038/s41562-020-0929-3](https://dx.doi.org/10.1038/s41562-020-0929-3)
+
+## 9
+**Dual contributions of cerebellar-thalamic networks to learning and offline consolidation of a complex motor task**  
+Varani AP, Sala RW, Mailhes-Hamon C, Frontera JL, Léna C, Popa D  
+bioRxiv:2020.08.27.270330 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.08.27.270330v1](https://www.biorxiv.org/content/10.1101/2020.08.27.270330v1)
+
+## 10
+**Arm movements induced by noninvasive optogenetic stimulation of the motor cortex in the common marmoset**  
+Ebina T, Obara K, Watakabe A, Masamizu Y, Terada S-I, Matoba R, Takaji M, Hatanaka N, Nambu A, Mizukami H, Yamamori T, Matsuzaki M  
+Proc Natl Acad Sci U S A 116:22844–22850 (2019)  
+[https://dx.doi.org/10.1073/pnas.1903445116](https://dx.doi.org/10.1073/pnas.1903445116)
+
+## 11
+**Theoretical musings**  
+Marder E  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.60703](https://dx.doi.org/10.7554/eLife.60703)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 162"
+date:   2022-06-03 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Learning from the physical consequences of our actions improves motor memory**  
+Bakkum A, Marigold DS  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0459-21.2022)
+
+## 2
+**Hippocampal replays appear after a single experience and incorporate greater detail with more experience**  
+Berners-Lee A, Feng T, Silva D, Wu X, Ambrose ER, Pfeiffer BE, Foster DJ  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.03.010)
+
+## 3
+**A model for self-organization of sensorimotor function: the spinal monosynaptic loop**  
+Enander JMD, Jones AM, Kirkland M, Hurless J, Jörntell H, Loeb GE  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00242.2021)
+
+## 4
+**Neuropathic pain caused by miswiring and abnormal end organ targeting**  
+Gangadharan V, Zheng H, Taberner FJ, Landry J, Nees TA, Pistolic J, Agarwal N, Männich D, Benes V, Helmstaedter M, Ommer B, Lechner SG, Kuner T, Kuner R  
+[Nature](https://dx.doi.org/10.1038/s41586-022-04777-z)
+
+## 5
+**Wing morphing allows gulls to modulate static pitch stability during gliding**  
+Harvey C, Baliga VB, Lavoie P, Altshuler DL  
+[J R Soc Interface](https://dx.doi.org/10.1098/rsif.2018.0641)
+
+## 6
+**Neural control of hand movement**  
+Husain M  
+[Brain](https://dx.doi.org/10.1093/brain/awac095)
+
+## 7
+**Brain stimulation competes with ongoing oscillations for control of spike timing in the primate brain**  
+Krause MR, Vieira PG, Thivierge J-P, Pack CC  
+[PLoS Biol](https://dx.doi.org/10.1371/journal.pbio.3001650)
+
+## 8
+**Discovering sparse control strategies in neural activity**  
+Lee ED, Chen X, Daniels BC  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010072)
+
+## 9
+**Humans utilize sensory evidence of others’ intended action to make online decisions**  
+Lokesh R, Sullivan S, Calalo JA, Roth A, Swanik B, Carter MJ, Cashaback JGA  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-022-12662-y)
+
+## 10
+**Null models in network neuroscience**  
+Váša F, Mišić B  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-022-00601-9)
+
+## 11
+**Lighting Up Mechanosensation: dyeing to see PIEZO2**  
+Villarino NW, Dubin AE, Patapoutian A, Marshall KL  
+[bioRxiv:2022.05.26.493600](https://www.biorxiv.org/content/10.1101/2022.05.26.493600v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

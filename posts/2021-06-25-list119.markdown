@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Reading List 119"
+date:   2021-06-25 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**A cerebellar-thalamocortical pathway drives behavioral context-dependent movement initiation**  
+Dacre J, Colligan M, Clarke T, Ammer JJ, Schiemann J, Chamosa-Pino V, Claudi F, Harston JA, Eleftheriou C, Pakan JMP, Huang C-C, Hantman AW, Rochefort NL, Duguid I  
+Neuron (2021) [https://dx.doi.org/10.1016/j.neuron.2021.05.016](https://dx.doi.org/10.1016/j.neuron.2021.05.016)
+
+## 2
+**Strong and weak principles of neural dimension reduction**  
+Humphries MD  
+Neurons, Behavior, Data analysis, and Theory (2021) [https://nbdt.scholasticahq.com/article/24619-strong-and-weak-principles-of-neural-dimension-reduction](https://nbdt.scholasticahq.com/article/24619-strong-and-weak-principles-of-neural-dimension-reduction)
+
+## 3
+**Mental practice modulates functional connectivity between the cerebellum and the primary motor cortex**  
+Monany DR, Lebon F, Dupont W, Papaxanthis C  
+bioRxiv:2021.06.18.448667 [https://www.biorxiv.org/content/10.1101/2021.06.18.448667v1](https://www.biorxiv.org/content/10.1101/2021.06.18.448667v1)
+
+## 4
+**Coordinated multivoxel coding beyond univariate effects is not likely to be observable in fMRI data**  
+Pakravan M, Ghazizadeh A  
+bioRxiv:2021.06.13.448229 [https://www.biorxiv.org/content/10.1101/2021.06.13.448229v1](https://www.biorxiv.org/content/10.1101/2021.06.13.448229v1)
+
+## 5
+**The functional properties of synapses made by regenerated axons across spinal cord lesion sites**  
+Parker D  
+bioRxiv:2021.06.21.449247 (2021) [https://www.biorxiv.org/content/10.1101/2021.06.21.449247v1](https://www.biorxiv.org/content/10.1101/2021.06.21.449247v1)
+
+## 6
+**Large-scale neural recordings with single-cell resolution in human cortex using high-density Neuropixels probes**  
+Paulk AC, Kfir Y, Khanna A, Mustroph M, Trautmann EM, Soper DJ, Stavisky SD, Welkenhuysen M, Dutta B, Shenoy KV, Hochberg LR, Richardson M, Williams ZM, Cash SS  
+bioRxiv:2021.06.20.449152 [https://www.biorxiv.org/content/10.1101/2021.06.20.449152v1](https://www.biorxiv.org/content/10.1101/2021.06.20.449152v1)
+
+## 7
+**The effects of long duration spaceflight on sensorimotor control and cognition**  
+Tays G, Hupfeld K, McGregor H, Salazar A, DeDios Y, Beltran N, Reuter-Lorenz P, Kofman I, Wood S, Bloomberg J, Mulavara A, Seidler R  
+bioRxiv:2021.06.22.449414 [https://www.biorxiv.org/content/10.1101/2021.06.22.449414v1](https://www.biorxiv.org/content/10.1101/2021.06.22.449414v1)
+
+## 8
+**Distinct Processing of Sensory Prediction Error and Task Error during Motor Learning**  
+Tsay J, Haith A, Ivry RB, Kim HE  
+bioRxiv:2021.06.20.449180 [https://www.biorxiv.org/content/10.1101/2021.06.20.449180v1](https://www.biorxiv.org/content/10.1101/2021.06.20.449180v1)
+
+## 9
+**Good decisions require more than information**  
+Alex Cayco-Gajic N, Zylberberg J  
+Nat Neurosci (2021) [https://www.nature.com/articles/s41593-021-00883-9](https://www.nature.com/articles/s41593-021-00883-9)
+
+## 10
+**Subcortical circuits mediate communication between primary sensory cortical areas in mice**  
+Lohse M, Dahmen JC, Bajo VM, King AJ  
+Nat Commun 12:1–14 (2021) [https://www.nature.com/articles/s41467-021-24200-x](https://www.nature.com/articles/s41467-021-24200-x)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

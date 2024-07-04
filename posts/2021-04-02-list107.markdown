@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 107"
+date:   2021-04-02 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Corticostriatal Plasticity Established by Initial Learning Persists after Behavioral Reversal**  
+Ghosh S, Zador AM  
+eNeuro (2021) [https://dx.doi.org/10.1523/ENEURO.0209-20.2021](https://dx.doi.org/10.1523/ENEURO.0209-20.2021)
+
+## 2
+**Distinct adaptation patterns between grip dynamics and arm kinematics when the body is upside-down**  
+Opsomer L, Crevecoeur F, Thonnard J-L, McIntyre J, Lefèvre P  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00357.2020](https://dx.doi.org/10.1152/jn.00357.2020)
+
+## 3
+**The energetic basis for smooth human arm movements**  
+Wong JD, Cluff T, Kuo AD  
+bioRxiv (2020) [https://www.biorxiv.org/content/10.1101/2020.12.28.424067v1](https://www.biorxiv.org/content/10.1101/2020.12.28.424067v1)
+
+## 4
+**The influence of temporal predictability on express visuomotor responses**  
+Contemori S, Loeb GE, Corneil BD, Wallis G, Carroll TJ  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00521.2020](https://dx.doi.org/10.1152/jn.00521.2020)
+
+## 5
+**The neural basis of intelligence in fine-grained cortical topographies**  
+Feilong M, Guntupalli JS, Haxby JV  
+Elife (2021) [https://dx.doi.org/10.7554/eLife.64058](https://dx.doi.org/10.7554/eLife.64058)
+
+## 6
+**Measuring and modeling the motor system with machine learning**  
+Hausmann SB, Vargas AM, Mathis A, Mathis MW  
+arXiv (2021) [https://arxiv.org/abs/2103.11775](https://arxiv.org/abs/2103.11775)
+
+## 7
+**Learning is shaped by abrupt changes in neural engagement**  
+Hennig JA, Oby ER, Golub MD, Bahureksa LA, Sadtler PT, Quick KM, Ryu SI, Tyler-Kabara EC, Batista AP, Chase SM, Yu BM  
+bioRxiv (2020) [https://www.biorxiv.org/content/10.1101/2020.05.24.112714v1](https://www.biorxiv.org/content/10.1101/2020.05.24.112714v1)
+
+## 8
+**Integrative frontal-parietal dynamics supporting cognitive control**  
+Nee DE  
+Elife (2021) [https://dx.doi.org/10.7554/eLife.57244](https://dx.doi.org/10.7554/eLife.57244)
+
+## 9
+**Bifurcation in brain dynamics reveals a signature of conscious processing independent of report**  
+Sergent C, Corazzol M, Labouret G, Stockart F, Wexler M, King J-R, Meyniel F, Pressnitzer D  
+Nat Commun (2021) [https://dx.doi.org/10.1038/s41467-021-21393-z](https://dx.doi.org/10.1038/s41467-021-21393-z)
+
+## 10
+**Visualizing a joint future of neuroscience and neuromorphic engineering**  
+Zenke F, Bohté SM, Clopath C, Comşa IM, Göltz J, Maass W, Masquelier T, Naud R, Neftci EO, Petrovici MA, Scherr F, Goodman DFM  
+Neuron (2021) [https://dx.doi.org/10.1016/j.neuron.2021.01.009](https://dx.doi.org/10.1016/j.neuron.2021.01.009)
+
+
+## Superlab Papers
+**The planning horizon for movement sequences**  
+Ariani G, Kordjazi N, Pruszynski JA, Diedrichsen J  
+eNeuro (2021) [https://dx.doi.org/10.1523/ENEURO.0085-21.2021](https://dx.doi.org/10.1523/ENEURO.0085-21.2021)
+
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

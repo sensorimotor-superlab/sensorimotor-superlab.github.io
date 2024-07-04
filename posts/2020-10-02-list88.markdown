@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 88"
+date:   2020-10-02 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**The explicit/implicit distinction in studies of visuomotor learning: conceptual and methodological pitfalls**  
+Hadjiosif AM, Krakauer JW  
+Eur J Neurosci (2020)  
+[https://dx.doi.org/10.1111/ejn.14984](https://dx.doi.org/10.1111/ejn.14984)
+
+## 2
+**Long-term motor skill training with individually adjusted progressive difficulty enhances learning and promotes corticospinal plasticity**  
+Christiansen L, Larsen MN, Madsen MJ, Grey MJ, Nielsen JB, Lundbye-Jensen J  
+Sci Rep 10:15588 (2020)  
+[http://dx.doi.org/10.1038/s41598-020-72139-8](http://dx.doi.org/10.1038/s41598-020-72139-8)
+
+## 3
+**Early stages of sensorimotor map acquisition: neurochemical signature in primary motor cortex and its relation to functional connectivity**  
+van Vugt FT, Near J, Hennessy TJ, Doyon J, Ostry DJ  
+J Neurophysiol (2020)  
+[https://doi.org/10.1152/jn.00285.2020](https://doi.org/10.1152/jn.00285.2020)
+
+## 4
+**Discrete finger sequences are widely represented in human striatum**  
+Andersen KW, Madsen KH, Siebner HR  
+Sci Rep 10:13189 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-69923-x](https://dx.doi.org/10.1038/s41598-020-69923-x)
+
+## 5
+**Behavioral and Neural Bases of Tactile Shape Discrimination Learning in Head-Fixed Mice**  
+Kim J, Erskine A, Cheung JA, Hires SA  
+Neuron (2020)  
+[https://www.cell.com/article/S0896627320307121/abstract](https://www.cell.com/article/S0896627320307121/abstract)
+
+## 6
+**Innovations present in the primate interneuron repertoire**  
+Krienen FM et al.  
+Nature (2020)  
+[https://dx.doi.org/10.1038/s41586-020-2781-z](https://dx.doi.org/10.1038/s41586-020-2781-z)
+
+## 7
+**Anatomically segregated basal ganglia pathways allow parallel behavioral modulation**  
+Lee J, Wang W, Sabatini BL  
+Nat Neurosci (2020)  
+[https://dx.doi.org/10.1038/s41593-020-00712-5](https://dx.doi.org/10.1038/s41593-020-00712-5)
+
+## 8
+**Visual-reward driven changes of movement during action execution**  
+Marti-Marca A, Deco G, Cos I  
+Sci Rep 10:15527 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-72220-2](https://dx.doi.org/10.1038/s41598-020-72220-2)
+
+## 9
+**Primate neuronal connections are sparse as compared to mouse**  
+Wildenberg GA, Rosen MR, Lundell J, Paukner D, Freedman DJ, Kasthuri N  
+bioRxiv:2020.09.24.311852 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.24.311852v1](https://www.biorxiv.org/content/10.1101/2020.09.24.311852v1)
+
+## 10
+**The Psychology of Reaching: Action Selection, Movement Implementation, and Sensorimotor Learning**  
+Kim HE, Avraham G, Ivry RB  
+Annu Rev Psychol (2020)  
+[https://dx.doi.org/10.1146/annurev-psych-010419-051053](https://dx.doi.org/10.1146/annurev-psych-010419-051053)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

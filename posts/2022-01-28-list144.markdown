@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Reading List 144"
+date:   2022-01-28 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Visual uncertainty unveils the distinct role of haptic cues in multisensory grasping**  
+Camponogara I, Volcic R  
+[bioRxiv:2022.01.25.477675](https://www.biorxiv.org/content/10.1101/2022.01.25.477675v1)
+
+## 2
+**Control of mammalian locomotion by ventral spinocerebellar tract neurons**  
+Chalif JI, Martínez-Silva M de L, Pagiazitis JG, Murray AJ, Mentis GZ  
+[Cell](https://dx.doi.org/10.1016/j.cell.2021.12.014)
+
+## 3
+**Neuronal population activity dynamics reveal a low-dimensional signature of operant learning in Aplysia**  
+Costa RM, Baxter DA, Byrne JH  
+[Commun Biol](https://dx.doi.org/10.1038/s42003-022-03044-1)
+
+## 4
+**The cerebellum encodes and influences the initiation and termination of discontinuous movements**  
+Gaffield MA, Christie JM  
+[bioRxiv:2021.06.24.449622](https://www.biorxiv.org/content/10.1101/2021.06.24.449622v2)
+
+## 5
+**Going beyond primary motor cortex to improve brain-computer interfaces**  
+Gallego JA, Makin TR, McDougle SD  
+[Trends Neurosci](https://dx.doi.org/10.1016/j.tins.2021.12.006)
+
+## 6
+**Selective inhibition of goal-directed actions in the mesencephalic locomotor region**  
+Gut NK, Yilmaz D, Kondabolu K, Huerta-Ocampo I, Mena-Segovia J  
+[bioRxiv:2022.01.18.476772](https://www.biorxiv.org/content/10.1101/2022.01.18.476772v1)
+
+## 7
+**Implicit adaptation is modulated by the relevance of feedback**  
+Parvin DE, Dang KV, Stover AR, Ivry RB, Ryan Morehead J  
+[bioRxiv:2022.01.19.476924](https://www.biorxiv.org/content/10.1101/2022.01.19.476924v1)
+
+## 8
+**Trigeminal ganglion and sensory nerves suggest tactile specialization of elephants**  
+Purkart L, Tuff JM, Shah M, Kaufmann LV, Altringer C, Maier E, Schneeweiß U, Tunckol E, Eigen L, Holtze S, Fritsch G, Hildebrandt T, Brecht M  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2021.12.051)
+
+## 9
+**Cortical preparatory activity indexes learned motor memories**  
+Sun X, O’Shea DJ, Golub MD, Trautmann EM, Vyas S, Ryu SI, Shenoy KV  
+[Nature](https://www.nature.com/articles/s41586-021-04329-x)
+
+## 10
+**pyNeurode: a real-time neural signal processing framework**  
+Tam W-K, Nolan MF  
+[bioRxiv:2022.01.18.476764](https://www.biorxiv.org/content/10.1101/2022.01.18.476764v1)
+
+## 11
+**A deep CNN framework for neural drive estimation from HD-EMG across contraction intensities and joint angles**  
+Wen Y, Kim SJ, Avrillon S, Levine JT, Hug F, Pons JL  
+[bioRxiv:2022.01.17.476688](https://www.biorxiv.org/content/10.1101/2022.01.17.476688v1)
+
+## 12
+**Ultra-flexible and Stretchable Intrafascicular Peripheral Nerve Recording Device with Axon-dimension, Cuff-less Microneedle Electrode Array**  
+Yan D, Jiman AA, Bottorff EC, Patel PR, Meli D, Welle EJ, Ratze DC, Havton LA, Chestek CA, Kemp SWP, Bruns TM, Yoon E, Seymour J  
+[bioRxiv:2022.01.19.476928](https://www.biorxiv.org/content/10.1101/2022.01.19.476928v1)
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

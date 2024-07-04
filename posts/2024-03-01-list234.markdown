@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 234"
+date:   2024-03-01 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Intrinsic structural covariation links cerebellum subregions to the cerebral cortex**  
+Wang Z, Diedrichsen J, Saltoun K, Steele C, Arnold-Anteraper SR, Yeo BTT, Schmahmann J, Bzdok D  
+[bioRxiv:2024.02.16.580701](https://www.biorxiv.org/content/10.1101/2024.02.16.580701v1.abstract)
+
+## 2
+**Evolution, biomechanics, and neurobiology converge to explain selective finger motor control**  
+Xu J, Mawase F, Schieber MH  
+[Physiol Rev](https://journals.physiology.org/doi/10.1152/physrev.00030.2023)
+
+## 3
+**Local muscle pressure stimulates the principal receptors for proprioception**  
+Torell F, Dimitriou M  
+[bioRxiv:2024.02.06.579058](https://www.biorxiv.org/content/10.1101/2024.02.06.579058v3.abstract)
+
+## 4
+**Distinct streams for supervised and unsupervised learning in the visual cortex**  
+Zhong L, Baptista S, Gattoni R, Arnold J, Flickinger D, Stringer C, Pachitariu M  
+[bioRxiv:2024.02.25.581990](https://www.biorxiv.org/content/10.1101/2024.02.25.581990v1.abstract)
+
+## 5
+**Biomechanical costs influence decisions made during ongoing actions**  
+Canaveral CA, Lata W, Green A, Cisek P  
+[bioRxiv:2024.02.26.582113](https://www.biorxiv.org/content/10.1101/2024.02.26.582113v1.abstract)
+
+## 6
+**Peripheral neural interfaces: Skeletal muscles are hyper-reinnervated according to the axonal capacity of the surgically rewired nerves**  
+Tereshenko V, Dotzauer DC, Schmoll M, Harnoncourt L, Carrero Rojas G, Gfrerer L, Eberlin KR, Austen WG Jr, Blumer R, Farina D, Aszmann OC  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.adj3872)
+
+## 7
+**A generic noninvasive neuromotor interface for human-computer interaction**  
+Labs C-L at R, Sussillo D, Kaifosh P, Reardon T  
+[bioRxiv:2024.02.23.581779](https://www.biorxiv.org/content/10.1101/2024.02.23.581779v1.abstract)
+
+## 8
+**Neuronal dynamics direct cerebrospinal fluid perfusion and brain clearance**  
+Jiang-Xie L-F, Drieu A, Bhasiin K, Quintero D, Smirnov I, Kipnis J  
+[Nature](https://www.nature.com/articles/s41586-024-07108-6)
+
+## 9
+**Touch sensation requires the mechanically gated ion channel ELKIN1**  
+Chakrabarti S, Klich JD, Khallaf MA, Hulme AJ, Sánchez-Carranza O, Baran ZM, Rossi A, Huang AT-L, Pohl T, Fleischer R, Fürst C, Hammes A, Bégay V, Hörnberg H, Finol-Urdaneta RK, Poole K, Dottori M, Lewin GR  
+[Science 383:992–998](https://www.science.org/doi/10.1126/science.adl0495)
+
+## 10
+**Expanding ‘little brain’ may have powered dinosaur flight**  
+Melchor A  
+[The Transmitter](https://www.thetransmitter.org/evolution/expanding-little-brain-may-have-powered-dinosaur-flight/)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

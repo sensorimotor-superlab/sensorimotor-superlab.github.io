@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Reading List 227"
+date:   2024-01-12 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**GABA increases sensory transmission in monkeys**  
+Mahrous AA, Liang L, Balaguer J-M, Ho JC, Hari K, Grigsby EM, Karapetyan V, Damiani A, Fields DP, Gonzalez-Martinez JA, Gerszten PC, Bennett DJ, Heckman CJ, Pirondini E, Capogrosso M  
+[bioRxiv:2023.12.28.573467](https://www.biorxiv.org/content/10.1101/2023.12.28.573467v1.abstract)
+
+## 2
+**The volitional control of individual motor units is constrained within low-dimensional manifolds by common inputs**  
+Rossato J, Avrillon S, Tucker K, Farina D, Hug F  
+[bioRxiv:2024.01.05.573816](https://www.biorxiv.org/content/10.1101/2024.01.05.573816v1.abstract)
+
+## 3
+**The cerebellum**  
+Carey MR  
+[Curr Biol 34:R7–R11](https://dx.doi.org/10.1016/j.cub.2023.11.048)
+
+## 4
+**Behavioral Motor Performance**  
+Leib R, Howard IS, Millard M, Franklin DW  
+[Comprehensive Physiology 14:5179–5224](https://onlinelibrary.wiley.com/doi/abs/10.1002/cphy.c220032)
+
+## 5
+**Broadening the scope ofJNeurosci’s content**  
+Kastner S  
+[J Neurosci 44:e2372232023](https://www.jneurosci.org/content/44/2/e2372232023.abstract)
+
+## 6
+**The low-rank hypothesis of complex systems**  
+Thibeault V, Allard A, Desrosiers P  
+[Nat Phys](https://www.nature.com/articles/s41567-023-02303-0)
+
+## 7
+**Keeping time and rhythm by internal simulation of sensory stimuli and behavioral actions**  
+de Lafuente V, Jazayeri M, Merchant H, García-Garibay O, Cadena-Valencia J, Malagón AM  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.adh8185)
+
+
+## Superlab Papers
+
+
+**MotorNet: a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks** (now based on PyTorch)  
+Codol O, Michaels JA, Kashefi M, Pruszynski JA, Gribble PL  
+[bioRxiv:2023.02.17.528969](https://www.biorxiv.org/content/10.1101/2023.02.17.528969v4.abstract)  
+**code**: [https://github.com/oliviercodol/MotorNet](https://github.com/oliviercodol/MotorNet)  
+**documentation**: [https://www.motornet.org](https://www.motornet.org)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

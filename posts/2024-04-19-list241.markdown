@@ -1,0 +1,112 @@
+---
+layout: post
+title:  "Reading List 241"
+date:   2024-04-19 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.   
+
+Also this week we have a link to the talk that Superlab member Mehrdad Kashefi delivered at NCM 2024 in Dubrovnik, Croatia (see bottom of the list).
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Two inhibitory neuronal classes govern acquisition and recall of spinal sensorimotor adaptation**  
+Lavaud S, Bichara C, D’Andola M, Yeh S-H, Takeoka A  
+[Science 384:194–201](https://dx.doi.org/10.1126/science.adf6801)
+
+## 2
+**Multiplicative joint coding in preparatory activity for reaching sequence in macaque motor cortex**  
+Wang T, Chen Y, Zhang Y, Cui H  
+[Nature Communications 15:1–15](https://www.nature.com/articles/s41467-024-47511-1)
+
+## 3
+**Synthesizing avian dreams**  
+Döppler JF, Atencio M, Amador A, Mindlin GB  
+[Chaos 34:043103](https://doi.org/10.1063/5.0194301)
+
+## 4
+**Cortico-cerebellar coordination facilitates neuroprosthetic control**  
+Abbasi A, Rangwani R, Bowen DW, Fealy AW, Danielsen NP, Gulati T  
+[Sci Adv 10](https://www.science.org/doi/10.1126/sciadv.adm8246)
+
+## 5
+**The language network as a natural kind within the broader landscape of the human brain**  
+Fedorenko E, Ivanova AA, Regev TI  
+[Nature Reviews Neuroscience](https://www.nature.com/articles/s41583-024-00802-4)
+
+## 6
+**Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification**  
+Sani OG, Abbaspourazad H, Wong YT, Pesaran B, Shanechi MM  
+[Nat Neurosci 24:140–149](https://pubmed.ncbi.nlm.nih.gov/33169030/)
+
+## 7
+**Bioptim, a Python Framework for Musculoskeletal Optimal Control in Biomechanics**  
+Michaud B, Bailly F, Charbonneau E, Ceglia A, Sanchez L, Begon M  
+[IEEE Trans Sys Man Cybern](https://ieeexplore.ieee.org/abstract/document/9808374)
+
+## 8
+**Future spinal reflex is embedded in primary motor cortex output**  
+Umeda T, Yokoyama O, Suzuki M, Kaneshige M, Isa T, Nishimura Y  
+[bioRxiv:2023.06.19.545500](https://www.biorxiv.org/content/10.1101/2023.06.19.545500v1.abstract)
+
+## 9
+**A systematic review of direct outputs from the cerebellum to the brainstem and diencephalon in mammals**  
+Novello M, Bosman LWJ, De Zeeuw CI  
+[Cerebellum 23:210–239](https://link.springer.com/article/10.1007/s12311-022-01499-w)
+
+## 10
+**Ketamine induces multiple individually distinct whole-brain functional connectivity signatures**  
+Moujaes F et al.  
+[Elife 13](https://elifesciences.org/articles/84173)
+
+## 11
+**ASICs mediate fast excitatory synaptic transmission for tactile discrimination**  
+Yamada A, Ling J, Yamada AI, Furue H, Gu JG  
+[Neuron 112:1286-1301.e8](https://www.cell.com/article/S0896627324000448/abstract)
+
+## 12
+**Multimodal sensory control of motor performance by glycinergic interneurons of the mouse spinal cord deep dorsal horn**  
+Gradwell MA et al.  
+[Neuron 112:1302-1327.e13](https://www.cell.com/article/S0896627324000539/abstract)
+
+## 13
+**Tuned geometries of hippocampal representations meet the computational demands of social memory**  
+Boyle LM, Posani L, Irfan S, Siegelbaum SA, Fusi S  
+[Neuron 112:1358-1371.e9](https://www.cell.com/article/S0896627324000473/abstract)
+
+## 14
+**Machine learning reveals the control mechanics of an insect wing hinge**  
+Melis JM, Siwanowicz I, Dickinson MH  
+[Nature](https://www.nature.com/articles/s41586-024-07293-4)
+
+## 15
+**Time-to-target simplifies optimal control of visuomotor feedback responses**  
+Česonis J, Franklin DW  
+[eNeuro 7](https://www.eneuro.org/content/7/2/ENEURO.0514-19.2020.abstract)
+
+## 16
+**Contextual cues are not unique for motor learning: Task-dependant switching of feedback controllers**  
+Česonis J, Franklin DW  
+[PLoS Comput Biol 18:e1010192](https://doi.org/10.1371/journal.pcbi.1010192)
+
+
+# NCM 2024 Talk by Mehrdad Kashefi
+**Is there more to sequence learning than better anticipation?**  
+[YouTube link](https://youtu.be/QOUM0KqjzhE)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

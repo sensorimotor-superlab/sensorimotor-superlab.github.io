@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "Reading List 100—In memory of Rodrigo Maeda"
+date:   2021-01-22 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+<img align="left" data-file-id="1701786" height="280" src="https://mcusercontent.com/5123e51e6c72da00386654148/images/b16681c0-7d8a-4836-9e43-431e1e55c2ae.jpg" style="border: 0px  ; width: 193px; height: 280px; float: left; margin: 7px 15px 3px 0px;" width="193" />
+
+For the 100th Superlab Reading List, we honour the scientific legacy of Superlab PhD Student, **Rodrigo Maeda**, who passed away from stomach cancer on January 1st, 2021.
+
+Rodrigo came to Western in Fall 2015 after completing his MSc at Simon Fraser University under the supervision of Drs. Dan Marigold and Max Donelan. He was the first PhD student with Andrew Pruszynski and was co-supervised by Paul Gribble. Rodrigo was scheduled to defend his thesis on January 18th, 2021 to a committee that consisted of Drs. Brian Corneil, Jody Culham, Julio Martinez-Trujillo and Daniel Wolpert (Columbia), an event about which we were all extremely excited. Rodrigo was planning to move on to Baltimore and start a postdoctoral fellowship with Dr. Kathy Cullen (Johns Hopkins) in Summer 2021.
+
+Rodrigo was an exceptional young scientist, a friendly and generous colleague, and a kind young man. He had an unmatched work ethic in the lab, driven by a natural curiosity for science and an appreciation of the power of a carefully designed experiment paired with a high quality dataset. Rodrigo was a great collaborator—quiet and reserved by nature but generous with his time and scientific ideas. He could already identify important gaps in the field and always made a compelling argument about what experiment to do next, usually armed with a quietly acquired new pilot data set. He even convinced Andrew to get into motor learning studies.
+
+Below, Rodrigo's fellow Superlab members and his former supervisors provide a brief synopsis of his ten lead author publications. The scope, number, and quality of these papers is a reflection of Rodrigo's exceptional potential as a researcher in sensorimotor neuroscience. He will be missed.
+
+---Andrew, Paul, & Jörn
+
+<p align="right">Rodrigo's <a href="https://scholar.google.com/citations?user=z2l87YMAAAAJ&hl=en">Google Scholar profile</a></p>
+
+
+
+## 1
+**Feedforward and Feedback Control Share an Internal Model of the Arm's Dynamics**  
+Maeda RS, Cluff T, Gribble PL, Pruszynski JA  
+J Neurosci 38:10505–10514 (2018)  
+[https://www.jneurosci.org/content/38/49/10505.abstract](https://www.jneurosci.org/content/38/49/10505.abstract)
+
+In this study, Rodrigo and colleagues tested whether altering the arm's intersegmental dynamics during voluntary reaching movements influences feedback control—specifically, the long latency stretch reflex. Participants performed voluntary reaching movements between two targets placed so that mainly elbow motion was required. As the elbow joint normally rotates into flexion, passive extension torque occurs at the shoulder due to the limb's intersegmental dynamics. In previous work by Rodrigo and by others, it has been shown that the nervous system uses an internal model of limb dynamics to anticipate these torques, and thus activates shoulder flexor muscles to keep the shoulder joint stationary. In this study, the shoulder joint of a KINARM exoskeleton robot was mechanically locked to stabilize the shoulder against interaction torques arising from elbow rotation. Over hundreds of trials, participants learned to decrease shoulder muscle activity while performing elbow rotation movements. Rodrigo and colleagues also probed the long latency stretch reflex in pectoralis muscle by delivering mechanical perturbations to the arm before and after the learning session (with the shoulder joint unlocked). Prior to learning, the long latency stretch reflex was large in pectoralis. Importantly, after learning, this reflex was substantially reduced in magnitude. Learning novel intersegmental limb dynamics through voluntary reaching thus also results in changes to feedback control. These findings support the idea that feedforward and feedback movement control share an internal model of limb dynamics.
+
+---*Chris Forgaard*
+
+
+## 2
+**Compensating for intersegmental dynamics across the shoulder, elbow, and wrist joints during feedforward and feedback control**  
+Maeda RS, Cluff T, Gribble PL, Pruszynski JA  
+J Neurophysiol 118:1984–1997 (2017)  
+[https://journals.physiology.org/doi/abs/10.1152/jn.00178.2017](https://journals.physiology.org/doi/abs/10.1152/jn.00178.2017)
+
+Controlling the movement of our arms is a challenging problem for the nervous system. One reason is because muscle torque applied at one joint (e.g. the shoulder) results in passive torques at other joints (e.g. the elbow and wrist), causing those joints to rotate. This is an example of ‘intersegmental dynamics', which the nervous system must account for to make accurate reaching movements. In this work, Rodrigo and colleagues completed four experiments to test how well the nervous system compensates for intersegmental dynamics that arise between the shoulder, elbow and wrist when people produce voluntary reaching movements and when they respond to the arm being unexpectedly perturbed. In Experiment 1, participants performed voluntary elbow flexion and extension movements at different speeds. Rodrigo showed that the timing and amplitude of shoulder muscle activity was produced in a predictive manner to counteract the passive shoulder movement that would have been caused by the participants' elbow movements. In Experiment 2, participants performed voluntary wrist flexion and extension movements and Rodrigo showed that elbow muscle activity was produced in a predictive way to counteract the passively generated torques that would have rotated the elbow. In Experiment 3 and 4, participants produced voluntary elbow flexion or extension movement or countered an external perturbation that flexed or extended the elbow (exp 4). In each of these experiments, participants completed trials with their wrist in a flexed position and in an extended position, which alters how the passively generated torque propagates to the shoulder. Rodrigo showed in both experiments that shoulder muscle activity was generated to counteract the passive rotational forces produced at the shoulder from the elbow's movement, and that this shoulder muscle activity was appropriately tuned to how changes in the participants' wrist orientation changed the intersegmental dynamic effects observed at the shoulder. These experiments collectively provide strong evidence that the nervous system robustly predicts and accounts for intersegmental dynamics across the shoulder, elbow and wrist during reaching and when counteracting external perturbations.
+
+---*Jeff Weiler*
+
+## 3
+**Consolidation of visuomotor adaptation memory with consistent and noisy environments**  
+Maeda RS, McGee SE, Marigold DS  
+J Neurophysiol 117:316–326 (2017)  
+[https://journals.physiology.org/doi/abs/10.1152/jn.00178.2016](https://journals.physiology.org/doi/abs/10.1152/jn.00178.2016)
+
+When it's time to retire an old set of tennis balls to dog duty and you pop open a new can, you have to quickly adapt your game to the new, more bouncy balls. This process might be faster if you can use motor memories of previous times you played with fresh tennis balls. Motor adaptation like this, and the resulting motor memories, have been extensively studied in visually guided reaching paradigms, in which the relation between movement of the hand and a cursor is altered. Foot placement is another motor action we frequently adapt—to avoid sidewalk cracks or to splash in the largest puddle—but it is less studied in this context. Rodrigo and colleagues investigated whether some hallmarks of upper limb visuomotor adaptation apply in a task where participants had to walk quickly and step on targets while their vision of those targets was shifted to the left or right with prism glasses. They found that participants quickly learned to adapt their walking to a prism induced visual perturbation, and that the motor memory of this adaptation was largely retained at a retest session a week later. Previous experiments using reaching movements have shown that when adaptation to one visual perturbation is followed by exposure to another perturbation in the opposite direction, the motor memory of the original adaptation can be lost or degraded; however, motor memories also become resistant to such interference over time via a process known as consolidation. Rodrigo et al. found that, despite some interference by an opposing prism shift, motor memories during the walking tasks were largely retained, indicating consolidation. Interestingly, consolidation in these tasks appeared to occur in a matter of minutes, unlike consolidation of reach adaptation which can take hours. Differences like this between visually guided hand and foot movements are especially intriguing because unlike hand movement, foot placement is highly constrained by the timing of the gait cycle and our strong desire not to fall over.
+
+---*Sasha Reschechtko & Dimitri Palidis*
+
+## 4
+**Learning New Feedforward Motor Commands Based on Feedback Responses**  
+Maeda RS, Gribble PL, Pruszynski JA  
+Curr Biol 30:1941–1948.e3 (2020)  
+[https://www.sciencedirect.com/science/article/pii/S0960982220303419](https://www.sciencedirect.com/science/article/pii/S0960982220303419)
+
+In previous work, Rodrigo and colleagues demonstrated that the nervous system accounts for changes in upper limb intersegmental limb dynamics. These changes are not only learned during feedforward motor control (voluntary reaching movements), they can also alter rapid feedback responses to mechanical perturbations. Rodrigo and colleagues further demonstrated that since these rapid feedback responses are partly mediated by neural circuits that are also recruited during voluntary reaches, learning altered limb dynamics during feedforward motor control transferred to feedback responses evoked to mechanical perturbations. Here, the Rodrigo tested the reverse hypotheses: Do altered intersegmental dynamics learned through feedback responses transfer to feedforward motor control? To test this, the shoulder joint of a KINARM exoskeleton robot was mechanically locked, so that the participants' shoulder joint was prevented from rotating, thus stabilizing it in the face of interaction torques arising at the shoulder due to elbow rotation. During an adaptation phase (shoulder locked), participants passively experienced hundreds of very short mechanical perturbations applied to the shoulder and elbow joints that resulted in pure elbow motion. After these perturbations and with the shoulder still locked, participants made 10 voluntary reaches to a target. By comparing these 10 reaches from to reaches made before and after the adaptation phase (with the shoulder joint unlocked), Maeda and colleagues demonstrated two effects. First, shoulder muscle activity was reduced during reaches performed at the end of the adaptation phase. Second, there were kinematic errors in the reach trajectories (i.e. aftereffects) during the initial reaches completed after the shoulder was unlocked. These kinematic errors occurred in the direction predicted if participants did not compensate for torques that would normally arise at the shoulder joint when producing the required reaches. Taken together, these results demonstrate that learning novel intersegmental limb dynamics through feedback responses transfers to feedforward motor control. Furthermore, in conjunction with previous work, this demonstrates that transfer between feedforward and feedback movement control is bidirectional, and further supports the idea that feedforward and feedback control share an internal model of limb dynamics.
+
+---*Spencer Arbuckle*
+
+## 5
+**Generalizing movement patterns following shoulder fixation**  
+Maeda RS, Zdybal JM, Gribble PL, Pruszynski JA  
+J Neurophysiol 123:1193–1205 (2020)  
+[https://journals.physiology.org/doi/abs/10.1152/jn.00696.2019](https://journals.physiology.org/doi/abs/10.1152/jn.00696.2019)
+
+When an individual performs a movement involving only elbow joint rotation, rotational forces arise at the shoulder joint, leading to an intersegmental “interaction torque”. In previous work, Rodrigo and colleagues demonstrated that the nervous system compensates for this interaction torque using shoulder muscle activation. The nervous system can even learn to reduce this compensatory activity when the interaction torque is artificially removed by mechanically fixing the shoulder joint. In this study, Rodrigo and colleagues asked whether this learning generalises to different arm configurations and different reach kinematics. Testing for these possibilities allowed them to probe the specificity of intersegmental dynamics representation within internal models. For instance, changing initial shoulder angle does not alter the elbow-to-shoulder mapping of intersegmental interaction torques but changing initial elbow angle does. Changing elbow reach kinematics (speed, distance) scales the interaction torques but they remain proportional to that of the original reach. Experimentally, the authors then showed that newly learned intersegmental dynamics generalised to new initial shoulder angles or reaching kinematics, but not to new initial elbow angles. This discrepancy reveals that newly acquired representations of intersegmental interactions in internal models generalise only to movements that should express a (proportionally) identical interaction, in line with the biomechanics of the arm.
+
+---*Olivier Codol*
+
+## 6
+**Shared internal models for feedforward and feedback control of arm dynamics in non‐human primates**  
+Maeda RS, Kersten R, Andrew Pruszynski J  
+Eur J Neurosci. 2020; 1– 16.    
+[https://onlinelibrary.wiley.com/doi/10.1111/ejn.15056](https://onlinelibrary.wiley.com/doi/10.1111/ejn.15056)
+
+As humans, we are able to learn new patterns of muscle activity to deal with new situations and challenges. We do this in part by using errors in our performance to update our model of the environment to generate successful actions. Furthermore, it has been shown that these updates are shared between feedforward actions and feedback responses following mechanical perturbations. In a previous study, Rodrigo and colleagues (2018) performed an elegant experiment showing that similar updates occur when the dynamics of the arm change. Normally, elbow movement requires muscle activity of the elbow and shoulder muscles due to the intersegmental dynamics of the arm. However, they found that immobilizing the shoulder joint during elbow movements reduced muscle activity in shoulder muscles slowly over time, the appropriate response for performing the task efficiently. Interestingly, these updates occur in the absence of any explicit errors, suggesting that updating an internal model of arm dynamics does not require error-based feedback. In the current work, Rodrigo and colleagues performed a similar experiment on non-human primates and confirmed that the same results hold in both humans and non-human primates, suggesting a similar adaptation process for an internal model of arm dynamics. Importantly, as in the human experiment, the non-human primates did not have experience with shoulder locking prior to experiments. Demonstrating this striking similarity between human and non-human primates will now allow further non-human primate experiments that investigate the neural basis of this adaptation, shedding light on how the brain updates its internal model of arm dynamics and how these models are shared between feedforward and feedback control.
+
+---*Jonathan Michaels*
+
+## 7
+**Sensory information from a slipping object elicits a rapid and automatic shoulder response**  
+\*Hernandez-Castillo CR, \*Maeda RS, Pruszynski JA, Diedrichsen J  
+(\* co-first author)  
+J Neurophysiol 123:1103–111 (2020)  
+[https://journals.physiology.org/doi/full/10.1152/jn.00672.2019](https://journals.physiology.org/doi/full/10.1152/jn.00672.2019)
+
+Imagine you were holding a coffee mug which began to slip from your hand. You would immediately compensate for that slip, preventing that mug from falling and spilling the coveted coffee. Previous studies have shown that the grip force in the hand increases in response to such slips. Studies have also shown that there is a compensatory motor response in the arm when perturbed. Although one can imagine that the arm and the hand work together to keep that mug of coffee in your hand, most previous studies investigated the changes in the arm and hand separately. Interestingly, one study showed that the hand muscles (and precision grip) adapted rapidly when the arm was perturbed. In this study, Carlos and Rodirgo investigated the complementary question: is there a rapid automatic response in the arm in response to sensory information about slipping from the hand? To answer these questions, Carlos and Rodrigo used a custom device that emulated slipping. When the coffee mug slips from your hand, you not only feel the slip in your hands, but proprioceptive information present in the action would also be transmitted to the arm. Carlos and Rodrigo mounted their custom device on a robotic exoskeleton to isolate the proprioceptive feedback from the hand and ensure that any response they saw in the upper arm was solely in response to the sensory input from the hands. They performed three experiments with 14 human participants using their custom slip device. They demonstrated that sensory information from the fingertips during a slip elicited a rapid motor response from the shoulder. This rapid automatic response is useful for stabilizing handheld objects and is faster in the direction of the slip. That is, when that coffee mug slips from your hand, there is an automatic rapid corrective motor response from your shoulder in the direction of the slip, based solely on the sensory information from your fingertips.
+
+---*Vaishnavi Sukumar*
+
+## 8
+**Foot placement relies on state estimation during visually guided walking**  
+Maeda RS, O'Connor SM, Donelan JM, Marigold DS  
+J Neurophysiol 117:480–491 (2017)  
+[https://journals.physiology.org/doi/abs/10.1152/jn.00015.2016](https://journals.physiology.org/doi/abs/10.1152/jn.00015.2016)
+
+Accurate foot placement is essential to stabilize our motion and to navigate our environment. The nervous system must achieve this accuracy despite imperfect sensory feedback and unexpected perturbations. In this study Rodrigo and colleagues used computational models and human walking experiments to test whether the nervous system uses state estimation to beneficially combine sensory feedback with forward model predictions to compensate for these challenges. Participants wore prism lenses during a visually guided walking task that required them to precisely step on a target in the middle of a path. These lenses altered the mapping relationship between the perceived target location and the motor command necessary to direct the foot to that position. The magnitude and direction of prism shifts varied on a trial to trial basis to add noise to the visual feedback and induce a re-weighting of this input. To expose altered weighting, a consistent prism shift was added. With added prism noise, participants responded to the consistent prism shift with smaller initial foot placement error but took longer to adapt. This matched the predictions of a mathematical model of the walking task that leveraged state estimation to compensate for noise. A model driven by task error did not support the behavioural data. Overall, the results are similar to recent computational neuroscience findings for reaching movements, suggesting that state estimation is a general mechanism of human motor control. On a personal note, the research underpinning this paper was the first collaborative effort between the Marigold and Donelan labs. The collaboration was stimulated by Rodrigo and is one of the many enduring effects that he has had on science and on our lives.
+
+--*Dan Marigold & Max Donelan*
+
+## 9
+**Long-term retention and reconsolidation of a visuomotor memory**  
+Maeda RS, McGee SE, Marigold DS  
+Neurobiol Learn Mem 155:313–321 (2018)  
+[https://www.sciencedirect.com/science/article/pii/S1074742718302168](https://www.sciencedirect.com/science/article/pii/S1074742718302168)
+
+Memories are known to be fragile and susceptible to interfering information upon retrieval, but does this apply to visuomotor memories in the context of walking? Rodrigo and colleagues addressed this question in a walking adaptation paradigm by using prism glasses that shifted participants' perception of future stepping targets (e.g., by ~10° to the left of the actual location). After only a few (1-10) trials, participants learned to accurately step in the center of the shifted targets. The memory of this visuomotor mapping (A) was retained even a year later in a retest session, as demonstrated by faster relearning of the prism shift (i.e., savings). To assess whether motor memories are fragile upon reactivation, in the retest session, after performing mapping A, participants were exposed to an interfering mapping B (e.g., prism shift to the right). If memories need to reconsolidate, this should cause larger foot placement errors when reverting back to mapping A. In contrast, the authors found no evidence of decreased performance, suggesting that the opposing mapping did not disrupt the original memory. In a separate group of participants, Rodrigo asked whether presenting the opposing mapping (B) in the initial session, immediately after learning mapping A, would disrupt long-term retention of the original mapping (A), but again there was no disruption. Interestingly, these participants who experienced both types of adaptation in the initial and 1-year retest sessions retained not only the original mapping (A), but also the opposing mapping (B), suggesting that humans can form multiple visuomotor memories for walking. This series of experiments demonstrates that visuomotor memories for walking are stable, easily consolidated for long-term usage, and robust against interference.
+
+---*Eva Berlot & Giacomo Ariani*
+
+## 10
+**From Specific Training to Global Shift of Manual Preference in Kung Fu Experts**  
+Maeda RS, Souza RM, Teixeira LA  
+Percept Mot Skills 118:73–85 (2014)  
+[https://journals.sagepub.com/doi/abs/10.2466/23.25.PMS.118k12w5](https://journals.sagepub.com/doi/abs/10.2466/23.25.PMS.118k12w5)
+
+Here Rodrigo and colleagues demonstrate that intermanual performance asymmetry and manual preference in daily tasks is weaker in Kung Fu experts compared to novices. They compared the performance speed of typical unilateral Kung Fu movements between right-handed experts with 5 or more years of experience in Kung Fu to novices with less than 1 year of experience. They found that intermanual performance asymmetry between right and left upper limb movements were diminished in experts. In other words, Kung Fu experts showed superior bimanual performance. Interestingly, this behavior extended to daily tasks that were unrelated to the Kung Fu movements. Their results suggest that the intermanual Kung Fu training might have weakened the dominant hand preference for tasks unrelated to the practiced movements. Their findings support the model of dynamic formation of manual preference by Teixeira and colleagues (2010) which suggests that lateralized training can modulate the strength of manual preference which in turn is generalized across various motor tasks. This paper shows a potential link between lateralized training and manual preference for tasks unrelated to the specific training.
+
+---*Nicola Popp & Carlos Hernandez-Castillo*
+

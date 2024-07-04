@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 195"
+date:   2023-02-17 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Improved cognitive-motor processing speed and decreased functional connectivity after high intensity aerobic exercise in individuals with chronic stroke**  
+Andrushko JW, Rinat S, Greeley B, Larssen BC, Jones CB, Rubino C, Denyer R, Ferris J, Campbell KL, Neva JL, Boyd LA  
+[bioRxiv:2023.01.15.523513](https://www.biorxiv.org/content/10.1101/2023.01.15.523513v2)
+
+## 2
+**BOLD response is more than just magnitude: improving detection sensitivity through capturing hemodynamic profiles**  
+Chen G, Taylor PA, Reynolds RC, Leibenluft E, Pine DS, Brotman MA, Pagliaccio D, Haller SP  
+[bioRxiv:2023.02.13.528362](https://www.biorxiv.org/content/10.1101/2023.02.13.528362v1)
+
+## 3
+**Spatiotemporal dynamics of sensory neuron and Merkel-cell remodeling are decoupled during epidermal homeostasis**  
+Clary RC, Jenkins BA, Lumpkin EA  
+[bioRxiv:2023.02.14.528558](https://www.biorxiv.org/content/10.1101/2023.02.14.528558v1)
+
+## 4
+**Stop the peer-review treadmill. I want to get off**  
+Dance A  
+[Nature](https://dx.doi.org/10.1038/d41586-023-00403-8)
+
+## 5
+**Multiplexed Subspaces Route Neural Activity Across Brain-wide Networks**  
+MacDowell CJ, Libby A, Jahn CI, Tafazoli S, Buschman TJ  
+[bioRxiv:2023.02.08.527772](https://www.biorxiv.org/content/10.1101/2023.02.08.527772v1)
+
+## 6
+**The cellular basis of mechanosensation in mammalian tongue**  
+Moayedi Y, Xu S, Obayashi SK, Hoffman BU, Gerling GJ, Lumpkin EA  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2023.112087)
+
+## 7
+**The response time paradox in functional magnetic resonance imaging analyses**  
+Mumford JA, Bissett PG, Jones HM, Shim S, Rios JAH, Poldrack RA  
+[bioRxiv:2023.02.15.528677](https://www.biorxiv.org/content/10.1101/2023.02.15.528677v1)
+
+## 8
+**Reinforcement-Based Processes Actively Regulate Motor Exploration Along Redundant Solution Manifolds**  
+Roth AM, Calalo JA, Lokesh R, Sullivan SR, Grill S, Jeka JJ, van der Kooij K, Carter MJ, Cashaback JGA  
+[bioRxiv:2023.02.08.527668](https://www.biorxiv.org/content/10.1101/2023.02.08.527668v1)
+
+## 9
+**Shoulder muscle recruitment of small amplitude motor units during the delay period encodes a reach movement plan which is sensitive to task context**  
+Rungta S, Murthy A  
+[bioRxiv:2022.02.09.479690](https://www.biorxiv.org/content/10.1101/2022.02.09.479690v4)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

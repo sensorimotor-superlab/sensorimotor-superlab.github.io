@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Reading List 183"
+date:   2022-11-11 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Undetectable very-low frequency sound increases dancing at a live concert**  
+Cameron DJ, Dotov D, Flaten E, Bosnyak D, Hove MJ, Trainor LJ  
+[Curr Biol](https://www.cell.com/article/S0960982222015354/abstract)
+
+## 2
+**Mechanoreceptor signal convergence and transformation in the dorsal horn flexibly shape a diversity of outputs to the brain**  
+Chirila AM, Rankin G, Tseng S-Y, Emanuel AJ, Chavez-Martinez CL, Zhang D, Harvey CD, Ginty DD  
+[bioRxiv:2022.05.20.492853](https://www.biorxiv.org/content/10.1101/2022.05.20.492853v1)
+
+## 3
+**Humans decompose tasks by trading off utility and computational cost**  
+Correa CG, Ho MK, Callaway F, Daw ND, Griffiths TL  
+[arXiv [csAI]](https://arxiv.org/abs/2211.03890)
+
+## 4
+**Separability of Human Motor Memories during reaching adaptation with force cues**  
+Crevecoeur F, Mathew J, Lefèvre P  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1009966)
+
+## 5
+**Biomechanics of Finger Pad Response under Torsion**  
+de Dunilac S du B, Bulens DC, Lefèvre P, Redmond SJ, Delhaye BP  
+[bioRxiv:2022.11.07.515186](https://www.biorxiv.org/content/10.1101/2022.11.07.515186v1)
+
+## 6
+**The emergent properties of the connected brain**  
+de Schotten MT, Forkel SJ  
+[Science](https://www.science.org/doi/abs/10.1126/science.abq2591)
+
+## 7
+**Multiple functionally and temporally independent selection mechanisms mediate working memory-guided behaviors**  
+Ester EF, Weese R  
+[bioRxiv:2022.05.18.492385](https://www.biorxiv.org/content/10.1101/2022.05.18.492385v5)
+
+## 8
+**The neurons that restore walking after paralysis**  
+Kathe C et al.  
+[Nature](https://www.nature.com/articles/s41586-022-05385-7)
+
+## 9
+**Attractor and integrator networks in the brain**  
+Khona M, Fiete IR  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-022-00642-0)
+
+## 10
+**Ultrafast simulation of large-scale neocortical microcircuitry with biophysically realistic neurons**  
+Oláh VJ, Pedersen NP, Rowan MJM  
+[Elife](https://dx.doi.org/10.7554/eLife.79535)
+
+## 11
+**Facemap: a framework for modeling neural activity based on orofacial tracking**  
+Syeda A, Zhong L, Tung R, Long W, Pachitariu M, Stringer C  
+[bioRxiv:2022.11.03.515121](https://www.biorxiv.org/content/10.1101/2022.11.03.515121v1)
+
+## 12
+**Non-invasive stimulation of the human striatum disrupts reinforcement learning of motor skills**  
+Vassiliadis P, Beanato E, Popa T, Windel F, Morishita T, Neufeld E, Duque J, Derosiere G, Wessel MJ, Hummel FC  
+[bioRxiv:2022.11.07.515477](https://www.biorxiv.org/content/10.1101/2022.11.07.515477v1)
+
+## 13
+**Online internal speech decoding from single neurons in a human participant**  
+Wandelt SK, Bjanes D, Pejsa K, Lee B, Liu C, Andersen RA  
+[bioRxiv](https://www.medrxiv.org/content/10.1101/2022.11.02.22281775v1.abstract)
+
+## 14
+**Cerebellar Contributions to the Basal Ganglia Influence Motor Coordination, Reward Processing, and Movement Vigor**  
+Yoshida J, Oñate M, Khatami L, Vera J, Nadim F, Khodakhah K  
+[J Neurosci](https://www.jneurosci.org/content/42/45/8406)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

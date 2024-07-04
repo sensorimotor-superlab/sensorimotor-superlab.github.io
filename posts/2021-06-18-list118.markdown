@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 118"
+date:   2021-06-18 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Dynamical independence: discovering emergent macroscopic processes in complex dynamical systems**  
+Barnett L, Seth AK  
+arXiv [nlinAO] (2021) [https://arxiv.org/abs/2106.06511](https://arxiv.org/abs/2106.06511)
+
+## 2
+**Extreme sparsity gives rise to functional specialization**  
+Béna G, Goodman DFM  
+arXiv [q-bioNC] (2021) [https://arxiv.org/abs/2106.02626](https://arxiv.org/abs/2106.02626)
+
+## 3
+**The Amygdala Responds Rapidly to Flashes Linked to Direct Retinal Innervation: A Flash-evoked Potential Study Across Cortical and Subcortical Visual Pathways**  
+Chen Y, Ni Y, Zhou J, Zhou H, Zhong Q, Li X, Zhang J, Ma Y, Wei J  
+Neurosci Bull (2021) [https://dx.doi.org/10.1007/s12264-021-00699-4](https://dx.doi.org/10.1007/s12264-021-00699-4)
+
+## 4
+**Eye-hand coordination during online reach corrections is task-dependent**  
+de Brouwer AJ, Spering M  
+bioRxiv:2021.06.13.448238 [https://www.biorxiv.org/content/10.1101/2021.06.13.448238v1](https://www.biorxiv.org/content/10.1101/2021.06.13.448238v1)
+
+## 5
+**The whole prefrontal cortex is premotor cortex**  
+Fine JM, Hayden BY  
+arXiv [q-bioNC] (2021) [https://arxiv.org/abs/2106.04651](https://arxiv.org/abs/2106.04651)
+
+## 6
+**The Impact of Gender on Researchers’ Assessment: A Randomized Controlled Trial**  
+Franco MC, Helal L, Cenci MS, Moher D  
+J Clin Epidemiol (2021) [https://dx.doi.org/10.1016/j.jclinepi.2021.05.026](https://dx.doi.org/10.1016/j.jclinepi.2021.05.026)
+
+## 7
+**Age-related increases in reaction time result from slower preparation, not delayed initiation**  
+Hardwick RM, Forrence AD, Costello MG, Zackowski K, Haith AM  
+bioRxiv:2021.06.12.448183 (2021) [https://www.biorxiv.org/content/10.1101/2021.06.12.448183v1](https://www.biorxiv.org/content/10.1101/2021.06.12.448183v1)
+
+## 8
+**The organizational principles of de-differentiated topographic maps in somatosensory cortex**  
+Liu P, Chrysidou A, Doehler J, Hebart MN, Wolbers T, Kuehn E  
+Elife 10 (2021) [https://dx.doi.org/10.7554/eLife.60090](https://dx.doi.org/10.7554/eLife.60090)
+
+## 9
+**Distributional reinforcement learning in prefrontal cortex**  
+Muller TH, Butler JL, Veselic S, Miranda B, Behrens TEJ, Kurth-Nelson Z, Kennerley SW  
+bioRxiv:2021.06.14.448422 [https://www.biorxiv.org/content/10.1101/2021.06.14.448422v1](https://www.biorxiv.org/content/10.1101/2021.06.14.448422v1)
+
+## 10
+**Dendritic calcium signals in rhesus macaque motor cortex drive an optical brain-computer interface**  
+Trautmann EM et al.  
+Nat Commun 12:1–20 (2021) [https://www.nature.com/articles/s41467-021-23884-5](https://www.nature.com/articles/s41467-021-23884-5)
+
+## 11
+**Clock time: a foreign measure to brain dynamics**  
+van Bree S, Melcón M, Kolibius L, Kérren C, Wimber M, Hanslmayr S  
+bioRxiv:2021.06.09.447763 [https://www.biorxiv.org/content/10.1101/2021.06.09.447763v1](https://www.biorxiv.org/content/10.1101/2021.06.09.447763v1)
+
+## 12
+**Novel Insights Into Biarticular Muscle Actions Gained From High-Density Electromyogram**  
+Watanabe K, Vieira TM, Gallina A, Kouzaki M, Moritani T  
+Exerc Sport Sci Rev 49:179–187 (2021) [https://dx.doi.org/10.1249/JES.0000000000000254](https://dx.doi.org/10.1249/JES.0000000000000254)
+
+
+## Superlab Papers
+**Sensitivity to Error During Visuomotor Adaptation is Similarly Modulated by Abrupt, Gradual and Random Perturbation Schedules**  
+Coltman SK, van Beers RJ, Pieter Medendorp W, Gribble PL  
+bioRxiv:2021.06.14.448375 [https://www.biorxiv.org/content/10.1101/2021.06.14.448375v1](https://www.biorxiv.org/content/10.1101/2021.06.14.448375v1)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

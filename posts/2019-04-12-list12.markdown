@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "Reading List 12"
+date:   2019-04-12 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that caught our attention this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+
+## 1
+**Timing is (almost) everything in a comprehensive, spike-resolved flight motor program**  
+Conn, R., Putney, J., and Sponberg, S.  
+bioRxiv, 602961 (2019)  
+[https://www.biorxiv.org/content/10.1101/602961v1](https://www.biorxiv.org/content/10.1101/602961v1)
+
+## 2
+**Decoding hand kinematics from population responses in sensorimotor cortex during grasping.**  
+Okorokova, E.V., Goodman, J.M., Hatsopoulos, N.G., and Bensmaia, S.J.  
+arXiv [q-bio.NC] (2019)  
+[https://arxiv.org/abs/1904.03531](https://arxiv.org/abs/1904.03531)
+
+## 3
+**Extrinsic and intrinsic dynamics in movement intermittency.**  
+Susilaradeya, D., Xu, W., Hall, T.M., Galán, F., Alter, K., and Jackson, A.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.40145](https://dx.doi.org/10.7554/eLife.40145)
+
+## 4
+**Eye movements do not play an important role in the adaptation of hand tracking to a visuomotor rotation.**  
+Gouirand, N., Mathew, J., Brenner, E., and Danion, F.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00814.2018](https://dx.doi.org/10.1152/jn.00814.2018)
+
+## 5
+**Luring the Motor System: Impact of Performance-Contingent Incentives on Pre-Movement Beta-band Activity and Motor Performance.**  
+Savoie, F.-A., Hamel, R., Lacroix, A., Thénault, F., Whittingstall, K., and Bernier, P.-M.  
+J. Neurosci (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1887-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.1887-18.2019)
+
+## 6
+**Dopamine depletion affects vocal acoustics and disrupts sensorimotor adaptation in songbirds**  
+Saravanan, V., Hoffmann, L.A., Jacob, A.L., Berman, G.J., and Sober, S.J.  
+bioRxiv, 600874 (2019)  
+[https://www.biorxiv.org/content/10.1101/600874v1](https://www.biorxiv.org/content/10.1101/600874v1)
+
+## 7
+**Spatial and temporal structure of choice representations in primate prefrontal cortex**  
+Kollmorgen, S., Newsome, W.T., and Mante, V.  
+bioRxiv, 595520 (2019)  
+[https://www.biorxiv.org/content/10.1101/595520v1](https://www.biorxiv.org/content/10.1101/595520v1)
+
+## 8
+**Inferring the function performed by a recurrent neural network**  
+Chalk, M., Tkacik, G., and Marre, O.  
+bioRxiv, 598086 (2019)  
+[https://www.biorxiv.org/content/10.1101/598086v1](https://www.biorxiv.org/content/10.1101/598086v1)
+
+Also see this [tweet thread](https://twitter.com/KordingLab/status/1114152346190270466).
+
+## 9
+**Basal ganglia contributions during the learning of a visuomotor rotation: effect of dopamine, deep brain stimulation and reinforcement**  
+Singh, P., Lenka, A., Stezin, A., Jhunjhunwala, K., Pal, P.K., Ghosal, A., and Murthy, A.  
+bioRxiv, 599308 (2019)  
+[https://www.biorxiv.org/content/10.1101/599308v1](https://www.biorxiv.org/content/10.1101/599308v1)
+
+## 10
+**A Visual Exploration of Gaussian Processes**: How to turn a collection of small building blocks into a versatile tool for solving regression problems  
+Görtler J, Kehlbeck R, Duessen O.  
+Distill (April 2, 2019)  
+[https://doi.org/10.23915/distill.00017](https://doi.org/10.23915/distill.00017)
+
+A very good blog-style post on gaussian processes. It's easy to read and has some nice interactive figures.
+
+
+# Superlab Publications
+Here we list new papers by members of the sensoriomotor superlab:
+
+
+**Sequence learning is driven by improvements in motor planning**  
+Ariani, G., and Diedrichsen, J.  
+J. Neurophysiol.  
+[https://dx.doi.org/10.1152/jn.00041.2019](https://dx.doi.org/10.1152/jn.00041.2019)
+
+In two behavioral experiments, we used a sequence production task to uncover elementary components of skilled motor performance. We show that performance improvements are not fully explained by faster single-item selection, nor improved motor execution. Instead, much of the learning can be attributed to an enhanced ability to plan multiple sequence elements into the future.
+
+
+**The effect of response complexity on simple reaction time occurs even with a highly predictable imperative stimulus**  
+Maslovat, D., Klapp, S.T., Forgaard, C.J., Chua, R., and Franks, I.M.  
+Neurosci. Lett. 704, 62–66 (2019)  
+[https://dx.doi.org/10.1016/j.neulet.2019.03.056](https://dx.doi.org/10.1016/j.neulet.2019.03.056)
+
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. These are just papers that have caught our attention this week. As always, please read papers with a critical eye.
+
+
+

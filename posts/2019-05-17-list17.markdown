@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 17"
+date:   2019-05-17 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Layer-specific activation of sensory input and predictive feedback in the human primary somatosensory cortex**  
+Yu, Y., Huber, L., Yang, J., Jangraw, D.C., Handwerker, D.A., Molfese, P.J., Chen, G., Ejima, Y., Wu, J., and Bandettini, P.A.  
+Science Advances 5, eaav9053 (2019)  
+[https://dx.doi.org/10.1126/sciadv.aav9053](https://dx.doi.org/10.1126/sciadv.aav9053)
+
+## 2
+**Is natural variability in gait sufficient to initiate spontaneous energy optimization in human walking?**  
+Wong, J.D., Selinger, J.C., and Donelan, J.M.  
+J Neurophysiol 121, 1848–1855 (2019)  
+[https://dx.doi.org/10.1152/jn.00417.2018](https://dx.doi.org/10.1152/jn.00417.2018)
+
+## 3
+**Goal-related feedback guides motor exploration and redundancy resolution in human motor skill acquisition**  
+Rohde, M., Narioka, K., Steil, J.J., Klein, L.K., and Ernst, M.O.  
+PLoS Comput. Biol. 15, e1006676 (2019)  
+[https://dx.doi.org/10.1371/journal.pcbi.1006676](https://dx.doi.org/10.1371/journal.pcbi.1006676)
+
+## 4
+**Rapid visuomotor responses reflect value-based decisions**  
+Carroll, T.J., McNamee, D., Ingram, J.N., and Wolpert, D.M.  
+J. Neurosci. (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1934-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.1934-18.2019)
+
+## 5
+**Asymmetry in kinematic generalisation between visual and passive lead-in movements are consistent with a forward model in the sensorimotor system**  
+Howard, I.S., Franklin, S., and Franklin, D.W.  
+bioRxiv, 636266 (2019)  
+[https://www.biorxiv.org/content/10.1101/636266v2](https://www.biorxiv.org/content/10.1101/636266v2)
+
+## 6
+**Decomposing motion that changes over time into task-relevant and task-irrelevant components in a data-driven manner: application to motor adaptation in whole-body movements**  
+Furuki, D., and Takiyama, K.  
+Sci Rep 9, 7246 (2019)  
+[https://dx.doi.org/10.1038/s41598-019-43558-z](https://dx.doi.org/10.1038/s41598-019-43558-z)
+
+## 7
+**The Urge to Decide and Act: Implications for Brain Function and Dysfunction**  
+Carland, M.A., Thura, D., and Cisek, P.  
+Neuroscientist, 1073858419841553 (2019)  
+[https://dx.doi.org/10.1177/1073858419841553](https://dx.doi.org/10.1177/1073858419841553)
+
+## 8
+**Sequential Neural Activity in Primary Motor Cortex during Sleep**  
+Xu, W., de Carvalho, F., and Jackson, A.  
+J. Neurosci. 39, 3698–3712 (2019)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1408-18.2019](https://dx.doi.org/10.1523/JNEUROSCI.1408-18.2019)
+
+## 9
+**Central fatigue mechanisms are responsible for decreases in hand proprioceptive acuity following shoulder muscle fatigue**  
+Sadler, C.M., and Cressman, E.K.  
+Hum. Mov. Sci. 66, 220–230 (2019)  
+[https://dx.doi.org/10.1016/j.humov.2019.04.016](https://dx.doi.org/10.1016/j.humov.2019.04.016)
+
+## 10
+Mostafa, A.A., Hart, B. ’t, and Henriques, D.Y.P. (2019).
+**Motor Learning Without Moving: Proprioceptive and Predictive Hand Localization After Passive Visuoproprioceptive Discrepancy Training**  
+bioRxiv, 384941 (2019)  
+[https://www.biorxiv.org/content/10.1101/384941v3](https://www.biorxiv.org/content/10.1101/384941v3)
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

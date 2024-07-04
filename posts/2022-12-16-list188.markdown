@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 188"
+date:   2022-12-16 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Disentangling temporal and rate codes in primate somatosensory cortex**  
+Callier T, Gitchell T, Harvey MA, Bensmaia SJ  
+[bioRxiv:2022.09.19.508566](https://www.biorxiv.org/content/10.1101/2022.09.19.508566v2)
+
+## 2
+**Supercomputers and Reverse Engineering of Motoneuron Firing Patterns**  
+Chardon MK, Curtis Wang Y, Garcia M, Besler E, Andrew Beauchamp J, D’Mello M, Powers RK, Heckman CJ  
+[bioRxiv:2022.12.09.519818](https://www.biorxiv.org/content/10.1101/2022.12.09.519818v1)
+
+## 3
+**A dual-stage dual-threshold evidence accumulation theory for decision-making, motor preparation, and motor execution**  
+Dendauw E, Evans NJ, Logan GD, Gajdos T, Haffen E, Bennabi D, Servant M  
+[PsyArXiv](https://psyarxiv.com/dxsjh)
+
+## 4
+**A subcortical origin for rapid, target-oriented corticospinal excitability changes during visually guided reaching**  
+Divakar R, Loeb GE, Corneil BD, Wallis G, Carroll TJ  
+[bioRxiv:2022.12.13.520229](https://www.biorxiv.org/content/10.1101/2022.12.13.520229v1)
+
+## 5
+**Data-driven discovery of intrinsic dynamics**  
+Floryan D, Graham MD  
+[Nature Machine Intelligence](https://www.nature.com/articles/s42256-022-00575-4)
+
+## 6
+**Compositional coding of individual finger movements in human posterior parietal cortex and motor cortex enables ten-finger decoding**  
+Guan C, Aflalo T, Kadlec K, Gámez de Leon J, Rosario ER, Bari A, Pouratian N, Andersen RA  
+[bioRxiv](https://www.medrxiv.org/content/10.1101/2022.12.07.22283227v1.abstract)
+
+## 7
+**Visuomotor interactions in the mouse forebrain mediated by extrastriate cortico-cortical pathways**  
+Hovde K, Rautio IV, Hegstad AM, Witter MP, Whitlock JR  
+[bioRxiv:2022.12.08.519609](https://www.biorxiv.org/content/10.1101/2022.12.08.519609v1)
+
+## 8
+**BCI learning phenomena can be explained by gradient-based optimization**  
+Humphreys PC, Daie K, Svoboda K, Botvinick M, Lillicrap TP  
+[bioRxiv:2022.12.08.519453](https://www.biorxiv.org/content/10.1101/2022.12.08.519453v2)
+
+## 9
+**Tuning of motor outputs produced by spinal stimulation during voluntary control of torque directions in monkeys**  
+Kaneshige M, Obara K, Suzuki M, Tazoe T, Nishimura Y  
+[Elife 11](https://doi.org/10.7554/eLife.78346)
+
+## 10
+**How science can do better for neurodivergent people**  
+Pells R  
+[Nature](https://dx.doi.org/10.1038/d41586-022-04248-5)
+
+## 11
+**Familiar size affects perception differently in virtual reality and the real world**  
+Rzepka AM, Hussey KJ, Maltz MV, Babin K, Wilcox LM, Culham JC  
+[Philos Trans R Soc Lond B Biol Sci](https://doi.org/10.1098/rstb.2021.0464)
+
+## 12
+**Muscle spindles and their role in maintaining robust locomotion**  
+Santuz A, Akay T  
+[J Physiol](https://dx.doi.org/10.1113/JP282563)
+
+## 13
+**Expressive architectures enhance interpretability of dynamics-based neural population models**  
+Sedler AR, Versteeg C, Pandarinath C  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2212.03771)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

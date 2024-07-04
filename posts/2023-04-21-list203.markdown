@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Reading List 203"
+date:   2023-04-21 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+## 1
+**A somato-cognitive action network alternates with effector regions in motor cortex**  
+Gordon E, Chauvin R, Van A, Rajesh A, Nielsen A, Newbold D, Lynch C, Seider N, Krimmel S, Scheidter K, Monk J, Miller R, Metoki A, Montez D, Zheng A, Elbau I, Madison T, Nishino T, Myers M, Kaplan S, Badke D’Andrea C, Demeter D, Feigelis M, Ramirez J, Xu T, Barch D, Smyser C, Rogers C, Zimmermann J, Botteron K, Pruett J, Willie J, Brunner P, Shimony J, Kay B, Marek S, Norris S, Gratton C, Sylvester C, Power J, Liston C, Greene D, Roland J, Petersen S, Raichle M, Laumann T, Fair D, Dosenbach N  
+[Nature](https://dx.doi.org/10.1038/s41586-023-05964-2)
+
+**ChatGPT summary**: Using precision functional magnetic resonance imaging (fMRI) methods, researchers found that the classic somatotopic homunculus in the motor cortex is interrupted by regions with distinct connectivity, structure, and function, which they refer to as the somato-cognitive action network (SCAN). The effector-specific regions (foot, hand, and mouth) are for isolating fine motor control, whereas the SCAN is for integrating goals, physiology, and body movement.
+
+## 2
+**Correlation networks of spinal motor neurons that innervate lower limb muscles during a multi‐joint isometric task**  
+Hug F, Avrillon S, Sarcher A, Del Vecchio A, Farina D  
+[The Journal of Physiology](https://dx.doi.org/10.1113/jp283040)
+
+**ChatGPT summary**: This study uses a data-driven method grounded in graph theory to analyze correlated motor neuron activity during an isometric multi-joint task, revealing that most identified motor neurons shared common inputs with others, sometimes from different muscles. The findings support the theory that movements are controlled by small groups of motor neurons via common inputs and suggest a partial mismatch between these groups and muscle anatomy.
+
+## 3
+**I-Spin live: An open-source software based on blind-source separation for decoding the activity of spinal alpha motor neurons in real-time**  
+Rossato J, Hug F, Tucker K, Lacourpaille L, Farina D, Avrillon S  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.14.536933)
+
+**ChatGPT summary**: Researchers have developed an open-source software that performs real-time decoding of spinal motor neurons using a blind-source separation approach for multichannel EMG signal processing, allowing neuroscientists to study movement control at the motor neuron level. The software provides visual feedback on the discharge activity of multiple motor units in real-time, using separation vectors (motor unit filters) identified from a baseline contraction and re-applied during test contractions.
+
+## 4
+**A neural basis of choking under pressure**  
+Smoulder A, Marino P, Oby E, Snyder S, Miyata H, Pavlovsky N, Bishop W, Yu B, Chase S, Batista A  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.16.537007)
+
+**ChatGPT summary**: The study investigates the neural processes behind "choking under pressure" using Rhesus monkeys performing a reaching task. Findings reveal that neural planning signals in the motor cortex become less distinguishable for different reach directions when a large reward is at stake, suggesting an interaction between reward and motor planning signals that can explain underperformance under pressure.
+
+## 5
+**The reflex arc concept in psychology**  
+Dewey J  
+[Psychol Rev 3:357–370, (1896)](https://psycnet.apa.org/fulltext/1926-02849-001.pdf)
+
+**ChatGPT summary**: This scientific paper argues that the concept of the reflex arc has provided a useful organizing principle in psychology, but that it has not displaced older dualistic conceptions of sensation, idea, and action. The paper suggests that a more comprehensive and unified view of the reflex arc is needed, where sensory stimulus, central connections, and motor responses are viewed as parts of a single concrete whole.
+
+## 6
+**Somatosensory targeted memory reactivation enhances motor performance via hippocampal-mediated plasticity**  
+Veldman MP, Dolfen N, Gann MA, Van Roy A, Peeters R, King BR, Albouy G  
+[Cereb Cortex](https://dx.doi.org/10.1093/cercor/bhac304)
+
+**ChatGPT summary**: The study investigates the use of somatosensory targeted memory reactivation (TMR) during postlearning wakefulness to boost motor memory trace reactivation in 24 healthy young adults. Results indicate that TMR enhances motor performance by modulating hippocampo-cortical responses, as demonstrated by faster learning rates for reactivated motor sequences and changes in hippocampal activity and hippocampo-motor connectivity during task practice.
+
+## 7
+**A unifying perspective on neural manifolds and circuits for cognition**  
+Langdon C, Genkin M, Engel T  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-023-00693-x)
+
+**ChatGPT summary**: The study explores two perspectives on the link between brain and behavior: one focusing on neural circuit elements and connectivity, and the other on neural manifolds in population activity. The authors highlight examples where low-dimensional activity and connectivity have been unified, suggesting that combining both approaches is essential for causally testing theories about neural computations underlying behavior.
+
+## 8
+**Peripersonal encoding of forelimb proprioception in the mouse somatosensory cortex**  
+Alonso I, Scheer I, Palacio-Manzano M, Frézel-Jacob N, Philippides A, Prsa M  
+[Nat Commun](https://dx.doi.org/10.1038/s41467-023-37575-w)
+
+**ChatGPT summary**: This study aimed to understand how proprioception is represented in the cortical areas of the mouse brain. The researchers used a passive forelimb displacement paradigm, wide-field calcium imaging, and optogenetic silencing experiments to show that proprioception is represented in both sensory and motor cortical areas and is perceived and encoded in the mouse cortex as a spatial direction vector.
+
+## 9
+**Single-Trial Dynamics of Competing Reach Plans in the Human Motor Periphery**  
+Selen LPJ, Corneil BD, Medendorp WP  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.1640-22.2023)
+
+**ChatGPT summary**: The study investigates the competition between multiple motor plans during reaching movements, using EMG recordings of an upper limb muscle in participants performing an immediate response reach task. Results reveal two distinct phases of directionally tuned activity, with the first wave influenced by the nonchosen target, indicating ongoing competition, and the second wave compensating for averaging induced by the first, showing resolved competition.
+
+## 10
+**Anisotropic Subcutaneous Response During Fingertip Normal and Tangential Loadings**  
+Duprez G, Delhaye B, Laurent D  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.12.536577)
+
+**ChatGPT summary**: The mechanical response of the fingertip is highly anisotropic due to collagen fibers linking the skin layer to the bone. Using a finite element model, it was found that the physiological orientation of fibers aligns best with reality and plays a crucial role in determining the distribution of internal strain and stress, providing important sensory cues for partial slip detection which is valuable for the development of haptic devices.
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

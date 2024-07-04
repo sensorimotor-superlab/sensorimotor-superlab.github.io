@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Reading List 15"
+date:   2019-05-03 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week, featuring work by [@meganinlisbon](https://twitter.com/meganinlisbon), [@Franklandlab](https://twitter.com/Franklandlab), [@sjo09](https://twitter.com/sjo09), [@PresNCM](https://twitter.com/PresNCM), [@smickdougle](https://twitter.com/smickdougle), [@ivrylab](https://twitter.com/ivrylab), and others.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Differentially synchronized spiking enables multiplexed neural coding**  
+Lankarany, M., Al-Basha, D., Ratté, S., and Prescott, S.A.  
+Proc. Natl. Acad. Sci. U.S.A. (2019)  
+[https://dx.doi.org/10.1073/pnas.1812171116](https://dx.doi.org/10.1073/pnas.1812171116)
+
+## 2
+**Visual Perception of Joint Stiffness from Multi-Joint Motion**  
+Huber, M.E., Folinus, C., and Hogan, N.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00514.2018](https://dx.doi.org/10.1152/jn.00514.2018)
+
+An intriguing result that is perhaps a first step towards finding out if/how observers extract information related to mechanical impedance from vision of motion.
+
+## 3
+**The influence of task outcome on implicit motor learning**  
+Kim, H.E., Parvin, D.E., and Ivry, R.B.  
+Elife 8, e39882 (2019)  
+[https://dx.doi.org/10.7554/eLife.39882](https://dx.doi.org/10.7554/eLife.39882)
+
+## 4
+**Memory formation in the absence of experience**  
+Vetere, G., Tran, L.M., Moberg, S., Steadman, P.E., Restivo, L., Morrison, F.G., Ressler, K.J., Josselyn, S.A., and Frankland, P.W.  
+Nature Neuroscience (2019)  
+[https://doi.org/10.1038/s41593-019-0389-0](https://doi.org/10.1038/s41593-019-0389-0)
+
+Sounds like science fiction for sure, and raises some interesting questions about the nature of experience and memory. An amazing technical tour-de-force worth reading. See the [tweet thread](https://twitter.com/franklandlab/status/1122898899906310144?s=11) for more.
+
+## 5
+**Spatial and Temporal Locomotor Learning in Mouse Cerebellum**  
+Darmohray, D.M., Jacobs, J.R., Marques, H.G., and Carey, M.R.  
+Neuron (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.01.038](https://dx.doi.org/10.1016/j.neuron.2019.01.038)
+
+Another paper from the Carey lab ([@meganinlisbon](https://twitter.com/meganinlisbon)), which is doing some really amazing work on motor learning in a mouse model of split-belt treadmill locomotion.
+
+## 6
+**Neural Signatures of Prediction Errors in a Decision-Making Task Are Modulated by Action Execution Failures**  
+McDougle, S.D., Butcher, P.A., Parvin, D.E., Mushtaq, F., Niv, Y., Ivry, R.B., and Taylor, J.A.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219304099/abstract](https://www.cell.com/article/S0960982219304099/abstract)
+
+## 7
+**Obtaining and maintaining cortical hand representation as evidenced from acquired and congenital handlessness**  
+Wesselink, D.B., van den Heiligenberg, F.M., Ejaz, N., Dempsey-Jones, H., Cardinali, L., Tarall-Jozwiak, A., Diedrichsen, J., and Makin, T.R.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.37227](https://dx.doi.org/10.7554/eLife.37227)
+
+## 8
+**Responses of somatosensory area 2 neurons to actively and passively generated limb movements**  
+London, B.M., and Miller, L.E.  
+J. Neurophysiol. 109, 1505–1513 (2013)  
+[https://dx.doi.org/10.1152/jn.00372.2012](https://dx.doi.org/10.1152/jn.00372.2012)
+
+From 2013—Clear and well-written, it’s enjoyable to read.
+
+## 9
+**Titin force is enhanced in actively stretched skeletal muscle**  
+Powers, K., Schappacher-Tilp, G., Jinha, A., Leonard, T., Nishikawa, K., and Herzog, W.  
+J. Exp. Biol. 217, 3629–3636 (2014)  
+[https://dx.doi.org/10.1242/jeb.105361](https://dx.doi.org/10.1242/jeb.105361)
+
+Kiisa Nishikawa gave a great talk at NCM this year in Toyama, Japan. In this paper from 2014 she and her colleagues continue to challenge the sliding filament-based cross-bridge model of muscle contraction, and describe the role of the elastic protein called titin in generating force in active muscle.
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

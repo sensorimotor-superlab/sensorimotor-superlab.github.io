@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 57"
+date:   2020-02-28 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Sensorimotor adaptation across the speech production workspace in response to a palatal perturbation**  
+Barbier G, Baum SR, Ménard L, Shiller DM  
+J Acoust Soc Am 147:1163–1178 (2020)  
+[https://dx.doi.org/10.1121/10.0000672](https://dx.doi.org/10.1121/10.0000672)
+
+## 2
+**Manual dexterity of mice during food-handling involves the thumb and a set of fast basic movements**  
+Barrett JM, Raineri Tapies MG, Shepherd GMG  
+PLoS One 15:e0226774 (2020)  
+[https://dx.doi.org/10.1371/journal.pone.0226774](https://dx.doi.org/10.1371/journal.pone.0226774)
+
+## 3
+**Model-Free Robust Optimal Feedback Mechanisms of Biological Motor Control**  
+Bian T, Wolpert DM, Jiang Z-P  
+Neural Comput 32:562–595 (2020)  
+[https://dx.doi.org/10.1162/neco_a_01260](https://dx.doi.org/10.1162/neco_a_01260)
+
+## 4
+**Caveolae in CNS arterioles mediate neurovascular coupling**  
+Chow BW, Nuñez V, Kaplan L, Granger AJ, Bistrong K, Zucker HL, Kumar P, Sabatini BL, Gu C  
+Nature (2020)  
+[https://dx.doi.org/10.1038/s41586-020-2026-1](https://dx.doi.org/10.1038/s41586-020-2026-1)
+
+## 5
+**Mapping human laryngeal motor cortex during vocalization**  
+Eichert N, Papp D, Mars RB, Watkins KE  
+bioRxiv:2020.02.20.958314 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.20.958314v1](https://www.biorxiv.org/content/10.1101/2020.02.20.958314v1)
+
+## 6
+**Chronic wireless streaming of invasive neural recordings at home for circuit discovery and adaptive stimulation**  
+Gilron R et al.  
+bioRxiv:2020.02.13.948349 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.13.948349v1](https://www.biorxiv.org/content/10.1101/2020.02.13.948349v1)
+
+## 7
+**EEG-triggered TMS reveals stronger brain state-dependent modulation of motor evoked potentials at weaker stimulation intensities**  
+Schaworonkow N, Triesch J, Ziemann U, Zrenner C  
+Brain Stimul 12:110–118 (2019)  
+[https://dx.doi.org/10.1016/j.brs.2018.09.009](https://dx.doi.org/10.1016/j.brs.2018.09.009)
+
+## 8
+**Stiffness of the human foot and evolution of the transverse arch**  
+Venkadesan M, Yawar A, Eng CM, Dias MA, Singh DK, Tommasini SM, Haims AH, Bandi MM, Mandre S  
+Nature:1–4 (2020)  
+[https://dx.doi.org/10.1038/s41586-020-2053-y](https://dx.doi.org/10.1038/s41586-020-2053-y)
+
+## 9
+**Age-related reduction in motor adaptation: brain structural correlates and the role of explicit memory**  
+Wolpe N et al.  
+Neurobiology of Aging (2020)  
+[https://www.sciencedirect.com/science/article/pii/S019745802030049X](https://www.sciencedirect.com/science/article/pii/S019745802030049X)
+
+## 10
+**Deep Neural Networks Carve the Brain at its Joints**  
+Bertolero MA, Bassett DS  
+bioRxiv:2020.02.20.958082 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.20.958082v1](https://www.biorxiv.org/content/10.1101/2020.02.20.958082v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 248"
+date:   2024-06-07 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Excitation of natural spinal reflex loops in the sensory-motor control of hand prostheses**  
+Sagastegui Alva PG, Boesendorfer A, Aszmann OC, Ibáñez J, Farina D  
+[Sci Robot 9:eadl0085](https://www.science.org/doi/10.1126/scirobotics.adl0085)
+
+## 2
+**A combinatorial neural code for long-term motor memory**  
+Kim J-H, Daie K, Li N  
+[bioRxiv:2024.06.05.597627](https://www.biorxiv.org/content/10.1101/2024.06.05.597627v1.abstract)
+
+## 3
+**Eve Marder, neural circuits and being heard**  
+Huggett B  
+[The Transmitter](https://www.thetransmitter.org/synaptic/eve-marder-neural-circuits-and-being-heard/)
+
+## 4
+**The history-dependent features of muscle force production: A challenge to the cross-bridge theory and their functional implications**  
+Hahn D, Han S-W, Joumaa V  
+[J Biomech 152:111579](https://www.sciencedirect.com/science/article/pii/S0021929023001483)
+
+## 5
+**Spiking activity in the visual thalamus is coupled to pupil dynamics across temporal scales**  
+Crombie D, Spacek MA, Leibold C, Busse L  
+[PLoS Biol 22:e3002614](http://dx.doi.org/10.1371/journal.pbio.3002614)
+
+## 6
+**Principles of cortical areas and their implications for neuroimaging**  
+Petersen SE, Seitzman BA, Nelson SM, Wig GS, Gordon EM  
+[Neuron](https://www.cell.com/article/S0896627324003556/abstract)
+
+## 7
+**Descending networks transform command signals into population motor control**  
+Braun J, Hurtak F, Wang-Chen S, Ramdya P  
+[Nature](https://www.nature.com/articles/s41586-024-07523-9)
+
+## 8
+**Individual Brain Charting dataset extension, third release for movie watching and retinotopy data**  
+Pinho AL et al.  
+[Sci Data 11:590](https://www.nature.com/articles/s41597-024-03390-1)
+
+## 9
+**Evidence of learned look-ahead in a chess-playing neural network**  
+Jenner E, Kapur S, Georgiev V, Allen C, Emmons S, Russell S  
+[arXiv [csLG]](https://arxiv.org/abs/2406.00877)
+
+## 10
+**Human sensorimotor cortex reactivates recent visuomotor experience during awake rest**  
+Ogawa K, Yang Y, Yang H, Imai F, Imamizu H  
+[bioRxiv:2024.05.26.595974](https://www.biorxiv.org/content/10.1101/2024.05.26.595974v2.abstract)
+
+## 11
+**Mechanosensory representation of wing deformations**  
+Yarger AM, Maeda M, Siwanowicz I, Kajiyama H, Walker SM, Bomphrey RJ, Lin H-T  
+[bioRxiv:2024.06.02.596338](https://www.biorxiv.org/content/10.1101/2024.06.02.596338v1.abstract)
+
+## 12
+**EzReverse – a web application for background adjustment of color images**  
+Song X, Goedhart J  
+[bioRxiv:2024.05.27.594095](https://www.biorxiv.org/content/10.1101/2024.05.27.594095v1.abstract)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 
+ 

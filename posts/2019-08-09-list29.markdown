@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "Reading List 29"
+date:   2019-08-09 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Optimal policy for multi-alternative decisions**  
+Tajima, S., Drugowitsch, J., Patel, N., and Pouget, A.  
+Nat. Neurosci. (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0453-9](https://dx.doi.org/10.1038/s41593-019-0453-9)
+
+## 2
+**Tactile sensory channels over-ruled by frequency decoding system that utilizes spike pattern regardless of receptor type**  
+Birznieks, I., McIntyre, S., Nilsson, H.M., Nagi, S.S., Macefield, V.G., Mahns, D.A., and Vickery, R.M.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.46510](https://dx.doi.org/10.7554/eLife.46510)
+
+## 3
+**Adaptive Motor Planning of Center-of-Mass Trajectory during Goal-Directed Walking in Novel Environments**  
+Bucklin, M.A., Wu, M., Brown, G., and Gordon, K.E.  
+J. Biomech. (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0021929019304920](https://www.sciencedirect.com/science/article/pii/S0021929019304920)
+
+## 4
+**Dynamic nonlinearities enable direction opponency in Drosophila elementary motion detectors**  
+Badwan, B.A., Creamer, M.S., Zavatone-Veth, J.A., and Clark, D.A.  
+Nat. Neurosci. 22, 1318–1326 (2019)  
+[https://dx.doi.org/10.1038/s41593-019-0443-y](https://dx.doi.org/10.1038/s41593-019-0443-y)
+
+## 5
+**Eye movements during visuomotor adaptation represent only part of the explicit learning**  
+Bromberg, Z., Donchin, O., and Haar, S.  
+bioRxiv, 724864 (2019)  
+[https://www.biorxiv.org/content/10.1101/724864v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/724864v1.abstract?%3Fcollection=)
+
+## 6
+**Cerebellar Prediction of the Dynamic Sensory Consequences of Gravity**  
+Mackrous, I., Carriot, J., Jamali, M., and Cullen, K.E.  
+Curr. Biol. (2019)  
+[https://www.cell.com/article/S0960982219308516/abstract](https://www.cell.com/article/S0960982219308516/abstract)
+
+## 7
+**The somatosensory cortex receives information about motor output**  
+Umeda, T., Isa, T., and Nishimura, Y.  
+Sci Adv 5, eaaw5388 (2019)  
+[https://dx.doi.org/10.1126/sciadv.aaw5388](https://dx.doi.org/10.1126/sciadv.aaw5388)
+
+## 8
+**Neural Anatomy and Optical Microscopy (NAOMi) Simulation for evaluating calcium imaging methods**  
+Charles, A.S., Song, A., Gauthier, J.L., Pillow, J.W., and Tank, D.W.  
+bioRxiv, 726174 (2019)  
+[https://www.biorxiv.org/content/10.1101/726174v1](https://www.biorxiv.org/content/10.1101/726174v1)
+
+## 9
+**A size principle for leg motor control in Drosophila**  
+Azevedo, A.W., Gurung, P., Venkatasubramanian, L., Mann, R., and Tuthill, J.C.  
+bioRxiv, 730218. (2019)  
+[https://www.biorxiv.org/content/10.1101/730218v1](https://www.biorxiv.org/content/10.1101/730218v1)
+
+## 10
+**Practice induces a qualitative change in the memory representation for visuomotor learning**  
+Huberdeau, D.M., Krakauer, J.W., and Haith, A.M.  
+bioRxiv, 226415 (2017)  
+[https://www.biorxiv.org/content/early/2017/11/28/226415](https://www.biorxiv.org/content/early/2017/11/28/226415)
+
+
+# Superlab Papers
+
+**Sensory information from a slipping object elicits a rapid and automatic shoulder response**  
+Hernandez-Castillo, C.R., Maeda, R.S., Andrew Pruszynski, J., and Diedrichsen, J.  
+bioRxiv, 724054 (2019)  
+[https://www.biorxiv.org/content/10.1101/724054v1](https://www.biorxiv.org/content/10.1101/724054v1)
+
+**Somatosensory cortical excitability changes precede those in motor cortex during human motor learning**  
+Ohashi, H., Gribble, P.L., and Ostry, D.J.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00383.2019](https://dx.doi.org/10.1152/jn.00383.2019)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

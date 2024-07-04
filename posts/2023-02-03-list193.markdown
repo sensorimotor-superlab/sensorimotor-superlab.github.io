@@ -1,0 +1,122 @@
+---
+layout: post
+title:  "Reading List 193"
+date:   2023-02-03 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Multifaceted atlases of the human brain in its infancy**  
+Ahmad S, Wu Y, Wu Z, Thung K-H, Liu S, Lin W, Li G, Wang L, Yap P-T  
+[Nat Methods](https://dx.doi.org/10.1038/s41592-022-01703-z)
+
+## 2
+**Bayesian surprise shapes neural responses in somatosensory cortical circuits**  
+English G, Ghasemi Nejad N, Sommerfelt M, Yanik MF, von der Behrens W  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2023.112009)
+
+## 3
+**Sensory constraints on volitional modulation of the motor cortex**  
+Fisac CF, Chase SM  
+[bioRxiv:2023.01.22.525098](https://www.biorxiv.org/content/10.1101/2023.01.22.525098v1)
+
+## 4
+**Common synaptic input, synergies and size principle: Control of spinal motor neurons for movement generation**  
+Hug F, Avrillon S, Ibáñez J, Farina D  
+[J Physiol](https://dx.doi.org/10.1113/JP283698)
+
+## 5
+**The effects of biological sex on estimates of persistent inward currents in the human lower limb**  
+Jenz ST, Beauchamp JA, Gomes MM, Negro F, Heckman CJ, Pearcey GEP  
+[bioRxiv:2022.10.09.511486](https://www.biorxiv.org/content/10.1101/2022.10.09.511486v2)
+
+## 6
+**Reduced dimension stimulus decoding and column-based modeling reveal architectural differences of primary somatosensory finger maps between younger and older adults**  
+Kalyani A, Contier O, Klemm L, Azañon E, Schreiber S, Speck O, Reichert C, Kuehn E  
+[bioRxiv:2023.01.30.526109](https://www.biorxiv.org/content/10.1101/2023.01.30.526109v1)
+
+## 7
+**Individual sensorimotor adaptation characteristics are independent across orofacial speech movements and limb reaching movements**  
+Kitchen NM, Kim KS, Wang PZ, Hermosillo RJ, Max L  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00167.2022)
+
+## 8
+**Morphology, connectivity and encoding features of tactile and motor representations of the fingers in the human precentral and postcentral gyrus**  
+Mastria G, Scaliti E, Mehring C, Burdet E, Becchio C, Serino A, Akselrod M  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.1976-21.2022)
+
+## 9
+**Different time encoding strategies within the medial premotor areas of the primate**  
+Merchant H, Mendoza G, Pérez O, Betancourt A, Garcia-Saldivar P, Prado L  
+[bioRxiv:2023.01.28.526038](https://www.biorxiv.org/content/10.1101/2023.01.28.526038v1)
+
+## 10
+**Pyramidal cell types drive functionally distinct cortical activity patterns during decision-making**  
+Musall S, Sun XR, Mohan H, An X, Gluf S, Li S-J, Drewes R, Cravo E, Lenzi I, Yin C, Kampa BM, Churchland AK  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01245-9)
+
+## 11
+**Olov Oscarsson’s Description of Afferent Pathways to the Cerebellum: Excellent Physiology, Base for Anatomy, and Road Toward Understanding Function**  
+Ruigrok TJH  
+[Cerebellum](https://doi.org/10.1007/s12311-023-01516-6)
+
+## 12
+**Single-trial dynamics of competing reach plans in the human motor periphery**  
+Selen LPJ, Corneil BD, Pieter Medendorp W  
+[bioRxiv:765180](https://www.biorxiv.org/content/10.1101/765180v3)
+
+## 13
+**Temporal dynamics of the sensorimotor convergence underlying voluntary limb movement**  
+Umeda T, Isa T, Nishimura Y  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2208353119)
+
+## 14
+**Adaptive control is reversed between hands after left hemisphere stroke and lost following right hemisphere stroke**  
+Varghese R, Gordon J, Sainburg RL, Winstein CJ, Schweighofer N  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2212726120)
+
+## 15
+**A cellular taxonomy of the adult human spinal cord**  
+Yadav A et al.  
+[Neuron](https://www.cell.com/article/S0896627323000314/abstract)
+
+## 16
+**Can a Fish Learn to Ride a Bicycle? Sensorimotor Adaptation to Destabilizing Dynamics in Weakly Electric Fish**  
+Yang Y, Yared DG, Cowan NJ  
+[bioRxiv:2023.01.27.525956](https://www.biorxiv.org/content/10.1101/2023.01.27.525956v1)
+
+
+## Superlab Papers
+
+**Selective recruitment: Evidence for task-dependent gating of inputs to the cerebellum**  
+Shahshahani L, King M, Nettekoven C, Ivry R, Diedrichsen J  
+[bioRxiv:2023.01.25.525395](https://www.biorxiv.org/content/10.1101/2023.01.25.525395v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

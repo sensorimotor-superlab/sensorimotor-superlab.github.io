@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 85"
+date:   2020-09-11 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Value-guided remapping of sensory cortex by lateral orbitofrontal cortex**  
+Banerjee A, Parente G, Teutsch J, Lewis C, Voigt FF, Helmchen F  
+Nature (2020)  
+[https://dx.doi.org/10.1038/s41586-020-2704-z](https://dx.doi.org/10.1038/s41586-020-2704-z)
+
+## 2
+**A dopamine gradient controls access to distributed working memory in monkey cortex**  
+Froudist-Walsh S, Bliss DP, Ding X, Jankovic-Rapan L, Niu M, Knoblauch K, Zilles K, Kennedy H, Palomero-Gallagher N, Wang X-J  
+bioRxiv:2020.09.07.286500 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.07.286500v1](https://www.biorxiv.org/content/10.1101/2020.09.07.286500v1)
+
+## 3
+**Rapid hippocampal plasticity supports motor sequence learning**  
+Jacobacci F, Armony JL, Yeffal A, Lerner G, Amaro E Jr, Jovicich J, Doyon J, Della-Maggiore V  
+Proc Natl Acad Sci USA (2020)  
+[https://dx.doi.org/10.1073/pnas.2009576117](https://dx.doi.org/10.1073/pnas.2009576117)
+
+## 4
+**A comprehensive model-based framework for optimal design of biomimetic patterns of electrical stimulation for prosthetic sensation**  
+Kumaravelu K, Tomlinson T, Callier T, Sombeck J, Bensmaia SJ, Miller LE, Grill WM  
+J Neural Eng (2020)  
+[https://dx.doi.org/10.1088/1741-2552/abacd8](https://dx.doi.org/10.1088/1741-2552/abacd8)
+
+## 5
+**Learning compositional sequences with multiple time scales through a hierarchical network of spiking neurons**  
+Maes A, Barahona M, Clopath C  
+bioRxiv:2020.09.08.287748 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.08.287748v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.09.08.287748v1.abstract?%3Fcollection=)
+
+## 6
+**Long ascending propriospinal neurons provide flexible, context-specific control of interlimb coordination**  
+Pocratsky AM, Shepard CT, Morehouse JR, Burke DA, Riegler AS, Hardin JT, Beare JE, Hainline C, States GJ, Brown BL, Whittemore SR, Magnuson DS  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.53565](https://dx.doi.org/10.7554/eLife.53565)
+
+## 7
+**Cyclic, condition-independent activity in primary motor cortex predicts corrective movement behavior**  
+Rouse AG, Schieber MH, Sarma SV  
+bioRxiv:453746 (2020)  
+[https://www.biorxiv.org/content/10.1101/453746v3.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/453746v3.abstract?%3Fcollection=)
+
+## 8
+**Low-threshold mechanosensitive VGLUT3-lineage sensory neurons mediate spinal inhibition of itch by touch**  
+Sakai K, Sanders KM, Lin S-H, Pavlenko D, Funahashi H, Lozada T, Hao S, Chen C-C, Akiyama T  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0091-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.0091-20.2020)
+
+## 9
+**Distinct Corticospinal and Reticulospinal Contributions to Voluntary Control of Elbow Flexor and Extensor Muscles in Humans with Tetraplegia**  
+Sangari S, Perez MA  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1107-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.1107-20.2020)
+
+## 10
+**Linking Models with Brain Measures**  
+Love BC  
+OSF Preprints (2020)  
+[https://osf.io/s92zy/](https://osf.io/s92zy/)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

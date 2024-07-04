@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Reading List 159"
+date:   2022-05-13 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Revival of light signalling in the postmortem mouse and human retina**  
+Abbas F, Becker S, Jones BW, Mure LS, Panda S, Hanneken A, Vinberg F  
+[Nature](https://www.nature.com/articles/s41586-022-04709-x)
+
+## 2
+**General variability leads to specific adaptation toward optimal movement policies**  
+Abram SJ, Poggensee KL, Sánchez N, Simha SN, Finley JM, Collins SH, Donelan JM  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.04.015)
+
+## 3
+**Tactile suppression stems from specific sensorimotor predictions**  
+Fuehrer E, Voudouris D, Lezkan A, Drewing K, Fiehler K  
+[Proc Natl Acad Sci USA](https://dx.doi.org/10.1073/pnas.2118445119)
+
+## 4
+**Cerebellum encodes and influences the initiation, performance, and termination of discontinuous movements in mice**  
+Gaffield MA, Sauerbrei BA, Christie JM  
+[Elife](https://dx.doi.org/10.7554/eLife.71464)
+
+## 5
+**Flexible utilization of spatial- and motor-based codes for the storage of visuo-spatial information**  
+Henderson MM, Rademaker RL, Serences JT  
+[Elife](https://dx.doi.org/10.7554/eLife.75688)
+
+## 6
+**Reproducibility of in-vivo electrophysiological measurements in mice**  
+International Brain Laboratory et al.  
+[bioRxiv:2022.05.09.491042](https://www.biorxiv.org/content/10.1101/2022.05.09.491042v2)
+
+## 7
+**“I'm absolutely not a leak." Scientific careers aren't a "pipeline," these economists say**  
+Langin K  
+[Science](https://www.science.org/content/article/i-m-absolutely-not-leak-scientific-careers-aren-t-pipeline-these-economists-say)
+
+## 8
+**The statistical power of three monkeys**  
+Laurens J  
+[bioRxiv:2022.05.10.491373](https://www.biorxiv.org/content/10.1101/2022.05.10.491373v1)
+
+## 9
+**A cerebellar origin of feedforward inhibition to the motor cortex in non-human primates**  
+Nashef A, Cohen O, Perlmutter SI, Prut Y  
+[Cell Rep](https://dx.doi.org/10.1016/j.celrep.2022.110803)
+
+## 10
+**Revisiting the neurovascular unit**  
+Schaeffer S, Iadecola C  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-021-00904-7)
+
+## 11
+**Running in the wild: Energetics explain ecological running speeds**  
+Selinger JC, Hicks JL, Jackson RW, Wall-Scheffler CM, Chang D, Delp SL  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2022.03.076)
+
+## 12
+**Direct observation of the neural computations underlying a single decision**  
+Steinemann NA, Stine GM, Trautmann EM, Zylberberg A, Wolpert DM, Shadlen MN  
+[bioRxiv:2022.05.02.490321](https://www.biorxiv.org/content/10.1101/2022.05.02.490321v2)
+
+## 13
+**A neural mechanism for terminating decisions**  
+Stine GM, Trautmann EM, Jeurissen D, Shadlen MN  
+[bioRxiv:2022.05.02.490327](https://www.biorxiv.org/content/10.1101/2022.05.02.490327v2)
+
+## 14
+**One-shot generalization in humans revealed through a drawing task**  
+Tiedemann H, Morgenstern Y, Schmidt F, Fleming RW  
+[Elife](https://dx.doi.org/10.7554/eLife.75485)
+
+
+## Superlab Papers
+
+**A task-general connectivity model reveals variation in convergence of cortical inputs to functional regions of the cerebellum**  
+King M, Shahshahani L, Ivry R, Diedrichsen J  
+[bioRxiv:2022.05.07.490946](https://www.biorxiv.org/content/10.1101/2022.05.07.490946v1)
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

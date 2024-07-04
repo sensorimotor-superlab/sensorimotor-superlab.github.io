@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 79"
+date:   2020-07-31 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Multiple Motor Learning Processes in Humans: Defining Their Neurophysiological Bases**  
+Spampinato D, Celnik P  
+Neuroscientist:1073858420939552 (2020)  
+[https://dx.doi.org/10.1177/1073858420939552](https://dx.doi.org/10.1177/1073858420939552)
+
+## 2
+**Action Imagery and Observation in Neurorehabilitation for Parkinson’s Disease (ACTION-PD): development and pilot randomised controlled trial of a user-informed home training intervention to improve everyday functional actions**  
+Bek J, Holmes PS, Webb J, Craig CE, Franklin ZC, Sullivan M, Crawford TJ, Vogt S, Gowen E, Poliakoff E  
+bioRxiv:2020.07.14.188375 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.14.188375v1](https://www.biorxiv.org/content/10.1101/2020.07.14.188375v1)
+
+## 3
+**The influence of an acute bout of moderate intensity cycling exercise on sensorimotor integration**  
+Brown KE, Neva JL, Mang CS, Chau B, Chiu LK, Francisco BA, Staines WR, Boyd LA  
+Eur J Neurosci (2020)  
+[https://dx.doi.org/10.1111/ejn.14909](https://dx.doi.org/10.1111/ejn.14909)
+
+## 4
+**When ontogeny recapitulates phylogeny: Fixed neurodevelopmental sequence of manipulative skills among primates**  
+Heldstab SA, Isler K, Schuppli C, van Schaik CP  
+Science Advances 6:eabb4685 (2020)  
+[https://dx.doi.org/10.1126/sciadv.abb4685](https://dx.doi.org/10.1126/sciadv.abb4685)
+
+## 5
+**Two dynamically distinct circuits drive inhibition in the sensory thalamus**  
+Martinez-Garcia RI, Voelcker B, Zaltsman JB, Patrick SL, Stevens TR, Connors BW, Cruikshank SJ  
+Nature (2020)  
+[https://doi.org/10.1038/s41586-020-2512-5](https://doi.org/10.1038/s41586-020-2512-5)
+
+## 6
+**The Orofacial Somatosensory System Is Modulated During Speech Planning and Production**  
+[https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-19-00318](https://pubs.asha.org/doi/abs/10.1044/2020_JSLHR-19-00318)
+McGuffin BJ, Liss JM, Daliri A  
+[https://dx.doi.org/10.1044/2020_JSLHR-19-00318](https://dx.doi.org/10.1044/2020_JSLHR-19-00318)
+
+## 7
+**Basal Ganglia Circuits for Action Specification**  
+Park J, Coddington LT, Dudman JT  
+Annu Rev Neurosci 43:485–507 (2020)  
+[https://dx.doi.org/10.1146/annurev-neuro-070918-050452](https://dx.doi.org/10.1146/annurev-neuro-070918-050452)
+
+## 8
+**Temporal signatures of criticality in human cortical excitability as probed by early somatosensory responses**  
+Stephani T, Waterstraat G, Haufe S, Curio G, Villringer A, Nikulin VV  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.0241-20.2020](https://dx.doi.org/10.1523/JNEUROSCI.0241-20.2020)
+
+## 9
+**Neural representation of abstract task structure during generalization**  
+Vaidya AR, Jones HM, Castillo J, Badre D  
+bioRxiv:2020.07.21.213009 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.21.213009v1](https://www.biorxiv.org/content/10.1101/2020.07.21.213009v1)
+
+## 10
+**A psychometric platform to collect somatosensory sensations for neuroprosthetic use**  
+Valle G, Iberite F, Strauss I, D’Anna E, Granata G, Stieglitz T, Raspopovic S, Petrini FM, Rossini PM, Micera S  
+bioRxiv:2020.07.23.218222 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.07.23.218222v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.07.23.218222v1.abstract?%3Fcollection=)
+
+
+
+# Superlab Papers
+
+**The human cerebellum has almost 80% of the surface area of the neocortex**  
+Sereno MI, Diedrichsen J, Tachrount M, Testa-Silva G, d’Arceuil H, De Zeeuw C  
+Proc Natl Acad Sci USA (2020)  
+[https://dx.doi.org/10.1073/pnas.2002896117](https://dx.doi.org/10.1073/pnas.2002896117)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

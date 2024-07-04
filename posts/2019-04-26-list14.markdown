@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 14"
+date:   2019-04-26 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that caught our attention this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Speech synthesis from neural decoding of spoken sentences**  
+Anumanchipalli, G.K., Chartier, J., and Chang, E.F.  
+Nature 568, 493–498 (2019)  
+[https://dx.doi.org/10.1038/s41586-019-1119-1](https://dx.doi.org/10.1038/s41586-019-1119-1)
+
+[NY Times article](https://www.nytimes.com/2019/04/24/health/artificial-speech-brain-injury.html) (with accompanying video).
+
+## 2
+**Single-trial neural dynamics are dominated by richly varied movements**  
+Musall, S., Kaufman, M.T., Juavinett, A.L., Gluf, S., and Churchland, A.K.  
+bioRxiv, 308288 (2019)  
+[https://www.biorxiv.org/content/10.1101/308288v3](https://www.biorxiv.org/content/10.1101/308288v3)
+
+Also see these [extra videos](https://twitter.com/simonMusall/status/989680040999899137).
+
+## 3
+**Reward prediction error does not explain movement selectivity in DMS-projecting dopamine neurons**  
+Lee, R.S., Mattar, M.G., Parker, N.F., Witten, I.B., and Daw, N.D.  
+Elife 8 (2019)  
+[https://dx.doi.org/10.7554/eLife.42992](https://dx.doi.org/10.7554/eLife.42992)
+
+Also see this [twitter thread](https://twitter.com/reziliusreza/status/1119957872144781312?s=12).
+
+## 4
+**Predictive error processing distinguishes between relevant and irrelevant errors after visuomotor learning**  
+Maurer, L.K., Joch, M., Hegele, M., Maurer, H., and Müller, H.  
+J. Vis. 19, 18 (2019)  
+[https://dx.doi.org/10.1167/19.4.18](https://dx.doi.org/10.1167/19.4.18)
+
+## 5
+**Uncertainty in contextual and kinematic cues jointly modulates motor resonance in primary motor cortex**  
+Cretu, A.L., Ruddy, K., Germann, M., and Wenderoth, N.  
+J Neurophysiol 121, 1451–1464 (2019)  
+[https://dx.doi.org/10.1152/jn.00655.2018](https://dx.doi.org/10.1152/jn.00655.2018)
+
+## 6
+**Lapses in perceptual judgments reflect exploration**  
+Pisupati, S., Chartarifsky-Lynn, L., Khanal, A., and Churchland, A.K.  
+bioRxiv, 613828 (2019)  
+[https://www.biorxiv.org/content/10.1101/613828v1](https://www.biorxiv.org/content/10.1101/613828v1)
+
+## 7
+**Exercise enhances motor skill learning by neurotransmitter switching in the adult midbrain**  
+Li, H.-Q., and Spitzer, N.C.  
+bioRxiv, 613539 (2019)  
+[https://www.biorxiv.org/content/10.1101/613539v1](https://www.biorxiv.org/content/10.1101/613539v1)
+
+## 8
+**A theory of multineuronal dimensionality, dynamics and measurement**  
+Gao, P., Trautmann, E., Yu, B., Santhanam, G., Ryu, S., Shenoy, K., and Ganguli, S.  
+bioRxiv, 214262 (2017)  
+[https://www.biorxiv.org/content/10.1101/214262v2](https://www.biorxiv.org/content/10.1101/214262v2)
+
+A "timely" read for the neuroscience community (it's only a few years later). The key takehome is that we need richer tasks to capitalize on the advancements made in neural recording technology. The authors demonstrate that recording more neurons (without increasing the complexity of the task) does not mean the true dimensionality of your data increases. Importantly, this is also used to address the concern that by sampling only a portion of neurons, we might under sample the true dimensionality. Therefore, better insights can be gained with more careful consideration of the tasks we use, and not necessarily by simply increasing the number of neurons we record. Also watch the [YouTube talk](https://www.youtube.com/watch?v=pu6nLI1cris).
+
+
+# Subscribe
+Now you can subscribe to our weekly reading list and have it sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

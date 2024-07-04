@@ -1,0 +1,128 @@
+---
+layout: post
+title:  "Reading List 213"
+date:   2023-06-30 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**The nematode worm C. elegans chooses between bacterial foods as if maximizing economic utility**  
+Katzen A, Chung H, Harbaugh W, Della Iacono C, Jackson N, Glater E, Taylor C, Yu S, Flavell S, Glimcher P, Andreoni J, Lockery S  
+[eLife](https://dx.doi.org/10.7554/elife.69779)
+
+**ChatGPT summary**: The neural mechanisms behind value-based decision making and how choices are influenced by subjective values remain unclear. However, through a study on the nematode worm Caenorhabditis elegans, it was discovered that their food preferences align with utility maximization, suggesting that they maintain an underlying representation of subjective value, which is learned through dopamine signaling. This finding sets a new standard for understanding value-based decision making at the single neuron level in organisms with small nervous systems.
+
+
+## 2
+**Wake-like skin patterning and neural activity during octopus sleep**  
+Pophale A, Shimizu K, Mano T, Iglesias T, Martin K, Hiroi M, Asada K, Andaluz P, Van Dinh T, Meshulam L, Reiter S  
+[Nature](https://dx.doi.org/10.1038/s41586-023-06203-4)
+
+**ChatGPT summary**: Octopuses, which evolved from invertebrates, have two stages of sleep: "quiet" sleep and "active" sleep. During active sleep, octopuses exhibit pronounced body movements and changes in skin patterning and texture, and their brain activity resembles wakefulness. This suggests that aspects of two-stage sleep in octopuses may be similar to complex cognition found in vertebrates.
+
+
+## 3
+**Representational drift as a window into neural and behavioural plasticity**  
+Micou C, O’Leary T  
+[Curr Opin Neurobiol](https://www.sciencedirect.com/science/article/pii/S0959438823000715)
+
+**ChatGPT summary**: The study suggests that the observed steady drift in neural activity during familiar tasks, which seems to evolve over time without visible behavioral changes, is partly due to a persistent learning rule applied at both the cellular and population level. This idea, supported by neural network models utilizing iterative learning, proposes that drift can serve as an observable signal, revealing important characteristics of biological plasticity mechanisms like precision and effective learning rates.
+
+
+## 4
+**The brain's sensitivity to sensory error can be modulated by altering perceived variability**  
+Tang D, Parrell B, Beach S, Niziolek C  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.26.546615)
+
+**ChatGPT summary**: This study aimed to investigate whether the nervous system's sensitivity to errors during speech production can be altered by changing the perceived variability. The results showed that error sensitivity was increased when participants were exposed to an auditory perturbation that increased their perceived variability, suggesting that modifying error sensitivity could enhance motor learning and rehabilitation in speech and other motor domains.
+
+
+## 5
+**Action does not enhance but attenuates predicted touch**  
+Job X, Kilteni K  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.03.535383)
+
+**ChatGPT summary**: This scientific study challenges the dominant motor control theory that suggests the brain predicts and reduces the sensory effects of actions. The researchers conducted three experiments and found conclusive evidence that action actually attenuates predicted touch rather than enhancing it, suggesting a need to reassess recent findings that propose a perceptual enhancement by action prediction.
+
+
+## 6
+**Crows flexibly apply statistical inferences based on previous experience**  
+Johnston M, Brecht KF, Nieder A  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.06.023)
+
+**ChatGPT summary**: The study demonstrates that crows have the capacity to make statistical inferences, a skill previously thought to be exclusive to humans and some primates. By associating certain stimuli with reward probabilities, the crows were able to retrieve these probabilities from memory and use them to maximize their rewards, indicating their ability to represent probabilities as abstract magnitudes and make decisions based on relative reward frequency, which is a signature of true statistical inference.
+
+
+## 7
+**Tessellation Of Artificial Touch Via Microstimulation Of Human Somatosensory Cortex**  
+Greenspon C, Shelchkova N, Valle G, Hobbs T, Berger-Wolf E, Hutchison B, Dogruoz E, Verbarschott C, Callier T, Sobinov A, Okorokova E, Jordan P, Prasad D, He Q, Liu F, Miller J, Lee R, Satzer D, Gonzalez-Martinez J, Warnke P, Miller L, Boninger M, Ajiboye A, Graczyk E, Downey J, Collinger J, Hatsopoulos N, Gaunt R, Bensmaia S  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.23.545425)
+
+**ChatGPT summary**: The study investigated the localization of touch sensations evoked by intracortical microstimulation (ICMS) of the somatosensory cortex. The researchers found that the size and distribution of ICMS-evoked sensations varied widely, increased with higher stimulation parameters, and matched the receptive fields of nearby neurons. They also found that multi-channel stimulation resulted in more focal sensations that were more easily localized compared to single-channel stimulation.
+
+
+## 8
+**Dissociating the Contributions of Frontal Eye Field Activity to Spatial Working Memory and Motor Preparation**  
+Jonikaitis D, Noudoost B, Moore T  
+[bioRxiv](https://dx.doi.org/10.1101/2023.06.12.544653)
+
+**ChatGPT summary**: This study investigated the role of the frontal eye field (FEF) in both movement planning and visuospatial working memory. The results showed that inactivation of the FEF impaired memory-guided eye movements, but had little effect on spatial working memory, suggesting that persistent delay activity in the FEF primarily contributes to the preparation of eye movements rather than spatial working memory.
+
+
+## 9
+**Shaping the cerebral cortex by cellular crosstalk**  
+Stoufflet J, Tielens S, Nguyen L  
+[Cell](https://dx.doi.org/10.1016/j.cell.2023.05.040)
+
+**ChatGPT summary**: This review discusses the pivotal role of cellular communication during the development of the cerebral cortex, a region crucial for high-level cognitive abilities and personality traits. It highlights how interference in this cellular crosstalk, from neurogenesis to synaptogenesis and assembly of cortical circuits, can lead to neurodevelopmental disorders.
+
+
+
+## Superlab Papers
+
+
+**MotorNet: a Python toolbox for controlling differentiable biomechanical effectors with artificial neural networks**  
+Codol O, Michaels J, Kashefi M, Pruszynski J, Gribble P  
+[eLife 12:RP88591](https://dx.doi.org/10.7554/elife.88591.1)
+
+**ChatGPT summary**: MotorNet, an open-source Python toolbox, was developed to combine artificial neural networks and biomechanically realistic effectors, facilitating research into neural control of movement. By addressing past constraints of multiple platforms and restrictive learning algorithms, it enables faster training methods and fosters collaborative improvements, providing a user-friendly, concept-focused framework for both novice and established computational researchers.
+
+
+
+**Reach corrections toward moving objects are faster than reach corrections toward instantaneously switching targets**  
+Reschechtko S, Gnanaseelan C, Andrew Pruszynski J  
+[Neuroscience](https://www.sciencedirect.com/science/article/pii/S0306452223002919)
+
+**ChatGPT summary**: This study explored the differences in speed of correction during reaching tasks involving physical objects changing positions in varying manners. Whereas previous studies suggest that more rapid target position changes lead to faster updates, results of this study showed that participants corrected their reach trajectories more rapidly when the object was moved continuously, compared to when the object's position was instantaneously switched by illumination.
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

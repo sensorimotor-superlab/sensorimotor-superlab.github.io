@@ -1,0 +1,91 @@
+---
+layout: post
+title:  "Reading List 134"
+date:   2021-11-19 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Cardiac Activity Impacts Cortical Motor Excitability**  
+Al E, Stephani T, Engelhardt M, Villringer A, Nikulin V  
+[Research Square (2021)](https://www.researchsquare.com/article/rs-1023617/v1)
+
+## 2
+**Memory Reactivation During Sleep Improves Execution of a Challenging Motor Skill**  
+Cheng LY, Che T, Tomic G, Slutzky MW, Paller KA  
+[J Neurosci (2021)](https://dx.doi.org/10.1523/JNEUROSCI.0265-21.2021)
+
+## 3
+**Cortex-independent open-loop control of a voluntary orofacial motor action**  
+Elbaz M, Demers M, Kleinfeld D, Ethier C, Deschênes M  
+[bioRxiv:2021.11.15.465585](https://www.biorxiv.org/content/10.1101/2021.11.15.465585v1)
+
+## 4
+**Cortical responses to touch reflect subcortical integration of LTMR signals**  
+Emanuel AJ, Lehnert BP, Panzeri S, Harvey CD, Ginty DD  
+[Nature (2021)](https://www.nature.com/articles/s41586-021-04094-x)
+
+## 5
+**Similarities Between Somatosensory Cortical Responses Induced via Natural Touch and Microstimulation in the Ventral Posterior Lateral Thalamus in Macaques**  
+Francis JT, Rozenboym A, von Kraus L, Xu S, Chhatbar P, Semework M, Hawley E, Chapin J  
+[bioRxiv:2021.11.10.468076](https://www.biorxiv.org/content/10.1101/2021.11.10.468076v1)
+
+## 6
+**Neural optimal feedback control with local learning rules**  
+Friedrich J, Golkar S, Farashahi S, Genkin A, Sengupta AM, Chklovskii DB  
+[arXiv [q-bioNC] (2021)](https://arxiv.org/abs/2111.06920)
+
+## 7
+**Embodied intelligence via learning and evolution**  
+Gupta A, Savarese S, Ganguli S, Fei-Fei L  
+[Nat Commun 12:5721 (2021)](https://dx.doi.org/10.1038/s41467-021-25874-z)
+
+## 8
+**Theta Dynamics Contribute to Retrieving Motor Plans after Interruptions in the Primate Premotor Area**  
+Hosaka R, Watanabe H, Nakajima T, Mushiake H  
+[Cereb Cortex (2021)](https://academic.oup.com/cercorcomms/article/2/4/tgab059/6382525)
+
+## 9
+**Sequential and efficient neural-population coding of complex task information**  
+Koay SA, Charles AS, Thiberge SY, Brody CD, Tank DW  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.10.020)
+
+## 10
+**Children are more exploratory and learn more than adults in an approach-avoid task**  
+Liquin EG, Gopnik A  
+[Cognition 218:104940 (2021)](https://dx.doi.org/10.1016/j.cognition.2021.104940)
+
+## 11
+**Tool use and language share syntactic processes and neural patterns in the basal ganglia**  
+Thibault S, Py R, Gervasi AM, Salemme R, Koun E, Lövden M, Boulenger V, Roy AC, Brozzoli C  
+[Science 374:eabe0874 (2021)](https://dx.doi.org/10.1126/science.abe0874)
+
+## 12
+**Prehension kinematics in humans and macaques**  
+Yan Y, Sobinov AR, Bensmaia SJ  
+[bioRxiv:2021.11.09.467947](https://www.biorxiv.org/content/10.1101/2021.11.09.467947v1)
+
+## 13
+**Beyond t test and ANOVA: applications of mixed-effects models for more rigorous statistical analysis in neuroscience research**  
+Yu Z, Guindani M, Grieco SF, Chen L, Holmes TC, Xu X  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.10.030)
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

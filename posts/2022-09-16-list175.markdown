@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "Reading List 175"
+date:   2022-09-16 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Predictive neural representations of naturalistic dynamic input**  
+de Vries IEJ, Wurm MF  
+[bioRxiv:2022.09.02.506366](https://www.biorxiv.org/content/10.1101/2022.09.02.506366v1)
+
+## 2
+**Symbols and mental programs: a hypothesis about human singularity**  
+Dehaene S, Al Roumi F, Lakretz Y, Planton S, Sablé-Meyer M  
+[Trends Cogn Sci](https://www.cell.com/article/S1364661322001413/abstract)
+
+## 3
+**The neuroconnectionist research programme**  
+Doerig A, Sommers R, Seeliger K, Richards B, Ismael J, Lindsay G, Kording K, Konkle T, Van Gerven MAJ, Kriegeskorte N, Kietzmann TC  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2209.03718)
+
+## 4
+**Tracking human skill learning with a hierarchical Bayesian sequence model**  
+Éltető N, Nemeth D, Janacsek K, Dayan P  
+[bioRxiv:2022.01.27.477977](https://www.biorxiv.org/content/10.1101/2022.01.27.477977v1.abstract)
+
+## 5
+**Hand posture, but not vision of the hand, affects tactile spatial resolution in the grating orientation discrimination task**  
+French B, Chiaro NVD, Holmes NP  
+[Exp Brain Res](https://doi.org/10.1007/s00221-022-06450-3)
+
+## 6
+**Experimenters’ sex modulates mouse behaviors and neural responses to ketamine via corticotropin releasing factor**  
+Georgiou P et al.  
+[Nat Neurosci](https://www.nature.com/articles/s41593-022-01146-x)
+
+## 7
+**Action prediction error: a value-free dopaminergic teaching signal that drives stable learning**  
+Greenstreet F, Vergara HM, Pati S, Schwarz L, Wisdom M, Marbach F, Johansson Y, Rollik L, Moskovitz T, Clopath CM, Stephenson-Jones M  
+[bioRxiv:2022.09.12.507572](https://www.biorxiv.org/content/10.1101/2022.09.12.507572v1)
+
+## 8
+**Learning-induced changes in the neural circuits underlying motor sequence execution**  
+Kadmon Harpaz N, Hardcastle K, Ölveczky BP  
+[Curr Opin Neurobiol](https://www.sciencedirect.com/science/article/pii/S0959438822001180)
+
+## 9
+**Physiological noise facilitates multiplexed coding of vibrotactile-like signals in somatosensory cortex**  
+Kamaleddin MA, Shifman A, Abdollahi N, Sigal D, Ratté S, Prescott SA  
+[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2118163119)
+
+## 10
+**The coarse mental map of the breast is anchored on the nipple**  
+Long K, Fitzgerald E, Berger-Wolf E, Fawaz A, Greenspon C, Lindau S, Bensmaia SJ  
+[bioRxiv:2022.09.14.507974](https://www.biorxiv.org/content/10.1101/2022.09.14.507974v1)
+
+## 11
+**Distinguishing externally from saccade-induced motion in visual cortex**  
+Miura SK, Scanziani M  
+[Nature](https://www.nature.com/articles/s41586-022-05196-w)
+
+## 12
+**Using a chopping task to compare expert and competent motor memory**  
+Nepotiuk AH, Brown LE  
+[J Neurophysiol](https://doi.org/10.1152/jn.00394.2021)
+
+## 13
+**Activity in primate visual cortex is minimally driven by spontaneous movements**  
+Talluri BC, Kang I, Lazere A, Quinn KR, Kaliss N, Yates JL, Butts DA, Nienborg H  
+[bioRxiv:2022.09.08.507006](https://www.biorxiv.org/content/10.1101/2022.09.08.507006v1)
+
+## 14
+**Magnetomicrometry**  
+Taylor CR, Srinivasan SS, Yeon SH, O’Donnell MK, Roberts TJ, Herr HM  
+[Science Robotics](https://www.science.org/doi/abs/10.1126/scirobotics.abg0656)
+
+## 15
+**Non-necessary neural activity in the primate cortex**  
+Tremblay S, Testard C, Inchauspé J, Petrides M  
+[bioRxiv:2022.09.12.506984](https://www.biorxiv.org/content/10.1101/2022.09.12.506984v1)
+
+## 16
+**The neural bases for timing of durations**  
+Tsao A, Yousefzadeh SA, Meck WH, Moser M-B, Moser EI  
+[Nat Rev Neurosci](https://www.nature.com/articles/s41583-022-00623-3)
+
+## 17
+**A prosthesis utilizing natural vestibular encoding strategies improves sensorimotor performance in monkeys**  
+Wiboonsaksakul KP, Roberts DC, Della Santina CC, Cullen KE  
+[PLoS Biol](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001798)
+
+## 18
+**Common Neural Mechanisms Control Attention and Working Memory**  
+Zhou Y, Curtis CE, Sreenivasan KK, Fougnie D  
+[J Neurosci](https://www.jneurosci.org/content/42/37/7110)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

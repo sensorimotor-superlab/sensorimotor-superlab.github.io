@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 59"
+date:   2020-03-13 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+It's been an anxious couple of weeks and it looks like it's going to continue to be quite an unusual period ahead. Maybe some science will be a nice distraction. Take care of yourselves.
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Context-Dependent Sensory Processing across Primary and Secondary Somatosensory Cortex**  
+Condylis C, Lowet E, Ni J, Bistrong K, Ouellette T, Josephs N, Chen JL  
+Neuron (2020)  
+[https://www.cell.com/article/S0896627320301033/abstract](https://www.cell.com/article/S0896627320301033/abstract)
+
+## 2
+**Motor learning induces time dependent plasticity that is observable at the spinal cord level**  
+Giboin L, Tokuno C, Kramer A, Henry M, Gruber M  
+J Physiol (2020)  
+[https://onlinelibrary.wiley.com/doi/abs/10.1113/JP278890](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP278890)
+
+## 3
+**The Origins of Anterograde Interference in Visuomotor Adaptation**  
+Lerner G, Albert S, Caffaro PA, Villalta JI, Jacobacci F, Shadmehr R, Della-Maggiore V  
+Cereb Cortex (2020)  
+[https://dx.doi.org/10.1093/cercor/bhaa016](https://dx.doi.org/10.1093/cercor/bhaa016)
+
+Also check out the [tweeprint](https://twitter.com/vdellamaggiore/status/1237085090376757248?s=20).
+
+## 4
+**Human decision making anticipates future performance in motor learning**  
+Moskowitz JB, Gale DJ, Gallivan JP, Wolpert DM, Flanagan JR  
+PLoS Comput Biol 16:e1007632 (2020)  
+[https://dx.doi.org/10.1371/journal.pcbi.1007632](https://dx.doi.org/10.1371/journal.pcbi.1007632)
+
+## 5
+**Speakers are able to categorize vowels based on tongue somatosensation**  
+Patri J-F, Ostry DJ, Diard J, Schwartz J-L, Trudeau-Fisette P, Savariaux C, Perrier P  
+Proc Natl Acad Sci U S A (2020)  
+[https://dx.doi.org/10.1073/pnas.1911142117](https://dx.doi.org/10.1073/pnas.1911142117)
+
+## 6
+**Parallel organization of cerebellar pathways to sensorimotor, associative, and modulatory forebrain**  
+Pisano TJ, Dhanerawala ZM, Kislin M, Bakshinskaya D, Engel EA, Lee J, de Oude NL, Venkataraju KU, Verpeut JL, Boele H-J, -H. Wang SS  
+bioRxiv:2020.03.06.979153 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.03.06.979153v1](https://www.biorxiv.org/content/10.1101/2020.03.06.979153v1)
+
+## 7
+**Reflections of action in sensory cortex**  
+Schneider DM  
+Curr Opin Neurobiol 64:53–59 (2020)  
+[https://dx.doi.org/10.1016/j.conb.2020.02.004](https://dx.doi.org/10.1016/j.conb.2020.02.004)
+
+## 8
+**Learning not to remember: How predicting the future impairs encoding of the present**  
+Sherman BE, Turk-Browne NB  
+bioRxiv:851147 (2020)  
+[https://www.biorxiv.org/content/10.1101/851147v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/851147v2.abstract?%3Fcollection=)
+
+## 9
+**Implicit visuomotor adaptation remains limited after several days of training**  
+Wilterson SA, Taylor JA  
+bioRxiv:711598 (2020)  
+[https://www.biorxiv.org/content/10.1101/711598v3.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/711598v3.abstract?%3Fcollection=)
+
+## 10
+Yin C, Wei K  
+**Savings in sensorimotor adaptation without explicit strategy**  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00524.2019](https://dx.doi.org/10.1152/jn.00524.2019)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

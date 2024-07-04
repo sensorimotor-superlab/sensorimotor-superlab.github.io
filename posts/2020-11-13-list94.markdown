@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 94"
+date:   2020-11-13 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Diverse and complex muscle spindle afferent firing properties emerge from multiscale muscle mechanics**  
+Blum KP, Campbell KS, Horslen BC, Nardelli P, Housley SN, Cope TC, Ting LH  
+bioRxiv (2020)  
+[http://dx.doi.org/10.1101/858209](http://dx.doi.org/10.1101/858209)
+
+Also check out two recent talks by Professor Ting on this work:
+
+- The [Plenary Talk](https://youtu.be/I3zP7HHa9PU?t=308) at the 2020 [Advances in Motor Learning & Motor Control meeting](http://www.motor-conference.org/openconf.php)
+- [This talk](https://smartech.gatech.edu/handle/1853/63819) in the [2020-2021 Seminar Series](https://neuro.gatech.edu/2020-2021-seminar-series) at Georgia Tech Neuro
+
+## 2
+**The Anterior Cingulate Cortex Predicts Future States to Mediate Model-Based Action Selection**  
+Akam T, Rodrigues-Vaz I, Marcelo I, Zhang X, Pereira M, Oliveira RF, Dayan P, Costa RM  
+Neuron (2020)  
+[http://dx.doi.org/10.1016/j.neuron.2020.10.013](http://dx.doi.org/10.1016/j.neuron.2020.10.013)
+
+## 3
+**Water-immersion finger-wrinkling improves grip efficiency in handling wet objects**  
+Davis NJ  
+bioRxiv (2020)  
+[http://dx.doi.org/10.1101/2020.11.07.372631](http://dx.doi.org/10.1101/2020.11.07.372631)
+
+## 4
+**The mechanotransduction protein STOML3 is required for functional plasticity following peripheral nerve regeneration**  
+Haseleu J, Walcher J, Lewin GR  
+bioRxiv (2020)  
+[http://dx.doi.org/10.1101/2020.11.10.367748](http://dx.doi.org/10.1101/2020.11.10.367748)
+
+## 5
+**A cerebello-olivary signal for negative prediction error is sufficient to cause extinction of associative motor learning**  
+Kim OA, Ohmae S, Medina JF  
+Nat Neurosci (2020)  
+[http://dx.doi.org/10.1038/s41593-020-00732-1](http://dx.doi.org/10.1038/s41593-020-00732-1)
+
+## 6
+**Pruriception and neuronal coding in nociceptor subtypes in human and nonhuman primates**  
+Klein A, Solinski HJ, Malewicz N, Ieong HF-H, Shimada S, Hartke TV, Wooten M, Wu G, Hoon MA, LaMotte RH, Ringkamp M  
+bioRxiv (2020)  
+[http://dx.doi.org/10.1101/2020.11.04.368597](http://dx.doi.org/10.1101/2020.11.04.368597)
+
+## 7
+**The Varying Effects of Dual Tasks on the Performance of Motor Skills across Practice**  
+Luan M, Mirifar A, Beckmann J, Ehrlenspiel F  
+J Mot Behav (2020)  
+[http://dx.doi.org/10.1080/00222895.2020.1828797](http://dx.doi.org/10.1080/00222895.2020.1828797)
+
+## 8
+**The Computational Origin of Representation** 
+Minds Mach (2020)  
+Piantadosi ST  
+[http://dx.doi.org/10.1007/s11023-020-09540-9](http://dx.doi.org/10.1007/s11023-020-09540-9)
+
+## 9
+**Task-related activity in human visual cortex**  
+PLoS Biol (2020)  
+Roth ZN, Ryoo M, Merriam EP  
+[http://dx.doi.org/10.1371/journal.pbio.3000921](http://dx.doi.org/10.1371/journal.pbio.3000921)
+
+## 10
+**Accuracy of hand localization is subject-specific and improved without performance feedback**  
+Wang T, Zhu Z, Kana I, Yu Y, He H, Wei K  
+Sci Rep (2020)  
+[http://dx.doi.org/10.1038/s41598-020-76220-0](http://dx.doi.org/10.1038/s41598-020-76220-0)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

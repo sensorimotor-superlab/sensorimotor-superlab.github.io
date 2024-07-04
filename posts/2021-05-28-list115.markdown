@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 115"
+date:   2021-05-28 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**Proprioceptive Acuity is Enhanced During Arm Movements Compared to When the Arm is Stationary: A Study of Young and Older Adults**  
+Coffman CR, Capaday C, Darling WG  
+Neuroscience (2021) [https://dx.doi.org/10.1016/j.neuroscience.2021.04.015](https://dx.doi.org/10.1016/j.neuroscience.2021.04.015)
+
+## 2
+**Distinct place cell dynamics in CA1 and CA3 encode experience in new environments**  
+Dong C, Madar AD, Sheffield MEJ  
+Nat Commun 12:2977 (2021) [https://dx.doi.org/10.1038/s41467-021-23260-3](https://dx.doi.org/10.1038/s41467-021-23260-3)
+
+## 3
+**A Model for Self-Organization of Sensorimotor Function: The Spinal Monosynaptic Loop**  
+Enander JMD, Jones AM, Kirkland M, Hurless J, Jörntell H, Loeb GE  
+bioRxiv:2021.05.18.444712 [https://www.biorxiv.org/content/10.1101/2021.05.18.444712v1](https://www.biorxiv.org/content/10.1101/2021.05.18.444712v1)
+
+## 4
+**Learning orthogonalizes visual cortical population codes**  
+Failor SW, Carandini M, Harris KD  
+bioRxiv:2021.05.23.445338 [https://www.biorxiv.org/content/10.1101/2021.05.23.445338v1](https://www.biorxiv.org/content/10.1101/2021.05.23.445338v1)
+
+## 5
+**A brain-computer interface that evokes tactile sensations improves robotic arm control**  
+Flesher SN, Downey JE, Weiss JM, Hughes CL, Herrera AJ, Tyler-Kabara EC, Boninger ML, Collinger JL, Gaunt RA  
+Science 372:831–836 (2021) [https://dx.doi.org/10.1126/science.abd0380](https://dx.doi.org/10.1126/science.abd0380)
+
+## 6
+**Reconsidering the evidence for learning in single cells**  
+Gershman SJ, Balbi PE, Gallistel CR, Gunawardena J  
+Elife 10 (2021) [https://dx.doi.org/10.7554/eLife.61907](https://dx.doi.org/10.7554/eLife.61907)
+
+## 7
+**Precise visuomotor transformations underlying collective behavior in larval zebrafish**  
+Harpaz R, Nguyen MN, Bahl A, Engert F  
+bioRxiv:2021.05.24.445521 [https://www.biorxiv.org/content/10.1101/2021.05.24.445521v1](https://www.biorxiv.org/content/10.1101/2021.05.24.445521v1)
+
+## 8
+**From Motor Control to Team Play in Simulated Humanoid Football**  
+Liu S et al.  
+arXiv [csAI] (2021) [https://arxiv.org/abs/2105.12196](https://arxiv.org/abs/2105.12196)
+
+## 9
+**Efficient and adaptive sensory codes**  
+Młynarski WF, Hermundstad AM  
+Nat Neurosci (2021) [https://dx.doi.org/10.1038/s41593-021-00846-0](https://dx.doi.org/10.1038/s41593-021-00846-0)
+
+## 10
+**Movement preparation time determines movement variability**  
+Sutter K, Oostwoud Wijdenes L, J van Beers R, Medendorp WP  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00087.2020](https://dx.doi.org/10.1152/jn.00087.2020)
+
+## 11
+**Neural regulation of whole limb impedance: from measurements to mechanisms**  
+Trumbower RD, Tuthill C  
+Curr Opin Physiol (2021) [https://www.sciencedirect.com/science/article/pii/S2468867321000559](https://www.sciencedirect.com/science/article/pii/S2468867321000559)
+
+## 12
+**Encoding of limb state by single neurons in the cuneate nucleus of awake monkeys**  
+Versteeg C, Rosenow JM, Bensmaia SJ, Miller LE  
+J Neurophysiol (2021) [https://dx.doi.org/10.1152/jn.00568.2020](https://dx.doi.org/10.1152/jn.00568.2020)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

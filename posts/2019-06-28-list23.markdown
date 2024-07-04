@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 23"
+date:   2019-06-28 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Simultaneous motor preparation and execution in a last-moment reach correction task**  
+Ames, K.C., Ryu, S.I., and Shenoy, K.V.  
+Nat. Commun. 10, 2718 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-10772-2](https://dx.doi.org/10.1038/s41467-019-10772-2)
+
+## 2
+**Supplemental vibrotactile feedback of real-time limb position enhances precision of goal-directed reaching**  
+Risi, N., Shah, V., Mrotek, L.A., Casadio, M., and Scheidt, R.A.  
+J. Neurophysiol. 122, 22–38 (2019)  
+[https://dx.doi.org/10.1152/jn.00337.2018](https://dx.doi.org/10.1152/jn.00337.2018)
+
+## 3
+**Interactions between motor exploration and reinforcement learning**  
+Uehara, S., Mawase, F., Therrien, A.S., Cherry-Allen, K.M., and Celnik, P.A.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00390.2018](https://dx.doi.org/10.1152/jn.00390.2018)
+
+## 4
+**No evidence for motor recovery-related cortical reorganization after stroke using resting-state fMRI**  
+Branscheidt, M., Ejaz, N., Xu, J., Widmer, M., Harran, M.D., Cortés, J.C., Kitago, T., Celnik, P., Hernandez-Castillo, C., Diedrichsen, J., Luft A., Krakauer, J.W.  
+bioRxiv, 681320 (2019)  
+[https://www.biorxiv.org/content/10.1101/681320v1.abstract](https://www.biorxiv.org/content/10.1101/681320v1.abstract)
+
+## 5
+**Forget binning and get SMART: Getting more out of the time-course of response data**  
+van Leeuwen, J., Smeets, J.B.J., and Belopolsky, A.V.  
+Atten. Percept. Psychophys. (2019)  
+[https://dx.doi.org/10.3758/s13414-019-01788-3](https://dx.doi.org/10.3758/s13414-019-01788-3)
+
+## 6
+**Generalizing movement patterns following shoulder fixation**  
+Maeda, R.S., Zdybal, J.M., Gribble, P.L., and Andrew Pruszynski, J.  
+bioRxiv, 678623 (2019)  
+[https://www.biorxiv.org/content/10.1101/678623v1](https://www.biorxiv.org/content/10.1101/678623v1)
+
+## 7
+**No effects of cerebellar transcranial direct current stimulation on force field and visuomotor reach adaptation in young and healthy subjects**  
+Mamlins, A., Hulst, T., Donchin, O., Timmann, D., and Claassen, J.  
+J. Neurophysiol. 121, 2112–2125 (2019)  
+[https://dx.doi.org/10.1152/jn.00352.2018](https://dx.doi.org/10.1152/jn.00352.2018)
+
+## 8
+**Reconstructing neural representations of tactile space**  
+Tame, L., Tucciarelli, R., Sadibolova, R., Sereno, M.I., and Longo, M.  
+bioRxiv, 679241 (2019)  
+[https://www.biorxiv.org/content/10.1101/679241v1](https://www.biorxiv.org/content/10.1101/679241v1)
+
+## 9
+**Combining reward and M1 transcranial direct current stimulation enhances the retention of newly learnt sensorimotor mappings**  
+Spampinato, D.A., Satar, Z., and Rothwell, J.C.  
+Brain Stimul. (2019)  
+[https://dx.doi.org/10.1016/j.brs.2019.05.015](https://dx.doi.org/10.1016/j.brs.2019.05.015)
+
+## 10
+**High-intensity transcranial magnetic stimulation reveals differential cortical contributions to prepared responses**  
+Smith, V., Maslovat, D., Drummond, N.M., Hajj, J., Leguerrier, A., and Carlsen, A.N.  
+J. Neurophysiol. 121, 1809–1821 (2019)  
+[https://dx.doi.org/10.1152/jn.00510.2018](https://dx.doi.org/10.1152/jn.00510.2018)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

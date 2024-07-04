@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 31"
+date:   2019-08-23 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Modulation of Rapid Visual Responses during Reaching by Multimodal Stimuli**  
+Glover, I.S., and Baker, S.N.  
+bioRxiv, 570796 (2019)  
+[https://www.biorxiv.org/content/10.1101/570796v1](https://www.biorxiv.org/content/10.1101/570796v1)
+
+## 2
+**Rapid predictive simulations with complex musculoskeletal models suggest that diverse healthy and pathological human gaits can emerge from similar control strategies**  
+Falisse Antoine, Serrancolí Gil, Dembia Christopher L., Gillis Joris, Jonkers Ilse, and De Groote Friedl  
+J. R. Soc. Interface 16, 20190402 (2019)  
+[https://dx.doi.org/10.1098/rsif.2019.0402](https://dx.doi.org/10.1098/rsif.2019.0402)
+
+## 3
+**Engaging the articulators engages perception of visible speech movements**  
+Masapollo, M., and Guenther, F.H.  
+PsyArXiv (2019)  
+[https://psyarxiv.com/c8r7q](https://psyarxiv.com/c8r7q)
+
+## 4
+**Implicit visuomotor adaptation remains limited after several days of training**  
+Wilterson, S.A., and Taylor, J.A.  
+bioRxiv, 711598 (2019)  
+[https://www.biorxiv.org/content/10.1101/711598v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/711598v2.abstract?%3Fcollection=)
+
+## 5
+**Reducing the metabolic rate of walking and running with a versatile, portable exosuit**  
+Kim, J., Lee, G., Heimgartner, R., Arumukhom Revi, D., Karavas, N., Nathanson, D., Galiana, I., Eckert-Erdheim, A., Murphy, P., Perry, D., Menard, N., Choe, D.K., Malcolm, P., Walsh, C.J.  
+Science 365, 668–672 (2019)  
+[https://dx.doi.org/10.1126/science.aav7536](https://dx.doi.org/10.1126/science.aav7536)
+
+## 6
+**Sensorimotor beta power reflects the precision-weighting afforded to sensory prediction errors**  
+Palmer, C.E., Auksztulewicz, R., Ondobaka, S., and Kilner, J.M.  
+Neuroimage 200, 59–71 (2019)  
+[https://dx.doi.org/10.1016/j.neuroimage.2019.06.034](https://dx.doi.org/10.1016/j.neuroimage.2019.06.034)
+
+## 7
+**Representation of Borders and Swimming Kinematics in the Brain of Freely-Navigating Fish**  
+Vinepinsky, E., Cohen, L., Perchik, S., Ben-Shahar, O., Donchin, O., and Segev, R.  
+bioRxiv, 291013 (2019)  
+[https://www.biorxiv.org/content/10.1101/291013v2](https://www.biorxiv.org/content/10.1101/291013v2)
+
+## 8
+**Gaussian Process Based Multi-Rate Observer for the Dynamic Positioning Error of a Measuring Machine**  
+Ringkowski, M., and Sawodny, O.  
+2019 18th European Control Conference (ECC), pp. 627–632 (2019)  
+[https://dx.doi.org/10.23919/ECC.2019.8795963](https://dx.doi.org/10.23919/ECC.2019.8795963)
+
+## 9
+**Learning to see stuff**  
+Fleming, R.W., and Storrs, K.R.  
+Current Opinion in Behavioral Sciences 30, 100–108 (2019)  
+[https://dx.doi.org/10.1016/j.cobeha.2019.07.004](https://dx.doi.org/10.1016/j.cobeha.2019.07.004)
+
+## 10
+**A critique of pure learning and what artificial neural networks can learn from animal brains**  
+Zador, A.M.  
+Nat. Commun. 10, 3770 (2019)  
+[https://dx.doi.org/10.1038/s41467-019-11786-6](https://dx.doi.org/10.1038/s41467-019-11786-6)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

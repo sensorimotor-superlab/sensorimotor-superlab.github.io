@@ -1,0 +1,117 @@
+---
+layout: post
+title:  "Reading List 41"
+date:   2019-11-01 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Cerebellar climbing fibers encode expected reward size**  
+Larry, N., Yarkoni, M., Lixenberg, A., and Joshua, M.  
+Elife 8. (2019)  
+[https://dx.doi.org/10.7554/eLife.46870](https://dx.doi.org/10.7554/eLife.46870)
+
+The traditional view of cerebellar learning is that it performs supervised learning of sensorimotor information, at odds with recent behavioural evidence that reward impacts some forms of cerebellar learning. In a series of eye movement tasks in macaca fascicularis monkeys, the authors show that complex spikes rate of firing is sensitive to the reward magnitude of an associated cue—but not to reward delivery itself. This provides empirical evidence of how reward-based learning may occur alongside error-based learning. —OC
+
+## 2
+**Sustained Dopaminergic Plateaus and Noradrenergic Depressions Bias Transitions Into Exploitative Behavioral States**  
+Koralek, A.C., and Costa, R.M.  
+bioRxiv, 822650 (2019)  
+[https://www.biorxiv.org/content/10.1101/822650v1](https://www.biorxiv.org/content/10.1101/822650v1)
+
+## 3
+**Perceptual decisions about object shape bias visuomotor coordination during rapid reaching and interception**  
+Barany, D.A., Gómez-Granados, A., Schrayer, M., Cutts, S.A., and Singh, T.  
+bioRxiv, 821074 (2019)  
+[https://www.biorxiv.org/content/10.1101/821074v1](https://www.biorxiv.org/content/10.1101/821074v1)
+
+Barany and colleagues investigate the interaction between dorsal and ventral visual streams during visuomotor control in a behavioral study with reaching movements to either static or moving targets. By independently manipulating whether participants should hit or avoid the targets, they show that participants tend to rely on online perceptual decision-making, especially for interception movements that induce a sense of urgency. Eye movements appeared to influence movement coordination strategies, thereby suggesting a link between the two streams for perception and action that is manipulated by task demands. —GA
+
+## 4
+**Reorganization of the Primate Dorsal Horn in Response to a Deafferentation Lesion Affecting Hand Function**  
+Fisher, K.M., Garner, J., and Darian-Smith, C.  
+bioRxiv, 818716 (2019)  
+[https://www.biorxiv.org/content/10.1101/818716v1](https://www.biorxiv.org/content/10.1101/818716v1)
+
+The dorsal horn of the spinal cord plays a critical role in integrating and disseminating sensory information. Fisher and Colleagues use a targeted dorsal root and dorsal column lesion to remove sensory inputs from the thumb, index and middle fingers from one hand in a NHP model and investigate reorganization of the dorsal horn which underlies recovery of hand function. Such recovery of function is distributed throughout the CNS and periphery, so understanding its manifestation in specific structures can also indicate potential compensatory mechanisms elsewhere. —SR
+
+## 5
+**Comparing Functional Connectivity Matrices: A Geometry-Aware Approach applied to Participant Identification**  
+Venkatesh, M., Jaja, J., and Pessoa, L.  
+bioRxiv, 687830 (2019)  
+[https://www.biorxiv.org/content/10.1101/687830v2](https://www.biorxiv.org/content/10.1101/687830v2)
+
+Functional architecture across brain regions is commonly examined by comparing functional connectivity matrices across participants, or groups, often using Pearson correlation between matrices. Vankatesh et al. propose to instead compare functional connectivity matrices using a geodesic distance, a non-Euclidean distance metric that considers the manifold on which the data lies. They show that geodesic distance is superior to Pearson correlation in participant identification ("fingerprinting") using both resting state and task datasets. —EB
+
+## 6
+**The Low-Dimensional Neural Architecture of Cognitive Complexity Is Related to Activity in Medial Thalamic Nuclei**  
+Shine, J.M., Hearne, L.J., Breakspear, M., Hwang, K., Müller, E.J., Sporns, O., Poldrack, R.A., Mattingley, J.B., and Cocchi, L.  
+Neuron (2019)  
+[https://dx.doi.org/10.1016/j.neuron.2019.09.002](https://dx.doi.org/10.1016/j.neuron.2019.09.002)
+
+Shine et al. use  a cognitively challenging task to assess how complexity affects low-dimensional state-space of brain activity. They show that individual differences in task performance are related to engagement of low-dimensional manifold and that task errors are associated with the brain state deviating more from the manifold than correct trials. Additionally, they demonstrate that recruitment of medial thalamus relates to individual differences in cortical dimensionality across task complexity. —EB
+
+## 7
+**Neural signatures of loss of consciousness and its recovery by thalamic stimulation**  
+Donoghue, J., Bastos, A.M., Yanar, J., Kornblith, S., Mahnke, M., Brown, E.N., and Miller, E.K.  
+bioRxiv, 806687 (2019)  
+[https://www.biorxiv.org/content/10.1101/806687v1](https://www.biorxiv.org/content/10.1101/806687v1)
+
+## 8
+**Harnessing behavioral diversity to understand neural computations for cognition**  
+Musall, S., Urai, A.E., Sussillo, D., and Churchland, A.K.  
+Curr. Opin. Neurobiol. 58, 229–238 (2019)  
+[https://dx.doi.org/10.1016/j.conb.2019.09.011](https://dx.doi.org/10.1016/j.conb.2019.09.011)
+
+## 9
+**A deep learning framework for neuroscience**  
+Richards, B.A., Lillicrap, T.P., Beaudoin, P., Bengio, Y., Bogacz, R., Christensen, A., Clopath, C., Costa, R.P., de Berker, A., Ganguli, S., Gillon, C.J., Hafner, D., Kepecs, A., Kriegeskorte, N., Latham, P., Lindsay, G.W., Miller, K.D., Naud, R., Pack, C.C., Poirazi, P., Roelfsema, P., Sacramento, J., Saxe, A., Scellier, B., Schapiro, A.C., Senn, W., Wayne, G., Yamins, D., Zenke, F., Zylberberg, J., Therien, D., Kording, K.P.    
+Nat. Neurosci. 22, 1761–1770 (2019)  
+[https://www.nature.com/articles/s41593-019-0520-2](https://www.nature.com/articles/s41593-019-0520-2)
+
+Neural network modeling has provided fascinating insights into systems neuroscience. The authors advocate an increased focus on three elements of designing neural networks: the objective function, the learning rules, and the network architectures. By studying how computations emerge under different selections of these components, systems neuroscience will continue to benefit from deep learning. —JM
+
+## 10
+**Application of the hierarchical bootstrap to multi-level data in neuroscience**  
+Saravanan, V., Berman, G.J., and Sober, S.J.  
+bioRxiv, 819334 (2019)  
+[https://www.biorxiv.org/content/10.1101/819334v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/819334v1.abstract?%3Fcollection=)
+
+
+# Superlab Papers
+
+**Repetita iuvant: repetition facilitates online planning of sequential movements**  
+Ariani, G., Kwon, Y.H., and Diedrichsen, J.  
+bioRxiv, 819938 (2019)  
+[https://www.biorxiv.org/content/10.1101/819938v1](https://www.biorxiv.org/content/10.1101/819938v1)
+
+Check out the [tweeprint](https://twitter.com/GiacomoAriani/status/1188825965918601217?s=20).
+
+**Sensory information from a slipping object elicits a rapid and automatic shoulder response**  
+Hernandez-Castillo, C.R., Maeda, R.S., Andrew Pruszynski, J., and Diedrichsen, J.  
+bioRxiv, 724054 (2019)  
+[https://www.biorxiv.org/content/10.1101/724054v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/724054v2.abstract?%3Fcollection=)
+
+
+# Contributors
+- Jonathan Michaels ([@JonAMichaels](https://twitter.com/JonAMichaels))
+- Eva Berlot ([@EvaBerlot](https://twitter.com/EvaBerlot))
+- Olivier Codol [@OlivierCodol](https://twitter.com/OlivierCodol)
+- Giacomo Ariani [@GiacomoAriani](https://twitter.com/GiacomoAriani)
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

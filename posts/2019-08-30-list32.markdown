@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 32"
+date:   2019-08-30 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we are reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**A neural network model of flexible grasp movement generation**  
+Michaels, J.A., Schaffelhofer, S., Agudelo-Toro, A., and Scherberger, H.  
+bioRxiv, 742189 (2019)  
+[https://www.biorxiv.org/content/10.1101/742189v1](https://www.biorxiv.org/content/10.1101/742189v1)
+
+Also check out [Jonathan's tweeprint](https://threadreaderapp.com/thread/1165464126803644416.html).
+
+## 2
+**Recruitment of GABAergic Interneurons in the Barrel Cortex during Active Tactile Behavior**  
+Yu, J., Hu, H., Agmon, A., and Svoboda, K.  
+Neuron (2019)  
+[https://www.cell.com/article/S0896627319306531/abstract](https://www.cell.com/article/S0896627319306531/abstract)
+
+## 3
+**Feeling fooled: Texture contaminates the neural code for tactile speed**  
+Delhaye, B.P., O’Donnell, M.K., Lieber, J.D., McLellan, K.R., and Bensmaia, S.J.  
+PLoS Biol. 17, e3000431 (2019)  
+[https://dx.doi.org/10.1371/journal.pbio.3000431](https://dx.doi.org/10.1371/journal.pbio.3000431)
+
+Also check out the [tweeprint](https://twitter.com/delhayeben/status/1166633803441496064).
+
+## 4
+**Early stages of sensorimotor map acquisition: learning with free exploration, without active movement or global structure**  
+van Vugt, F.T., and Ostry, D.J.  
+J. Neurophysiol. (2019)  
+[https://dx.doi.org/10.1152/jn.00429.2019](https://dx.doi.org/10.1152/jn.00429.2019)
+
+## 5
+**Moving in time: Simulating how neural circuits enable rhythmic enactment of planned sequences**  
+Zeid, O., and Bullock, D.  
+Neural Netw. (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0893608019302230](https://www.sciencedirect.com/science/article/pii/S0893608019302230)
+
+## 6
+**Learning active sensing strategies using a sensory brain-machine interface**  
+Richardson, A.G., Ghenbot, Y., Liu, X., Hao, H., Rinehart, C., DeLuccia, S., Torres Maldonado, S., Boyek, G., Zhang, M., Aflatouni, F., Van der Spiegel, J., Lucas, T.H.  
+Proc Natl Acad Sci U S A (2019)  
+[https://dx.doi.org/10.1073/pnas.1909953116](https://dx.doi.org/10.1073/pnas.1909953116)
+
+## 7
+**Do prism and other adaptation paradigms really measure the same processes?**  
+Fleury, L., Prablanc, C., and Priot, A.-E.  
+Cortex (2019)  
+[https://www.sciencedirect.com/science/article/pii/S0010945219302801](https://www.sciencedirect.com/science/article/pii/S0010945219302801)
+
+## 8
+**Cognitive-perceptual load modulates hand selection in left-handers to a greater extent than in right-handers**  
+Liang, J., Wilkinson, K.M., and Sainburg, R.L.  
+Exp. Brain Res. 237, 389–399 (2019)  
+[https://dx.doi.org/10.1007/s00221-018-5423-z](https://dx.doi.org/10.1007/s00221-018-5423-z) 
+
+## 9
+**Two-photon imaging of neuronal activity in motor cortex of marmosets during upper-limb movement tasks**  
+Ebina, T., Masamizu, Y., Tanaka, Y.R., Watakabe, A., Hirakawa, R., Hirayama, Y., Hira, R., Terada, S.-I., Koketsu, D., Hikosaka, K., Mizukami, H., Nambu, A., Sasaki, E., Yamamori, T., Matsuzaki, M.  
+Nat. Commun. 9, 1879 (2018)  
+[https://dx.doi.org/10.1038/s41467-018-04286-6](https://dx.doi.org/10.1038/s41467-018-04286-6)
+
+## 10
+**The irrationality of categorical perception**  
+Fleming, S.M., Maloney, L.T., and Daw, N.D.  
+J. Neurosci. 33, 19060–19070 (2013)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1263-13.2013](https://dx.doi.org/10.1523/JNEUROSCI.1263-13.2013)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 233"
+date:   2024-02-23 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Dynamic fading memory and expectancy effects in the monkey primary visual cortex**  
+Yiling Y, Klon-Lipok J, Shapcott K, Lazar A, Singer W  
+[Proc Natl Acad Sci USA 121:e2314855121](https://www.pnas.org/doi/abs/10.1073/pnas.2314855121)
+
+## 2
+**Continuous estimation of reaching space in superficial layers of the motor cortex**  
+Galinanes GL, Huber D  
+[bioRxiv:2023.12.01.569527](https://www.biorxiv.org/content/10.1101/2023.12.01.569527v1.abstract)
+
+## 3
+**Identifying interpretable latent factors with Sparse Component Analysis**  
+Zimnik AJ, Ames KC, An X, Driscoll L, Lara AH, Russo AA, Susoy V, Cunningham JP, Paninski L, Churchland MM, Glaser JI  
+[bioRxiv:2024.02.05.578988](https://www.biorxiv.org/content/10.1101/2024.02.05.578988v1.abstract)
+
+## 4
+**Development of a Marmoset Apparatus for Automated Pulling (MarmoAAP) to study cooperative behaviors**  
+Meisner OC, Fagan NA, Greenwood J, Jadi M, Nandy AS, Chang SWC  
+[bioRxiv:2024.02.16.579531](https://www.biorxiv.org/content/10.1101/2024.02.16.579531v2.abstract)
+
+## 5
+**Dynamics of striatal action selection and reinforcement learning**  
+Lindsey J, Markowitz JE, Datta SR, Litwin-Kumar A  
+[bioRxiv:2024.02.14.580408](https://www.biorxiv.org/content/10.1101/2024.02.14.580408v1.abstract)
+
+## 6
+**MRI economics: Balancing sample size and scan duration in brain wide association studies**  
+Ooi LQR, Orban C, Nichols T, Zhang S, Tan TWK, Kong R, Marek S, Dosenbach NUF, Laumann TO, Gordon EM, Zhou JH, Bzdok D, Eickhoff SB, Holmes AJ, Yeo BTT  
+[bioRxiv:2024.02.16.580448](https://www.biorxiv.org/content/10.1101/2024.02.16.580448v1.abstract)
+
+## 7
+**A-SOiD, an active-learning platform for expert-guided, data-efficient discovery of behavior**  
+Tillmann JF, Hsu AI, Schwarz MK, Yttri EA  
+[Nature Methods](https://www.nature.com/articles/s41592-024-02200-1)
+
+## 8
+**Revisiting the high-dimensional geometry of population responses in visual cortex**  
+Pospisil DA, Pillow JW  
+[bioRxiv:2024.02.16.580726](https://www.biorxiv.org/content/10.1101/2024.02.16.580726v1.abstract)
+
+## 9
+**Targeted Stimulation of the Sensory Afferents Improves Motoneuron Function in Humans with Spinal Muscular Atrophy**  
+Prat-Ortega G et al.  
+[medRxiv:2024.02.14.24302709](https://www.medrxiv.org/content/10.1101/2024.02.14.24302709v2.abstract)
+
+## 10
+**De Novo sensorimotor skill learning through reuse of movement components**  
+Gabriel GA, Mushtaq F, Morehead JR  
+[bioRxiv:2024.02.20.581156](https://www.biorxiv.org/content/10.1101/2024.02.20.581156v1.abstract)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+

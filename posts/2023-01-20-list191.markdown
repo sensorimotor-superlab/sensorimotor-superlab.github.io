@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 191"
+date:   2023-01-20 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Parametric control of flexible timing through low-dimensional neural manifolds**  
+Beiran M, Meirhaeghe N, Sohn H, Jazayeri M, Ostojic S  
+[Neuron](https://www.cell.com/neuron/fulltext/S0896-6273(22)01089-3)
+
+## 2
+**Residual dynamics resolves recurrent contributions to neural computation**  
+Galgali AR, Sahani M, Mante V  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01230-2)
+
+## 3
+**Measures of Implicit and Explicit Adaptation Do Not Linearly Add**  
+Hart BM ’t, Taqvi U, Gastrock RQ, Ruttle JE, Modchalingam S, Henriques DYP  
+[bioRxiv:2022.06.07.495044](https://www.biorxiv.org/content/10.1101/2022.06.07.495044v3)
+
+## 4
+**Mesolimbic dopamine release conveys causal associations**  
+Jeong H, Taylor A, Floeder JR, Lohmann M, Mihalas S, Wu B, Zhou M, Burke DA, Namboodiri VMK  
+[Science](https://dx.doi.org/10.1126/science.abq6740)
+
+## 5
+**How games can make behavioural science better**  
+Long B, Simson J, Buxó-Lugo A, Watson DG, Mehr SA  
+[Nature](https://dx.doi.org/10.1038/d41586-023-00065-6)
+
+## 6
+**Spontaneous behaviour is structured by reinforcement without explicit reward**  
+Markowitz JE, Gillis WF, Jay M, Wood J, Harris RW, Cieszkowski R, Scott R, Brann D, Koveal D, Kula T, Weinreb C, Osman MAM, Pinto SR, Uchida N, Linderman SW, Sabatini BL, Datta SR  
+[Nature](https://dx.doi.org/10.1038/s41586-022-05611-2)
+
+## 7
+**Coordinated drift of receptive fields in Hebbian/anti-Hebbian network models during noisy representation learning**  
+Qin S, Farashahi S, Lipshutz D, Sengupta AM, Chklovskii DB, Pehlevan C  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-022-01225-z)
+
+## 8
+**A Non-Laboratory Gait Dataset of Full Body Kinematics and Egocentric Vision**  
+Sharma A, Rai V, Calvert M, Dai Z, Guo Z, Boe D, Rombokas E  
+[Sci Data](https://dx.doi.org/10.1038/s41597-023-01932-7)
+
+
+## Superlab Papers
+
+**Sensorimotor feedback loops are selectively sensitive to reward**  
+Codol O, Kashefi M, Forgaard CJ, Galea JM, Pruszynski JA, Gribble PL  
+[Elife 12](https://dx.doi.org/10.7554/eLife.81325)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

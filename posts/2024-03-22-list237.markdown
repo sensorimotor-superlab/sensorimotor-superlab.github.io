@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Reading List 237"
+date:   2024-03-22 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Action initiation and action inhibition follow the same time course when compared under matched experimental conditions**  
+Du Y, Forrence AD, Metcalf DM, Haith AM  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00434.2023)
+
+## 2
+**Biomimetic versus arbitrary motor control strategies for bionic hand skill learning**  
+Schone HR, Udeozor M, Moninghoff M, Rispoli B, Vandersea J, Lock B, Hargrove L, Makin TR, Baker CI  
+[Nature Human Behaviour](https://www.nature.com/articles/s41562-023-01811-6)
+
+## 3
+**The Origin of Movement Biases During Reaching**  
+Wang T, Morehead RJ, Tsay JS, Ivry RB  
+[bioRxiv:2024.03.15.585272](https://www.biorxiv.org/content/10.1101/2024.03.15.585272v1.abstract)
+
+## 4
+**Local and global predictors of synapse elimination during motor learning**  
+Hedrick NG, Wright WJ, Komiyama T  
+[Sci Adv](https://www.science.org/doi/10.1126/sciadv.adk0540)
+
+## 5
+**Assistive sensory-motor perturbations influence learned neural representations**  
+Rajeswaran P, Payeur A, Lajoie G, Orsborn AL  
+[bioRxiv:2024.03.20.585972](https://www.biorxiv.org/content/10.1101/2024.03.20.585972v1.abstract)
+
+## 6
+**Dissociating language and thought in large language models**  
+Mahowald K, Ivanova AA, Blank IA, Kanwisher N, Tenenbaum JB, Fedorenko E  
+[Trends Cogn Sci](http://dx.doi.org/10.1016/j.tics.2024.01.011)
+
+## 7
+**TAT-HUM: Trajectory analysis toolkit for human movements in Python**  
+Wang XM, Welsh TN  
+[Behav Res Methods](https://link.springer.com/article/10.3758/s13428-024-02378-4)
+
+## 8
+**Optimising the sensitivity of optically-pumped magnetometer magnetoencephalography to gamma band electrophysiological activity**  
+Hill RM, Schofield H, Boto E, Rier L, Osborne J, Doyle C, Worcester F, Hayward T, Holmes N, Bowtell R, Shah V, Brookes MJ  
+[Imaging Neuroscience](https://doi.org/10.1162/imag_a_00112)
+
+## 9
+**Motor neurons generate pose-targeted movements via proprioceptive sculpting**  
+Gorko B, Siwanowicz I, Close K, Christoforou C, Hibbard KL, Kabra M, Lee A, Park J-Y, Li SY, Chen AB, Namiki S, Chen C, Tuthill JC, Bock DD, Rouault H, Branson K, Ihrke G, Huston SJ  
+[Nature](https://www.nature.com/articles/s41586-024-07222-5)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+ 

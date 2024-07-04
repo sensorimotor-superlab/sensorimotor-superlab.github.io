@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Reading List 194"
+date:   2023-02-10 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many  research projects currently underway in the [Diedrichsen](https://www.diedrichsenlab.org/) / [Gribble](https://gribblelab.org) / [Pruszynski](https://www.pruszynskilab.com/) labs. We are particularly interested in recruiting students who want to work collaboratively between labs.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project studying the neural control of sequential movements. Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Clustering and temporal organization of sleep spindles underlie motor memory consolidation**  
+Boutin A, Gabitov E, Pinsard B, Boré A, Carrier J, Doyon J  
+[bioRxiv:2022.11.29.518200](https://www.biorxiv.org/content/10.1101/2022.11.29.518200v2)
+
+## 2
+**Environmental uncertainty and the advantage of impulsive choice strategies**  
+Burk DC, Averbeck BB  
+[PLoS Comput Biol](https://dx.doi.org/10.1371/journal.pcbi.1010873)
+
+## 3
+**Suppressing feedback signals to visual cortex abolishes attentional modulation**  
+Debes SR, Dragoi V  
+[Science](https://dx.doi.org/10.1126/science.ade1855)
+
+## 4
+**Beyond Broca: Neural Architecture and Evolution of a Dual Motor Speech Coordination System**  
+Hickok G, Venezia JH, Teghipco A  
+[PsyArXiv](https://psyarxiv.com/tewna)
+
+## 5
+**A thin-film optogenetic visual prosthesis**  
+Knudsen EB et al.  
+[bioRxiv:2023.01.31.526482](https://www.biorxiv.org/content/10.1101/2023.01.31.526482v2)
+
+## 6
+**Dopamine increases accuracy and lengthens deliberation time in explicit motor skill learning**  
+Leow L-A, Bernheine L, Carroll TJ, Dux PE, Filmer HL  
+[bioRxiv:2023.01.31.526542](https://www.biorxiv.org/content/10.1101/2023.01.31.526542v1)
+
+## 7
+**Integrated control of non-motor and motor efforts during decision between actions**  
+Leroy É, Koun É, Thura D  
+[bioRxiv:2023.02.03.526983](https://www.biorxiv.org/content/10.1101/2023.02.03.526983v1.abstract?%3Fcollection=)
+
+## 8
+**Jointly looking to the past and the future in visual working memory**  
+Liu B, Alexopoulou Z-S, van Ede F  
+[bioRxiv:2023.01.30.526235](https://www.biorxiv.org/content/10.1101/2023.01.30.526235v1)
+
+## 9
+**Flexible and generalizable representations of touch**  
+Rogers J  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-023-00679-9)
+
+## 10
+**Large-scale brain-wide neural recording in nonhuman primates**  
+Trautmann EM et al.  
+[bioRxiv:2023.02.01.526664](https://www.biorxiv.org/content/10.1101/2023.02.01.526664v2)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

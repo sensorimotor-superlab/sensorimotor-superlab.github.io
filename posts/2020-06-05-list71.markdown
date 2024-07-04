@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 71"
+date:   2020-06-05 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Training of a discrete motor skill in humans is accompanied by increased excitability of the fastest corticospinal connections at movement onset**  
+Wiegel P, Leukel C  
+J Physiol (2020)  
+[https://dx.doi.org/10.1113/JP279879](https://dx.doi.org/10.1113/JP279879)
+
+## 2
+**Saccade vigor and the subjective economic value of visual stimuli**  
+Yoon T, Jaleel A, Ahmed AA, Shadmehr R  
+J Neurophysiol 123:2161–2172 (2020)  
+[https://dx.doi.org/10.1152/jn.00700.2019](https://dx.doi.org/10.1152/jn.00700.2019)
+
+## 3
+**Rewards interact with explicit knowledge to enhance skilled motor performance**  
+Anderson SP, Adkins TJ, Gary BS, Lee TG  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00575.2019](https://dx.doi.org/10.1152/jn.00575.2019)
+
+## 4
+**The effect of wrist posture on extrinsic finger muscle activity during single joint movements**  
+Beringer CR 3rd, Mansouri M, Fisher LE, Collinger JL, Munin MC, Boninger ML, Gaunt RA  
+Sci Rep 10:8377 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-65167-x](https://dx.doi.org/10.1038/s41598-020-65167-x)
+
+## 5
+**Mapping human laryngeal motor cortex during vocalization**  
+Eichert N, Papp D, Mars RB, Watkins KE  
+bioRxiv:2020.02.20.958314 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.02.20.958314v2.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.02.20.958314v2.abstract?%3Fcollection=)
+
+## 6
+**Quick compensatory mechanisms for tongue posture stabilization during speech production**  
+Ito T, Szabados A, Caillet J-L, Perrier P  
+J Neurophysiol (2020)  
+[https://dx.doi.org/10.1152/jn.00756.2019](https://dx.doi.org/10.1152/jn.00756.2019)
+
+## 7
+**Decoding neural signals with a compact and interpretable convolutional neural network**  
+Petrosuan A, Lebedev M, Ossadtchi A  
+bioRxiv:2020.06.02.129114 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.02.129114v1](https://www.biorxiv.org/content/10.1101/2020.06.02.129114v1)
+
+## 8
+**Modulation of soleus muscle H-reflexes and ankle muscle co-contraction with surface compliance during unipedal balancing in young and older adults**  
+Alizadehsaravi L, Bruijn SM, Maas H, van Dieën JH  
+Exp Brain Res (2020)  
+[https://dx.doi.org/10.1007/s00221-020-05784-0](https://dx.doi.org/10.1007/s00221-020-05784-0)
+
+## 9
+**Patterns of multisensory facilitation distinguish peripersonal from reaching space**  
+Zanini A, Patané I, Blini E, Salemme R, Koun E, Farnè A, Brozzoli C  
+bioRxiv:2020.06.01.127282 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.01.127282v1](https://www.biorxiv.org/content/10.1101/2020.06.01.127282v1)
+
+## 10
+**Canadian Education is Steeped in Anti-Black Racism**  
+Maynard R  
+The Walrus (2017)  
+[https://thewalrus.ca/canadian-education-is-steeped-in-anti-black-racism/](https://thewalrus.ca/canadian-education-is-steeped-in-anti-black-racism/)
+
+
+# Superlab Papers
+
+**A critical re-evaluation of fMRI signatures of motor sequence learning**  
+Berlot E, Popp NJ, Diedrichsen J  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.55241](https://dx.doi.org/10.7554/eLife.55241)
+
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

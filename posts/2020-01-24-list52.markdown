@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Reading List 52"
+date:   2020-01-24 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**A very fast time scale of human motor adaptation: within movement adjustments of internal representations during reaching**  
+Crevecoeur F, Thonnard J-L, Lefèvre P  
+eNeuro (2020)  
+[https://dx.doi.org/10.1523/ENEURO.0149-19.2019](https://dx.doi.org/10.1523/ENEURO.0149-19.2019)
+
+## 2
+**Timescales of motor memory formation in dual-adaptation**  
+Forano M, Franklin DW  
+bioRxiv:698167 (2019)  
+[https://www.biorxiv.org/content/10.1101/698167v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/698167v1.abstract?%3Fcollection=)
+
+## 3
+**Reinforcement meta-learning optimizes visuomotor learning**  
+Sugiyama T, Schweighofer N, Izawa J  
+bioRxiv:2020.01.19.912048 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.19.912048v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.01.19.912048v1.abstract?%3Fcollection=)
+
+## 4
+**Neuronal dynamics of signal selective motor plan cancellation in the macaque dorsal premotor cortex**  
+Franco G, Giampiero B, Margherita G, Francesco F, Emiliano B, Pierpaolo P, Stefano F  
+bioRxiv:2020.01.08.897397 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.08.897397v1](https://www.biorxiv.org/content/10.1101/2020.01.08.897397v1)
+
+## 5
+**Reconstruction of motor control circuits in adult Drosophila using automated transmission electron microscopy**  
+Maniates-Selvin JT, Hildebrand DGC, Graham BJ, Kuan AT, Thomas LA, Nguyen T, Buhmann J, Azevedo AW, Shanny BL, Funke J, Tuthill JC, Lee W-CA  
+bioRxiv:2020.01.10.902478 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.10.902478v1](https://www.biorxiv.org/content/10.1101/2020.01.10.902478v1)
+
+## 6
+**Discriminating tactile speed in absence of raised texture elements: Role of deformation and vibratory cues**  
+Moscatelli A, Ryan CP, Ciotti S, Cosentino L, Ernst MO, Lacquaniti F  
+bioRxiv:599522 (2020)  
+[https://www.biorxiv.org/content/10.1101/599522v2](https://www.biorxiv.org/content/10.1101/599522v2)
+
+## 7
+**Ultrasound imaging links soleus muscle neuromechanics and energetics during human walking with elastic ankle exoskeletons**  
+Nuckols RW, Dick TJM, Beck ON, Sawicki GS  
+bioRxiv:2020.01.20.909259 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.20.909259v1](https://www.biorxiv.org/content/10.1101/2020.01.20.909259v1)
+
+While everyone knows that powered exoskeletons can make their wearers' lives easier (cf. Tony Starks), some unpowered exoskeletons can reduce the metabolic cost of walking by storing and returning mechanical energy during the step cycle. To understand the contractile dynamics underlying this improved economy, Nuckols and Colleagues used ultrasound to image plantar flexor muscles while people walked in elastic ankle exoskeletons with a variety of stiffnesses. This impressive technique indicates that the locomotor system may take advantage of exoskeleton to utilize muscles at more efficient lengths, but that it also may have a limited capacity to take advantage of exoskeletons due to constraints in both biomechanics and control. —SR
+
+## 8
+**A set of functionally-defined brain regions with improved representation of the subcortex and cerebellum**  
+Seitzman BA, Gratton C, Marek S, Raut RV, Dosenbach NUF, Schlaggar BL, Petersen SE, Greene DJ  
+Neuroimage 206:116290 (2020)  
+[https://dx.doi.org/10.1016/j.neuroimage.2019.116290](https://dx.doi.org/10.1016/j.neuroimage.2019.116290)
+
+## 9
+**De novo learning versus adaptation of continuous control in a manual tracking task**  
+Yang CS, Cowan NJ, Haith AM  
+bioRxiv:2020.01.15.906545 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.01.15.906545v1](https://www.biorxiv.org/content/10.1101/2020.01.15.906545v1)
+
+## 10
+**Variability in locomotor dynamics reveals the critical role of feedback in task control**  
+Uyanik I, Sefati S, Stamper SA, Cho K-A, Ankarali MM, Fortune ES, Cowan NJ  
+Elife 9:e51219 (2020)  
+[https://dx.doi.org/10.7554/eLife.51219](https://dx.doi.org/10.7554/eLife.51219)
+
+Uyanik and colleagues demonstrate that robust feedback control is leveraged to deal with (in some species, extreme) instances of morphophysiological variability. To demonstrate this, the authors tracked the kinematics of the ventral ribbon fin of 3 knifefish during refuge tracking.  Because each fish is different in size and shape (morphophysiological variability), each of the fish have developed unique control policies to control the plant (here, the ribbon fins). The authors estimated plant and controllers for each fish, and then swapped the fitted controllers to different plants. If the controller is precisely tuned to each plant, then the swapped controller-plant pairs should perform rather poorly. However, the authors observed that the swapped pairs performed quite well. Clearly, morphophysiological variability was attenuated, allowing for robust feedback control without the need for precise controller-plant tuning. —SA
+
+## 11
+**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**  
+Cameron MI, Morisco D, Hofstetter D, Uman E, Wilkinson J, Kennedy ZC, Fontenot SA, Lee WT, Hendon CH, Foster JM  
+Matter (2020)  
+[https://www.cell.com/article/S2590238519304102/abstract](https://www.cell.com/article/S2590238519304102/abstract)
+
+
+# Superlab Papers
+
+**Synergic control of action in levodopa-naïve Parkinson’s disease patients: I. Multi-finger interaction and coordination**  
+de Freitas PB, Freitas SMSF, Reschechtko S, Corson T, Lewis MM, Huang X, Latash ML  
+Exp Brain Res 238:229–245 (2020)  
+[https://dx.doi.org/10.1007/s00221-019-05709-6](https://dx.doi.org/10.1007/s00221-019-05709-6)
+
+When people are diagnosed with Parkinson's Disease (PD), they are often prescribed levodopa because it alleviates many symptoms. Studies of PD patients, therefore, often occur in individuals who have undergone chronic levodopa treatment -- so observed behaviors could reflect neural changes due PD or due to long-term medication exposure. We tested a group of recently diagnosed PD patients who agreed to take their first dose of levodopa between two testing sessions in which they performed finger pressing tasks to assess inter-finger coordination. While these patients did show changes in finger coordination consistent with those previously previously PD patients with chronic levodopa exposure, the first dose of levodopa did not change these measures as seen in on/off drug studies in PD patients chronically treated with levodopa. —SR
+
+
+# Contributors
+- Sasha Reschechtko ([@res_chetko](https://twitter.com/res_chetko))
+- Spencer Arbuckle [(@saarbuckle)](https://twitter.com/saarbuckle)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

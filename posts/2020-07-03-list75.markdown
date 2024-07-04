@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 75"
+date:   2020-07-03 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Computational evidence for nonlinear feedforward modulation of fusimotor drive to antagonistic co-contracting muscles**  
+Hardesty RL, Boots MT, Yakovenko S, Gritsenko V  
+Sci Rep 10:10625 (2020)  
+[http://dx.doi.org/10.1038/s41598-020-67403-w](http://dx.doi.org/10.1038/s41598-020-67403-w)
+
+## 2
+**The primary motor cortex prospectively computes the spinal reflex**  
+Umeda T, Isa T, Nishimura Y  
+bioRxiv:2020.06.29.170928 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.29.170928v1](https://www.biorxiv.org/content/10.1101/2020.06.29.170928v1)
+
+## 3
+**Cortical, corticospinal and reticulospinal contributions to strength training**  
+Glover IS, Baker SN  
+J Neurosci (2020)  
+[https://dx.doi.org/10.1523/JNEUROSCI.1923-19.2020](https://dx.doi.org/10.1523/JNEUROSCI.1923-19.2020)
+
+## 4
+**Cell-Type-Specific Outcome Representation in the Primary Motor Cortex**  
+Levy S, Lavzin M, Benisty H, Ghanayim A, Dubin U, Achvat S, Brosh Z, Aeed F, Mensh BD, Schiller Y, Meir R, Barak O, Talmon R, Hantman AW, Schiller J  
+Neuron (2020)  
+[https://dx.doi.org/10.1016/j.neuron.2020.06.006](https://dx.doi.org/10.1016/j.neuron.2020.06.006)
+
+## 5
+**20 Hz Steady-State Response in Somatosensory Cortex During Induction of Tactile Perceptual Learning Through LTP-Like Sensory Stimulation**  
+Brickwedde M, Schmidt MD, Krüger MC, Dinse HR  
+Front Hum Neurosci 14:257 (2020)  
+[https://dx.doi.org/10.3389/fnhum.2020.00257](https://dx.doi.org/10.3389/fnhum.2020.00257)
+
+## 6
+**Measurement of stretch-evoked brainstem function using fMRI**  
+Zonnino A, Farrens AJ, Ress D, Sergi F  
+bioRxiv:2020.06.19.161315 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.19.161315v1](https://www.biorxiv.org/content/10.1101/2020.06.19.161315v1)
+
+## 7
+**Controlling motor neurons of every muscle for fly proboscis reaching**  
+McKellar CE, Siwanowicz I, Dickson BJ, Simpson JH  
+Elife 9 (2020)  
+[https://dx.doi.org/10.7554/eLife.54978](https://dx.doi.org/10.7554/eLife.54978)
+
+## 8
+**Neurodynamic modeling of the Fruit Fly Drosophila melanogaster**  
+Goldsmith C, Szczecinski NS, Quinn RD  
+Bioinspir Biomim (2020)  
+[https://dx.doi.org/10.1088/1748-3190/ab9e52](https://dx.doi.org/10.1088/1748-3190/ab9e52)
+
+## 9
+**Habit learning supported by efficiently controlled network dynamics in naive macaque monkeys**  
+Szymula KP, Pasqualetti F, Graybiel AM, Desrochers TM, Bassett DS  
+arXiv [q-bioNC] (2020)  
+[https://arxiv.org/abs/2006.14565](https://arxiv.org/abs/2006.14565)
+
+## 10
+**Learning to Learn with Feedback and Local Plasticity**  
+Lindsey J, Litwin-Kumar A  
+arXiv [csNE] (2020)  
+[https://arxiv.org/abs/2006.09549](https://arxiv.org/abs/2006.09549)
+
+Also check out the [tweeprint](https://twitter.com/jack_w_lindsey/status/1276217242896814085?s=21
+).
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 69"
+date:   2020-05-22 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Passive motor learning: Oculomotor adaptation in the absence of feedback on behavioral errors**  
+Cain M, Joshua M  
+bioRxiv:2020.05.13.095018 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.13.095018v1](https://www.biorxiv.org/content/10.1101/2020.05.13.095018v1)
+
+## 2
+**Altering attention to split-belt walking increases the generalization of motor memories across walking contexts**  
+Mariscal DM, Iturralde PA, Torres-Oviedo G  
+J Neurophysiol 123:1838–1848 (2020)  
+[http://dx.doi.org/10.1152/jn.00509.2019](http://dx.doi.org/10.1152/jn.00509.2019)
+
+## 3
+**Back to feedback: aberrant sensorimotor control in music performance under pressure**  
+Furuya S, Ishimaru R, Oku T, Nagata N  
+bioRxiv:2020.05.16.100040 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.16.100040v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.16.100040v1.abstract?%3Fcollection=)
+
+## 4
+**Sensitivity of urethral flow-evoked voiding reflexes decline with age in rat: insights into age-related underactive bladder**  
+Geramipour A, Danziger Z  
+Am J Physiol Renal Physiol (2020)  
+[https://dx.doi.org/10.1152/ajprenal.00475.2019](https://dx.doi.org/10.1152/ajprenal.00475.2019)
+
+Also check out the [tweeprint](https://twitter.com/DanzigerZachary/status/1262801130356043776).
+
+## 5
+**Identifying Behavioral Structure from Deep Variational Embeddings of Animal Motion**  
+Luxem K, Fuhrmann F, Kürsch J, Remy S, Bauer P  
+bioRxiv:2020.05.14.095430 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.14.095430v1](https://www.biorxiv.org/content/10.1101/2020.05.14.095430v1)
+
+## 6
+**Integration of haptics and vision in human multisensory grasping**  
+Camponogara I, Volcic R  
+bioRxiv:2020.05.12.090647 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.12.090647v2](https://www.biorxiv.org/content/10.1101/2020.05.12.090647v2)
+
+## 7
+**Resting-state “physiological networks.”**  
+Chen JE, Lewis LD, Chang C, Tian Q, Fultz NE, Ohringer NA, Rosen BR, Polimeni JR  
+Neuroimage 213:116707 (2020)  
+[http://dx.doi.org/10.1016/j.neuroimage.2020.116707](http://dx.doi.org/10.1016/j.neuroimage.2020.116707)
+
+## 8
+**Single Trial Decoding of Movement Intentions Using Functional Ultrasound Neuroimaging**  
+Norman SL, Maresca D, Christopoulos VN, Griggs WS, Demene C, Tanter M, Shapiro MG, Andersen RA  
+bioRxiv:2020.05.12.086132 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.12.086132v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.12.086132v1.abstract?%3Fcollection=)
+
+## 9
+**Acute Exercise Following Skill Practice Promotes Motor Memory Consolidation in Parkinson’s Disease**  
+Wanner P, Winterholler M, Gaßner H, Winkler J, Klucken J, Pfeifer K, Steib S  
+bioRxiv:2020.05.15.097394 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.15.097394v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.05.15.097394v1.abstract?%3Fcollection=)
+
+## 10
+**Population coding in the cerebellum and its implications for learning from error**  
+Shadmehr R  
+bioRxiv:2020.05.18.102376 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.05.18.102376v1](https://www.biorxiv.org/content/10.1101/2020.05.18.102376v1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

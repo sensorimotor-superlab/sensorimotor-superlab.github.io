@@ -1,0 +1,136 @@
+---
+layout: post
+title:  "Reading List 204"
+date:   2023-04-28 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+# Join the SuperLab
+
+Are you interested in graduate school or a postdoc in sensorimotor neuroscience?  
+Apply to the Sensorimotor SuperLab.
+
+We have a number of open positions for **Graduate Students** interested in pursuing studies within one of the many research projects currently underway in the [Gribble](https://gribblelab.org) lab.
+
+We are also searching for a **Postdoctoral Fellow** to work on a specific project involving cerebellar imaging: [https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm](https://www.diedrichsenlab.org/open_postdoc_cerebellum.htm). Experience with behavioral work in humans, magnetic resonance imaging, and/or computational modeling are desired.
+
+Other **Postdoctoral Fellow** positions are also available in the [Gribble](https://gribblelab.org) and [Pruszynski](https://pruszynskilab.com) labs.
+
+For more details and for application instructions please see: [https://superlab.ca/join](https://superlab.ca/join)
+
+
+## 1
+**Echolocating bats prefer a high risk-high gain foraging strategy to increase prey profitability**  
+Stidsholt L, Hubancheva A, Greif S, Goerlitz H, Johnson M, Yovel Y, Madsen P  
+[eLife](https://dx.doi.org/10.7554/elife.84190)
+
+**ChatGPT summary**: Greater mouse-eared bats use both aerial and ground foraging strategies to capture small and large prey, with higher success rates in the air. They adapt their foraging behavior based on environmental changes and prey profitability, prioritizing high-risk, high-gain ground gleaning as their primary tactic, but switching to aerial hunting when necessary.
+
+
+## 2
+**Random Tactile Noise Stimulation Reveals Beta-Rhythmic Impulse Response Function of the Somatosensory System**  
+Chota S, VanRullen R, Gulbinaite R  
+[J Neurosci](https://dx.doi.org/10.1523/JNEUROSCI.1758-22.2023)
+
+**ChatGPT summary**: This study found that contrary to previous findings, beta activity in the somatosensory cortex initially increases in response to continuous random intensity tactile stimulation, with these bursts lasting for an average of 3 cycles. The research reveals a novel oscillatory signature of somatosensory processing, pointing to a common generator underlying spontaneous and phase-locked beta bursts, the frequency of which is determined by the resonance properties of the somatosensory system.
+
+## 3
+**Deciding While Acting-Mid-Movement Decisions Are More Strongly Affected by Action Probability than Reward Amount**  
+Ulbrich P, Gail A  
+[eNeuro](https://dx.doi.org/10.1523/ENEURO.0240-22.2023)
+
+**ChatGPT summary**: This study examines how delays and presentation rates of a cursor affect the ability to guide it to a target. The findings show that longer delays and lower presentation rates hinder the cursor's guidance, with continuous access to recent visual feedback being crucial for effectively guiding human arm movements.
+
+## 4
+**How the timing of visual feedback influences goal-directed arm movements: delays and presentation rates**  
+Brenner E, van Straaten C, de Vries A, Baas T, Bröring K, Smeets J  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-023-06617-6)
+
+**ChatGPT summary**: The study examined the effects of additional delay and presentation rate on how well a cursor can be guided to its goal. The results showed that longer delay and lower presentation rate led to a longer time to reach the target, and continuous access to recent visual feedback is important for guiding arm movements.
+
+
+## 5
+**The study of plasticity has always been about gradients**  
+Richards B, Kording K  
+[The Journal of Physiology](https://dx.doi.org/10.1113/jp282747)
+
+**ChatGPT summary**: This study highlights the importance of gradients as a unifying concept in understanding neuronal plasticity and learning. By reviewing existing literature on plasticity-related mechanisms, the authors demonstrate how these mechanisms relate to gradient estimation and argue that physiological research has been implicitly seeking gradient approximation mechanisms to explain adaptive performance improvements.
+
+## 6
+**Tendon compliance and preload must be considered when determining the in vivo force–velocity relationship from the torque–angular velocity relation**  
+Holzer D, Millard M, Hahn D, Siebert T, Schwirtz A, Seiberl W  
+[Sci Rep](https://dx.doi.org/10.1038/s41598-023-33643-9)
+
+**ChatGPT summary**: The force-velocity relation of muscles in vivo is usually derived from the torque-angular velocity relation, which is subject to the effects of tendon compliance and preload prior to contraction. This study used a two-factor block simulation design to analyze the effects of these factors on the torque-angular velocity relation, replicating in vivo experiments and finding that deductions of the force-velocity relation are compromised due to preload and tendon compliance.
+
+
+## 7
+**Neural dynamics and architecture of the heading direction circuit in zebrafish**  
+Petrucco L, Lavian H, Wu Y, Svara F, Štih V, Portugues R  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-023-01308-5)
+
+**ChatGPT summary**: Researchers have discovered a topographical representation of heading direction in a network of neurons in the zebrafish anterior hindbrain, similar to those found in the fly central complex. The study shows that similar circuit architecture principles may underlie the representation of heading direction across the animal kingdom, providing a mechanistic understanding of these networks in vertebrates.
+
+## 8
+**Cognitive influences on fixational eye movements**  
+Lin Y-C, Intoy J, Clark AM, Rucci M, Victor JD  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2023.03.026)
+
+**ChatGPT summary**: This study investigates the cognitive control of ocular drifts, a type of fixational eye movement, using a letter discrimination task. The results reveal open-loop control of drift direction in human observers, suggesting that cognitive processes can influence these seemingly random eye movements.
+
+## 9
+**A DRG genetic toolkit reveals molecular, morphological, and functional diversity of somatosensory neuron subtypes**  
+Qi L, Iskols M, Shi D, Reddy P, Walker C, Lezgiyeva K, Voisin T, Pawlak M, Kuchroo V, Chiu I, Ginty D, Sharma N  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.22.537932)
+
+**ChatGPT summary**: The dorsal root ganglia (DRG) in mice contain distinct sensory neurons that respond to different types of stimuli and have unique physical and physiological characteristics. Researchers have developed a genetic toolbox to study these subtypes and found that they exhibit varying thresholds and responses to mechanical and thermal stimuli, supporting a population coding scheme.
+
+## 10
+**Does ipsilateral remapping following hand loss impact motor control of the intact hand?**  
+Tucciarelli R, Ejaz N, Wesselink D, Kolli V, Hodgetts C, Diedrichsen J, Makin T  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.19.537443)
+
+**ChatGPT summary**: This study investigates brain and behavioral adaptations in individuals with a missing hand, examining sensorimotor learning and neural representation in one-handers and amputees. The results indicate that enhanced activity in the missing hand territory may not reflect intact hand function, suggesting that plasticity is more restricted than previously thought and may depend on the availability of homologous pathways acquired early in life.
+
+## 11
+**Translating deep learning to neuroprosthetic control**  
+Deo D, Willett F, Avansino D, Hochberg L, Henderson J, Shenoy K  
+[bioRxiv](https://dx.doi.org/10.1101/2023.04.21.537581)
+
+**ChatGPT summary**: This study tests recurrent neural networks (RNNs) for decoding continuous bimanual movement in brain-computer interfaces (BCIs), finding that RNNs overfit to temporal structure in training data, resulting in poor real-time control. By developing a method that alters the temporal structure of the training data, the authors successfully enabled a person with paralysis to control two computer cursors simultaneously, greatly outperforming standard linear methods and suggesting potential for translating deep learning advances to the BCI setting.
+
+
+## 12
+**Tapping on a target: dealing with uncertainty about its position and motion**  
+Brenner E, de la Malla C, Smeets J  
+[Exp Brain Res](https://dx.doi.org/10.1007/s00221-022-06503-7)
+
+**ChatGPT summary**: This study investigates how people balance the trade-off between improving precision and reducing bias when estimating the location of a target object during reaching movements. The findings show that individuals continuously update visual information, combine it with extrapolation based on recent target velocity, and compensate for errors made in previous trials, resulting in precise and accurate goal-directed movements.
+
+
+
+## Superlab Papers
+
+**A task-general connectivity model reveals variation in convergence of cortical inputs to functional regions of the cerebellum**  
+King M, Shahshahani L, Ivry R, Diedrichsen J  
+[eLife](https://dx.doi.org/10.7554/elife.81511)
+
+**ChatGPT summary**: This study uses task-based fMRI data to investigate the degree of convergence of cortical inputs onto cerebellar circuits. The findings reveal that cerebellar regions receive convergent inputs from multiple cortical areas, with the highest degree of convergence observed in areas related to language, working memory, and social cognition, suggesting functional differences in cerebellar support for motor and cognitive functions.
+
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

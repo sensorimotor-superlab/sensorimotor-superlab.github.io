@@ -1,0 +1,54 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #282A35;
+$body-color: #D5DaE3;
+$link-color: #75AADB;
+
+// navbar
+$navbar-bg: #313341;
+$navbar-color: #D5DaE3;
+$navbar-border-color: #5d6065;
+
+// sidebar
+$sidebar-bg: #313341;
+
+// Code blocks
+//$code-block-bg-alpha: -.8;
+$code-block-bg: #4F515A;
+$code-block-color: #D5DaE3;
+$code-bg: #4F515A;
+$code-color: #D5DaE3;
+
+
+/*-- scss:rules --*/
+h2 {
+    border-bottom-color: #5d6065;
+  }
+  
+.navbar {
+    border-bottom-color: #5d6065;
+}  
+
+.navbar-logo {
+  max-height: 96px;
+  width: auto;
+  padding-right: 4px;
+}
+
+h2 {
+  border-bottom-width: 0px;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #5d6065;
+  margin-top: 40px;
+  margin-bottom: 3px;
+}
+
+tr, th {
+  border-color: #5d6065;
+}
+
+.table {
+  border-top-color: #5d6065;
+}
+

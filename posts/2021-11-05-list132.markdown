@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 132"
+date:   2021-11-05 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+## 1
+**A synaptic learning rule for exploiting nonlinear dendritic computation**  
+Bicknell BA, Häusser M  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.09.044)
+
+## 2
+**Mixed-horizon optimal feedback control as a model of human movement**  
+Česonis J, Franklin DW  
+[arXiv [q-bioQM] (2021)](https://arxiv.org/abs/2104.06275)
+
+## 3
+**De novo motor learning of a bimanual control task over multiple days of practice**  
+Haith AM, Yang C, Pakpoor J, Kita K  
+[bioRxiv:2021.10.21.465196](https://www.biorxiv.org/content/10.1101/2021.10.21.465196v1)
+
+## 4
+**Multi-area recordings and optogenetics in the awake, behaving marmoset**  
+Jendritza P, Klein FJ, Fries P  
+[bioRxiv:2021.10.30.466578](https://www.biorxiv.org/content/10.1101/2021.10.30.466578v1)
+
+## 5
+**Long-term stability of neural activity in the motor system**  
+Jensen KT, Harpaz NK, Dhawale AK, Wolff SBE, Ölveczky BP  
+[bioRxiv:2021.10.27.465945](https://www.biorxiv.org/content/10.1101/2021.10.27.465945v1)
+
+## 6
+**Tickle contagion in the somatosensory cortex**  
+Kaufmann LV, Brecht M, Ishiyama S  
+[bioRxiv:2021.10.22.465426](https://www.biorxiv.org/content/10.1101/2021.10.22.465426v1)
+
+## 7
+**Your head is there to move you around: Goal-driven models of the primate dorsal pathway**  
+Mineault PJ, Bakhtiari S, Richards BA, Pack CC  
+[bioRxiv:2021.07.09.451701](https://www.biorxiv.org/content/10.1101/2021.07.09.451701v3.abstract?%3Fcollection=)
+
+## 8
+**Corticospinal populations broadcast complex motor signals to coordinated spinal and striatal circuits**  
+Nelson A, Abdelmesih B, Costa RM  
+[Nat Neurosci (2021)](https://www.nature.com/articles/s41593-021-00939-w)
+
+## 9
+**Efference copies: Context matters when ignoring self-induced motion**  
+Nicholas S, Nordström K  
+[Curr Biol 31:R1388–R1390 (2021)](https://dx.doi.org/10.1016/j.cub.2021.09.016)
+
+## 10
+**COVID-19, stress, and inequities in (neuro)science**  
+Sandi C, Carey MR  
+[Neuron (2021)](https://dx.doi.org/10.1016/j.neuron.2021.08.031)
+
+## 11
+**The neural mechanisms of manual dexterity**  
+Sobinov AR, Bensmaia SJ  
+[Nat Rev Neurosci (2021)](https://dx.doi.org/10.1038/s41583-021-00528-7)
+
+## 12
+**Neural network models for spinal implementation of muscle synergies**  
+Song Y, Hirashima M, Takei T  
+[bioRxiv:2021.10.27.466061](https://www.biorxiv.org/content/10.1101/2021.10.27.466061v1)
+
+## 13
+**Forms of explanation and understanding for neuroscience and artificial intelligence**  
+Thompson JAF  
+[J Neurophysiol (2021)](https://dx.doi.org/10.1152/jn.00195.2021)
+
+
+
+## Superlab Papers
+
+**Motor planning brings human primary somatosensory cortex into action-specific preparatory states**  
+Ariani G, Pruszynski JA, Diedrichsen J  
+[bioRxiv:2020.12.17.423254](https://www.biorxiv.org/content/10.1101/2020.12.17.423254v4)
+
+
+
+## Subscribe
+Subscribe and have the list sent to your email inbox automatically each Friday morning. Sign up here: [https://superlab.ca/subscribe](https://superlab.ca/subscribe)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

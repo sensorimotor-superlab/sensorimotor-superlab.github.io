@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "Reading List 90"
+date:   2020-10-16 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Online proprioception feeds plasticity of arm representation following tool-use in healthy aging**  
+Bahmad S, Miller LE, Pham MT, Moreau R, Salemme R, Koun E, Farnè A, Roy AC  
+Sci Rep 10:17275 (2020)  
+[https://dx.doi.org/10.1038/s41598-020-74455-5](https://dx.doi.org/10.1038/s41598-020-74455-5)
+
+## 2
+**Practice modifies the response to errors during a novel motor sequence learning task**  
+Rachaveti D, Ranganathan R, Varadhan SKM  
+bioRxiv:2020.10.09.334169 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.09.334169v1](https://www.biorxiv.org/content/10.1101/2020.10.09.334169v1)
+
+## 3
+**Motor resonance is modulated by an object’s weight distribution**  
+Rens G, Orban de Xivry J-J, Davare M, van Polanen V  
+bioRxiv:2020.10.11.335000 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.11.335000v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.10.11.335000v1.abstract?%3Fcollection=)
+
+## 4
+**Neural activity during a simple reaching task in macaques is counter to gating and rebound in basal ganglia-thalamic communication**  
+Schwab BC, Kase D, Zimnik A, Rosenbaum R, Codianni MG, Rubin JE, Turner RS  
+PLoS Biol 18:e3000829 (2020)  
+[https://dx.doi.org/10.1371/journal.pbio.3000829](https://dx.doi.org/10.1371/journal.pbio.3000829)
+
+## 5
+**Recurrent neural networks can explain flexible trading of speed and accuracy in biological vision**  
+Spoerer CJ, Kietzmann TC, Mehrer J, Charest I, Kriegeskorte N  
+PLoS Comput Biol 16:e1008215 (2020)  
+[https://dx.doi.org/10.1371/journal.pcbi.1008215](https://dx.doi.org/10.1371/journal.pcbi.1008215)
+
+## 6
+**Multiscale communication in cortico-cortical networks**  
+Bazinet V, de Wael RV, Hagmann P, Bernhardt BC, Misic B  
+bioRxiv:2020.10.02.323030 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.02.323030v1](https://www.biorxiv.org/content/10.1101/2020.10.02.323030v1)
+
+## 7
+**Multiscale and multimodal reconstruction of cortical structure and function**  
+Turner NL et al.  
+bioRxiv:2020.10.14.338681 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.14.338681v2](https://www.biorxiv.org/content/10.1101/2020.10.14.338681v2)
+
+## 8
+**Cellular Anatomy of the Mouse Primary Motor Cortex**  
+Muñoz-Castañeda R et al.  
+bioRxiv:2020.10.02.323154 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.10.02.323154v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.10.02.323154v1.abstract?%3Fcollection=)
+
+## 9
+**High-throughput whole-brain mapping of rhesus monkey at micron resolution**  
+Xu F, Shen Y, Ding L, Yang C-Y, Tan H, Wang H, Zhu Q, Xu R, Wu F, Xu C, Li Q, Su P, Zhang LI, Dong H, Desimone R, Xu F, Hu X, Lau P-M, Bi G-Q  
+bioRxiv:2020.09.25.313395 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.09.25.313395v1](https://www.biorxiv.org/content/10.1101/2020.09.25.313395v1)
+
+## 10
+**Inference and Prediction Diverge in Biomedicine**  
+Bzdok D, Engemann D, Thirion B  
+Patterns (2020)  
+[https://www.cell.com/article/S2666389920301604/abstract](https://www.cell.com/article/S2666389920301604/abstract)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

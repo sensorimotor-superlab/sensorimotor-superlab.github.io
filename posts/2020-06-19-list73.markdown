@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 73"
+date:   2020-06-19 06:00:00 -0500
+categories: readinglist
+---
+
+# 
+
+Here are the articles that we have been reading this week.
+
+Enjoy!  
+---Paul, Andrew & Jörn
+
+## 1
+**Reaching around obstacles accounts for uncertainty in coordinate transformations**  
+Abedi Khoozani P, Voudouris D, Blohm G, Fiehler K  
+J Neurophysiol 123:1920–1932 (2020)  
+[https://dx.doi.org/10.1152/jn.00049.2020](https://dx.doi.org/10.1152/jn.00049.2020)
+
+## 2
+**The Effect of Rewards and Punishments on Learning Action Selection and Execution Components of a Motor Skill**  
+Bacelar MFB, Lohse KR, Miller MW  
+Journal of Motor Learning and Development (2020)  
+[https://dx.doi.org/10.1123/jmld.2019-0039](https://dx.doi.org/10.1123/jmld.2019-0039)
+
+## 3
+**Tactile active sensing in insect-plant pollination**  
+Deora T, Ahmed MA, Daniel TL, Brunton BW  
+bioRxiv:2020.06.16.155507 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.16.155507v1](https://www.biorxiv.org/content/10.1101/2020.06.16.155507v1)
+
+## 4
+**Cortical activity at different time scales: high-pass filtering separates motor planning and execution**  
+Eriksson D, Heiland M, Schneider A, Diester I  
+bioRxiv:857300 (2020)  
+[https://www.biorxiv.org/content/10.1101/857300v2](https://www.biorxiv.org/content/10.1101/857300v2)
+
+## 5
+Kieliba P, Clode D, Maimon-Mor RO, Makin TR  
+**Neurocognitive consequences of hand augmentation**  
+bioRxiv:2020.06.16.151944 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.16.151944v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.06.16.151944v1.abstract?%3Fcollection=)
+
+## 6
+**Predicting precision grip grasp locations on three-dimensional objects**  
+Klein LK, Maiello G, Paulun VC, Fleming RW  
+bioRxiv:476176 (2020)  
+[https://www.biorxiv.org/content/10.1101/476176v2](https://www.biorxiv.org/content/10.1101/476176v2)
+
+## 7
+Newbold DJ et al.  
+**Plasticity and Spontaneous Activity Pulses in Disused Human Brain Circuits**  
+Neuron (2020)  
+[https://www.cell.com/article/S0896627320303536/abstract](https://www.cell.com/article/S0896627320303536/abstract)
+
+Also check out the [tweeprint](https://twitter.com/dillannewbold/status/1272934790732435456?s=21).
+
+## 8
+**The sensorimotor strategies and neuronal representations of tactile shape discrimination in mice**  
+Rodgers CC, Nogueira R, Christina Pil B, Greeman EA, Fusi S, Bruno RM  
+bioRxiv:2020.06.16.126631 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.16.126631v1](https://www.biorxiv.org/content/10.1101/2020.06.16.126631v1)
+
+## 9
+**Reward-based invigoration of sequential reaching**  
+Sporn S, Chen X, Galea JM  
+bioRxiv:2020.06.15.152876 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.15.152876v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.06.15.152876v1.abstract?%3Fcollection=)
+
+## 10
+**Idiosyncratic Perception: A Link Between Acuity, Perceived Position, and Apparent Size**  
+Wang Z, Murai Y, Whitney D  
+bioRxiv:2020.06.09.143081 (2020)  
+[https://www.biorxiv.org/content/10.1101/2020.06.09.143081v1.abstract?%3Fcollection=](https://www.biorxiv.org/content/10.1101/2020.06.09.143081v1.abstract?%3Fcollection=)
+
+
+# Disclaimer
+Please keep in mind that the appearance of a paper on our reading list should not necessarily be considered an endorsement of the work unless of course we explicitly endorse it, for example in a blurb. As always, please read papers with a critical eye.

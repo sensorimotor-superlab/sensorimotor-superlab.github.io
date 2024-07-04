@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "Reading List 226"
+date:   2024-01-05 06:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab 
+
+
+## 1
+**Accessing populations of motor units**  
+Kirk EA, Sauerbrei BA  
+[Elife 13:e94764](https://elifesciences.org/articles/94764)
+
+## 2
+**Inferring neural activity before plasticity as a foundation for learning beyond backpropagation**  
+Song Y, Millidge B, Salvatori T, Lukasiewicz T, Xu Z, Bogacz R  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01514-1)
+
+## 3
+**The archerfish can use motor adaptation to correct for light refraction at the water air interface**  
+Volotsky S, Donchin O, Segev R  
+[eLife](https://elifesciences.org/reviewed-preprints/92909)
+
+## 4
+**On prefrontal working memory and hippocampal episodic memory: Unifying memories stored in weights and activation slots**  
+Whittington JCR, Dorrell W, Behrens TEJ, Ganguli S, El-Gaby M  
+[bioRxiv:2023.11.05.565662](https://www.biorxiv.org/content/10.1101/2023.11.05.565662v1.abstract)
+
+## 5
+**Somatosensory cortex microstimulation modulates primary motor and premotor cortex neurons with extensive spatial convergence and divergence**  
+Ruszala B, Mazurek KA, Schieber MH  
+[bioRxiv:2023.08.05.552025](https://www.biorxiv.org/content/10.1101/2023.08.05.552025v2.abstract)
+
+## 6
+**Timing and precision of rattlesnake spinal motoneurons are determined by the KV72/3 potassium channel**  
+Bothe MS, Kohl T, Felmy F, Gallant J, Chagnaud BP  
+[Curr Biol](http://www.cell.com/article/S0960982223016500/abstract)
+
+## 7
+**Performance reserves in brain-imaging-based phenotype prediction**  
+Schulz M-A, Bzdok D, Haufe S, Haynes J-D, Ritter K  
+[Cell Rep 43:113597](https://www.cell.com/article/S2211124723016091/abstract)
+
+## 8
+**The Neuron as a Direct Data-Driven Controller**  
+Moore J, Genkin A, Tournoy M, Pughe-Sanford J, van Steveninck RR de R, Chklovskii DB  
+[bioRxiv:2024.01.02.573843](https://www.biorxiv.org/content/10.1101/2024.01.02.573843v1.abstract)
+
+## 9
+**The brainstem’s red nucleus was evolutionarily upgraded to support goal-directed action**  
+Krimmel SR et al.  
+[bioRxiv:2023.12.30.573730](https://www.biorxiv.org/content/10.1101/2023.12.30.573730v1.abstract)
+
+## 10
+**Kernels of Motor Memory Formation: Temporal Generalization in Bimanual Adaptation**  
+Howard IS, Franklin S, Franklin DW  
+[bioRxiv:2024.01.03.574029](https://www.biorxiv.org/content/10.1101/2024.01.03.574029v1.abstract)
+
+## 11
+**Dynamical constraints on neural population activity**  
+Oby ER, Degenhart AD, Grigsby EM, Motiwala A, Mcclain NT, Marino PJ, Yu BM, Batista AP  
+[bioRxiv:2024.01.03.573543](https://www.biorxiv.org/content/10.1101/2024.01.03.573543v1.abstract)
+
+## 12
+**A single computational objective drives specialization of streams in visual cortex**  
+Finzi D, Margalit E, Kay K, Yamins DLK, Grill-Spector K  
+[bioRxiv:2023.12.19.572460](https://biorxiv.org/content/early/2023/12/20/2023.12.19.572460.abstract)
+
+## 13
+**A tridimensional atlas of the developing human head**  
+Blain R et al.  
+[Cell 186:5910-5924.e17](https://www.cell.com/article/S0092867423012308/abstract)
+
+## 14
+**Motoneuron-driven computational muscle modelling with motor unit resolution and subject-specific musculoskeletal anatomy**  
+Caillet AH, Phillips ATM, Farina D, Modenese L  
+[PLoS Comput Biol 19:e1011606](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011606)
+
+## 15
+**Compact deep neural network models of visual cortex**  
+Cowley BR, Stan PL, Pillow JW, Smith MA  
+[bioRxiv:2023.11.22.568315](https://biorxiv.org/content/early/2023/11/23/2023.11.22.568315.abstract)
+
+## 16
+**Why the simplest explanation isn’t always the best**  
+Dyer EL, Kording K  
+[Proc Natl Acad Sci USA 120](https://dx.doi.org/10.1073/pnas.2319169120)
+
+## 17
+**Reversible deactivation of motor cortex reveals that areas in parietal cortex are differentially dependent on motor cortex for the generation of movement**  
+Bresee CS, Cooke DF, Goldring AB, Baldwin MKL, Pineda CR, Krubitzer LA  
+[J Neurophysiol](https://dx.doi.org/10.1152/jn.00086.2023)
+
+## 18
+**Action history and target uncertainty co-determine human reaching direction under time pressure**  
+Keane B, Smith L, Carroll TJ  
+[bioRxiv:2023.12.17.572036](https://www.biorxiv.org/content/10.1101/2023.12.17.572036v1.abstract)
+
+## 19
+**Knowing what you don’t know: Estimating the uncertainty of feedforward and feedback inputs with prediction-error circuits**  
+Hertäg L, Wilmes KA, Clopath C  
+[bioRxiv:2023.12.13.571410](https://www.biorxiv.org/content/10.1101/2023.12.13.571410v1.abstract)
+
+## 20
+**Post a preprint of your next research paper**  
+[Nat Hum Behav 7:2039–2039](https://www.nature.com/articles/s41562-023-01797-1)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye. 
+
