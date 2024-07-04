@@ -6,6 +6,7 @@ website:
   title: "Sensorimotor Superlab"
   site-url: https://superlab.ca
   description: "Sensorimotor Superlab Reading List"
+  page-navigation: true
   navbar:
     logo: "wusmsl_logo.png"
     right:
