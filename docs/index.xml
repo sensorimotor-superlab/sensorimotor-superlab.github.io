@@ -9,8 +9,117 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.5.53</generator>
-<lastBuildDate>Fri, 05 Jul 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.54</generator>
+<lastBuildDate>Fri, 12 Jul 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 253</title>
+  <link>https://superlab.ca/posts/2024-07-12-list253.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!<br>
+—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Flexible EMG arrays with integrated electronics for scalable electrode density</strong><br>
+Anschutz PM, Zia M, Lu J, Williams MJ, Jacob AL, Sober SJ, Bakir MS<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.02.601782v1.abstract">bioRxiv:2024.07.02.601782</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Load-dependent and load-independent effects on longitudinal motor training in human continuous hand movements</strong><br>
+Wang X, Liang X, Ku Y, Zhan Y, Song R<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.01.601475v1.abstract">bioRxiv:2024.07.01.601475</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Differential aging effects on implicit and explicit sensorimotor learning</strong><br>
+Cisneros E, Karny S, Ivry RB, Tsay JS<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.02.601091v1.abstract">bioRxiv:2024.07.02.601091</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Making Ramón y Cajal proud: Development of cell identity and diversity in the cerebral cortex</strong><br>
+Di Bella DJ, Domínguez-Iturza N, Brown JR, Arlotta P<br>
+<a href="https://www.cell.com/article/S0896627324002824/abstract">Neuron 112:2091–2111</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>A feature-specific prediction error model explains dopaminergic heterogeneity</strong><br>
+Lee RS, Sagiv Y, Engelhard B, Witten IB, Daw ND<br>
+<a href="https://www.nature.com/articles/s41593-024-01689-1">Nat Neurosci:1–13</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Structured connectivity in the output of the cerebellar cortex</strong><br>
+Gruver KM, Jiao JWY, Fields E, Song S, Sjöström PJ, Watt AJ<br>
+<a href="https://www.nature.com/articles/s41467-024-49339-1">Nat Commun 15:5563</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Flexible multitask computation in recurrent networks utilizes shared dynamical motifs</strong><br>
+Driscoll LN, Shenoy K, Sussillo D<br>
+<a href="https://www.nature.com/articles/s41593-024-01668-6">Nat Neurosci</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Training with “Digital Twins” Could Boost Olympic Swimmer Speeds</strong><br>
+Douglass K, Lamb A, Lu J, Ono K, Tenpas W<br>
+<a href="https://www.scientificamerican.com/article/training-with-digital-twins-could-boost-olympic-swimmer-speeds/">Scientific American</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Stimulus selection drives value-modulated somatosensory processing in superior colliculus</strong><br>
+Chu YW, Chinta S, Keri HVS, Beri S, Pluta SR<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.06.28.601226v1.abstract">bioRxiv:2024.06.28.601226</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Active learning for discrete latent variable models</strong><br>
+Jha A, Ashwood ZC, Pillow JW<br>
+<a href="https://doi.org/10.1162/neco_a_01646">Neural Comput 36:437–474</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Network motifs in cellular neurophysiology</strong><br>
+Mittal D, Narayanan R<br>
+<a href="http://www.cell.com/article/S0166223624000778/abstract">Trends Neurosci 47:506–521</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>GPT-3 reveals selective insensitivity to global vs.&nbsp;local linguistic context in speech produced by treatment-naive patients with positive thought disorder</strong><br>
+Sharpe V, MacKinley M, Nour Eddine S, Wang L, Palaniyappan L, Kuperberg GR<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.08.602512v1.abstract">bioRxiv:2024.07.08.602512</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>The cerebellum modulates thirst</strong><br>
+Mishra I, Feng B, Basu B, Brown AM, Kim LH, Lin T, Raza MA, Moore A, Hahn A, Bailey S, Sharp A, Bournat JC, Poulton C, Kim B, Langsner A, Sathyanesan A, Sillitoe RV, He Y, Chopra AR<br>
+<a href="https://www.nature.com/articles/s41593-024-01700-9">Nat Neurosci</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-07-12-list253.html</guid>
+  <pubDate>Fri, 12 Jul 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 252</title>
   <link>https://superlab.ca/posts/2024-07-05-list252.html</link>
@@ -1868,97 +1977,6 @@ Melchor A<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-03-01-list234.html</guid>
   <pubDate>Fri, 01 Mar 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 233</title>
-  <link>https://superlab.ca/posts/2024-02-23-list233.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Dynamic fading memory and expectancy effects in the monkey primary visual cortex</strong><br>
-Yiling Y, Klon-Lipok J, Shapcott K, Lazar A, Singer W<br>
-<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2314855121">Proc Natl Acad Sci USA 121:e2314855121</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Continuous estimation of reaching space in superficial layers of the motor cortex</strong><br>
-Galinanes GL, Huber D<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.12.01.569527v1.abstract">bioRxiv:2023.12.01.569527</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Identifying interpretable latent factors with Sparse Component Analysis</strong><br>
-Zimnik AJ, Ames KC, An X, Driscoll L, Lara AH, Russo AA, Susoy V, Cunningham JP, Paninski L, Churchland MM, Glaser JI<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.05.578988v1.abstract">bioRxiv:2024.02.05.578988</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Development of a Marmoset Apparatus for Automated Pulling (MarmoAAP) to study cooperative behaviors</strong><br>
-Meisner OC, Fagan NA, Greenwood J, Jadi M, Nandy AS, Chang SWC<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.16.579531v2.abstract">bioRxiv:2024.02.16.579531</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Dynamics of striatal action selection and reinforcement learning</strong><br>
-Lindsey J, Markowitz JE, Datta SR, Litwin-Kumar A<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.14.580408v1.abstract">bioRxiv:2024.02.14.580408</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>MRI economics: Balancing sample size and scan duration in brain wide association studies</strong><br>
-Ooi LQR, Orban C, Nichols T, Zhang S, Tan TWK, Kong R, Marek S, Dosenbach NUF, Laumann TO, Gordon EM, Zhou JH, Bzdok D, Eickhoff SB, Holmes AJ, Yeo BTT<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.16.580448v1.abstract">bioRxiv:2024.02.16.580448</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>A-SOiD, an active-learning platform for expert-guided, data-efficient discovery of behavior</strong><br>
-Tillmann JF, Hsu AI, Schwarz MK, Yttri EA<br>
-<a href="https://www.nature.com/articles/s41592-024-02200-1">Nature Methods</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Revisiting the high-dimensional geometry of population responses in visual cortex</strong><br>
-Pospisil DA, Pillow JW<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.16.580726v1.abstract">bioRxiv:2024.02.16.580726</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Targeted Stimulation of the Sensory Afferents Improves Motoneuron Function in Humans with Spinal Muscular Atrophy</strong><br>
-Prat-Ortega G et al.<br>
-<a href="https://www.medrxiv.org/content/10.1101/2024.02.14.24302709v2.abstract">medRxiv:2024.02.14.24302709</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>De Novo sensorimotor skill learning through reuse of movement components</strong><br>
-Gabriel GA, Mushtaq F, Morehead JR<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.20.581156v1.abstract">bioRxiv:2024.02.20.581156</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-02-23-list233.html</guid>
-  <pubDate>Fri, 23 Feb 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
