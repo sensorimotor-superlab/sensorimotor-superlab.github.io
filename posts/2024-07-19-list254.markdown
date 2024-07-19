@@ -1,0 +1,108 @@
+---
+layout: post
+title:  "Reading List 254"
+date:   2024-07-19 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Mental state decoders: game-changers or wishful thinking?**  
+Vigotsky AD, Iannetti GD, Apkarian AV  
+[Trends Cogn Sci](https://dx.doi.org/10.1016/j.tics.2024.06.004)
+
+## 2
+**Neural population dynamics in songbird RA and HVC during learned motor-vocal behavior**  
+Tostado-Marcos P, Arneodo EM, Ostrowski L, Brown DE II, Perez XA, Kadwory A, Stanwicks LL, Alothmanm A, Gentner TQ, Gilja V  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2407.06244)
+
+## 3
+**Synchronous theta networks characterize successful memory retrieval**  
+Rao AM, Kahana MJ  
+[bioRxiv:2024.07.12.603286](https://www.biorxiv.org/content/10.1101/2024.07.12.603286v1.abstract)
+
+## 4
+**Finding the truth in science**  
+Bik EM  
+[Nat Rev Cancer](https://www.nature.com/articles/s41568-024-00702-w)
+
+## 5
+**Creating diverse and inclusive scientific practices for research datasets and dissemination**  
+Kam JWY, Badhwar A, Borghesani V, Lee K, Noble S, Raamana PR, Ratnanather JT, Tan DGH, Oestreich LKL, Lee HW, Marzetti L, Nakua H, Rippon G, Olsen R, Pozzobon A, Uddin LQ, Yanes JA, Tzovara A  
+[Imaging Neuroscience](https://doi.org/10.1162/imag_a_00216)
+
+## 6
+**“Micro-offline gains” convey no benefit for motor skill learning**  
+Das A, Karagiorgis A, Diedrichsen J, Stenner M-P, Azanon E  
+[bioRxiv:2024.07.11.602795](https://www.biorxiv.org/content/10.1101/2024.07.11.602795v1.abstract)
+
+## 7
+**Goal-directed action preparation in humans entails a mixture of corticospinal neural computations**  
+Wadsley CG, Nguyen T, Horton C, Greenhouse I  
+[bioRxiv:2024.07.08.602530](https://www.biorxiv.org/content/10.1101/2024.07.08.602530v1.abstract)
+
+## 8
+**Coordinated response modulations enable flexible use of visual information**  
+Srinath R, Czarnik MM, Cohen MR  
+[bioRxiv:2024.07.10.602774](https://www.biorxiv.org/content/10.1101/2024.07.10.602774v1.abstract)
+
+## 9
+**Effect of juggling expertise on pointing performance in peripheral vision**  
+Jurkiewicz T, Delporte L, Revol P, Rossetti Y, Pisella L  
+[PLoS One 19:e0306630](https://doi.org/10.1371/journal.pone.0306630)
+
+## 10
+**Startling acoustic stimuli hasten choice reaching tasks by strengthening, but not changing the timing of, express visuomotor responses**  
+Weerdesteyn V, Kearsley SL, Cecala AL, MacPherson EA, Corneil BD  
+[bioRxiv:2024.07.01.601510](https://www.biorxiv.org/content/10.1101/2024.07.01.601510v1.abstract)
+
+## 11
+**Co-coding of head and whisker movements by both VPM and POm thalamic neurons**  
+Oram TB, Tenzer A, Saraf-Sinik I, Yizhar O, Ahissar E  
+[Nat Commun 15:5883](https://www.nature.com/articles/s41467-024-50039-z)
+
+## 12
+**Bridging model and experiment in systems neuroscience with Cleo: the Closed-Loop, Electrophysiology, and Optophysiology simulation testbed**  
+Johnsen KA, Cruzado NA, Menard ZC, Willats AA, Charles AS, Markowitz JE, Rozell CJ  
+[bioRxiv:2023.01.27.525963](https://www.biorxiv.org/content/10.1101/2023.01.27.525963v2.abstract)
+
+## 13
+**Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability**  
+Balalaie P, Park K, Fooken J  
+[bioRxiv:2024.07.11.603058](https://www.biorxiv.org/content/10.1101/2024.07.11.603058v1.abstract)
+
+## 14
+**Inverting a model of neuromuscular control to estimate descending activation patterns that generate fast-reaching movements**  
+Hummert C, Zhang L, Schöner G  
+[J Neurophysiol 131:1271–1285](https://journals.physiology.org/doi/10.1152/jn.00179.2023)
+
+## 15
+**Cortico-basal ganglia plasticity in motor learning**  
+Roth RH, Ding JB  
+[Neuron](https://www.cell.com/article/S0896627324004495/abstract)
+
+## 16
+**Variability in the analysis of a single neuroimaging dataset by many teams**  
+Botvinik-Nezer R et al.  
+[Nature 582:84–88](https://www.nature.com/articles/s41586-020-2314-9)
+
+## 17
+**Motor system involvement in word comprehension: faster comprehension of action words**  
+Nishkaran S  
+[PsyArXic](https://osf.io/preprints/psyarxiv/4vsja)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
