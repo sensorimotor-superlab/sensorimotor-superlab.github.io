@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Reading List 255"
+date:   2024-07-26 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Four golden lessons**  
+Weinberg S  
+[Nature 426:389](https://dx.doi.org/10.1038/426389a)
+
+## 2
+**The role of explicit knowledge in compensating for a visuo-proprioceptive cue conflict**  
+Hsiao A, Block HJ  
+[Exp Brain Res](https://link.springer.com/article/10.1007/s00221-024-06898-5)
+
+## 3
+**How and why eLife selects papers for peer review**  
+eLife Editorial Leadership, eLife Senior Editors, eLife Early Career Advisory Group  
+[Elife 13](https://elifesciences.org/articles/100571)
+
+## 4
+**Encoding of cerebellar dentate neuronal activity during visual attention in rhesus macaques**  
+Flierman NA, Koay SA, van Hoogstraten WS, Ruigrok TJH, Roelfsema PR, Badura A, De Zeeuw CI  
+[bioRxiv:2024.07.18.604119](https://www.biorxiv.org/content/10.1101/2024.07.18.604119v1.abstract)
+
+## 5
+**Towards a “universal translator” for neural dynamics at single-cell, single-spike resolution**  
+Zhang Y, Wang Y, Jimenez-Beneto D, Wang Z, Azabou M, Richards B, Winter O, International Brain Laboratory, Dyer E, Paninski L, Hurwitz C  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2407.14668)
+
+## 6
+**Cerebellar output shapes cortical preparatory activity during motor adaptation**  
+Israely S, Ninou H, Rajchert O, Elmaleh L, Harel R, Mawase F, Kadmon J, Prut Y  
+[bioRxiv:2024.07.12.603354](https://www.biorxiv.org/content/10.1101/2024.07.12.603354v1.abstract)
+
+## 7
+**Control of tongue movements by the Purkinje cells of the cerebellum**  
+Hage P, Fakharian MA, Shoup AM, Pi JS, Sedaghat-Nejad E, Orozco SP, Jang IK, Looi V, Arginteanu T, Shadmehr R  
+[bioRxiv:2024.07.25.604757](https://www.biorxiv.org/content/10.1101/2024.07.25.604757v1.abstract)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

@@ -9,8 +9,81 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.5.54</generator>
-<lastBuildDate>Fri, 19 Jul 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.55</generator>
+<lastBuildDate>Fri, 26 Jul 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 255</title>
+  <link>https://superlab.ca/posts/2024-07-26-list255.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!<br>
+—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Four golden lessons</strong><br>
+Weinberg S<br>
+<a href="https://dx.doi.org/10.1038/426389a">Nature 426:389</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>The role of explicit knowledge in compensating for a visuo-proprioceptive cue conflict</strong><br>
+Hsiao A, Block HJ<br>
+<a href="https://link.springer.com/article/10.1007/s00221-024-06898-5">Exp Brain Res</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>How and why eLife selects papers for peer review</strong><br>
+eLife Editorial Leadership, eLife Senior Editors, eLife Early Career Advisory Group<br>
+<a href="https://elifesciences.org/articles/100571">Elife 13</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Encoding of cerebellar dentate neuronal activity during visual attention in rhesus macaques</strong><br>
+Flierman NA, Koay SA, van Hoogstraten WS, Ruigrok TJH, Roelfsema PR, Badura A, De Zeeuw CI<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.18.604119v1.abstract">bioRxiv:2024.07.18.604119</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Towards a “universal translator” for neural dynamics at single-cell, single-spike resolution</strong><br>
+Zhang Y, Wang Y, Jimenez-Beneto D, Wang Z, Azabou M, Richards B, Winter O, International Brain Laboratory, Dyer E, Paninski L, Hurwitz C<br>
+<a href="https://arxiv.org/abs/2407.14668">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Cerebellar output shapes cortical preparatory activity during motor adaptation</strong><br>
+Israely S, Ninou H, Rajchert O, Elmaleh L, Harel R, Mawase F, Kadmon J, Prut Y<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.12.603354v1.abstract">bioRxiv:2024.07.12.603354</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Control of tongue movements by the Purkinje cells of the cerebellum</strong><br>
+Hage P, Fakharian MA, Shoup AM, Pi JS, Sedaghat-Nejad E, Orozco SP, Jang IK, Looi V, Arginteanu T, Shadmehr R<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.25.604757v1.abstract">bioRxiv:2024.07.25.604757</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-07-26-list255.html</guid>
+  <pubDate>Fri, 26 Jul 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 254</title>
   <link>https://superlab.ca/posts/2024-07-19-list254.html</link>
@@ -1934,91 +2007,6 @@ Bundt C, Huster RJ<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-03-15-list236.html</guid>
   <pubDate>Fri, 15 Mar 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 235</title>
-  <link>https://superlab.ca/posts/2024-03-08-list235.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Spatio-molecular profiles shape the human cerebellar hierarchy along the sensorimotor-association axis</strong><br>
-Wang Y, Wang Y, Wang H, Ma L, Eickhoff SB, Madsen KH, Chu C, Fan L<br>
-<a href="https://dx.doi.org/10.1016/j.celrep.2024.113770">Cell Rep 43:113770</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>PhysMAP - interpretablein vivoneuronal cell type identification using multi-modal analysis of electrophysiological data</strong><br>
-Lee EK, Gül AE, Heller G, Lakunina A, Jaramillo S, Przytycki PF, Chandrasekaran C<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.28.582461v1.abstract">bioRxiv:2024.02.28.582461</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Opinion: Science in the age of selfies</strong><br>
-Geman D, Geman S<br>
-<a href="https://www.pnas.org/lookup/doi/10.1073/pnas.1609793113">Proc Natl Acad Sci USA 113:9384–9387</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Voluntary co-contraction of ankle muscles alters motor unit discharge characteristics and reduces estimates of persistent inward currents</strong><br>
-Gomes MM, Jenz ST, Beauchamp JA, Negro F, Heckman CJ, Pearcey GEP<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.28.582534v1.abstract">bioRxiv:2024.02.28.582534</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Modulations of stretch reflex by altering visuomotor contexts</strong><br>
-Ito S, Gomi H<br>
-<a href="https://dx.doi.org/10.3389/fnhum.2024.1336629">Front Hum Neurosci 18</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>A mouse DRG genetic toolkit reveals morphological and physiological diversity of somatosensory neuron subtypes</strong><br>
-Qi L, Iskols M, Shi D, Reddy P, Walker C, Lezgiyeva K, Voisin T, Pawlak M, Kuchroo VK, Chiu IM, Ginty DD, Sharma N<br>
-<a href="https://dx.doi.org/10.1016/j.cell.2024.02.006">Cell</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Miniature linear and split-belt treadmills reveal mechanisms of adaptive motor control in walking Drosophila</strong><br>
-Pratt BG, Lee S-YJ, Chou GM, Tuthill JC<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.23.581656v1.abstract">bioRxiv:2024.02.23.581656</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Collective sensing in electric fish</strong><br>
-Pedraja F, Sawtell NB<br>
-<a href="https://www.nature.com/articles/s41586-024-07157-x">Nature</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Preparatory activity and the expansive null-space</strong><br>
-Churchland MM, Shenoy KV<br>
-<a href="https://www.nature.com/articles/s41583-024-00796-z">Nat Rev Neurosci</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-03-08-list235.html</guid>
-  <pubDate>Fri, 08 Mar 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
