@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 256"
+date:   2024-08-02 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Non-invasive ultrasound deep neuromodulation of the human nucleus accumbens increases win-stay behaviour**  
+Yaakub SN, Bault N, Lojkiewiez M, Bellec E, Roberts J, Philip NS, Rushworth MFS, Fouragnan EF  
+[bioRxiv:2024.07.25.605068](https://www.biorxiv.org/content/10.1101/2024.07.25.605068v1.abstract)
+
+## 2
+**Motor cortex latent dynamics encode spatial and temporal arm movement parameters independently**  
+Colins Rodriguez A, Perich MG, Miller L, Humphries MD  
+[J Neurosci:e1777232024](https://www.jneurosci.org/content/early/2024/07/24/JNEUROSCI.1777-23.2024.abstract)
+
+## 3
+**Complex behavior from intrinsic motivation to occupy future action-state path space**  
+Ramírez-Ruiz J, Grytskyy D, Mastrogiuseppe C, Habib Y, Moreno-Bote R  
+[Nat Commun 15:6368](https://www.nature.com/articles/s41467-024-49711-1)
+
+## 4
+**Optimized ultrasound neuromodulation for non-invasive control of behavior and physiology**  
+Murphy KR, Farrell JS, Bendig J, Mitra A, Luff C, Stelzer IA, Yamaguchi H, Angelakos CC, Choi M, Bian W, DiIanni T, Pujol EM, Matosevich N, Airan R, Gaudillière B, Konofagou EE, Butts-Pauly K, Soltesz I, de Lecea L  
+[Neuron](https://www.cell.com/article/S0896627324004938/abstract)
+
+## 5
+**Temporal modulation of tactile perception during balance control**  
+Wachsmann FD, Fiehler K, Voudouris D  
+[bioRxiv:2023.11.02.565260](https://www.biorxiv.org/content/10.1101/2023.11.02.565260v2.abstract)
+
+## 6
+**Spiking attractor model of motor cortex explains modulation of neural and behavioral variability by prior target information**  
+Rostami V, Rost T, Schmitt FJ, van Albada SJ, Riehle A, Nawrot MP  
+[Nat Commun 15:6304](https://www.nature.com/articles/s41467-024-49889-4)
+
+## 7
+**Evidence for an efferent-based prediction contributing to implicit motor adaptation**  
+Szarka A, Kim HE, Inglis JT, Chua R  
+[bioRxiv:2024.07.29.605662](https://www.biorxiv.org/content/10.1101/2024.07.29.605662v1.abstract)
+
+## 8
+**Enhancer AAVs for targeting spinal motor neurons and descending motor pathways in rodents and macaque**  
+Kussick E et al.  
+[bioRxiv:2024.07.30.605864](https://www.biorxiv.org/content/10.1101/2024.07.30.605864v1.abstract)
+
+## 9
+**Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks**  
+Fascianelli V, Battista A, Stefanini F, Tsujimoto S, Genovesio A, Fusi S  
+[Nat Commun](https://www.nature.com/articles/s41467-024-50503-w)
+
+## 10
+**Direct observation of the neural computations underlying a single decision**  
+Steinemann NA, Stine GM, Trautmann EM, Zylberberg A, Wolpert DM, Shadlen MN  
+[eLife](https://elifesciences.org/reviewed-preprints/90859)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+

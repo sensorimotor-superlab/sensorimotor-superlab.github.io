@@ -9,8 +9,99 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.5.55</generator>
-<lastBuildDate>Fri, 26 Jul 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.56</generator>
+<lastBuildDate>Fri, 02 Aug 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 256</title>
+  <link>https://superlab.ca/posts/2024-08-02-list256.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!<br>
+—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Non-invasive ultrasound deep neuromodulation of the human nucleus accumbens increases win-stay behaviour</strong><br>
+Yaakub SN, Bault N, Lojkiewiez M, Bellec E, Roberts J, Philip NS, Rushworth MFS, Fouragnan EF<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.25.605068v1.abstract">bioRxiv:2024.07.25.605068</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Motor cortex latent dynamics encode spatial and temporal arm movement parameters independently</strong><br>
+Colins Rodriguez A, Perich MG, Miller L, Humphries MD<br>
+<a href="https://www.jneurosci.org/content/early/2024/07/24/JNEUROSCI.1777-23.2024.abstract">J Neurosci:e1777232024</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Complex behavior from intrinsic motivation to occupy future action-state path space</strong><br>
+Ramírez-Ruiz J, Grytskyy D, Mastrogiuseppe C, Habib Y, Moreno-Bote R<br>
+<a href="https://www.nature.com/articles/s41467-024-49711-1">Nat Commun 15:6368</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Optimized ultrasound neuromodulation for non-invasive control of behavior and physiology</strong><br>
+Murphy KR, Farrell JS, Bendig J, Mitra A, Luff C, Stelzer IA, Yamaguchi H, Angelakos CC, Choi M, Bian W, DiIanni T, Pujol EM, Matosevich N, Airan R, Gaudillière B, Konofagou EE, Butts-Pauly K, Soltesz I, de Lecea L<br>
+<a href="https://www.cell.com/article/S0896627324004938/abstract">Neuron</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Temporal modulation of tactile perception during balance control</strong><br>
+Wachsmann FD, Fiehler K, Voudouris D<br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.11.02.565260v2.abstract">bioRxiv:2023.11.02.565260</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Spiking attractor model of motor cortex explains modulation of neural and behavioral variability by prior target information</strong><br>
+Rostami V, Rost T, Schmitt FJ, van Albada SJ, Riehle A, Nawrot MP<br>
+<a href="https://www.nature.com/articles/s41467-024-49889-4">Nat Commun 15:6304</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Evidence for an efferent-based prediction contributing to implicit motor adaptation</strong><br>
+Szarka A, Kim HE, Inglis JT, Chua R<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.29.605662v1.abstract">bioRxiv:2024.07.29.605662</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Enhancer AAVs for targeting spinal motor neurons and descending motor pathways in rodents and macaque</strong><br>
+Kussick E et al.<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.30.605864v1.abstract">bioRxiv:2024.07.30.605864</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Neural representational geometries reflect behavioral differences in monkeys and recurrent neural networks</strong><br>
+Fascianelli V, Battista A, Stefanini F, Tsujimoto S, Genovesio A, Fusi S<br>
+<a href="https://www.nature.com/articles/s41467-024-50503-w">Nat Commun</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Direct observation of the neural computations underlying a single decision</strong><br>
+Steinemann NA, Stine GM, Trautmann EM, Zylberberg A, Wolpert DM, Shadlen MN<br>
+<a href="https://elifesciences.org/reviewed-preprints/90859">eLife</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-08-02-list256.html</guid>
+  <pubDate>Fri, 02 Aug 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 255</title>
   <link>https://superlab.ca/posts/2024-07-26-list255.html</link>
@@ -1904,109 +1995,6 @@ Gorko B, Siwanowicz I, Close K, Christoforou C, Hibbard KL, Kabra M, Lee A, Park
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-03-22-list237.html</guid>
   <pubDate>Fri, 22 Mar 2024 10:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 236</title>
-  <link>https://superlab.ca/posts/2024-03-15-list236.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>The direction of theta and alpha travelling waves modulates human memory processing</strong><br>
-Mohan UR, Zhang H, Ermentrout B, Jacobs J<br>
-<a href="https://www.nature.com/articles/s41562-024-01838-3">Nature Human Behaviour</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Modulation of somatosensory signal transmission in the primate cuneate nucleus during voluntary hand movement</strong><br>
-Kubota S, Sasaki C, Kikuta S, Ito S, Gomi H, Oya T, Seki K<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.05.09.540100v1">bioRxiv:2023.05.09.540100</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Mechanosensory encoding of forces in walking uphill and downhill: force feedback can stabilize leg movements in stick insects</strong><br>
-Zill SN, Dallmann CJ, Zyhowski WP, Chaudhry H, Gebehart C, Szczecinski NS<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00414.2023">J Neurophysiol</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>The past, present, and future of the brain imaging data structure (BIDS)</strong><br>
-Poldrack RA et al.<br>
-<a href="https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag_a_00103/2345950/imag_a_00103.pdf">Imaging Neuroscience</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Interpretable statistical representations of neural population dynamics and geometry</strong><br>
-Gosztolai A, Peach RL, Arnaudon A, Barahona M, Vandergheynst P<br>
-<a href="https://arxiv.org/abs/2304.03376">arXiv [csLG]</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Heavy-tailed neuronal connectivity arises from Hebbian self-organization</strong><br>
-Lynn CW, Holmes CM, Palmer SE<br>
-<a href="https://www.nature.com/articles/s41567-023-02332-9">Nature Physics 20:484–491</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Niimath and fslmaths: Replication as a method to enhance popular neuroimaging tools</strong><br>
-Rorden C, Webster M, Drake C, Jenkinson M, Clayden JD, Li N, Hanayik T<br>
-<a href="https://apertureneuro.org/article/94384-niimath-and-fslmaths-replication-as-a-method-to-enhance-popular-neuroimaging-tools">Aperture Neuro 4</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Earlier finish of motor planning in the premotor cortex predicts faster motor command in the primary motor cortex: human intracranial EEG evidence</strong><br>
-Xia J, Gong D, Han B, Guo Q, Fink GR, Daun S, Chen Q<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.03.05.583627v1.abstract">bioRxiv:2024.03.05.583627</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Dynamic similarity and the peculiar allometry of maximum running speed</strong><br>
-Labonte D, Bishop PJ, Dick TJM, Clemente CJ<br>
-<a href="https://www.nature.com/articles/s41467-024-46269-w">Nature Communications</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>The neuroscientist formerly known as Prince’s audio engineer</strong><br>
-Gulland A<br>
-<a href="https://dx.doi.org/10.1038/d41586-024-00791-5">Nature</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Active filtering of sequences of neural activity by recurrent circuits of sensory cortex</strong><br>
-Deveau CE, Zhou Z, LaFosse PK, Deng Y, Mirbagheri S, Steinmetz N, Histed MH<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.24.581890v1.abstract">bioRxiv:2024.02.24.581890</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>Corticospinal excitability reductions during action preparation and action stopping in humans: Different sides of the same inhibitory coin?</strong><br>
-Bundt C, Huster RJ<br>
-<a href="https://dx.doi.org/10.1016/j.neuropsychologia.2024.108799">Neuropsychologia 195:108799</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-03-15-list236.html</guid>
-  <pubDate>Fri, 15 Mar 2024 10:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
