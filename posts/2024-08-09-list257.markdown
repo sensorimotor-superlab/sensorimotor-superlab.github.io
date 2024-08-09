@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 257"
+date:   2024-08-09 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Space is a latent sequence: A theory of the hippocampus**  
+Raju RV, Guntupalli JS, Zhou G, Wendelken C, Lázaro-Gredilla M, George D  
+[Sci Adv 10:eadm8470](https://www.science.org/doi/10.1126/sciadv.adm8470)
+
+## 2
+**Fundamental processes in sensorimotor learning: Reasoning, Refinement, and Retrieval**  
+Tsay JS, Kim HE, McDougle SD, Taylor JA, Haith A, Avraham G, Krakauer JW, Collins A, Ivry R  
+[PsyArXiv](https://osf.io/preprints/psyarxiv/x4652)
+
+## 3
+**Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability**  
+Balalaie P, Park K, Fooken J  
+[bioRxiv:2024.07.11.603058](https://doi.org/10.1101/2024.07.11.603058)
+
+## 4
+**Minimal impact of chronic proprioceptive loss on implicit sensorimotor adaptation and perceived movement outcome**  
+Tsay JS, Chandy AM, Chua R, Miall RC, Cole J, Farnè A, Ivry RB, Sarlegna FR  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00096.2024)
+
+## 5
+**A transthalamic pathway crucial for perception**  
+Mo C, McKinnon C, Murray Sherman S  
+[Nat Commun 15:6300](https://www.nature.com/articles/s41467-024-50163-w)
+
+## 6
+**Increased vowel contrast and intelligibility in connected speech induced by sensorimotor adaptation**  
+Beach SD, Johnson SA, Parrell B, Niziolek CA  
+[bioRxiv:2024.08.04.606537](https://www.biorxiv.org/content/10.1101/2024.08.04.606537v1.abstract)
+
+## 7
+**Prefrontal neuronal dynamics in the absence of task execution**  
+Pu S, Dang W, Qi X-L, Constantinidis C  
+[Nat Commun 15:6694](https://www.nature.com/articles/s41467-024-50717-y)
+
+## 8
+**The consolidation of newly learned movements depends upon the somatosensory cortex in humans**  
+Ebrahimi S, van der Voort B, Ostry DJ  
+[J Neurosci 44:e0629242024](https://www.jneurosci.org/content/44/32/e0629242024.abstract)
+
+## 9
+**Parcellation of the primate prefrontal cortex by cognitive control operations**  
+Wang X, Hähnke D, Nieder A, Jacob SN  
+[bioRxiv:2024.08.05.606700](https://www.biorxiv.org/content/10.1101/2024.08.05.606700v1.abstract)
+
+## Superlab Papers
+
+**Repetition effects reveal the sub-sequence representation of actions**  
+Shahbazi M, Pruszynski JA, Diedrichsen J  
+[bioRxiv:2024.08.07.607016](https://www.biorxiv.org/content/10.1101/2024.08.07.607016v1.abstract)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
