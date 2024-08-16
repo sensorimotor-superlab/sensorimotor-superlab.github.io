@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Reading List 258"
+date:   2024-08-16 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Coding of self and environment by Pacinian neurons in freely moving animals**  
+Turecek J, Ginty DD  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2024.07.008)
+
+## 2
+**A computational study of how an α- to γ-motoneurone collateral can mitigate velocity-dependent stretch reflexes during voluntary movement**  
+Niyo G, Almofeez LI, Erwin A, Valero-Cuevas FJ  
+[Proc Natl Acad Sci USA 121:e2321659121](https://www.pnas.org/doi/abs/10.1073/pnas.2321659121)
+
+## 3
+**Nonsense correlations and how to avoid them**  
+Harris K  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/behavioral-neuroscience/nonsense-correlations-and-how-to-avoid-them/)
+
+## 4
+**A posture subspace in primary motor cortex**  
+Marino PJ, Bahureksa L, Fernández Fisac C, Oby ER, Smoulder AL, Motiwala A, Degenhart AD, Grigsby EM, Joiner WM, Chase SM, Yu BM, Batista AP  
+[bioRxiv:2024.08.12.607361](https://www.biorxiv.org/content/10.1101/2024.08.12.607361v1.abstract)
+
+## 5
+**Subsets of extraocular motoneurons produce kinematically distinct saccades during hunting and exploration**  
+Dowell CK, Hawkins T, Bianco IH  
+[bioRxiv:2024.08.12.607184](https://www.biorxiv.org/content/10.1101/2024.08.12.607184v1.abstract)
+
+## 6
+**Functional electrical stimulation and brain-machine interfaces for simultaneous control of wrist and finger flexion**  
+Mender MJ, Ward AL, Cubillos LH, Kelberman MM, Costello JT, Temmar H, Wallace DM, Lin ET, Lam JLW, Willsey MS, Ganesh Kumar N, Kung TA, Patil PG, Chestek CA  
+[bioRxiv:2024.08.11.607263](https://www.biorxiv.org/content/10.1101/2024.08.11.607263v1.abstract)
+
+## 7
+**Altered cortico-cerebellar connectivity in cerebellar degeneration patients improves with motor training**  
+Nettekoven C, Draganova R, Steiner KM, Goericke SL, Deistung A, Konczak J, Timmann D  
+[bioRxiv:2024.07.05.602300](https://www.biorxiv.org/content/10.1101/2024.07.05.602300v2.abstract)
+
+## 8
+**Disrupted stimulus encoding shapes tactile perception in autism**  
+Semelidou O, Gauvrit T, Vandromme C, Cornier A, Saint-Jean A, Le Feuvre Y, Ginger M, Frick A  
+[bioRxiv:2024.08.08.607129](https://www.biorxiv.org/content/10.1101/2024.08.08.607129v1.abstract)
+
+## 9
+**Antifragility in complex dynamical systems**  
+Axenie C, López-Corona O, Makridis MA, Akbarzadeh M, Saveriano M, Stancu A, West J  
+[npj Complex](https://www.nature.com/articles/s44260-024-00014-y)
+
+## 10
+**Superior performance by two new methods in identifying the online reaction time of reaching movements**  
+Tanis D, Kurtzer I  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00379.2023)
+
+## 11
+**An accurate and rapidly calibrating speech neuroprosthesis**  
+Card NS, Wairagkar M, Iacobacci C, Hou X, Singer-Clark T, Willett FR, Kunz EM, Fan C, Vahdati Nia M, Deo DR, Srinivasan A, Choi EY, Glasser MF, Hochberg LR, Henderson JM, Shahlaie K, Stavisky SD, Brandman DM  
+[N Engl J Med 391:609–618](https://www.nejm.org/doi/full/10.1056/NEJMoa2314132)
+
+## 12
+**Diffusion-based generation of neural activity from disentangled latent Codes**  
+McCart JD, Sedler AR, Versteeg C, Mifsud D, Rigotti-Thompson M, Pandarinath C  
+[arXiv [csLG]](http://arxiv.org/abs/2407.21195)
+
+## 13
+**A rigorous and versatile statistical test for correlations between stationary time series**  
+Yuan AE, Shou W  
+[PLoS Biol 22:e3002758](https://doi.org/10.1371/journal.pbio.3002758)
+
+## 14
+**Phase-dependent visual and sensorimotor integration of features for grasp computations before and after effector specification**  
+Guo LL, Niemeier M  
+[J Neurosci 44:e2208232024](https://www.jneurosci.org/content/44/33/e2208232024.abstract)
+
+## 15
+**Predictive grid coding in the medial entorhinal cortex**  
+Ouchi A, Fujisawa S  
+[Science 385:776–784](https://www.science.org/doi/10.1126/science.ado4166)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
