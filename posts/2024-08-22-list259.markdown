@@ -1,0 +1,88 @@
+---
+layout: post
+title:  "Reading List 259"
+date:   2024-08-23 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**A high-density 1,024-channel probe for brain-wide recordings in non-human primates**  
+Liu Y, Jia H, Sun H, Jia S, Yang Z, Li A, Jiang A, Naya Y, Yang C, Xue S, Li X, Chen B, Zhu J, Zhou C, Li M, Duan X  
+[Nat Neurosci 27:1620–1631](https://www.nature.com/articles/s41593-024-01692-6)
+
+## 2
+**Pre-neuronal biomechanical filtering modulates and diversifies whole-hand tactile encoding**  
+Tummala N, Reardon G, Dandu B, Shao Y, Saal HP, Visell Y  
+[bioRxiv:2023.11.10.565040](https://www.biorxiv.org/content/10.1101/2023.11.10.565040)
+
+## 3
+**Mapping eye, arm, and reward information in frontal motor cortices using electrocorticography in non-human primates**  
+Ouchi T, Scholl LR, Rajeswaran P, Canfield RA, Smith LI, Orsborn AL  
+[bioRxiv:2024.08.13.607846](https://www.biorxiv.org/content/10.1101/2024.08.13.607846)
+
+## 4
+**Biomechanical costs influence decisions made during ongoing actions**  
+Canaveral CA, Lata W, Green A, Cisek P  
+[bioRxiv:2024.02.26.582113](https://www.biorxiv.org/content/10.1101/2024.02.26.582113)
+
+## 5
+**Working memory constraints for visuomotor retrieval strategies**  
+Velázquez-Vargas CA, Taylor JA  
+[J Neurophysiol 132:347–361](https://journals.physiology.org/doi/10.1152/jn.00122.2024)
+
+## 6
+**Audiomotor prediction errors drive speech adaptation even in the absence of overt movement**  
+Parrell B, Naber C, Kim OA, Nizolek CA, McDougle SD  
+[bioRxiv:2024.08.13.607718](https://www.biorxiv.org/content/10.1101/2024.08.13.607718)
+
+## 7
+**The brain simulates actions and their consequences during REM sleep**  
+Senzai Y, Scanziani M  
+[bioRxiv:2024.08.13.607810](https://www.biorxiv.org/content/10.1101/2024.08.13.607810)
+
+## 8
+**Abstract representations emerge in human hippocampal neurons during inference**  
+Courellis HS, Minxha J, Cardenas AR, Kimmel DL, Reed CM, Valiante TA, Salzman CD, Mamelak AN, Fusi S, Rutishauser U  
+[Nature 632:841–849](https://www.nature.com/articles/s41586-024-07799-x)
+
+## 9
+**Motor cortex is responsible for motoric dynamics in striatum and the execution of both skilled and unskilled actions**  
+Nicholas MA, Yttri EA  
+[Neuron](https://www.cell.com/article/S0896627324005440/abstract)
+
+## 10
+**Online movements reflect ongoing deliberation**  
+Calalo JA, Ngo TT, Sullivan SR, Strand K, Buggeln JH, Lokesh R, Roth AM, Carter MJ, Kurtzer IL, Cashaback JGA  
+[bioRxiv:2024.08.19.608669](https://www.biorxiv.org/content/10.1101/2024.08.19.608669)
+
+## 11
+**A recurrent network model of planning explains hippocampal replay and human behavior**  
+Jensen KT, Hennequin G, Mattar MG  
+[Nat Neurosci 27:1340–1348](https://www.nature.com/articles/s41593-024-01675-7)
+
+## 12
+**On Motor Coordination: The synergy expansion hypothesis**  
+Tessari F, West AM, Hogan N  
+[bioRxiv:2024.04.10.588877](https://www.biorxiv.org/content/10.1101/2024.04.10.588877v2.abstract)
+
+## 13
+**The unbearable slowness of being**  
+Zheng J, Meister M  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2408.10234)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
