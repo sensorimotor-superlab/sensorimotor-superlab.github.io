@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "Reading List 260"
+date:   2024-08-30 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**A preliminary study exploring the effects of transcutaneous spinal cord stimulation on spinal excitability and phantom limb pain in people with a transtibial amputation**  
+Dalrymple AN, Fisher LE, Weber DJ  
+[J Neural Eng 21:046058](https://iopscience.iop.org/article/10.1088/1741-2552/ad6a8d/meta)
+
+## 2
+**The engagement of the cerebellum and basal ganglia enhances expertise in a sensorimotor adaptation task**  
+Tan JB, Müller E, Zahorodnii A, Shine JM  
+[Imaging Neuroscience 2:1–20](https://doi.org/10.1162/imag_a_00271)
+
+## 3
+**Flexible control of sequence working memory in the macaque frontal cortex**  
+Chen J, Zhang C, Hu P, Min B, Wang L  
+[Neuron](https://www.cell.com/article/S0896627324005695/abstract)
+
+## 4
+**Lamellar Schwann cells in the Pacinian corpuscle potentiate vibration perception**  
+Chen Y-T, de Thomas Wagner D, Loutit AJ, Nourizonoz A, Croisier-Coeytaux M-C, Blanc J, Knott G, Lee K-S, Huber D  
+[bioRxiv:2024.08.23.609459](https://www.biorxiv.org/content/10.1101/2024.08.23.609459v1.abstract)
+
+## 5
+**Structural and functional dissection of the Pacinian corpuscle reveals an active role of the inner core in touch detection**  
+Ziolkowski LH, Nikolaev YA, Chikamoto A, Oda M, Feketa VV, Monedero-Alonso D, Ardasheva SA, Bae SS, Xu CS, Pang S, Gracheva EO, Bagriantsev SN  
+[bioRxiv:2024.08.24.609509](https://www.biorxiv.org/content/10.1101/2024.08.24.609509v1.abstract)
+
+## 6
+**Recent visual experience reshapes V4 neuronal activity and improves perceptual performance**  
+Stan PL, Smith MA  
+[J Neurosci:e1764232024](https://www.jneurosci.org/content/early/2024/08/23/JNEUROSCI.1764-23.2024.abstract)
+
+## 7
+**An output-null signature of inertial load in motor cortex**  
+Kirk EA, Hope KT, Sober SJ, Sauerbrei BA  
+[bioRxiv:2023.11.06.565869](https://www.biorxiv.org/content/10.1101/2023.11.06.565869v1.abstract)
+
+## 8
+**A theory of rapid behavioral inferences under the pressure of time**  
+Hermundstad AM, Młynarski WF  
+[bioRxiv:2024.08.26.609738](https://www.biorxiv.org/content/10.1101/2024.08.26.609738v1.abstract)
+
+## 9
+**Reach-dependent reorientation of rotational dynamics in motor cortex**  
+Sabatini DA, Kaufman MT  
+[Nat Commun 15:7007](https://www.nature.com/articles/s41467-024-51308-7)
+
+## 10
+**Cooperative thalamocortical circuit mechanism for sensory prediction errors**  
+Furutachi S, Franklin AD, Aldea AM, Mrsic-Flogel TD, Hofer SB  
+[Nature](https://www.nature.com/articles/s41586-024-07851-w)
+
+## 11
+**A population code for spatial representation in the zebrafish telencephalon**  
+Yang C, Mammen L, Kim B, Li M, Robson DN, Li JM  
+[Nature](https://www.nature.com/articles/s41586-024-07867-2)
+
+## 12
+**Vocal labeling of others by nonhuman primates**  
+Oren G, Shapira A, Lifshitz R, Vinepinsky E, Cohen R, Fried T, Hadad GP, Omer D  
+[Science 385:996–1003](https://www.science.org/doi/10.1126/science.adp3757)
+
+## 13
+**The human cerebellum: A digital anatomical atlas at the level of individual Folia**  
+Samuelsson JG, Schmahmann JD, Sereno M, Rosen B, Hamalainen MS  
+[bioRxiv:2024.08.27.610006](https://www.biorxiv.org/content/10.1101/2024.08.27.610006v1.abstract)
+
+## 14
+**Drug Development Failure: how GLP-1 development was abandoned in 1990**  
+Flier J  
+[Perspect Biol Med](https://muse.jhu.edu/article/936036/summary)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
