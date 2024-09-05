@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Reading List 261"
+date:   2024-09-06 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Brain charts for the rhesus macaque lifespan**  
+Alldritt S et al.  
+[bioRxiv:2024.08.28.610193](https://www.biorxiv.org/content/10.1101/2024.08.28.610193v1.abstract)
+
+## 2
+**The human hippocampus is involved in implicit motor learning**  
+Griffa G, Deleglise A, Solano A, Jacobacci F, De Pino G, Della-Maggiore V  
+[bioRxiv:2024.08.30.610548](https://www.biorxiv.org/content/10.1101/2024.08.30.610548v1.abstract)
+
+## 3
+**Anatomical abnormalities suggest a compensatory role of the cerebellum in early Parkinson’s disease**  
+Yun JJ, Gailly de Taurines A, Tai YF, Haar S  
+[bioRxiv:2024.08.30.610437](https://www.biorxiv.org/content/10.1101/2024.08.30.610437v1.abstract)
+
+## 4
+**Learning to move and plan like the Knight: Sequential decision making with a novel motor mapping**  
+Velázquez-Vargas CA, Taylor JA  
+[bioRxiv:2024.08.29.610359](https://www.biorxiv.org/content/10.1101/2024.08.29.610359v1.abstract)
+
+## 5
+**A collicular map for touch-guided tongue control**  
+Ito BS, Gao Y, Kardon B, Goldberg JH  
+[bioRxiv:2024.04.08.587629](https://www.biorxiv.org/content/10.1101/2024.04.08.587629v2.abstract)
+
+## 6
+**Miniature linear and split-belt treadmills reveal mechanisms of adaptive motor control in walking Drosophila**  
+Pratt BG, Lee S-YJ, Chou GM, Tuthill JC  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2024.08.006)
+
+## 7
+**Motor decision-making under uncertainty and time pressure**  
+Contemori S, Carroll T  
+[bioRxiv:2024.09.02.610909](https://www.biorxiv.org/content/10.1101/2024.09.02.610909v1.abstract)
+
+## 8
+**A gut-brain-gut interoceptive circuit loop gates sugar ingestion in Drosophila**  
+Cui X, Meiselman MR, Thornton SN, Yapici N  
+[bioRxiv:2024.09.02.610892](https://www.biorxiv.org/content/10.1101/2024.09.02.610892v1.abstract)
+
+## 9
+**Attention defines the context for implicit sensorimotor adaptation**  
+Wang T, Li J, Ivry RB  
+[bioRxiv:2024.09.03.611108](https://www.biorxiv.org/content/10.1101/2024.09.03.611108v1.abstract)
+
+
+## Superlab Papers
+
+**Future movement plans interact in sequential arm movements**  
+Kashefi M, Reschechtko S, Ariani G, Shahbazi M, Tan A, Diedrichsen J, Pruszynski JA  
+[Elife 13](https://elifesciences.org/articles/94485)
+
+Magazine | Insight on *Kashefi et al.*    
+**Reaching into the future**  
+Chowdhury RH  
+[Elife 13](https://elifesciences.org/articles/101739)
+
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
