@@ -10,7 +10,134 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 06 Sep 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Sep 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 262</title>
+  <link>https://superlab.ca/posts/2024-09-13-list262.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!<br>
+—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia</strong><br>
+Mishra AK, Kim J, Baghdadi H, Johnson BR, Hodge KT, Shepherd RF<br>
+<a href="https://www.science.org/doi/10.1126/scirobotics.adk8019">Sci Robot 9:eadk8019</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Neural timescales from a computational perspective</strong><br>
+Zeraati R, Levina A, Macke JH, Gao R<br>
+<a href="https://arxiv.org/abs/2409.02684">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Target learning rather than backpropagation explains learning in the mammalian neocortex</strong><br>
+Aceituno PV, de Haan S, Loidl R, Grewe BF<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.04.10.588837v2.abstract">bioRxiv:2024.04.10.588837</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Hippocampal neuronal activity is aligned with action plans</strong><br>
+Zutshi I, Apostolelli A, Yang W, Zheng Z (sam), Dohi T, Balzani E, Williams AH, Savin C, Buzsáki G<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.05.611533v2.abstract">bioRxiv:2024.09.05.611533</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Modeling attention and binding in the brain through bidirectional recurrent gating</strong><br>
+Salehinajafabadi S, Lei J, Benjamin AS, Muller KR, Kording KP<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.09.612033v1.abstract">bioRxiv:2024.09.09.612033</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>The volitional control of individual motor units is constrained within low-dimensional neural manifolds by common inputs</strong><br>
+Rossato J, Avrillon S, Tucker K, Farina D, Hug F<br>
+<a href="https://www.jneurosci.org/content/early/2024/06/28/JNEUROSCI.0702-24.2024.abstract">J Neurosci:e0702242024</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>A control policy can be adapted to task demands during both motor execution and motor planning</strong><br>
+Orban de Xivry J-J, Hardwick R<br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.10.16.562495v2">bioRxiv:2023.10.16.562495</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>In vivo optical clearing of mammalian brain</strong><br>
+Talei Franzesi G et al.<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.05.611421v2.abstract">bioRxiv:2024.09.05.611421</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>The future of nonhuman primate neuroscience: Peril or possibilities?</strong><br>
+Basso MA, Batista AP, Chang SWC, Gothard KM, Miller CT, Parker KJ, Zimmermann J<br>
+<a href="https://www.jneurosci.org/content/44/37/e1458242024.abstract">J Neurosci 44:e1458242024</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Brain-wide dynamics linking sensation to action during decision-making</strong><br>
+Khilkevich A, Lohse M, Low R, Orsolic I, Bozic T, Windmill P, Mrsic-Flogel TD<br>
+<a href="https://www.nature.com/articles/s41586-024-07908-w">Nature</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Conjoint specification of action by neocortex and striatum</strong><br>
+Park J, Polidoro P, Fortunato C, Arnold J, Mensh B, Gallego JA, Dudman JT<br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.10.04.560957v1.abstract">bioRxiv:2023.10.04.560957</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>Biological kinematics: a detailed review of the velocity-curvature power law calculation</strong><br>
+Fraser DS, Cook J, Di Luca M<br>
+<a href="https://osf.io/preprints/psyarxiv/vfq3d">PsyArXiv</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>Multiple Functions of Cerebello-Thalamic Neurons in Learning and Offline Consolidation of a Motor Skill in mice</strong><br>
+Varani A, Mailhes-Hamon C, Sala RW, Fouda S, Frontera JL, Léna C, Popa D<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.11.612475v1.abstract">bioRxiv:2024.09.11.612475</a></p>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14">14</h2>
+<p><strong>A neural basis of choking under pressure</strong><br>
+Smoulder AL, Marino PJ, Oby ER, Snyder SE, Miyata H, Pavlovsky NP, Bishop WE, Yu BM, Chase SM, Batista AP<br>
+<a href="https://www.cell.com/article/S0896627324006081/abstract">Neuron</a></p>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15">15</h2>
+<p><strong>Quantifying physical degradation alongside recording and stimulation performance of 980 intracortical microelectrodes chronically implanted in three humans for 956-2246 days</strong><br>
+Bjanes D et al.<br>
+<a href="https://www.medrxiv.org/content/10.1101/2024.09.09.24313281v1.abstract">bioRxiv:2024.09.09.24313281</a></p>
+</section>
+<section id="section-16" class="level2">
+<h2 class="anchored" data-anchor-id="section-16">16</h2>
+<p><strong>The importance of stupidity in scientific research</strong><br>
+Schwartz MA<br>
+<a href="https://dx.doi.org/10.1242/jcs.033340">J Cell Sci 121:1771–1771</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-09-13-list262.html</guid>
+  <pubDate>Fri, 13 Sep 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 261</title>
   <link>https://superlab.ca/posts/2024-09-06-list261.html</link>
@@ -1944,103 +2071,6 @@ Horan M et al.<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-05-03-list243.html</guid>
   <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 242</title>
-  <link>https://superlab.ca/posts/2024-04-26-list242.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Posture-dependent modulation of marmoset cortical motor maps detected via rapid multichannel epidural stimulation</strong><br>
-Takemi M, Tia B, Kosugi A, Castagnola E, Ansaldo A, Ricci D, Fadiga L, Ushiba J, Iriki A<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.01.23.576825v1.abstract">bioRxiv:2024.01.23.576825</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>A role for the cerebellum in motor-triggered alleviation of anxiety</strong><br>
-Zhang X-Y, Wu W-X, Shen L-P, Ji M-J, Zhao P-F, Yu L, Yin J, Xie S-T, Xie Y-Y, Zhang Y-X, Li H-Z, Zhang Q-P, Yan C, Wang F, De Zeeuw CI, Wang J-J, Zhu J-N<br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/38301648/">Neuron 112:1165-1181.e8</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Diversity of the nature of input and output signals in the cerebellum suggests a diversity of function</strong><br>
-Orban de Xivry J-J, Diedrichsen J<br>
-<a href="https://dx.doi.org/10.1016/j.cobeha.2024.101386">Curr Opin Behav Sci 57:101386</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Targeting a specific motor control process reveals an age-related compensation that adapts movement to gravity environment</strong><br>
-Mathieu R, Chambellant F, Thomas E, Papaxanthis C, Hilt P, Manckoundia P, Mourey F, Gaveau J<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.16.576683v2.abstract">bioRxiv:2024.02.16.576683</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>No observation of DIANA signals in rats at 7.0 and 17.2 Tesla</strong><br>
-Cloos MA, Selingue E, Hodono S, Gaudin R, Ciobanu L<br>
-<a href="https://doi.org/10.1162/imag_a_00136">Imaging Neuroscience 2:1–12</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Does bumblebee preference of continuous over interrupted strings in string-pulling tasks indicate means-end comprehension?</strong><br>
-Wen C, Lu Y, Solvi C, Wang C, Wen X, Dong S, Wen J, Peng F, Chittka L<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.04.02.587731v1.abstract">bioRxiv:2024.04.02.587731</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>A theory of brain-computer interface learning via low-dimensional control</strong><br>
-Menéndez JA, Hennig JA, Golub MD, Oby ER, Sadtler PT, Batista AP, Chase SM, Yu BM, Latham PE<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.04.18.589952v1.abstract">bioRxiv:2024.04.18.589952</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Sensorimotor delays constrain robust locomotion in a 3D kinematic model of fly walking</strong><br>
-Karashchuk L, Li JS, Chou GM, Walling-Bell S, Brunton SL, Tuthill JC, Brunton BW<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.04.18.589965v1.abstract">bioRxiv:2024.04.18.589965</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Prediction error in implicit adaptation during visually- and memory-guided reaching tasks</strong><br>
-Numasawa K, Miyamoto T, Kizuka T, Ono S<br>
-<a href="https://www.nature.com/articles/s41598-024-59169-2">Sci Rep 14:1–11</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>The hippocampus pre-orders movements for skilled action sequences</strong><br>
-Yewbrey R, Kornysheva K<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.04.24.590889v1.abstract">bioRxiv:2024.04.24.590889</a></p>
-</section>
-<section id="superlab-papers" class="level2">
-<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
-<p><strong>Neural correlates of online action preparation</strong><br>
-Shahbazi M, Ariani G, Kashefi M, Pruszynski JA, Diedrichsen J<br>
-<a href="https://www.jneurosci.org/content/early/2024/04/18/JNEUROSCI.1880-23.2024.abstract">J Neurosci:e1880232024</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-04-26-list242.html</guid>
-  <pubDate>Fri, 26 Apr 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,103 @@
+---
+layout: post
+title:  "Reading List 262"
+date:   2024-09-13 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+
+Enjoy!  
+---the superlab
+
+
+## 1
+**Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia**  
+Mishra AK, Kim J, Baghdadi H, Johnson BR, Hodge KT, Shepherd RF  
+[Sci Robot 9:eadk8019](https://www.science.org/doi/10.1126/scirobotics.adk8019)
+
+## 2
+**Neural timescales from a computational perspective**  
+Zeraati R, Levina A, Macke JH, Gao R  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2409.02684)
+
+## 3
+**Target learning rather than backpropagation explains learning in the mammalian neocortex**  
+Aceituno PV, de Haan S, Loidl R, Grewe BF  
+[bioRxiv:2024.04.10.588837](https://www.biorxiv.org/content/10.1101/2024.04.10.588837v2.abstract)
+
+## 4
+**Hippocampal neuronal activity is aligned with action plans**  
+Zutshi I, Apostolelli A, Yang W, Zheng Z (sam), Dohi T, Balzani E, Williams AH, Savin C, Buzsáki G  
+[bioRxiv:2024.09.05.611533](https://www.biorxiv.org/content/10.1101/2024.09.05.611533v2.abstract)
+
+## 5
+**Modeling attention and binding in the brain through bidirectional recurrent gating**  
+Salehinajafabadi S, Lei J, Benjamin AS, Muller KR, Kording KP  
+[bioRxiv:2024.09.09.612033](https://www.biorxiv.org/content/10.1101/2024.09.09.612033v1.abstract)
+
+## 6
+**The volitional control of individual motor units is constrained within low-dimensional neural manifolds by common inputs**  
+Rossato J, Avrillon S, Tucker K, Farina D, Hug F  
+[J Neurosci:e0702242024](https://www.jneurosci.org/content/early/2024/06/28/JNEUROSCI.0702-24.2024.abstract)
+
+## 7
+**A control policy can be adapted to task demands during both motor execution and motor planning**  
+Orban de Xivry J-J, Hardwick R  
+[bioRxiv:2023.10.16.562495](https://www.biorxiv.org/content/10.1101/2023.10.16.562495v2)
+
+## 8
+**In vivo optical clearing of mammalian brain**  
+Talei Franzesi G et al.  
+[bioRxiv:2024.09.05.611421](https://www.biorxiv.org/content/10.1101/2024.09.05.611421v2.abstract)
+
+## 9
+**The future of nonhuman primate neuroscience: Peril or possibilities?**  
+Basso MA, Batista AP, Chang SWC, Gothard KM, Miller CT, Parker KJ, Zimmermann J  
+[J Neurosci 44:e1458242024](https://www.jneurosci.org/content/44/37/e1458242024.abstract)
+
+## 10
+**Brain-wide dynamics linking sensation to action during decision-making**  
+Khilkevich A, Lohse M, Low R, Orsolic I, Bozic T, Windmill P, Mrsic-Flogel TD  
+[Nature](https://www.nature.com/articles/s41586-024-07908-w)
+
+## 11
+**Conjoint specification of action by neocortex and striatum**  
+Park J, Polidoro P, Fortunato C, Arnold J, Mensh B, Gallego JA, Dudman JT  
+[bioRxiv:2023.10.04.560957](https://www.biorxiv.org/content/10.1101/2023.10.04.560957v1.abstract)
+
+## 12
+**Biological kinematics: a detailed review of the velocity-curvature power law calculation**  
+Fraser DS, Cook J, Di Luca M  
+[PsyArXiv](https://osf.io/preprints/psyarxiv/vfq3d)
+
+## 13
+**Multiple Functions of Cerebello-Thalamic Neurons in Learning and Offline Consolidation of a Motor Skill in mice**  
+Varani A, Mailhes-Hamon C, Sala RW, Fouda S, Frontera JL, Léna C, Popa D  
+[bioRxiv:2024.09.11.612475](https://www.biorxiv.org/content/10.1101/2024.09.11.612475v1.abstract)
+
+## 14
+**A neural basis of choking under pressure**  
+Smoulder AL, Marino PJ, Oby ER, Snyder SE, Miyata H, Pavlovsky NP, Bishop WE, Yu BM, Chase SM, Batista AP  
+[Neuron](https://www.cell.com/article/S0896627324006081/abstract)
+
+## 15
+**Quantifying physical degradation alongside recording and stimulation performance of 980 intracortical microelectrodes chronically implanted in three humans for 956-2246 days**  
+Bjanes D et al.  
+[bioRxiv:2024.09.09.24313281](https://www.medrxiv.org/content/10.1101/2024.09.09.24313281v1.abstract)
+
+## 16
+**The importance of stupidity in scientific research**  
+Schwartz MA  
+[J Cell Sci 121:1771–1771](https://dx.doi.org/10.1242/jcs.033340)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
+
