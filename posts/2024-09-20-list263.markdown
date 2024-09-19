@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 263"
+date:   2024-09-20 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+ 
+Enjoy!  
+---the superlab
+
+
+## 1
+**Voluntary co-contraction of ankle muscles alters motor unit discharge characteristics and reduces estimates of persistent inward currents**  
+Gomes MM, Jenz ST, Beauchamp JA, Negro F, Heckman CJ, Pearcey GEP  
+[J Physiol 602:4237–4250](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP286539)
+
+## 2
+**Neuro-musculoskeletal modeling reveals muscle-level neural dynamics of adaptive learning in sensorimotor cortex**  
+DeWolf T, Schneider S, Soubiran P, Roggenbach A, Mathis MW  
+[bioRxiv:2024.09.11.612513](https://www.biorxiv.org/content/10.1101/2024.09.11.612513v1.abstract)
+
+## 3
+**Conclusions about neural network to brain alignment are profoundly impacted by the similarity measure**  
+Soni A, Srivastava S, Kording K, Khosla M  
+[bioRxiv:2024.08.07.607035](https://www.biorxiv.org/content/10.1101/2024.08.07.607035v1.abstract)  
+
+## 4
+**Human embryo models are getting more realistic - raising ethical questions**  
+Mallapaty S  
+[Nature 633:268–271](http://dx.doi.org/10.1038/d41586-024-02915-3)  
+
+## 5
+**Modeling sensorimotor processing with physics-informed neural networks**  
+Perez Rotondo A, Marin Vargas A, Dimitriou M, Mathis A  
+[bioRxiv:2024.09.14.613030](https://www.biorxiv.org/content/10.1101/2024.09.14.613030v1.abstract)  
+
+## 6
+**Spinal and cortical premotor control of primate dexterous hand movements**  
+Takei T, Oya T, Seki K  
+[bioRxiv:2024.09.14.613086](https://www.biorxiv.org/content/10.1101/2024.09.14.613086v1.abstract)  
+
+## 7
+**Double dissociation of visuomotor interaction mediated by visual feedback during continuous de novo motor learning**  
+Kim J, Park S, Yoo K, Kim S  
+[Commun Biol 7:1117](https://www.nature.com/articles/s42003-024-06808-z)  
+
+## 8
+**Restoration of grasping in an upper limb amputee using the myokinetic prosthesis with implanted magnets**  
+Gherardini M, Ianniciello V, Masiero F, Paggetti F, D’Accolti D, La Frazia E, Mani O, Dalise S, Dejanovic K, Fragapane N, Maggiani L, Ipponi E, Controzzi M, Nicastro M, Chisari C, Andreani L, Cipriani C  
+[Sci Robot 9:eadp3260](https://www.science.org/doi/10.1126/scirobotics.adp3260)  
+
+## 9
+**Foot placement control underlies stable locomotion across species**  
+De Comite A, Seethapathi N  
+[bioRxiv:2024.09.10.612345](https://www.biorxiv.org/content/10.1101/2024.09.10.612345v1.abstract)  
+
+## 10
+**A mosaic of whole-body representations in human motor cortex**  
+Deo DR et al.  
+[bioRxiv:2024.09.14.613041](https://www.biorxiv.org/content/10.1101/2024.09.14.613041v1.abstract)  
+
+## 11
+**Semi-orthogonal subspaces for value mediate a binding and generalization trade-off**  
+Johnston WJ, Fine JM, Yoo SBM, Ebitz RB, Hayden BY  
+[Nat Neurosci:1–13](https://www.nature.com/articles/s41593-024-01758-5)  
+
+## 12
+**Spectral Changes in Motor Thalamus Field Potentials during Movement**  
+Klassen BT, Baker MR, Jensen MA, Valencia GO, Miller KJ  
+[medRxiv:2024.09.11.24313483](https://www.medrxiv.org/content/10.1101/2024.09.11.24313483v1.abstract)  
+
+## 13
+**Differentiable simulation enables large-scale training of detailed biophysical models of neural dynamics**  
+Deistler M, Kadhim KL, Pals M, Beck J, Huang Z, Gloeckler M, Lappalainen JK, Schröder C, Berens P, Gonçalves PJ, Macke JH  
+[bioRxiv:2024.08.21.608979](https://www.biorxiv.org/content/10.1101/2024.08.21.608979v1.abstract)  
+
+## 14
+**A mosaic of whole-body representations in human motor cortex**  
+Deo DR et al.  
+[bioRxiv:2024.09.14.613041](https://www.biorxiv.org/content/10.1101/2024.09.14.613041v1.abstract)  
+
+
+# Superlab Papers
+<br>
+
+**Durability of motor learning by observing**  
+Mangos N, Forgaard CJ, Gribble PL  
+[J Neurophysiol 132:1025–1037](https://dx.doi.org/10.1152/jn.00425.2023)
+
+---
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
