@@ -83,15 +83,20 @@ Deistler M, Kadhim KL, Pals M, Beck J, Huang Z, Gloeckler M, Lappalainen JK, Sch
 Deo DR et al.  
 [bioRxiv:2024.09.14.613041](https://www.biorxiv.org/content/10.1101/2024.09.14.613041v1.abstract)  
 
+<br>
+
+---
 
 # Superlab Papers
 <br>
 
 **Durability of motor learning by observing**  
 Mangos N, Forgaard CJ, Gribble PL  
-[J Neurophysiol 132:1025–1037](https://dx.doi.org/10.1152/jn.00425.2023)
+[J Neurophysiol 132:1025–1037](https://dx.doi.org/10.1152/jn.00425.2023)  
+<br>
 
 ---
+
 # Archive
 You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
 
