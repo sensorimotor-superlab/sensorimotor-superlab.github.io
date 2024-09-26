@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 264"
+date:   2024-09-27 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.
+ 
+Enjoy!  
+---the superlab
+
+
+## 1
+**Primate superior colliculus is causally engaged in abstract higher-order cognition**  
+Peysakhovich B, Zhu O, Tetrick SM, Shirhatti V, Silva AA, Li S, Ibos G, Rosen MC, Johnston WJ, Freedman DJ  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01744-x)
+
+## 2
+**Muscle spindles provide flexible sensory feedback for movement sequences**  
+Olson WP, Chokshi VB, Kim JJ, Cowan N, O’Connor DH  
+[bioRxiv:2024.09.13.612899](https://www.biorxiv.org/content/10.1101/2024.09.13.612899v2.abstract)
+
+## 3
+**Lateralized cerebellar connectivity differentiates auditory pathways in echolocating and non-echolocating whales**  
+Flem S, Berns G, Inglis B, Niederhut D, Montie E, Deacon T, Miller KL, Tyack P, Cook PF  
+[bioRxiv:2024.09.18.609772](https://www.biorxiv.org/content/10.1101/2024.09.18.609772v1.abstract)
+
+## 4
+**Incorporating buccal mass planar mechanics and anatomical features improves neuromechanical modeling of *Aplysia* feeding behavior**  
+Bennington MJ, Liao AS, Sukhnandan R, Kundu B, Rogers SM, Gill JP, McManus JM, Sutton GP, Chiel HJ, Webster-Wood VA  
+[bioRxiv:2024.09.17.613591](https://www.biorxiv.org/content/10.1101/2024.09.17.613591v1.abstract)
+
+## 5
+**Multiple Functions of Cerebello-Thalamic Neurons in Learning and Offline Consolidation of a Motor Skill in mice**  
+Varani A, Mailhes-Hamon C, Sala RW, Fouda S, Frontera JL, Léna C, Popa D  
+[bioRxiv:2024.09.11.612475](https://www.biorxiv.org/content/10.1101/2024.09.11.612475v1.abstract)
+
+## 6
+**A geometrical solution underlies general neural principle for serial ordering**  
+Di Antonio G, Raglio S, Mattia M  
+[Nat Commun 15:8238](https://www.nature.com/articles/s41467-024-52240-6)
+
+## 7
+**Human hippocampal and entorhinal neurons encode the temporal structure of experience**  
+Tacikowski P, Kalender G, Ciliberti D, Fried I  
+[Nature](https://www.nature.com/articles/s41586-024-07973-1)
+
+## 8
+**Overlearning hyperstabilizes a skill by rapidly making neurochemical processing inhibitory-dominant**  
+Shibata K, Sasaki Y, Bang JW, Walsh EG, Machizawa MG, Tamaki M, Chang L-H, Watanabe T  
+[Nat Neurosci 20:470–475](https://dx.doi.org/10.1038/nn.4490)
+
+## 9
+**When preparation pays off**  
+Churchland MM  
+[Elife 13](https://elifesciences.org/articles/102187)
+
+**When and why does motor preparation arise in recurrent neural network models of motor control?**  
+Schimel M, Kao T-C, Hennequin G  
+[bioRxiv:2023.04.03.535429](https://www.biorxiv.org/content/10.1101/2023.04.03.535429v4)
+
+## 10
+**Forget ChatGPT: why researchers now run small AIs on their laptops**  
+Hutson M  
+[Nature 633:728–729](https://www.nature.com/articles/d41586-024-02998-y)
+
+
+<br>
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
