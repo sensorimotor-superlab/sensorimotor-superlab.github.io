@@ -1,0 +1,137 @@
+---
+layout: post
+title:  "Reading List 265"
+date:   2024-10-04 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our new feature (see below): the Sensorimotor Superlab **Journal Club**. In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.  
+  
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Rewiring movements: A single neuronal population in the spinal cord is crucial to restore walking after paralysis**  
+Kathe C  
+[Science 385:1429](https://www.science.org/doi/10.1126/science.ads1540)
+
+## 2
+**Long-term memory formation for voices during sleep in three-month-old infants**  
+Bastian L, Kurz E-M, Näher T, Zinke K, Friedrich M, Born J  
+[Neurobiol Learn Mem 215:107987](https://dx.doi.org/10.1016/j.nlm.2024.107987)
+
+## 3
+**Mental programming of spatial sequences in working memory in the macaque frontal cortex**  
+Tian Z, Chen J, Zhang C, Min B, Xu B, Wang L  
+[Science 385:eadp6091](https://www.science.org/doi/10.1126/science.adp6091)
+
+## 4
+**Visual effects on tactile texture perception**  
+Roberts RD, Li M, Allen HA  
+[Sci Rep 14:632](https://www.nature.com/articles/s41598-023-50596-1)
+
+## 5
+**Nonlinear dynamics of multi-omics profiles during human aging**  
+Shen X, Wang C, Zhou X, Zhou W, Hornburg D, Wu S, Snyder MP  
+[Nat Aging](https://www.nature.com/articles/s43587-024-00692-2)
+
+## 6
+**Differential formation of motor cortical dynamics during movement preparation according to the predictability of go timing**  
+Chae S, Sohn J-W, Kim S-P  
+[J Neurosci 44](https://www.jneurosci.org/content/44/8/e1353232024.abstract)
+
+## 7
+**Haptic perception and its relation to action**  
+Klatzky RL  
+[Annu Rev Psychol](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-011624-101129)
+
+## 8
+**Initial and corrective submovement encoding differences within primary motor cortex during precision reaching**  
+Schwartze KC, Lee W-H, Rouse AG  
+[J Neurophysiol 132:433–445](https://journals.physiology.org/doi/10.1152/jn.00269.2023)
+
+## 9
+**Potentiation of active locomotor state by spinal-projecting serotonergic neurons**  
+Fenstermacher S, Vonasek A, Gattuso H, Chaimowitz C, Dymecki S, Jessell T, Dasen J  
+[bioRxiv:2024.09.26.615260](https://www.biorxiv.org/content/10.1101/2024.09.26.615260v2.abstract)
+
+## 10
+**Millisecond-scale motor control precedes sensorimotor learning in Bengalese finches**  
+Pascual LM, Vusirikala A, Nemenman I, Sober SJ, Pasek MJ  
+[bioRxiv:2024.09.27.615500](https://www.biorxiv.org/content/10.1101/2024.09.27.615500v1.abstract)
+
+## 11
+**Tracking neurons across days with high-density probes**  
+van Beest EH, Bimbard C, Fabre JMJ, Dodgson SW, Takács F, Coen P, Lebedeva A, Harris KD, Carandini M  
+[Nat Methods](https://www.nature.com/articles/s41592-024-02440-1)
+
+## 12
+**Cortically disparate visual features evoke content-independent load signals during storage in working memory**  
+Jones HM, Thyer WS, Suplica D, Awh E  
+[J Neurosci](https://www.jneurosci.org/content/early/2024/09/24/JNEUROSCI.0448-24.2024.abstract)
+
+## 13
+**Potentiation of cortico-spinal output via targeted electrical stimulation of the motor thalamus**  
+Ho JC et al.  
+[Nat Commun 15](https://www.nature.com/articles/s41467-024-52477-1)
+
+## 14
+**Distributed and specific encoding of sensory, motor, and decision information in the mouse neocortex during goal-directed behavior**  
+Oryshchuk A, Sourmpis C, Weverbergh J, Asri R, Esmaeili V, Modirshanechi A, Gerstner W, Petersen CCH, Crochet S  
+[Cell Rep 43:113618](https://dx.doi.org/10.1016/j.celrep.2023.113618)
+
+## 15
+**Variations in clustering of multielectrode local field potentials in the motor cortex of macaque monkeys during a reach-and-grasp task**  
+Chambellant F, Falaki A, Moreau-Debord I, French R, Serrano E, Quessy S, Dancause N, Thomas E  
+[eNeuro 11:ENEURO.0047-24.2024](https://www.eneuro.org/content/11/9/ENEURO.0047-24.2024.abstract)
+
+## 16
+**Acquiring musculoskeletal skills with curriculum-based reinforcement learning**  
+Chiappa AS, Tano P, Patel N, Ingster A, Pouget A, Mathis A  
+[Neuron](https://www.cell.com/article/S0896627324006500/abstract)
+
+## 17
+**Neural manifolds: Latest buzzword or pathway to understand the brain?**  
+Perich M  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/neural-dynamics/neural-manifolds-latest-buzzword-or-pathway-to-understand-the-brain/)
+
+
+<br>
+
+---
+
+# Superlab Papers
+<br>
+
+**A hierarchical atlas of the human cerebellum for functional precision mapping**  
+Nettekoven C, Zhi D, Shahshahani L, Pinho AL, Saadon-Grosman N, Buckner RL, Diedrichsen J  
+[Nat Commun 15:8376](https://www.nature.com/articles/s41467-024-52371-w)
+
+<br>
+
+---
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed Silas Busch to present his work from Christian Hansel's lab at the University of Chicago:
+
+**Climbing fiber multi-innervation of mouse Purkinje dendrites with arborization common to human**  
+Busch SE, Hansel C  
+[Science 381:420–427](https://www.science.org/doi/10.1126/science.adi1024)
+
+Video: [https://youtu.be/1iH1dvyKXIs?si=1PDXrt8lrDKvYkW1](https://youtu.be/1iH1dvyKXIs?si=1PDXrt8lrDKvYkW1)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
