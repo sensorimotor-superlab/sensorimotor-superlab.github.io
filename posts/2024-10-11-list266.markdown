@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "Reading List 266"
+date:   2024-10-11 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Efficient Coding in Motor Planning**  
+Wang T, Fang Y, Whitney D  
+[bioRxiv:2024.09.30.615975](https://www.biorxiv.org/content/10.1101/2024.09.30.615975v1.abstract)
+
+## 2
+**Somatosensory cortex and body representation: Updating the motor system during a visuo-proprioceptive cue conflict**  
+Mirdamadi JL, Babu R, Wali M, Seigel CR, Hsiao A, Lee-Miller T, Block HJ  
+[bioRxivorg:2024.09.23.614575](https://www.biorxiv.org/content/10.1101/2024.09.23.614575v1.abstract)
+
+## 3
+**Sensorimotor prediction is used to direct gaze toward task-relevant locations in a goal-directed throwing task**  
+Brand TK, Schütz AC, Müller H, Maurer H, Hegele M, Maurer LK  
+[J Neurophysiol 132:485–500](https://journals.physiology.org/doi/10.1152/jn.00052.2024)
+
+## 4
+**Were RNNs All We Needed?**  
+Feng L, Tung F, Ahmed MO, Bengio Y, Hajimirsadegh H  
+[arXiv [csLG]](https://arxiv.org/abs/2410.01201)
+
+## 5
+**Evolution, biomechanics, and neurobiology converge to explain selective finger motor control**  
+Xu J, Mawase F, Schieber MH  
+[Physiol Rev](https://journals.physiology.org/doi/10.1152/physrev.00030.2023)
+
+## 6
+**Stimulus history, not expectation, drives sensory prediction errors in mammalian cortex**  
+Westerberg JA et al.  
+[bioRxiv:2024.10.02.616378](https://www.biorxiv.org/content/10.1101/2024.10.02.616378v1.abstract)
+
+## 7
+**Spatial and network principles behind neural generation of locomotion**  
+Komi S, Winther A, Houser G, Sorensen RJ, Larsen S, Bonfils M, Li G, Berg RW  
+[bioRxiv:2024.10.03.616472](https://www.biorxiv.org/content/10.1101/2024.10.03.616472v1.abstract)
+
+## 8
+**Brain-like neural dynamics for behavioral control develop through reinforcement learning**  
+Codol O, Krishna NH, Lajoie G, Perich MG  
+[bioRxiv:2024.10.04.616712](https://www.biorxiv.org/content/10.1101/2024.10.04.616712v2)
+
+## 9
+**Heterogeneous distribution of inhibitory inputs among motor units as a key mechanism for motor adaptations to pain**  
+Hug F, Dernoncourt F, Avrillon S, Thorstensen J, Besomi M, van den Hoorn W, Tucker K  
+[bioRxiv:2024.10.05.616762](https://www.biorxiv.org/content/10.1101/2024.10.05.616762v1.abstract)
+
+## 10
+**Tonic and burst-like locus coeruleus stimulation distinctly shift network activity across the cortical hierarchy**  
+Grimm C, Duss SN, Privitera M, Munn BR, Karalis N, Frässle S, Wilhelm M, Patriarchi T, Razansky D, Wenderoth N, Shine JM, Bohacek J, Zerbi V  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01755-8)
+
+## 11
+**Representation of verbal thought in motor cortex and implications for speech neuroprostheses**  
+Kunz EM, Meschede-Krasa B, Kamdar F, Avansino D, Nason-Tomaszewski SR, Card NS, Jacques B, Bechefsky P, Hahn N, Iacobacci C, Hochberg LR, Brandman DM, Stavisky SD, AuYong N, Pandarinath C, Druckmann S, Henderson JM, Willett FR  
+[bioRxiv:2024.10.04.616375](https://www.biorxiv.org/content/10.1101/2024.10.04.616375v1.abstract)
+
+## 12
+**Gradual consolidation of skilled sequential movements in primary motor cortex of non-human primates**  
+Ohbayashi M, Picard N  
+[bioRxiv:2024.10.06.616850](https://www.biorxiv.org/content/10.1101/2024.10.06.616850v1.abstract)
+
+## 13
+**Maintaining and updating accurate internal representations of continuous variables with a handful of neurons**  
+Noorman M, Hulse BK, Jayaraman V, Romani S, Hermundstad AM  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01766-5)
+
+## 14
+**Emerging perspectives for the study of the neural basis of motor behaviour**  
+Lacal I, Das A, Logiaco L, Molano-Mazón M, Schwaner MJ, Trach JE  
+[Eur J Neurosci](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16553)
+
+## 15
+**Heterogenous brain activations across individuals localize to a common network**  
+Peng S, Cui Z, Zhong S, Zhang Y, Cohen AL, Fox MD, Gong G  
+[Commun Biol 7:1270](https://www.nature.com/articles/s42003-024-06969-x)
+
+## 16
+**Neural mechanisms of the transition from planning to execution in speech production**  
+Duraivel K, Rahimpour S, Barth K, Chiang C-H, Wang C, Harward S, Lad N, Sexton D, Friedman A, Southwell D, Sinha S, Viventi J, Cogan GB  
+[bioRxiv:2024.10.07.617122](https://www.biorxiv.org/content/10.1101/2024.10.07.617122v1.abstract)
+
+## 17
+**Dynamic reinforcement learning reveals time-dependent shifts in strategy during reward learning**  
+Venditto SJC, Miller KJ, Brody CD, Daw ND  
+[bioRxivorg:2024.02.28.582617](https://www.biorxiv.org/content/10.1101/2024.02.28.582617v3.abstract)
+
+## 18
+**A neural network model of differentiation and integration of competing memories**  
+Ritvo VJH, Nguyen A, Turk-Browne NB, Norman KA  
+[Elife 12](https://elifesciences.org/articles/88608)
+
+## 19
+**Sensorimotor adaptation to a non-uniform formant perturbation generalizes to untrained vowels**  
+Parrell B, Niziolek CA, Chen T  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00240.2024)
+
+## 20
+**Investigating mechanoreceptor variability and morphometric proxies in Rhesus Macaques: Implications for primate precision touch studies**  
+Covarrubias BV, Kamminga JM, Muchlinski MN, Munds RA, Villero Núñez V, Bauman Surratt S, Cayo Biobank Research Unit, Martinez MI, Montague MJ, Higham JP, Melin AD, Veilleux CC  
+[Anat Rec](https://onlinelibrary.wiley.com/doi/abs/10.1002/ar.25587)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
