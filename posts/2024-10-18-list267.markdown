@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 267"
+date:   2024-10-18 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Social status as a latent variable in the amygdala of observers of social interactions**  
+Lee S, Rutishauser U, Gothard KM  
+[Neuron](https://www.cell.com/article/S0896627324006585/abstract)
+
+## 2
+**I-Spin live, an open-source software based on blind-source separation for real-time decoding of motor unit activity in humans**  
+Rossato J, Hug F, Tucker K, Gibbs C, Lacourpaille L, Farina D, Avrillon S  
+[Elife 12](https://elifesciences.org/articles/88670)
+
+## 3
+**The growing little brain: Cerebellar functional development from cradle to school**  
+Lyu W, Thung K-H, Huynh KM, Wang L, Lin W, Ahmad S, Yap P-T  
+[bioRxiv:2024.10.12.617938](https://www.biorxiv.org/content/10.1101/2024.10.12.617938v1.abstract)
+
+## 4
+**Single-neuron representations of odours in the human brain**  
+Kehl MS, Mackay S, Ohla K, Schneider M, Borger V, Surges R, Spehr M, Mormann F  
+[Nature 634:626-634](https://www.nature.com/articles/s41586-024-08016-5)
+
+## 5
+**Efficient Coding in Motor Planning**  
+Wang T, Fang Y, Whitney D  
+[bioRxiv:2024.09.30.615975](https://www.biorxiv.org/content/10.1101/2024.09.30.615975v2)
+
+## 6
+**Changes in cortical grasp-related activity before and after object contact**  
+Yan Y, Sobinov AR, Goodman JM, Okorokova EV, Miller LE, Bensmaia SJ  
+[bioRxiv:2024.10.11.617909](https://www.biorxiv.org/content/10.1101/2024.10.11.617909v1.abstract)
+
+## 7
+**Inhibitory components in muscle synergies factorized by the rectified latent variable model from electromyographic data**  
+Guo X, Huang S, He B, Lan C, Xie JJ, Lau KYS, Takei T, Mak ADP, Cheung RTH, Seki K, Cheung VCK, Chan RHM  
+[IEEE J Biomed Health Inform](https://ieeexplore.ieee.org/document/10711266)
+
+## 8
+**Intramuscular high-density micro-electrode arrays enable high-precision decoding and mapping of spinal motor neurons to reveal hand control**  
+Grison A, Pereda JI, Muceli S, Kundu A, Baracat F, Indiveri G, Donati E, Farina D  
+[arXiv [q-bioNC]](https://arxiv.org/abs/2410.11016)
+
+## 9
+**Human motor learning dynamics in high-dimensional tasks**  
+Kamboj A, Ranganathan R, Tan X, Srivastava V  
+[PLoS Comput Biol 20:e1012455](https://pubmed.ncbi.nlm.nih.gov/39401262/)
+
+## 10
+**Accurate neural control of a hand prosthesis by posture-related activity in the primate grasping circuit**  
+Agudelo-Toro A, Michaels JA, Sheng W-A, Scherberger H  
+[Neuron](https://www.cell.com/article/S0896627324006883/abstract)
+
+## 11
+**Integrating brainstem and cortical functional architectures**  
+Hansen JY, Cauzzo S, Singh K, García-Gomar MG, Shine JM, Bianciardi M, Misic B  
+[Nature Neuroscience](https://www.nature.com/articles/s41593-024-01787-0)
+
+## 12
+**Dopamine dynamics are dispensable for movement but promote reward responses**  
+Cai X, Liu C, Tsutsui-Kimura I, Lee J-H, Guo C, Banerjee A, Lee J, Amo R, Xie Y, Patriarchi T, Li Y, Watabe-Uchida M, Uchida N, Kaeser PS  
+[Nature](https://www.nature.com/articles/s41586-024-08038-z)
+
+## 13
+**Neuronal sequences in population bursts encode information in human cortex**  
+Xie W, Wittig JH Jr, Chapeton JI, El-Kalliny M, Jackson SN, Inati SK, Zaghloul KA  
+[Nature](https://www.nature.com/articles/s41586-024-08075-8)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
