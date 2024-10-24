@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 268"
+date:   2024-10-25 00:00:00 -0400
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Humans actively reconfigure neural task states**  
+Ritz H, Jha A, Pillow J, Daw ND, Cohen JD  
+[bioRxivorg:2024.09.29.615736](https://www.biorxiv.org/content/10.1101/2024.09.29.615736v3.abstract)
+
+## 2
+**Parallel activation of prospective motor plans during visually-guided sequential saccades**  
+Bhutani N, Sengupta S, Basu D, Prabhu NG, Murthy A  
+[Eur J Neurosci 45:631-642](https://pubmed.ncbi.nlm.nih.gov/27977051/)
+
+## 3
+**The cerebellum acts as the analog to the medial temporal lobe for sensorimotor memory**  
+Hadjiosif AM, Gibo TL, Smith MA  
+[Proc Natl Acad Sci USA 121:e2411459121](https://www.pnas.org/doi/abs/10.1073/pnas.2411459121)
+
+## 4
+**Neural mechanisms underlying the temporal control of sequential saccade planning in the frontal eye field**  
+Basu D, Sendhilnathan N, Murthy A  
+[Proc Natl Acad Sci USA 118:e2108922118](https://pubmed.ncbi.nlm.nih.gov/34599104/)
+
+## 5
+**A Transient High-dimensional Geometry Affords Stable Conjunctive Subspaces for Efficient Action Selection**  
+Kikumoto A, Bhandari A, Shibata K, Badre D  
+[bioRxiv:2023.06.09.544428](https://www.biorxiv.org/content/10.1101/2023.06.09.544428v2)
+
+## 6
+**Rastermap: a discovery method for neural population recordings**  
+Stringer C, Zhong L, Syeda A, Du F, Kesa M, Pachitariu M  
+[Nat Neurosci:1-12](https://www.nature.com/articles/s41593-024-01783-4)
+
+## 7
+**Biomechanical costs influence decisions made during ongoing actions**  
+Canaveral CA, Lata W, Green AM, Cisek P  
+[J Neurophysiol 132:461-469](https://journals.physiology.org/doi/10.1152/jn.00090.2024)
+
+## 8
+**Aligned and oblique dynamics in recurrent neural networks**  
+Schuessler F, Mastrogiuseppe F, Ostojic S, Barak O  
+[eLife](https://elifesciences.org/reviewed-preprints/93060)
+
+## 9
+**Hand-jaw coordination as mice handle food is organized around intrinsic structure-function relationships**  
+Barrett JM, Martin ME, Gao M, Druzinsky RE, Miri A, Shepherd GMG  
+[J Neurosci 44:e085624202](https://www.jneurosci.org/content/44/42/e0856242024.abstract)
+
+## 10
+**Multi-timescale neural adaptation underlying long-term musculoskeletal reorganization**  
+Philipp R, Hara Y, Uchida N, Ota N, Oya T, Funato T, Seki K  
+[bioRxiv:2024.10.18.618983](https://www.biorxiv.org/content/10.1101/2024.10.18.618983v1.abstract)
+
+## 11
+**Modulation of motor cortex inhibition during manual dexterity tasks: an adaptive threshold hunting study**  
+Duval L, Stinear CM, Byblow WD  
+[J Neurophysiol 132:1223-1230](https://doi.org/10.1152/jn.00262.2024)
+
+## 12
+**Differentiable optimization of similarity scores between models and brains**  
+Cloos N, Li M, Siegel M, Brincat SL, Miller EK, Yang GR, Cueva CJ  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2407.07059)
+
+## 13
+**Equivalence between representational similarity analysis, centered kernel alignment, and canonical correlations analysis**  
+Williams AH  
+[bioRxiv:2024.10.23.619871](https://www.biorxiv.org/content/10.1101/2024.10.23.619871v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

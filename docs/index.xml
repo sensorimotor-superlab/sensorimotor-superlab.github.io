@@ -10,7 +10,116 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 18 Oct 2024 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Oct 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 268</title>
+  <link>https://superlab.ca/posts/2024-10-25-list268.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Humans actively reconfigure neural task states</strong><br>
+Ritz H, Jha A, Pillow J, Daw ND, Cohen JD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.29.615736v3.abstract">bioRxivorg:2024.09.29.615736</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Parallel activation of prospective motor plans during visually-guided sequential saccades</strong><br>
+Bhutani N, Sengupta S, Basu D, Prabhu NG, Murthy A<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/27977051/">Eur J Neurosci 45:631-642</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>The cerebellum acts as the analog to the medial temporal lobe for sensorimotor memory</strong><br>
+Hadjiosif AM, Gibo TL, Smith MA<br>
+<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2411459121">Proc Natl Acad Sci USA 121:e2411459121</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Neural mechanisms underlying the temporal control of sequential saccade planning in the frontal eye field</strong><br>
+Basu D, Sendhilnathan N, Murthy A<br>
+<a href="https://pubmed.ncbi.nlm.nih.gov/34599104/">Proc Natl Acad Sci USA 118:e2108922118</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>A Transient High-dimensional Geometry Affords Stable Conjunctive Subspaces for Efficient Action Selection</strong><br>
+Kikumoto A, Bhandari A, Shibata K, Badre D<br>
+<a href="https://www.biorxiv.org/content/10.1101/2023.06.09.544428v2">bioRxiv:2023.06.09.544428</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Rastermap: a discovery method for neural population recordings</strong><br>
+Stringer C, Zhong L, Syeda A, Du F, Kesa M, Pachitariu M<br>
+<a href="https://www.nature.com/articles/s41593-024-01783-4">Nat Neurosci:1-12</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Biomechanical costs influence decisions made during ongoing actions</strong><br>
+Canaveral CA, Lata W, Green AM, Cisek P<br>
+<a href="https://journals.physiology.org/doi/10.1152/jn.00090.2024">J Neurophysiol 132:461-469</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Aligned and oblique dynamics in recurrent neural networks</strong><br>
+Schuessler F, Mastrogiuseppe F, Ostojic S, Barak O<br>
+<a href="https://elifesciences.org/reviewed-preprints/93060">eLife</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Hand-jaw coordination as mice handle food is organized around intrinsic structure-function relationships</strong><br>
+Barrett JM, Martin ME, Gao M, Druzinsky RE, Miri A, Shepherd GMG<br>
+<a href="https://www.jneurosci.org/content/44/42/e0856242024.abstract">J Neurosci 44:e085624202</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Multi-timescale neural adaptation underlying long-term musculoskeletal reorganization</strong><br>
+Philipp R, Hara Y, Uchida N, Ota N, Oya T, Funato T, Seki K<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.18.618983v1.abstract">bioRxiv:2024.10.18.618983</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Modulation of motor cortex inhibition during manual dexterity tasks: an adaptive threshold hunting study</strong><br>
+Duval L, Stinear CM, Byblow WD<br>
+<a href="https://doi.org/10.1152/jn.00262.2024">J Neurophysiol 132:1223-1230</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>Differentiable optimization of similarity scores between models and brains</strong><br>
+Cloos N, Li M, Siegel M, Brincat SL, Miller EK, Yang GR, Cueva CJ<br>
+<a href="http://arxiv.org/abs/2407.07059">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>Equivalence between representational similarity analysis, centered kernel alignment, and canonical correlations analysis</strong><br>
+Williams AH<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.23.619871v1.abstract">bioRxiv:2024.10.23.619871</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-10-25-list268.html</guid>
+  <pubDate>Fri, 25 Oct 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 267</title>
   <link>https://superlab.ca/posts/2024-10-18-list267.html</link>
@@ -2104,109 +2213,6 @@ Garcia-Garcia MG, Kapoor A, Akinwale O, Takemaru L, Kim TH, Paton C, Litwin-Kuma
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-06-14-list249.html</guid>
   <pubDate>Fri, 14 Jun 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 248</title>
-  <link>https://superlab.ca/posts/2024-06-07-list248.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Excitation of natural spinal reflex loops in the sensory-motor control of hand prostheses</strong><br>
-Sagastegui Alva PG, Boesendorfer A, Aszmann OC, Ibáñez J, Farina D<br>
-<a href="https://www.science.org/doi/10.1126/scirobotics.adl0085">Sci Robot 9:eadl0085</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>A combinatorial neural code for long-term motor memory</strong><br>
-Kim J-H, Daie K, Li N<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.05.597627v1.abstract">bioRxiv:2024.06.05.597627</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Eve Marder, neural circuits and being heard</strong><br>
-Huggett B<br>
-<a href="https://www.thetransmitter.org/synaptic/eve-marder-neural-circuits-and-being-heard/">The Transmitter</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>The history-dependent features of muscle force production: A challenge to the cross-bridge theory and their functional implications</strong><br>
-Hahn D, Han S-W, Joumaa V<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0021929023001483">J Biomech 152:111579</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Spiking activity in the visual thalamus is coupled to pupil dynamics across temporal scales</strong><br>
-Crombie D, Spacek MA, Leibold C, Busse L<br>
-<a href="http://dx.doi.org/10.1371/journal.pbio.3002614">PLoS Biol 22:e3002614</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Principles of cortical areas and their implications for neuroimaging</strong><br>
-Petersen SE, Seitzman BA, Nelson SM, Wig GS, Gordon EM<br>
-<a href="https://www.cell.com/article/S0896627324003556/abstract">Neuron</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Descending networks transform command signals into population motor control</strong><br>
-Braun J, Hurtak F, Wang-Chen S, Ramdya P<br>
-<a href="https://www.nature.com/articles/s41586-024-07523-9">Nature</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Individual Brain Charting dataset extension, third release for movie watching and retinotopy data</strong><br>
-Pinho AL et al.<br>
-<a href="https://www.nature.com/articles/s41597-024-03390-1">Sci Data 11:590</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Evidence of learned look-ahead in a chess-playing neural network</strong><br>
-Jenner E, Kapur S, Georgiev V, Allen C, Emmons S, Russell S<br>
-<a href="https://arxiv.org/abs/2406.00877">arXiv [csLG]</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Human sensorimotor cortex reactivates recent visuomotor experience during awake rest</strong><br>
-Ogawa K, Yang Y, Yang H, Imai F, Imamizu H<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.26.595974v2.abstract">bioRxiv:2024.05.26.595974</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Mechanosensory representation of wing deformations</strong><br>
-Yarger AM, Maeda M, Siwanowicz I, Kajiyama H, Walker SM, Bomphrey RJ, Lin H-T<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.02.596338v1.abstract">bioRxiv:2024.06.02.596338</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>EzReverse – a web application for background adjustment of color images</strong><br>
-Song X, Goedhart J<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.27.594095v1.abstract">bioRxiv:2024.05.27.594095</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-06-07-list248.html</guid>
-  <pubDate>Fri, 07 Jun 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
