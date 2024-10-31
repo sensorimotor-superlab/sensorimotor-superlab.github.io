@@ -9,8 +9,129 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 25 Oct 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.32</generator>
+<lastBuildDate>Fri, 01 Nov 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 269</title>
+  <link>https://superlab.ca/posts/2024-11-01-list269.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Introduction to the special issue on visual cognition and visuomotor control: A tribute to Mel Goodale</strong><br>
+Culham JC, Buckingham G, Harvey M, Sperandio I, Johnsrude IS<br>
+<a href="http://dx.doi.org/10.1016/j.neuropsychologia.2024.109015">Neuropsychologia:109015</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Multi-digit touch II: perceptual weighting during integration follows a leading-finger priority</strong><br>
+Takamuku S, Arslanova I, Gomi H, Haggard P<br>
+<a href="https://journals.physiology.org/doi/10.1152/jn.00105.2024">J Neurophysiol</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Muscle coactivation primes the nervous system for fast and task-dependent feedback control</strong><br>
+Maurus P, Armstrong DP, Scott SH, Cluff T<br>
+<a href="http://arxiv.org/abs/2410.16101">arXiv [q-bioTO]</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Motor sequence learning-induced corticospinal plasticity is biased towards sensorimotor mu rhythm peak phases</strong><br>
+Suresh T, Iwane F, Zhang M, McElmurry M, Manesiya M, Freedberg MV, Hussain SJ<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.31.606022v2.abstract">bioRxivorg:2024.07.31.606022</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>The language network ages well: Preserved selectivity, lateralization, and within-network functional synchronization in older brains</strong><br>
+Billot A, Jhingan N, Varkanitsa M, Blank I, Ryskin R, Kiran S, Fedorenko E<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.23.619954v1.abstract">bioRxiv:2024.10.23.619954</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>ReMiND: Recovery of missing neuroimaging using diffusion models with application to Alzheimer’s disease</strong><br>
+Yuan C, Duan J, Xu K, Tustison NJ, Hubbard RA, Linn KA<br>
+<a href="https://direct.mit.edu/imag/article-pdf/doi/10.1162/imag_a_00323/2476235/imag_a_00323.pdf">Imaging Neuroscience 2</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>The impact of dwell time on the contextual effect of visual and passive lead-in movements</strong><br>
+Alvarez-Hidalgo L, Franklin DW, Howard IS<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.25.620176v2.abstract">bioRxiv:2024.10.25.620176</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Predictive posture stabilization before contact with moving objects: equivalence of smooth pursuit tracking and peripheral vision</strong><br>
+Sinha O, Rosenquist T, Fedorshak A, Kpankpa J, Albenze E, Bonnet C, Bertucco M, Kurtzer I, Singh T<br>
+<a href="https://journals.physiology.org/doi/10.1152/jn.00158.2024">J Neurophysiol 132:695–709</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Brain-like learning with exponentiated gradients</strong><br>
+Cornford J, Pogodin R, Ghosh A, Sheng K, Bicknell BA, Codol O, Clark BA, Lajoie G, Richards BA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.25.620272v1.abstract">bioRxiv:2024.10.25.620272</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Stimulus-modulatedapproach tosteady-state: A new paradigm for event-related fMRI</strong><br>
+Mathew R, Eed A, Klassen LM, Everling S, Menon RS<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.20.613944v1.abstract">bioRxiv:2024.09.20.613944</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Sensitivity of cerebellar reaching ataxia to kinematic and dynamic demands</strong><br>
+Oh K, Cao D, Cowan N, Bastian AJ<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.28.620711v1.abstract">bioRxiv:2024.10.28.620711</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>Dopamine and norepinephrine differentially mediate the exploration-exploitation tradeoff</strong><br>
+Chen CS, Mueller D, Knep E, Ebitz RB, Grissom NM<br>
+<a href="https://www.jneurosci.org/content/44/44/e1194232024.abstract">J Neurosci 44:e1194232024</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>Local postural changes elicit extensive and diverse skin stretch around joints, on the trunk, and the face</strong><br>
+Rupani M, Cleland LD, Saal HP<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.21.619390v1.abstract">bioRxiv:2024.10.21.619390</a></p>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14">14</h2>
+<p><strong>A hierarchical coordinate system for sequence memory in human entorhinal cortex</strong><br>
+Shpektor A, Bakermans JJW, Baram AB, Sarnthein J, Ledergerber D, Imbach L, Muller-Seydlitz E, Barron HC, Behrens TEJ<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.30.620612v1.abstract">bioRxiv:2024.10.30.620612</a></p>
+</section>
+</section>
+<section id="superlab-papers" class="level1">
+<h1>Superlab Papers</h1>
+<p><strong>String-pulling by the common marmoset</strong><br>
+Bertrand M, Karkuszewski M, Kersten R, Orban de Xivry J-J, Pruszynski JA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.25.620352v1.abstract">bioRxiv:2024.10.25.620352</a></p>
+<hr>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-11-01-list269.html</guid>
+  <pubDate>Fri, 01 Nov 2024 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 268</title>
   <link>https://superlab.ca/posts/2024-10-25-list268.html</link>
@@ -2093,126 +2214,6 @@ Fedorenko E, Piantadosi ST, Gibson EAF<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-06-21-list250.html</guid>
   <pubDate>Fri, 21 Jun 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 249</title>
-  <link>https://superlab.ca/posts/2024-06-14-list249.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy! —the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Nociceptors are functionally male or female: from mouse to monkey to man</strong><br>
-Stratton H, Lee G, Dolatyari M, Ghetti A, Cotta T, Mitchell S, Yue X, Ibrahim M, Dumaire N, Salih L, Moutal A, François-Moutal L, Martin L, Navratilova E, Porreca F<br>
-<a href="https://academic.oup.com/brain/advance-article-abstract/doi/10.1093/brain/awae179/7686987">Brain</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>In-Scanner Thoughts shape Resting-state Functional Connectivity: how participants “rest” matters</strong><br>
-Gonzalez-Castillo J, Spurney MA, Lam KC, Gephart IS, Pereira F, Handwerker DA, Kam JWY, Bandettini PA<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.05.596482v1.abstract">bioRxiv:2024.06.05.596482</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Structured Action Preparation during Visuomotor Decision-making</strong><br>
-Trach J, McDougle SD<br>
-<a href="https://osf.io/preprints/psyarxiv/pkez6">PsyArXiv</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Tool use fine-tunes arm and tool maps</strong><br>
-Peviani VC, Pfeifer LN, Risso G, Bassolino M, Miller LE<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.06.597694v1.abstract">bioRxiv:2024.06.06.597694</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Principles of cortical areas and their implications for neuroimaging</strong><br>
-Petersen SE, Seitzman BA, Nelson SM, Wig GS, Gordon EM<br>
-<a href="https://www.cell.com/article/S0896627324003556/abstract">Neuron</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Ultrasound system for precise neuromodulation of human deep brain circuits</strong><br>
-Martin E, Roberts M, Grigoras IF, Wright O, Nandi T, Rieger SW, Campbell J, den Boer T, Cox BT, Stagg CJ, Treeby BE<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.08.597305v1.abstract">bioRxiv:2024.06.08.597305</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Must a theory be falsifiable to contribute to good science?</strong><br>
-Lindsay G, Barack D, O’Donnell C, Palmer S<br>
-<a href="https://www.thetransmitter.org/breakout-room/must-a-theory-be-falsifiable-to-contribute-to-good-science/">The Transmitter</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>A shifting role of thalamocortical connectivity in the emergence of cortical functional organization</strong><br>
-Park S, Haak KV, Oldham S, Cho H, Byeon K, Park B-Y, Thomson P, Chen H, Gao W, Xu T, Valk S, Milham MP, Bernhardt B, Di Martino A, Hong S-J<br>
-<a href="https://www.nature.com/articles/s41593-024-01679-3">Nat Neurosci</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Unexpected events modulate context signaling in VIP and excitatory cells of the visual cortex</strong><br>
-Najafi F, Russo S, Lecoq J<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.15.594366v2.abstract">bioRxiv:2024.05.15.594366</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Neuroelectrophysiology-Compatible Electrolytic Lesioning</strong><br>
-Bray IE, Clarke SE, Casey KM, Nuyujukian P, Brain Interfacing Laboratory<br>
-<a href="https://www.biorxiv.org/content/10.1101/2022.11.10.516056v2.abstract">bioRxiv:2022.11.10.516056</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Rapid emergence of latent knowledge in the sensory cortex drives learning</strong><br>
-Drieu C, Zhu Z, Wang Z, Fuller K, Wang A, Elnozahy S, Kuchibhotla K<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.10.597946v1.abstract">bioRxiv:2024.06.10.597946</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>A virtual rodent predicts the structure of neural activity across behaviors</strong><br>
-Aldarondo D, Merel J, Marshall JD, Hasenclever L, Klibaite U, Gellis A, Tassa Y, Wayne G, Botvinick M, Ölveczky BP<br>
-<a href="https://www.nature.com/articles/s41586-024-07633-4">Nature</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>Mental navigation in the primate entorhinal cortex</strong><br>
-Neupane S, Fiete I, Jazayeri M<br>
-<a href="https://www.nature.com/articles/s41586-024-07557-z">Nature</a></p>
-</section>
-<section id="section-14" class="level2">
-<h2 class="anchored" data-anchor-id="section-14">14</h2>
-<p><strong>Minimizing command timing volatility is a key factor in skilled actions</strong><br>
-Takagi A, Ito S, Gomi H<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.06.11.598574v1.abstract">bioRxiv:2024.06.11.598574</a></p>
-</section>
-<section id="section-15" class="level2">
-<h2 class="anchored" data-anchor-id="section-15">15</h2>
-<p><strong>A cerebellar granule cell-climbing fiber computation to learn to track long time intervals</strong><br>
-Garcia-Garcia MG, Kapoor A, Akinwale O, Takemaru L, Kim TH, Paton C, Litwin-Kumar A, Schnitzer MJ, Luo L, Wagner MJ<br>
-<a href="https://dx.doi.org/10.1016/j.neuron.2024.05.019">Neuron</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-06-14-list249.html</guid>
-  <pubDate>Fri, 14 Jun 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
