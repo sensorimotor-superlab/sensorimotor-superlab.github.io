@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 270"
+date:   2024-11-08 00:00:00
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Behavioral Motor Performance**  
+Leib R, Howard IS, Millard M, Franklin DW  
+[Comprehensive Physiology 14:5179-5224](https://onlinelibrary.wiley.com/doi/abs/10.1002/cphy.c220032)
+
+## 2
+**A multichannel electrophysiological approach to noninvasively and precisely record human spinal cord activity**  
+Nierula B, Stephani T, Bailey E, Kaptan M, Pohle L-MG, Horn U, Mouraux A, Maess B, Villringer A, Curio G, Nikulin VV, Eippert F  
+[PLoS Biol 22:e3002828](https://doi.org/10.1371/journal.pbio.3002828)
+
+## 3
+**Visually induced involuntary arm, head, and torso movements**  
+Martin A, Bakshi A, Ventura J, Panic AS, Lackner JR  
+[Exp Brain Res 242:2557-2572](https://link.springer.com/article/10.1007/s00221-024-06913-9)
+
+## 4
+**Bias-accounting meta-analyses overcome cerebellar neglect to refine the cerebellar behavioral topography**  
+Magielse N, Manoli A, Eickhoff SB, Fox PT, Saberi A, Valk SL  
+[bioRxiv:2024.10.31.621398](https://www.biorxiv.org/content/10.1101/2024.10.31.621398v2.abstract)
+
+## 5
+**Consolidation of Sequential Planning**  
+Vikbladh OM, Russek EM, Burgess N  
+[bioRxiv:2024.11.01.621475](https://www.biorxiv.org/content/10.1101/2024.11.01.621475v1.abstract)
+
+## 6
+**A hierarchical coordinate system for sequence memory in human entorhinal cortex**  
+Shpektor A, Bakermans JJW, Baram AB, Sarnthein J, Ledergerber D, Imbach L, Muller-Seydlitz E, Barron HC, Behrens TEJ  
+[bioRxiv:2024.10.30.620612](https://www.biorxiv.org/content/10.1101/2024.10.30.620612v1.abstract)
+
+## 7
+**The role of motor cortex in motor sequence execution depends on demands for flexibility**  
+Mizes KGC, Lindsey J, Escola GS, Ölveczky BP  
+[Nature Neuroscience](https://www.nature.com/articles/s41593-024-01792-3)
+
+## 8
+**Encoding innate ability through a genomic bottleneck**  
+Shuvaev S, Lachi D, Koulakov A, Zador A  
+[Proc Natl Acad Sci USA 121:e2409160121](https://www.pnas.org/doi/abs/10.1073/pnas.2409160121)
+
+## 9
+**Fish that fish for fish-A peculiar location of “fishing motoneurons” in the striated frogfish Antennarius striatus**  
+Hagio H, Nishino H, Miyake K, Sato N, Sawada K, Nakayama T, Yamamoto N  
+[J Comp Neurol 532:e25674](https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.25674)
+
+## 10
+**Vampire bats rapidly fuel running with essential or non-essential amino acids from a blood meal**  
+Rossi GS, Welch KC Jr  
+[Biol Lett 20:20240453](https://royalsocietypublishing.org/doi/10.1098/rsbl.2024.0453)
+
+## 11
+**Motor inhibition prevents motor execution during typing imagery: Evidence from an action-mode switching paradigm**  
+Nalborczyk L, Alario F-X, Longcamp M  
+[Cognition 254:105997](http://dx.doi.org/10.1016/j.cognition.2024.105997)
+
+## 12
+**Efficient laminar-distributed interactions and orientation selectivity in the mouse V1 cortical column**  
+Zou L, Moreni G, Pennartz C, Mejias JF  
+[bioRxiv:2024.11.05.621826](https://www.biorxiv.org/content/10.1101/2024.11.05.621826v1.abstract)
+
+## 13
+**Two ways to learn in visuomotor adaptation**  
+Zhang Y, Jayaswal S, Schweighofer N  
+[bioRxiv:2024.11.02.621678](https://www.biorxiv.org/content/10.1101/2024.11.02.621678v1.abstract)
+
+## 14
+**A cellular basis for mapping behavioural structure**  
+El-Gaby M, Harris AL, Whittington JCR, Dorrell W, Bhomick A, Walton ME, Akam T, Behrens TEJ  
+[Nature](https://www.nature.com/articles/s41586-024-08145-x)
+
+## 15
+**Bioelastic state recovery for haptic sensory substitution**  
+Flavin MT et al.  
+[Nature](https://www.nature.com/articles/s41586-024-08155-9)
+
+## 16
+**Brain-wide population activity during reaching integrates action-mediated goal expectation**  
+Peng Y, Lindersson C, Tinelli S, Stedehouder J, Shah RS, Lak A, Stagg CJ, Sharott A  
+[bioRxiv:2024.11.04.621878](https://www.biorxiv.org/content/10.1101/2024.11.04.621878v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: (https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
