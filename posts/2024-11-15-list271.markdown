@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 271"
+date:   2024-11-15 00:00:00
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Analysis methods for large-scale neuronal recordings**  
+Stringer C, Pachitariu M  
+[Science 386](https://www.science.org/doi/10.1126/science.adp7429)
+
+## 2
+**Maintaining and updating accurate internal representations of continuous variables with a handful of neurons**  
+Noorman M, Hulse BK, Jayaraman V, Romani S, Hermundstad AM  
+[Nat Neurosci:1-11](https://www.nature.com/articles/s41593-024-01766-5)
+
+## 3
+**Stimulus history, not expectation, drives sensory prediction errors in mammalian cortex**  
+Westerberg JA et al.  
+[bioRxiv:2024.10.02.616378](https://www.biorxiv.org/content/10.1101/2024.10.02.616378v1.abstract)
+
+## 4
+**Human tactile discrimination of pulse shape is possible without pre-adaptation**  
+Bhattacharjee A, Antony H, Schwarz C  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00376.2024)
+
+## 5
+**Disentangling acute motor deficits and adaptive responses evoked by the loss of cerebellar output**  
+Sinha N, Israely S, Harosh OB, Harel R, Dewald JP, Prut Y  
+[bioRxivorg:2024.05.21.595172](https://www.biorxiv.org/content/10.1101/2024.05.21.595172v3.abstract)
+
+## 6
+**ONIX: a unified open-source platform for multimodal neural recording and perturbation during naturalistic behavior**  
+Newman JP, Zhang J, Cuevas-López A, Miller NJ, Honda T, van der Goes M-SH, Leighton AH, Carvalho F, Lopes G, Lakunina A, Siegle JH, Harnett MT, Wilson MA, Voigts J  
+[Nat Methods:1-6](https://www.nature.com/articles/s41592-024-02521-1)
+
+## 7
+**Revealing single-neuron and network-activity interaction by combining high-density microelectrode array and optogenetics**  
+Kobayashi T, Shimba K, Narumi T, Asahina T, Kotani K, Jimbo Y  
+[Nat Commun 15:1-13](https://www.nature.com/articles/s41467-024-53505-w)
+
+## 8
+**Processing reliant on granule cells is essential for motor learning but dispensable for many cerebellar-dependent behaviors**  
+Lee J-H, Guo C, Wu S, Norton A, Seo S, Yao Z, Regehr WG  
+[bioRxiv:2024.11.10.622849](https://www.biorxiv.org/content/10.1101/2024.11.10.622849v1.abstract)
+
+## 9
+**Kinetix: Investigating the training of general agents through open-ended physics-based control tasks**  
+Matthews M, Beukman M, Lu C, Foerster J  
+[arXiv [csLG]](http://arxiv.org/abs/2410.23208)
+
+## 10
+**Audience presence influences cognitive task performance in chimpanzees**  
+Lin C, Muramatsu A, Yamamoto S  
+[iScience 0:111191](http://www.cell.com/article/S2589004224024167/abstract)
+
+## 11
+**Long-term optical imaging of the spinal cord in awake behaving mice**  
+Ahanonu B, Crowther A, Kania A, Rosa-Casillas M, Basbaum AI  
+[Nat Methods:1-13](https://www.nature.com/articles/s41592-024-02476-3)
+
+## 12
+**Human cerebellum and ventral tegmental area interact during extinction of learned fear**  
+Nio E, Pereira PP, Diekmann N, Petrenko M, Doubliez A, Ernst TM, Batsikadze G, Maderwald S, Deuschl C, Üngör M, Cheng S, Merz CJ, Quick HH, Timmann D  
+[bioRxiv:2024.11.06.622063](https://www.biorxiv.org/content/10.1101/2024.11.06.622063v1.abstract)
+
+## 13
+**Prefrontal cortex encodes behavior states decoupled from movement**  
+Rautio IV, Nevjen F, Hem IG, Dunn BA, Whitlock JR  
+[bioRxiv:2024.11.11.623038](https://www.biorxiv.org/content/10.1101/2024.11.11.623038v1.abstract)
+
+## 14
+**Functional segregation of cortical hand and speech areas by frequency detuning of an intrinsic motor rhythm**  
+Anastasopoulou I, Cheyne DO, Johnson BW  
+[bioRxiv:2024.11.11.622882](https://www.biorxiv.org/content/10.1101/2024.11.11.622882v1.abstract)
+
+## 15
+**Scaling laws for task-optimized models of the primate visual ventral stream**  
+Gokce A, Schrimpf M  
+[arXiv [csLG]](http://arxiv.org/abs/2411.05712)
+
+## 16
+**Feedback control guides credit assignment in recurrent neural networks**  
+Kaleb K, Feulner B, Gallego JA, Clopath C  
+[NeurIPS 2024](https://openreview.net/pdf?id=xavWvnJTST)
+
+## 17
+**Task-agnostic exoskeleton control via biological joint moment estimation**  
+Molinaro DD, Scherpereel KL, Schonhaut EB, Evangelopoulos G, Shepherd MK, Young AJ  
+[Nature 635:337-344](https://www.nature.com/articles/s41586-024-08157-7)
+
+## 18
+**Contribution of remote Pacinian corpuscles to flutter-range frequency discrimination in humans**  
+Nagi SS, McIntyre S, Ng KKW, Mahns DA, Birznieks I, Vickery RM  
+[Sci Rep 14:1-10](https://www.nature.com/articles/s41598-024-79693-5)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: (https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
