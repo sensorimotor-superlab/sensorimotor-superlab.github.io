@@ -1,0 +1,139 @@
+---
+layout: post
+title:  "Reading List 272"
+date:   2024-11-22 00:00:00
+categories: readinglist
+---
+
+# 
+
+More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our **Journal Club** feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**C-LTMRs evoke wet dog shakes via the spinoparabrachial pathway**  
+Zhang D, Turecek J, Choi S, Delisle M, Pamplona CL, Meltzer S, Ginty DD  
+[Science 386:686–692](https://www.science.org/doi/10.1126/science.adq8834)
+
+## 2
+**A resource efficient, high-dose neurorehabilitation program for chronic stroke at home**  
+Arbuckle SA, Knill AS, Rozanski G, Chan-Cortés M, Ford AE, Derungs LT, Putrino D, Tosto-Mancuso J, Branscheidt M  
+[medRxiv:2024.10.08.24313178](https://doi.org/10.1101/2024.10.08.24313178)
+
+## 3
+**A vector calculus for neural computation in the cerebellum**  
+Fakharian MA, Shoup AM, Hage P, Elseweifi HY, Shadmehr R  
+[bioRxiv:2024.11.14.623565](https://www.biorxiv.org/content/10.1101/2024.11.14.623565v1.abstract)
+
+## 4
+**Impaired online and enhanced offline motor sequence learning in individuals with Parkinson’s disease**  
+Van Roy A, Dan E, Micca L, Gilat M, Chan P, Doyon J, Albouy G, King BR  
+[bioRxiv:2024.11.14.623568](https://www.biorxiv.org/content/10.1101/2024.11.14.623568v1.abstract)
+
+## 5
+**Feedback control guides credit assignment in recurrent neural networks**  
+Kaleb K, Feulner B, Gallego JA, Clopath C  
+[NeurIPS 2024](https://openreview.net/forum?id=xavWvnJTST)
+
+## 6
+**Emergence of a brainstem somatosensory tonotopic map for substrate vibration**  
+Lee K-S, Loutit AJ, de Thomas Wagner D, Sanders M, Huber D  
+[Nat Neurosci:1–8](https://www.nature.com/articles/s41593-024-01821-1)
+
+## 7
+**Monkeys engage in visual simulation to solve complex problems**  
+Ahuja A, Yusif Rodriguez N, Ashok AK, Serre T, Desrochers TM, Sheinberg DL  
+[Curr Biol](http://dx.doi.org/10.1016/j.cub.2024.10.026)
+
+## 8
+**Preferential activity of dentate neurons during limb movements guided by vision**  
+Mushiake H, Strick PL  
+[J Neurophysiol 70:2660–2664](https://journals.physiology.org/doi/10.1152/jn.1993.70.6.2660)
+
+## 9
+**Continuous sensorimotor transformation enhances robustness of neural dynamics to perturbation in macaque motor cortex**  
+Zheng C, Wang Q, Cui H  
+[bioRxiv:2024.11.10.622879](https://www.biorxiv.org/content/10.1101/2024.11.10.622879v2.abstract)
+
+## 10
+**Chemogenetic dissection of the primate prefronto-subcortical pathways for working memory and decision-making**  
+Oyama K, Hori Y, Nagai Y, Miyakawa N, Mimura K, Hirabayashi T, Inoue K-I, Suhara T, Takada M, Higuchi M, Minamimoto T  
+[Sci Adv 7:eabg4246](https://www.science.org/doi/10.1126/sciadv.abg4246)
+
+## 11
+**Ramping dissociates motor and cognitive sequences in the parietal and prefrontal cortices**  
+Doyle H, Yewbrey R, Kornysheva K, Desrochers TM  
+[bioRxivorg:2024.10.09.617499](https://www.biorxiv.org/content/10.1101/2024.10.09.617499v1.abstract)
+
+## 12
+**Dissociable effects of urgency and evidence accumulation during reaching revealed by dynamic multisensory integration**  
+Hoffmann AH, Crevecoeur F  
+[eNeuro](https://www.eneuro.org/content/early/2024/11/13/ENEURO.0262-24.2024.abstract)
+
+## 13
+**Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability**  
+Fooken J, Balalaie P, Park K, Flanagan JR, Scott SH  
+[J Vis 24:10](https://doi.org/10.1167/jov.24.12.10)
+
+## 14
+**Acid-sensing ion channels drive the generation of tactile impulses in Merkel cell-neurite complexes of the glabrous skin of rodent hindpaws**  
+Yamada A, Gautam M, Yamada AI, Ling J, Gupta S, Furue H, Luo W, Gu JG  
+[J Neurosci 44](https://www.jneurosci.org/content/44/47/e0885242024.abstract)
+
+## 15
+**Language enables the acquisition of distinct sensorimotor memories for speech**  
+Lametti DR, Wheeler ED, Palatinus S, Hocine I, Shiller DM  
+[Cognition 254:106010](http://dx.doi.org/10.1016/j.cognition.2024.106010)
+
+## 16
+**Kernels of motor memory formation: Temporal generalization in bimanual adaptation**  
+Howard IS, Franklin S, Franklin DW  
+[J Neurosci 44](https://www.jneurosci.org/content/44/47/e0359242024.abstract)
+
+## 17
+**Subthalamic nucleus neurons encode syllable sequence and phonetic characteristics during speech**  
+Lipski WJ, Bush A, Chrabaszcz A, Crammond DJ, Fiez JA, Turner RS, Richardson RM  
+[J Neurophysiol 132:1382–1394](https://journals.physiology.org/doi/10.1152/jn.00471.2023)
+
+## 18
+**Rescaling perceptual hand maps by visual-tactile recalibration**  
+Fuchs X, Heed T  
+[Eur J Neurosci](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16571)
+
+## 19
+**Sensorimotor adaptation to a non-uniform formant perturbation generalizes to untrained vowels**  
+Parrell B, Niziolek CA, Chen T  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00240.2024)
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed Laureline Logiaco from MIT/ University of Colorado to present:
+
+**Models of thalamocortical interactions in motor control**  (2023)  
+Escola GS, Lakshminarasimhan K, Logiaco L  
+In: [The Cerebral Cortex and Thalamus](https://academic.oup.com/book/55212/chapter/427110505)](Hantman AW, Cross KP, eds), pp 354–366. Oxford University Press, New York
+
+Video: [https://youtu.be/6Z366GTSkY0](https://youtu.be/6Z366GTSkY0)
+
+
+
+
+
+
+
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:](https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
