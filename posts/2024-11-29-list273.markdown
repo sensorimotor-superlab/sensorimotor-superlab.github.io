@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 273"
+date:   2024-11-29 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Scientists as political advocates**  
+Fuentes A  
+[Science 386:eadt7194](https://www.science.org/doi/10.1126/science.adt7194)
+
+## 2
+**Different subregions of monkey lateral prefrontal cortex respond to abstract sequences and their components**  
+Yusif Rodriguez N, Ahuja A, Basu D, McKim TH, Desrochers TM  
+[J Neurosci 44](https://www.jneurosci.org/content/44/47/e1353242024.abstract)
+
+## 3
+**Recurrent neural network dynamical systems for biological vision**  
+Soo WWM, Battista A, Radmard P, Wang X-J  
+[NeurIPS 24](https://openreview.net/forum?id=ZZ94aLbMOK)
+
+## 4
+**Hippocampal ripples mediate motor learning during brief rest breaks in humans**  
+Sjøgård M, Baxter B, Mylonas D, Driscoll B, Kwok K, Tolosa A, Thompson M, Stickgold R, Vangel M, Chu CJ, Manoach DS  
+[bioRxiv:2024.05.02.592200](https://www.biorxiv.org/content/10.1101/2024.05.02.592200v2)
+
+## 5
+**Processes controlling arm movements in monkeys**  
+Polit A, Bizzi E  
+[Science 201:1235-1237](https://www.science.org/doi/10.1126/science.99813)
+
+## 6
+**Time affects a time-consuming, flexible component and a fast, inflexible component of sensorimotor adaptation**  
+Leow L-A, Marinovic W, Albert ST, Carroll TJ  
+[bioRxiv:2024.11.17.624025](https://www.biorxiv.org/content/10.1101/2024.11.17.624025v1.abstract)
+
+## 7
+**Separating cognitive and motor processes in the behaving mouse**  
+Hasnain MA, Birnbaum JE, Nunez JLU, Hartman EK, Chandrasekaran C, Economo MN  
+[bioRxivorg:2023.08.23.554474](https://www.biorxiv.org/content/10.1101/2023.08.23.554474v3.abstract)
+
+## 8
+**Brain-wide representations of prior information in mouse decision-making**  
+Findling C et al.  
+[bioRxiv:2023.07.04.547684](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v5)
+
+## 9
+**Rarely categorical, always high-dimensional: how the neural code changes along the cortical hierarchy**  
+Posani L, Wang S, Muscinelli S, Paninski L, Fusi S  
+[bioRxiv:2024.11.15.623878](https://www.biorxiv.org/content/10.1101/2024.11.15.623878v1.abstract)
+
+## 10
+**Neural encoding of direction and distance across reference frames in visually guided reaching**  
+Harris Caceres A, Barany DA, Dundon NM, Smith J, Marneweck M  
+[eNeuro](https://www.eneuro.org/content/early/2024/11/14/ENEURO.0405-24.2024.abstract)
+
+## 11
+**Integrating across behaviors and timescales to understand the neural control of movement**  
+Gmaz JM, Keller JA, Dudman JT, Gallego JA  
+[Curr Opin Neurobiol 85:102843](http://dx.doi.org/10.1016/j.conb.2024.102843)
+
+## 12
+**Dopamine alters motor learning performance in the presence and absence of feedback**  
+Leow L-A, Tan AH-R, Carroll TJ, Adam R, Dux PE, Filmer HL  
+[bioRxiv:2024.11.23.625034](https://www.biorxiv.org/content/10.1101/2024.11.23.625034v1.abstract)
+
+## 13
+**Wiring of a low-dimensional integrator network**  
+Hu B, Friedrich RW  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01702-7)
+
+## 14
+**Predicting modular functions and neural coding of behavior from a synaptic wiring diagram**  
+Vishwanathan A, Sood A, Wu J, Ramirez AD, Yang R, Kemnitz N, Ih D, Turner N, Lee K, Tartavull I, Silversmith WM, Jordan CS, David C, Bland D, Sterling A, Seung HS, Goldman MS, Aksay ERF, Eyewirers  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01784-3)
+
+## 15
+**Nonlinear receptive fields evoke redundant retinal coding of natural scenes**  
+Karamanlis D, Khani MH, Schreyer HM, Zapp SJ, Mietsch M, Gollisch T  
+[Nature](https://www.nature.com/articles/s41586-024-08212-3)
+
+## 16
+**Study design features increase replicability in brain-wide association studies**  
+Kang K et al.  
+[Nature](https://www.nature.com/articles/s41586-024-08260-9)
+
+## 17
+**Encoding innate ability through a genomic bottleneck**  
+Shuvaev S, Lachi D, Koulakov A, Zador A  
+[PNAS 121:e2409160121](https://www.pnas.org/doi/abs/10.1073/pnas.2409160121)
+
+## 18
+**Inferring neural activity before plasticity as a foundation for learning beyond backpropagation**  
+Song Y, Millidge B, Salvatori T, Lukasiewicz T, Xu Z, Bogacz R  
+[Nat Neurosci](https://www.nature.com/articles/s41593-023-01514-1)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:](https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
