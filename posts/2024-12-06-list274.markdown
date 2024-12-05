@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Reading List 274"
+date:   2024-12-06 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Control when confidence is costly**  
+Olivos-Castillo I, Schrater P, Pitkow X  
+[arXiv [csAI]](https://arxiv.org/abs/2406.14427)
+
+## 2
+**Lower-limb express visuomotor responses are spared in Parkinson's Disease during step initiation from a stable position**  
+Billen LS, Nonnekes J, Corneil BD, Weerdesteyn V  
+[bioRxiv:2024.11.29.625631](https://www.biorxiv.org/content/10.1101/2024.11.29.625631v1.abstract)
+
+## 3
+**Macrophages excite muscle spindles with glutamate to bolster locomotion**  
+Yan Y, Antolin N, Zhou L, Xu L, Vargas IL, Gomez CD, Kong G, Palmisano I, Yang Y, Chadwick J, Müller F, Bull AMJ, Lo Celso C, Primiano G, Servidei S, Perrier JF, Bellardita C, Di Giovanni S  
+[Nature:1-10](https://www.nature.com/articles/s41586-024-08272-5)
+
+## 4
+**An optical brain-machine interface reveals a causal role of posterior parietal cortex in goal-directed navigation**  
+Sorrell E, Wilson DE, Rule ME, Yang H, Forni F, Harvey CD, O'Leary T  
+[bioRxiv:2024.11.29.626034](https://www.biorxiv.org/content/10.1101/2024.11.29.626034v1.abstract)
+
+## 5
+**Terra incognita of the uncontrolled manifold**  
+Latash ML  
+[J Neurophysiol 132:1729-1743](https://journals.physiology.org/doi/10.1152/jn.00394.2024)
+
+## 6
+**Spectrum of power laws for curved hand movements**  
+Huh D, Sejnowski TJ  
+[PNAS 112:E3950-8](https://dx.doi.org/10.1073/pnas.1510208112)
+
+## 7
+**Parkinson's Disease affects the contextual control, but not the expression, of a rapid visuomotor response that initiates visually-guided reaching: Evidence for multiple, interacting motor pathways and implications for motor symptoms in Parkinson's Disease**  
+Gilchrist M, Kozak RA, Prenger M, Anello M, Van Hedger K, MacDonald PA, Corneil BD  
+[bioRxiv:2024.11.27.625399](https://www.biorxiv.org/content/10.1101/2024.11.27.625399v1.abstract)
+
+## 8
+**MEG signals reveal arm posture coding and intrinsic movement plans in parietofrontal cortex**  
+Blohm G, Cheyne DO, Crawford JD  
+[bioRxiv:2024.12.02.625906](https://www.biorxiv.org/content/10.1101/2024.12.02.625906v1.abstract)
+
+## 9
+**Cutting a nerve of the hand alters the organisation of digit maps in primary somatosensory cortex**  
+Weber M, Marshall A, Timircan R, McGlone FP, Tucciarelli R, Onyekwelu O, Booth L, Jesudason EP, Lees VC, Valyear KF  
+[medRxiv:2024.11.26.24316490](https://www.medrxiv.org/content/10.1101/2024.11.26.24316490v1.abstract)
+
+## 10
+**Hypothalamic deep brain stimulation augments walking after spinal cord injury**  
+Cho N et al.  
+[Nat Med:1-11](https://www.nature.com/articles/s41591-024-03306-x)
+
+## 11
+**Building egocentric models of local space from retinal input**  
+Martins DM, Manda JM, Goard MJ, Parker PRL  
+[Curr Biol 34:R1185-R1202](https://dx.doi.org/10.1016/j.cub.2024.10.057)
+
+## 12
+**A dynamic subset of network interactions underlies tuning to natural movements in marmoset sensorimotor cortex**  
+Moore DD, MacLean JN, Walker JD, Hatsopoulos NG  
+[Nat Commun 15:10517](https://www.nature.com/articles/s41467-024-54343-6)
+
+## 13
+**Transfer of sensorimotor adaptation reveals independent prosodic representation after segment-prosody coordination in speech production**  
+Zeng Y, Parrell B, Niziolek CA  
+[PsyArXiv](https://osf.io/63gaj)
+
+## 14
+**Cortical dynamics in hand/forelimb S1 and M1 evoked by brief photostimulation of the mouse's hand**  
+Piña Novo D, Gao M, Yu J, Barrett JM, Shepherd GMG  
+[bioRxiv:2024.12.02.626335](https://www.biorxiv.org/content/10.1101/2024.12.02.626335v1.abstract)
+
+## 15
+**Predicting proprioceptive cortical anatomy and neural coding with topographic autoencoders**  
+Grogan M, Blum KP, Wu Y, Harston JA, Miller LE, Faisal AA  
+[PLoS Comput Biol 20:e1012614](https://doi.org/10.1371/journal.pcbi.1012614)
+
+## 16
+**Covert muscle activity reveals dynamic freezing states and prepares the animal for action**  
+Hobbiss AF, Franco MC, Medeiros AM, Rosher C, Mendes CS, Moita MA  
+[bioRxiv:2024.11.26.622641](https://www.biorxiv.org/content/10.1101/2024.11.26.622641v1.abstract)
+
+## 17
+**Sculpting new visual categories into the human brain**  
+Iordan CR, Ritvo VJH, Norman KA, Turk-Browne NB, Cohen JD  
+[PNAS 121:e2410445121](https://www.pnas.org/doi/abs/10.1073/pnas.2410445121)
+
+## 18
+**NeuroAI for AI Safety**  
+Mineault P, Zanichelli N, Peng JZ, Arkhipov A, Bingham E, Jara-Ettinger J, Mackevicius E, Marblestone A, Mattar M, Payne A, Sanborn S, Schroeder K, Tavares Z, Tolias A  
+[arXiv [csAI]](https://arxiv.org/abs/2411.18526)
+
+## 19
+**PhD survival guide**  
+Almeida-Souza L, Baets J  
+[EMBO Rep 13:189-192](https://dx.doi.org/10.1038/embor.2012.15)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]](https://superlab.ca]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
