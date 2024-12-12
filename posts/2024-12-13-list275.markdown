@@ -1,0 +1,116 @@
+---
+layout: post
+title:  "Reading List 275"
+date:   2024-12-13 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our **Journal Club** feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation**  
+Salter S, Warren R, Schlager C, Spurr A, Han S, Bhasin R, Cai Y, Walkington P, Bolarinwa A, Wang R, Danielson N, Merel J, Pnevmatikakis E, Marshall J  
+[arXiv [csCV]](http://arxiv.org/abs/2412.02725)
+
+## 2
+**Disentangling the roles of distinct cell classes with cell-type dynamical systems**  
+Jha A, Gupta D, Brody CD, Pillow JW  
+[bioRxiv:2024.07.08.602520](https://www.biorxiv.org/content/10.1101/2024.07.08.602520v2.abstract)
+
+## 3
+**Evoking stable and precise tactile sensations via multi-electrode intracortical microstimulation of the somatosensory cortex**  
+Greenspon CM et al.  
+[Nat Biomed Eng:1–17](https://www.nature.com/articles/s41551-024-01299-z)
+
+## 4
+**Cortico-thalamic communication for action coordination in a skilled motor sequence**  
+Huang ZJ, Li Y, An X, Mulcahey PJ, Qian Y, Xu XH, Zhao S, Mohan H, M.Suryanarayana S, Bachschmid-Romano L, Brunel N, Whishaw I  
+[Research Square](https://www.researchsquare.com/article/rs-5485282/latest.pdf)
+
+## 5
+**Acquiring musculoskeletal skills with curriculum-based reinforcement learning**  
+Chiappa AS, Tano P, Patel N, Ingster A, Pouget A, Mathis A  
+[Neuron](http://www.cell.com/article/S0896627324006500/abstract)
+
+## 6
+**A tale of two algorithms: Structured slots explain prefrontal sequence memory and are unified with hippocampal cognitive maps**  
+Whittington JCR, Dorrell W, Behrens TEJ, Ganguli S, El-Gaby M  
+[Neuron ](http://www.cell.com/article/S0896627324007657/abstract)
+
+## 7
+**Structure-guided design of a peripherally restricted chemogenetic system**  
+Kang HJ et al.  
+[Cell ](http://www.cell.com/article/S0092867424012753/abstract)
+
+## 8
+**Retinal direction of motion is reliably transmitted to visual cortex through highly selective thalamocortical connections**  
+Su C, Mendes-Platt RF, Alonso J-M, Swadlow HA, Bereshpolova Y  
+[Curr Biol](http://www.cell.com/article/S0960982224015203/abstract)
+
+## 9
+**Modulation of sensory input to the spinal cord by peripheral afferent fibres. Searching for relays**  
+Sławińska U, Hammar I, Jankowska E  
+[bioRxiv:2024.12.04.626763](https://www.biorxiv.org/content/10.1101/2024.12.04.626763v1.abstract)
+
+## 10
+**3D statistical shape models for automatic segmentation of the fetal cerebellum in ultrasound images**  
+Velásquez-Rodríguez GAR, Fanti-Gutiérrez Z, Torres F, Medina-Bañuelos V, Escalante-Ramírez B, Camargo Marín L, Guzmán Huerta M, Arámbula Cosío F  
+[Signal Image Video Process 19:1–11](https://link.springer.com/article/10.1007/s11760-024-03615-1)
+
+## 11
+**Exploration-based learning of a stabilizing controller predicts locomotor adaptation**  
+Seethapathi N, Clark BC, Srinivasan M  
+[Nat Commun 15:9498](https://www.nature.com/articles/s41467-024-53416-w)
+
+## 12
+**Reinforcement learning: An overview**  
+Murphy K  
+[arXiv [csAI]](http://arxiv.org/abs/2412.05265)
+
+## 13
+**Distinct patterns of connectivity with the motor cortex reflect different components of sensorimotor learning**  
+Areshenkoff CN, de Brouwer AJ, Gale DJ, Nashed JY, Smallwood J, Flanagan JR, Gallivan JP  
+[PLoS Biol 22:e3002934](https://doi.org/10.1371/journal.pbio.3002934)
+
+## 14
+**Estimating descending activation patterns from EMG in fast and slow movements using a model of the stretch reflex**  
+Zhang L, Schöner G  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/JN.00449.2024)
+
+## 15
+**Efficient Coding in Motor Planning**  
+Wang T, Fang Y, Whitney D  
+[bioRxiv:2024.09.30.615975](https://www.biorxiv.org/content/10.1101/2024.09.30.615975v1.abstract)
+
+## 16
+**Membrane mechanics dictate axonal pearls-on-a-string morphology and function**  
+Griswold JM, Bonilla-Quintana M, Pepper R, Lee CT, Raychaudhuri S, Ma S, Gan Q, Syed S, Zhu C, Bell M, Suga M, Yamaguchi Y, Chéreau R, Valentin Nägerl U, Knott G, Rangamani P, Watanabe S  
+[Nat Neurosci:1–13](https://www.nature.com/articles/s41593-024-01813-1)
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed Marine Schimel from Cambridge/Stanford to present:
+
+**When and why does motor preparation arise in recurrent neural network models of motor control?**  
+Schimel M, Kao T-C, Hennequin G (2024)  
+[Elife 12](https://elifesciences.org/articles/89131)
+
+Video: [https://youtu.be/n62INaCuObg](https://youtu.be/n62INaCuObg)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]](https://superlab.ca]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

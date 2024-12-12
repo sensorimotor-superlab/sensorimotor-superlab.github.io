@@ -10,7 +10,143 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 06 Dec 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Dec 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 275</title>
+  <link>https://superlab.ca/posts/2024-12-13-list275.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>This week we continue our <strong>Journal Club</strong> feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation</strong><br>
+Salter S, Warren R, Schlager C, Spurr A, Han S, Bhasin R, Cai Y, Walkington P, Bolarinwa A, Wang R, Danielson N, Merel J, Pnevmatikakis E, Marshall J<br>
+<a href="http://arxiv.org/abs/2412.02725">arXiv [csCV]</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Disentangling the roles of distinct cell classes with cell-type dynamical systems</strong><br>
+Jha A, Gupta D, Brody CD, Pillow JW<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.07.08.602520v2.abstract">bioRxiv:2024.07.08.602520</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Evoking stable and precise tactile sensations via multi-electrode intracortical microstimulation of the somatosensory cortex</strong><br>
+Greenspon CM et al.<br>
+<a href="https://www.nature.com/articles/s41551-024-01299-z">Nat Biomed Eng:1–17</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Cortico-thalamic communication for action coordination in a skilled motor sequence</strong><br>
+Huang ZJ, Li Y, An X, Mulcahey PJ, Qian Y, Xu XH, Zhao S, Mohan H, M.Suryanarayana S, Bachschmid-Romano L, Brunel N, Whishaw I<br>
+<a href="https://www.researchsquare.com/article/rs-5485282/latest.pdf">Research Square</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Acquiring musculoskeletal skills with curriculum-based reinforcement learning</strong><br>
+Chiappa AS, Tano P, Patel N, Ingster A, Pouget A, Mathis A<br>
+<a href="http://www.cell.com/article/S0896627324006500/abstract">Neuron</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>A tale of two algorithms: Structured slots explain prefrontal sequence memory and are unified with hippocampal cognitive maps</strong><br>
+Whittington JCR, Dorrell W, Behrens TEJ, Ganguli S, El-Gaby M<br>
+<a href="http://www.cell.com/article/S0896627324007657/abstract">Neuron</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Structure-guided design of a peripherally restricted chemogenetic system</strong><br>
+Kang HJ et al.<br>
+<a href="http://www.cell.com/article/S0092867424012753/abstract">Cell</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Retinal direction of motion is reliably transmitted to visual cortex through highly selective thalamocortical connections</strong><br>
+Su C, Mendes-Platt RF, Alonso J-M, Swadlow HA, Bereshpolova Y<br>
+<a href="http://www.cell.com/article/S0960982224015203/abstract">Curr Biol</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Modulation of sensory input to the spinal cord by peripheral afferent fibres. Searching for relays</strong><br>
+Sławińska U, Hammar I, Jankowska E<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.12.04.626763v1.abstract">bioRxiv:2024.12.04.626763</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>3D statistical shape models for automatic segmentation of the fetal cerebellum in ultrasound images</strong><br>
+Velásquez-Rodríguez GAR, Fanti-Gutiérrez Z, Torres F, Medina-Bañuelos V, Escalante-Ramírez B, Camargo Marín L, Guzmán Huerta M, Arámbula Cosío F<br>
+<a href="https://link.springer.com/article/10.1007/s11760-024-03615-1">Signal Image Video Process 19:1–11</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Exploration-based learning of a stabilizing controller predicts locomotor adaptation</strong><br>
+Seethapathi N, Clark BC, Srinivasan M<br>
+<a href="https://www.nature.com/articles/s41467-024-53416-w">Nat Commun 15:9498</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>Reinforcement learning: An overview</strong><br>
+Murphy K<br>
+<a href="http://arxiv.org/abs/2412.05265">arXiv [csAI]</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>Distinct patterns of connectivity with the motor cortex reflect different components of sensorimotor learning</strong><br>
+Areshenkoff CN, de Brouwer AJ, Gale DJ, Nashed JY, Smallwood J, Flanagan JR, Gallivan JP<br>
+<a href="https://doi.org/10.1371/journal.pbio.3002934">PLoS Biol 22:e3002934</a></p>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14">14</h2>
+<p><strong>Estimating descending activation patterns from EMG in fast and slow movements using a model of the stretch reflex</strong><br>
+Zhang L, Schöner G<br>
+<a href="https://journals.physiology.org/doi/10.1152/JN.00449.2024">J Neurophysiol</a></p>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15">15</h2>
+<p><strong>Efficient Coding in Motor Planning</strong><br>
+Wang T, Fang Y, Whitney D<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.30.615975v1.abstract">bioRxiv:2024.09.30.615975</a></p>
+</section>
+<section id="section-16" class="level2">
+<h2 class="anchored" data-anchor-id="section-16">16</h2>
+<p><strong>Membrane mechanics dictate axonal pearls-on-a-string morphology and function</strong><br>
+Griswold JM, Bonilla-Quintana M, Pepper R, Lee CT, Raychaudhuri S, Ma S, Gan Q, Syed S, Zhu C, Bell M, Suga M, Yamaguchi Y, Chéreau R, Valentin Nägerl U, Knott G, Rangamani P, Watanabe S<br>
+<a href="https://www.nature.com/articles/s41593-024-01813-1">Nat Neurosci:1–13</a></p>
+</section>
+</section>
+<section id="journal-club" class="level1">
+<h1>Journal Club</h1>
+<p>This week in the sensorimotor superlab lab meeting we welcomed Marine Schimel from Cambridge/Stanford to present:</p>
+<p><strong>When and why does motor preparation arise in recurrent neural network models of motor control?</strong><br>
+Schimel M, Kao T-C, Hennequin G (2024)<br>
+<a href="https://elifesciences.org/articles/89131">Elife 12</a></p>
+<p>Video: <a href="https://youtu.be/n62INaCuObg">https://youtu.be/n62INaCuObg</a></p>
+<hr>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here:]](https://superlab.ca]](https://superlab.ca)</p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2024-12-13-list275.html</guid>
+  <pubDate>Fri, 13 Dec 2024 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 274</title>
   <link>https://superlab.ca/posts/2024-12-06-list274.html</link>
@@ -2326,79 +2462,6 @@ Steinemann NA, Stine GM, Trautmann EM, Zylberberg A, Wolpert DM, Shadlen MN<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-08-02-list256.html</guid>
   <pubDate>Fri, 02 Aug 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 255</title>
-  <link>https://superlab.ca/posts/2024-07-26-list255.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Four golden lessons</strong><br>
-Weinberg S<br>
-<a href="https://dx.doi.org/10.1038/426389a">Nature 426:389</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>The role of explicit knowledge in compensating for a visuo-proprioceptive cue conflict</strong><br>
-Hsiao A, Block HJ<br>
-<a href="https://link.springer.com/article/10.1007/s00221-024-06898-5">Exp Brain Res</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>How and why eLife selects papers for peer review</strong><br>
-eLife Editorial Leadership, eLife Senior Editors, eLife Early Career Advisory Group<br>
-<a href="https://elifesciences.org/articles/100571">Elife 13</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Encoding of cerebellar dentate neuronal activity during visual attention in rhesus macaques</strong><br>
-Flierman NA, Koay SA, van Hoogstraten WS, Ruigrok TJH, Roelfsema PR, Badura A, De Zeeuw CI<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.07.18.604119v1.abstract">bioRxiv:2024.07.18.604119</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Towards a “universal translator” for neural dynamics at single-cell, single-spike resolution</strong><br>
-Zhang Y, Wang Y, Jimenez-Beneto D, Wang Z, Azabou M, Richards B, Winter O, International Brain Laboratory, Dyer E, Paninski L, Hurwitz C<br>
-<a href="https://arxiv.org/abs/2407.14668">arXiv [q-bioNC]</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Cerebellar output shapes cortical preparatory activity during motor adaptation</strong><br>
-Israely S, Ninou H, Rajchert O, Elmaleh L, Harel R, Mawase F, Kadmon J, Prut Y<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.07.12.603354v1.abstract">bioRxiv:2024.07.12.603354</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Control of tongue movements by the Purkinje cells of the cerebellum</strong><br>
-Hage P, Fakharian MA, Shoup AM, Pi JS, Sedaghat-Nejad E, Orozco SP, Jang IK, Looi V, Arginteanu T, Shadmehr R<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.07.25.604757v1.abstract">bioRxiv:2024.07.25.604757</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-07-26-list255.html</guid>
-  <pubDate>Fri, 26 Jul 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
