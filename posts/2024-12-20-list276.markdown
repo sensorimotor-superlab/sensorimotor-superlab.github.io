@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 276"
+date:   2024-12-20 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Temporal shift in task factor influence across the stretch reflex**  
+Torell F, Rohlén R, Dimitriou M  
+[bioRxiv:2024.12.07.627335](https://www.biorxiv.org/content/10.1101/2024.12.07.627335v1.abstract)
+
+## 2
+**Perceptual choice and motor signals in mouse somatosensory cortex**  
+Minamisawa G, Dong M, O'Connor DH  
+[bioRxiv:2024.12.06.627272](https://www.biorxiv.org/content/10.1101/2024.12.06.627272v1.abstract)
+
+## 3
+**Beyond gradients: Factorized, geometric control of interference and generalization**  
+Scott DN, Frank MJ  
+[eLife](https://elifesciences.org/reviewed-preprints/103701)
+
+## 4
+**Multiscale organization of neuronal activity unifies scale-dependent theories of brain function**  
+Munn BR, Müller EJ, Favre-Bulle I, Scott E, Lizier JT, Breakspear M, Shine JM  
+[Cell 187:7303-7313.e15](http://www.cell.com/article/S0092867424011528/abstract)
+
+## 5
+**Single neuron diversity supports area functional specialization along the visual cortical pathways**  
+Feyerabend M et al.  
+[bioRxiv:2024.12.13.628359](https://www.biorxiv.org/content/10.1101/2024.12.13.628359v1.abstract)
+
+## 6
+**Temporal shift in task factor influence across the stretch reflex**  
+Torell F, Rohlén R, Dimitriou M  
+[bioRxiv:2024.12.07.627335](https://www.biorxiv.org/content/10.1101/2024.12.07.627335v1.abstract)
+
+## 7
+**Muscle coactivation primes the nervous system for fast and task-dependent feedback control**  
+Maurus P, Armstrong DP, Scott SH, Cluff T  
+[arXiv [q-bioTO]](http://arxiv.org/abs/2410.16101)
+
+## 8
+**T1 and T2 measurements of the neonatal brain at 7 T**  
+Mahmoud A, Tomi-Tricot R, Leitão D, Bridgen P, Price AN, Uus A, Boutillon A, Lawrence AJ, Cromb D, Cawley P, Deprez M, De Vita E, Giles SL, Rutherford MA, Edwards AD, Hajnal JV, Arichi T, Malik SJ  
+[Magn Reson Med](https://onlinelibrary.wiley.com/doi/abs/10.1002/mrm.30403)
+
+## 9
+**Alzheimer's disease mortality among taxi and ambulance drivers: population based cross sectional study**  
+R Patel V, Liu M, Worsham CM, Jena AB  
+[BMJ 387:e082194](https://www.bmj.com/content/387/bmj-2024-082194.abstract)
+
+## 10
+**Human short-latency reflexes show precise short-term gain adaptation after prior motion**  
+Stratmann P, Schmidt A, Höppner H, van der Smagt P, Meindl T, Franklin DW, Albu-Schäffer A  
+[J Neurophysiol 132:1680-1692](https://journals.physiology.org/doi/10.1152/jn.00212.2024)
+
+## 11
+**A slow limit: extensive motor training cannot overcome a limit on the production of slow and smooth motion**  
+Noy L, van der Wel R, Friedman J  
+[J Neurophysiol 132:1779-1792](https://journals.physiology.org/doi/10.1152/jn.00208.2024)
+
+## 12
+**Frog fibres: What muscle architecture can tell us about anuran locomotor function**  
+Leavey A, Richards CT, Porro LB  
+[J Morphol 286:e70016](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.70016)
+
+## 13
+**The unbearable slowness of being: Why do we live at 10 bits/s?**  
+Zheng J, Meister M  
+[Neuron ](http://www.cell.com/article/S0896627324008080/abstract)
+
+## 14
+**Future spinal reflex is embedded in primary motor cortex output**  
+Umeda T, Yokoyama O, Suzuki M, Kaneshige M, Isa T, Nishimura Y  
+[bioRxiv:2023.06.19.545500](https://www.biorxiv.org/content/10.1101/2023.06.19.545500v1.abstract)
+
+## 15
+**Working memory updating in the macaque lateral prefrontal cortex**  
+Qian Y, Herikstad R, Libedinsky C  
+[J Neurosci](https://www.jneurosci.org/content/early/2024/12/08/JNEUROSCI.1770-24.2024.abstract)
+
+## 16
+**Intermittent practice facilitates stable motor memories**  
+Overduin SA, Richardson AG, Lane CE, Bizzi E, Press DZ  
+[J Neurosci 26:11888-11892](http://dx.doi.org/10.1523/JNEUROSCI.1320-06.2006)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
