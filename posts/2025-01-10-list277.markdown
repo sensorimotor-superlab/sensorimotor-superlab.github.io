@@ -1,0 +1,115 @@
+---
+layout: post
+title:  "Reading List 277"
+date:   2025-01-10 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**The natural variability of a dexterous motor skill is stably encoded in the cortex of freely behaving mice**  
+de Laittre EA, MacLean JN  
+[bioRxiv:2024.12.20.629771](https://www.biorxiv.org/content/10.1101/2024.12.20.629771v1.abstract)
+
+## 2
+**Longitudinal assessment of DREADD expression and efficacy in the monkey brain**  
+Nagai Y, Hori Y, Inoue K-I, Hirabayashi T, Mimura K, Oyama K, Miyakawa N, Hori Y, Iwaoki H, Kumata K, Zhang M-R, Takada M, Higuchi M, Minamimoto T  
+[bioRxiv:2024.12.26.630299](https://www.biorxiv.org/content/10.1101/2024.12.26.630299v1.abstract)
+
+## 3
+**Human precentral gyrus neurons link speech sequences from listening to speaking**  
+Xu D, Chung JE, Silva AB, Metzger SL, Greicius QR, Zhang Y, Leonard MK, Chang EF  
+[bioRxiv:2024.12.27.630563](https://www.biorxiv.org/content/10.1101/2024.12.27.630563v1.abstract)
+
+## 4
+**Motor unit mechanisms of speed control in mouse locomotion**  
+Thomas K, Gibbs R, Marques H, Carey MR, Sober SJ  
+[bioRxiv:2024.12.29.628022](https://www.biorxiv.org/content/10.1101/2024.12.29.628022v1.abstract)
+
+## 5
+**When do measured representational distances reflect the neural representational geometry?**  
+Botero VB, Kriegeskorte N  
+[bioRxiv:2024.12.30.630743](https://www.biorxiv.org/content/10.1101/2024.12.30.630743v1.abstract)
+
+## 6
+**Humans adaptively deploy forward and backward prediction**  
+Sharp PB, Eldar E  
+[Nat Hum Behav 8:1726–1737](https://www.nature.com/articles/s41562-024-01930-8)
+
+## 7
+**Mapping spatial patterns to energetic benefits in groups of flow-coupled swimmers**  
+Heydari S, Hang H, Kanso E  
+[Elife 13](https://elifesciences.org/articles/96129)
+
+## 8
+**A collicular map for touch-guided tongue control**  
+Ito BS, Gao Y, Kardon B, Goldberg JH  
+[bioRxiv:2024.04.08.587629](https://www.biorxiv.org/content/10.1101/2024.04.08.587629v2.abstract)
+
+## 9
+**Sensation is dispensable for the maturation of the vestibulo-ocular reflex**  
+Leary P, Bellegarda C, Quainoo C, Goldblatt D, Rosti B, Schoppik D  
+[Science 387:85–90](https://www.science.org/doi/10.1126/science.adr9982)
+
+## 10
+**Probing sensorimotor memory through the human speech-audiomotor system**  
+Rao N, Ostry DJ  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00337.2024)
+
+## 11
+**Enhanced somatosensory inhibition sharpens hand representation and sensorimotor skills in pianists**  
+Hirano M, Kimoto Y, Shiotani S, Furuya S  
+[J Neurosci](https://www.jneurosci.org/content/early/2025/01/01/JNEUROSCI.1486-24.2024.abstract)
+
+## 12
+**Flexible control of motor units: Is the multidimensionality of motor unit manifolds a sufficient condition?**  
+Dernoncourt F, Avrillon S, Logtens T, Cattagni T, Farina D, Hug F  
+[bioRxiv:2024.07.23.604408](https://www.biorxiv.org/content/10.1101/2024.07.23.604408v2.abstract)
+
+## 13
+**Targeted stimulation of motor cortex neural ensembles drives learned movements**  
+Wu A, Chen Q, Yu B, Chae S, Tan Z, Ramot A, Komiyama T  
+[bioRxiv:2025.01.06.631504](https://www.biorxiv.org/content/10.1101/2025.01.06.631504v1.abstract)
+
+## 14
+**The hippocampus represents information about movements in their temporal position in a learned motor sequence**  
+Dolfen N, Reverberi S, Op de Beeck H, King BR, Albouy G  
+[J Neurosci 44:e0584242024](https://www.jneurosci.org/content/44/37/e0584242024.abstract)
+
+## 15
+**Hippocampal neuronal activity is aligned with action plans**  
+Zutshi I, Apostolelli A, Yang W, Zheng Z (sam), Dohi T, Balzani E, Williams AH, Savin C, Buzsáki G  
+[bioRxiv:2024.09.05.611533](https://www.biorxiv.org/content/10.1101/2024.09.05.611533v2.abstract)
+
+---
+
+# Superlab Papers
+
+**Sensory expectations shape neural population dynamics in motor circuits**  
+Michaels JA, Kashefi M, Zheng J, Codol O, Weiler J, Kersten R, Gribble PL, Diedrichsen J, Pruszynski JA  
+[bioRxiv:2024.12.22.629295](https://www.biorxiv.org/content/10.1101/2024.12.22.629295v1.abstract)
+
+**Motor sequence learning involves better prediction of the next action and optimization of movement trajectories**  
+Kashefi M, Diedrichsen J, Pruszynski JA  
+[bioRxiv:2024.12.23.630092](https://www.biorxiv.org/content/10.1101/2024.12.23.630092v1.abstract)
+
+**Terms are tools in biological motor control**  
+Reschechtko S, Pruszynski JA  
+[Motor Control 29:104–107](https://doi.org/10.1123/mc.2024-0122)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
