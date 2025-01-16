@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 278"
+date:   2025-01-17 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Neuroethology of natural actions in freely moving monkeys**  
+Lanzarini F, Maranesi M, Rondoni EH, Albertini D, Ferretti E, Lanzilotto M, Micera S, Mazzoni A, Bonini L  
+[Science 387:214–220](https://www.science.org/doi/10.1126/science.adq6510)
+
+## 2
+**Predictive musculoskeletal simulations reveal the mechanistic link between speed, posture and energetics among extant mammals**  
+Clemente CJ, De Groote F, Dick TJM  
+[Nat Commun 15:8594](https://www.nature.com/articles/s41467-024-52924-z)
+
+## 3
+**The superior colliculus directs goal-oriented forelimb movements**  
+Chaterji S, Belliappa PH, Sathyamurthy A  
+[Cell Rep 44:115097](http://dx.doi.org/10.1016/j.celrep.2024.115097)
+
+## 4
+**Learning temporal action chunking for motor control**  
+Gou R  
+[UBC Thesis](https://open.library.ubc.ca/media/download/pdf/24/1.0445184/4)
+
+## 5
+**Patterns of cerebellar–cortical structural covariance mirror anatomical connectivity of sensorimotor and cognitive networks**  
+Alasmar Z, Chakravarty MM, Penhune VB, Steele CJ  
+[Hum Brain Mapp 46](https://pubmed.ncbi.nlm.nih.gov/39791308/)
+
+## 6
+**A critical initialization for biological neural networks**  
+Pachitariu M, Zhong L, Gracias A, Minisi A, Lopez C, Stringer C  
+[bioRxiv:2025.01.10.632397](https://www.biorxiv.org/content/10.1101/2025.01.10.632397v1.abstract)
+
+## 7
+**High cognitive violation of expectations is compromised in cerebellar ataxia**  
+Daniel LA, Vakil E, Saban W  
+[bioRxiv:2025.01.11.632539](https://www.biorxiv.org/content/10.1101/2025.01.11.632539v1.abstract)
+
+## 8
+**A mathematical language for linking fine-scale structure in spikes from hundreds to thousands of neurons with behaviour**  
+Busch AN, Budzinski RC, Pasini FW, Mináč J, Michaels JA, Roussy M, Gulli RA, Corrigan BC, Pruszynski JA, Martinez-Trujillo J, Muller LE  
+[arXiv [q-bioQM]](http://arxiv.org/abs/2412.03804)
+
+## 9
+**Whole-body coarticulation reflects expertise in sport climbing**  
+Maselli A, Musculus L, Moretti R, d’Avella A, Raab M, Pezzulo G  
+[bioRxiv:2025.01.10.632403](https://www.biorxiv.org/content/10.1101/2025.01.10.632403v1.abstract)
+
+## 10
+**Smooth pursuit eye movements contribute to long-latency reflex modulation in the lower extremity**  
+Sinha O, Bertucco M, Kurtzer I, Singh T  
+[bioRxiv:2025.01.12.632642](https://www.biorxiv.org/content/10.1101/2025.01.12.632642v1.abstract)
+
+## 11
+**Neural signatures of model-based and model-free reinforcement learning across prefrontal cortex and striatum**  
+Miranda B, Butler JL, Malalasekera WMN, Behrens TEJ, Dayan P, Kennerley SW  
+[bioRxiv:2025.01.11.632388](https://www.biorxiv.org/content/10.1101/2025.01.11.632388v1.abstract)
+
+## 12
+**Human motor unit discharge patterns reveal differences in neuromodulatory and inhibitory drive to motoneurons across contraction levels**  
+Škarabot J, Beauchamp JA, Pearcey GEP  
+[bioRxiv:2023.10.16.562612](https://www.biorxiv.org/content/10.1101/2023.10.16.562612v2.abstract)
+
+## 13
+**Ensemble reactivations during brief rest drive fast learning of sequences**  
+Griffin S, Khanna P, Choi H, Thiesen K, Novik L, Morecraft RJ, Ganguly K  
+[Nature](https://www.nature.com/articles/s41586-024-08414-9)
+
+## 14
+**Robustness of working memory to prefrontal cortex microstimulation**  
+Soldado-Magraner J, Minai Y, Yu BM, Smith MA  
+[bioRxiv:2025.01.14.632986](https://www.biorxiv.org/content/10.1101/2025.01.14.632986v1.abstract)
+
+## 15
+**Non-responsive neurons improve population coding of object location**  
+Haggard M, Chacron MJ  
+[J Neurosci 45:e1068242024](https://www.jneurosci.org/content/45/3/e1068242024.abstract)
+
+## 16
+**Surmounting the ceiling effect of motor expertise by novel sensory experience with a hand exoskeleton**  
+Furuya S, Oku T, Nishioka H, Hirano M  
+[Sci Robot](https://www.science.org/doi/10.1126/scirobotics.adn3802)
+
+
+---
+
+# Superlab Papers
+
+**Cortical areas for planning sequences before and during movement**  
+Ariani G, Shahbazi M, Diedrichsen J  
+[J Neurosci 45:e1300242024](https://www.jneurosci.org/content/45/3/e1300242024.abstract)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
