@@ -1,0 +1,85 @@
+---
+layout: post
+title:  "Reading List 279"
+date:   2025-01-24 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**The origin of color categories**  
+Garside DJ, Chang ALY, Selwyn HM, Conway BR  
+[PNAS 122:e2400273121](https://www.pnas.org/doi/abs/10.1073/pnas.2400273121)
+
+## 2
+**Dynamical constraints on neural population activity**  
+Oby ER, Degenhart AD, Grigsby EM, Motiwala A, Mcclain NT, Marino PJ, Yu BM, Batista AP  
+[bioRxiv:2024.01.03.573543](https://www.biorxiv.org/content/10.1101/2024.01.03.573543v1.abstract)
+
+## 3
+**Prior knowledge changes initial sensory processing in the human spinal cord**  
+Stenner M-P, Nossa CM, Zaehle T, Azañón E, Heinze H-J, Deliano M, Büntjen L  
+[Sci Adv 11](http://dx.doi.org/10.1126/sciadv.adl5602)
+
+## 4
+**Self-organized and self-sustained ensemble activity patterns in simulation of mouse primary motor cortex**  
+Doherty DW, Jung J, Dura-Bernal, Lytton WW  
+[bioRxiv:2025.01.13.632866](https://www.biorxiv.org/content/10.1101/2025.01.13.632866v1.abstract)
+
+## 5
+**Cortico-spinal modularity in the parieto-frontal system: A new perspective on action control**  
+Bufacchi RJ, Battaglia-Mayer A, Iannetti GD, Caminiti R  
+[Prog Neurobiol 231:102537](http://dx.doi.org/10.1016/j.pneurobio.2023.102537)
+
+## 6
+**Bidirectional Decoding: Improving action chunking via closed-loop resampling**  
+Liu Y, Hamid JI, Xie A, Lee Y, Du M, Finn C  
+[arXiv [csRO]](http://arxiv.org/abs/2408.17355)
+
+## 7
+**High-throughput unsupervised quantification of patterns in the natural behavior of marmosets**  
+Menegas W, Corbett E, Beliard K, Xu H, Parmar S, Desimone R, Feng G  
+[eLife](https://elifesciences.org/reviewed-preprints/103586)
+
+## 8
+**Stability of cross-sensory input to primary somatosensory cortex across experience**  
+Kato DD, Bruno RM  
+[Neuron 113:291-306.e7](http://www.cell.com/article/S0896627324007682/abstract)
+
+## 9
+**Derived motor neurons transplantation promotes nerve regeneration in a rodent model of a chronically denervated nerve through delayed adoption of a chronic denervation phenotype**  
+Cashman CR, Mi R, Hoke A  
+[bioRxiv:2025.01.21.634102](https://www.biorxiv.org/content/10.1101/2025.01.21.634102v1.abstract)
+
+## 10
+**Conjoint specification of action by neocortex and striatum**  
+Park J, Polidoro P, Fortunato C, Arnold J, Mensh B, Gallego JA, Dudman JT  
+[bioRxiv:2023.10.04.560957](https://www.biorxiv.org/content/10.1101/2023.10.04.560957v1.abstract)
+
+## 11
+**The human voice aligns with whole-body kinetics**  
+Pouw W, Werner R, Burchardt LS, Selen L  
+[bioRxiv:2023.11.28.568991](https://www.biorxiv.org/content/10.1101/2023.11.28.568991v2.abstract)
+
+## 12
+**What happened to the pursuit of truth?**  
+Marder E  
+[J Gen Physiol 156](https://doi.org/10.1085/jgp.202413672)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
