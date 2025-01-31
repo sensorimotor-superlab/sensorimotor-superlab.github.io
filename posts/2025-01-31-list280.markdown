@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 280"
+date:   2025-01-31 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Circuit modules for flexible locomotion**  
+Picton L, Pallucchi I, Fontanel P, Bertuzzi M, Song J, El Manira A  
+[Annu Rev Neurosci](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-112723-061241)
+
+## 2
+**Is visual perception WEIRD? The Müller-Lyer illusion and the Cultural Byproduct Hypothesis**  
+Amir D, Firestone C  
+[PsyArXiv](https://osf.io/preprints/psyarxiv/y7mtf_v1)
+
+## 3
+**Symmetries and continuous attractors in disordered neural circuits**  
+Clark DG, Abbott LF, Sompolinsky H  
+[bioRxiv:2025.01.26.634933](https://www.biorxiv.org/content/10.1101/2025.01.26.634933v1.abstract)
+
+## 4
+**Sensorimnemonic decisions: choosing memories versus sensory information**  
+Kumle L, Nobre AC, Draschkow D  
+[Trends Cogn Sci](http://dx.doi.org/10.1016/j.tics.2024.12.010)
+
+## 5
+**A neuromechanics solution for adjustable robot compliance and accuracy**  
+Abadía I, Bruel A, Courtine G, Ijspeert AJ, Ros E, Luque NR  
+[Sci Robot 10:eadp2356](https://www.science.org/doi/10.1126/scirobotics.adp2356)
+
+## 6
+**Decomposition of a complex motor skill with precise error feedback and intensive training breaks expertise ceiling**  
+Kimoto Y, Hirano M, Furuya S  
+[Commun Biol 8:118](https://www.nature.com/articles/s42003-025-07562-6)
+
+## 7
+**Trust in scientists and their role in society across 68 countries**  
+Cologna V et al.  
+[Nat Hum Behav](https://www.nature.com/articles/s41562-024-02090-5)
+
+## 8
+**Two cameras can be as good as four for markerless hand tracking during simple finger movements**  
+Mulla DM, Majoni N, Tilley PM, Keir PJ  
+[J Biomech 181:112534](http://dx.doi.org/10.1016/j.jbiomech.2025.112534)
+
+## 9
+**The brain’s sensitivity to sensory error can be modulated by altering perceived variability**  
+Tang D-L, Parrell B, Beach SD, Niziolek CA  
+[J Neurosci 45](https://www.jneurosci.org/content/45/5/e0024242024.abstract)
+
+## 10
+**A modular architecture for trial-by-trial learning of redundant muscle activity patterns in novel sensorimotor tasks**  
+Rebelo Dal’Bello L, Berger DJ, Borzelli D, Burdet E, d’Avella A  
+[bioRxiv:2025.01.29.635432](https://www.biorxiv.org/content/10.1101/2025.01.29.635432v1.abstract)
+
+## 11
+**Control principles of neural dynamics revealed by the neurobiology of timing**  
+Stine GM, Jazayeri M  
+[Annu Rev Neurosci](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-091724-015512)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
