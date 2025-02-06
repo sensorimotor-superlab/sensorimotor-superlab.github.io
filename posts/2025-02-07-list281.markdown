@@ -1,0 +1,114 @@
+---
+layout: post
+title:  "Reading List 281"
+date:   2025-02-07 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**The geometry of the neural state space of decisions**  
+Monsalve-Mercado MM, Miller KD  
+[bioRxiv:2025.01.24.634806](https://www.biorxiv.org/content/10.1101/2025.01.24.634806v1.abstract)
+
+## 2
+**Action features dominate cortical representation during natural vision**  
+Jung H, Han X, Ma F, Han J, Shokeen D, Van Uden C, Hanson I, Connolly AC, Haxby JV, Nastase SA  
+[bioRxiv:2025.01.30.635800](https://www.biorxiv.org/content/10.1101/2025.01.30.635800v1.abstract)
+
+## 3
+**BlueBerry: Closed-loop wireless optogenetic manipulation in freely moving animals**  
+Nourizonoz A, Girard B, Guyoton M, Galiñanes G, Thurnherr R, Pellat S, Bellone C, Huber D  
+[bioRxiv:2025.01.30.635697](https://www.biorxiv.org/content/10.1101/2025.01.30.635697v1.abstract)
+
+## 4
+**Recurrent neural networks with transient trajectory explain working memory encoding mechanisms**  
+Liu C, Jia S, Liu H, Zhao X, Li CT, Xu B, Zhang T  
+[Commun Biol 8:137](https://www.nature.com/articles/s42003-024-07282-3)
+
+## 5
+**Population representation of the confidence in a decision in the lateral intraparietal area of the macaque**  
+Zylberberg A, Shadlen MN  
+[bioRxiv:2024.08.15.608159](https://www.biorxiv.org/content/10.1101/2024.08.15.608159v2.abstract)
+
+## 6
+**Touch-evoked traveling waves establish a translaminar spacetime code**  
+Gonzales DL, Khan HF, Keri HVS, Yadav S, Steward C, Muller LE, Pluta SR, Jayant K  
+[Sci Adv 11:eadr4038](https://www.science.org/doi/10.1126/sciadv.adr4038)
+
+## 7
+**An emerging view of neural geometry in motor cortex supports high-performance decoding**  
+Perkins SM, Amematsro EA, Cunningham J, Wang Q, Churchland MM  
+[Elife 12](https://elifesciences.org/articles/89421)
+
+## 8
+**Sensorimotor environment but not task rule reconfigures population dynamics in rhesus monkey posterior parietal cortex**  
+Guo H, Kuang S, Gail A  
+[Nat Commun 16:1116](https://www.nature.com/articles/s41467-025-56360-5)
+
+## 9
+**Left-right-alternating theta sweeps in entorhinal-hippocampal maps of space**  
+Vollan AZ, Gardner RJ, Moser M-B, Moser EI  
+[Nature](https://www.nature.com/articles/s41586-024-08527-1)
+
+## 10
+**Reaching distance influences perceptual decisions**  
+Assarioti EE, van Beers RJ, Smeets JBJ, van Wijk BCM  
+[Eur J Neurosci 61:e70006](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70006)
+
+## 11
+**Visual experience orthogonalizes visual cortical stimulus responses via population code transformation**  
+Failor SW, Carandini M, Harris KD  
+[Cell Rep 44:115235](http://www.cell.com/article/S2211124725000063/abstract)
+
+## 12
+**Active vision in freely moving marmosets using head-mounted eye tracking**  
+Singh VP, Li J, Dawson K, Mitchell JF, Miller CT  
+[PNAS 122:e2412954122](https://www.pnas.org/doi/abs/10.1073/pnas.2412954122)
+
+## 13
+**Neural population partitioning and a concurrent brain-machine interface for sequential motor function**  
+Shanechi MM, Hu RC, Powers M, Wornell GW, Brown EN, Williams ZM  
+[Nat Neurosci 15:1715–1722](https://www.nature.com/articles/nn.3250)
+
+## 14
+**Separating cognitive and motor processes in the behaving mouse**  
+Hasnain MA, Birnbaum JE, Ugarte Nunez JL, Hartman EK, Chandrasekaran C, Economo MN  
+[Nat Neurosci](https://www.nature.com/articles/s41593-024-01859-1)
+
+## 15
+**Adaptive chunking improves effective working memory capacity in a prefrontal cortex and basal ganglia circuit**  
+Soni AV, Frank MJ  
+[eLife](https://elifesciences.org/reviewed-preprints/97894)
+
+## 16
+**First-in-human study of epidural spinal cord stimulation in individuals with spinal muscular atrophy**  
+Prat-Ortega G et al.  
+[Nat Med](https://www.nature.com/articles/s41591-024-03484-8)
+
+## 17
+**A detailed theory of thalamic and cortical microcircuits for predictive visual inference**  
+George D, Lázaro-Gredilla M, Lehrach W, Dedieu A, Zhou G, Marino J  
+[Sci Adv 11](https://www.science.org/doi/10.1126/sciadv.adr6698)
+
+## 18
+**Medical journal editors must resist CDC order and anti-gender ideology**  
+Clark J, Abbasi K  
+[BMJ 388:r253](https://www.bmj.com/content/388/bmj.r253.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

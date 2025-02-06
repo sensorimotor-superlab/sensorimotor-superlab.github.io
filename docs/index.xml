@@ -10,7 +10,146 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 31 Jan 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Feb 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 281</title>
+  <link>https://superlab.ca/posts/2025-02-07-list281.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>The geometry of the neural state space of decisions</strong><br>
+Monsalve-Mercado MM, Miller KD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.01.24.634806v1.abstract">bioRxiv:2025.01.24.634806</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Action features dominate cortical representation during natural vision</strong><br>
+Jung H, Han X, Ma F, Han J, Shokeen D, Van Uden C, Hanson I, Connolly AC, Haxby JV, Nastase SA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.01.30.635800v1.abstract">bioRxiv:2025.01.30.635800</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>BlueBerry: Closed-loop wireless optogenetic manipulation in freely moving animals</strong><br>
+Nourizonoz A, Girard B, Guyoton M, Galiñanes G, Thurnherr R, Pellat S, Bellone C, Huber D<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.01.30.635697v1.abstract">bioRxiv:2025.01.30.635697</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Recurrent neural networks with transient trajectory explain working memory encoding mechanisms</strong><br>
+Liu C, Jia S, Liu H, Zhao X, Li CT, Xu B, Zhang T<br>
+<a href="https://www.nature.com/articles/s42003-024-07282-3">Commun Biol 8:137</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Population representation of the confidence in a decision in the lateral intraparietal area of the macaque</strong><br>
+Zylberberg A, Shadlen MN<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.15.608159v2.abstract">bioRxiv:2024.08.15.608159</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Touch-evoked traveling waves establish a translaminar spacetime code</strong><br>
+Gonzales DL, Khan HF, Keri HVS, Yadav S, Steward C, Muller LE, Pluta SR, Jayant K<br>
+<a href="https://www.science.org/doi/10.1126/sciadv.adr4038">Sci Adv 11:eadr4038</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>An emerging view of neural geometry in motor cortex supports high-performance decoding</strong><br>
+Perkins SM, Amematsro EA, Cunningham J, Wang Q, Churchland MM<br>
+<a href="https://elifesciences.org/articles/89421">Elife 12</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Sensorimotor environment but not task rule reconfigures population dynamics in rhesus monkey posterior parietal cortex</strong><br>
+Guo H, Kuang S, Gail A<br>
+<a href="https://www.nature.com/articles/s41467-025-56360-5">Nat Commun 16:1116</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Left-right-alternating theta sweeps in entorhinal-hippocampal maps of space</strong><br>
+Vollan AZ, Gardner RJ, Moser M-B, Moser EI<br>
+<a href="https://www.nature.com/articles/s41586-024-08527-1">Nature</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Reaching distance influences perceptual decisions</strong><br>
+Assarioti EE, van Beers RJ, Smeets JBJ, van Wijk BCM<br>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.70006">Eur J Neurosci 61:e70006</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Visual experience orthogonalizes visual cortical stimulus responses via population code transformation</strong><br>
+Failor SW, Carandini M, Harris KD<br>
+<a href="http://www.cell.com/article/S2211124725000063/abstract">Cell Rep 44:115235</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>Active vision in freely moving marmosets using head-mounted eye tracking</strong><br>
+Singh VP, Li J, Dawson K, Mitchell JF, Miller CT<br>
+<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2412954122">PNAS 122:e2412954122</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>Neural population partitioning and a concurrent brain-machine interface for sequential motor function</strong><br>
+Shanechi MM, Hu RC, Powers M, Wornell GW, Brown EN, Williams ZM<br>
+<a href="https://www.nature.com/articles/nn.3250">Nat Neurosci 15:1715–1722</a></p>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14">14</h2>
+<p><strong>Separating cognitive and motor processes in the behaving mouse</strong><br>
+Hasnain MA, Birnbaum JE, Ugarte Nunez JL, Hartman EK, Chandrasekaran C, Economo MN<br>
+<a href="https://www.nature.com/articles/s41593-024-01859-1">Nat Neurosci</a></p>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15">15</h2>
+<p><strong>Adaptive chunking improves effective working memory capacity in a prefrontal cortex and basal ganglia circuit</strong><br>
+Soni AV, Frank MJ<br>
+<a href="https://elifesciences.org/reviewed-preprints/97894">eLife</a></p>
+</section>
+<section id="section-16" class="level2">
+<h2 class="anchored" data-anchor-id="section-16">16</h2>
+<p><strong>First-in-human study of epidural spinal cord stimulation in individuals with spinal muscular atrophy</strong><br>
+Prat-Ortega G et al.<br>
+<a href="https://www.nature.com/articles/s41591-024-03484-8">Nat Med</a></p>
+</section>
+<section id="section-17" class="level2">
+<h2 class="anchored" data-anchor-id="section-17">17</h2>
+<p><strong>A detailed theory of thalamic and cortical microcircuits for predictive visual inference</strong><br>
+George D, Lázaro-Gredilla M, Lehrach W, Dedieu A, Zhou G, Marino J<br>
+<a href="https://www.science.org/doi/10.1126/sciadv.adr6698">Sci Adv 11</a></p>
+</section>
+<section id="section-18" class="level2">
+<h2 class="anchored" data-anchor-id="section-18">18</h2>
+<p><strong>Medical journal editors must resist CDC order and anti-gender ideology</strong><br>
+Clark J, Abbasi K<br>
+<a href="https://www.bmj.com/content/388/bmj.r253.abstract">BMJ 388:r253</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-02-07-list281.html</guid>
+  <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 280</title>
   <link>https://superlab.ca/posts/2025-01-31-list280.html</link>
@@ -2435,101 +2574,6 @@ Schwartz MA<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-09-13-list262.html</guid>
   <pubDate>Fri, 13 Sep 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 261</title>
-  <link>https://superlab.ca/posts/2024-09-06-list261.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Brain charts for the rhesus macaque lifespan</strong><br>
-Alldritt S et al.<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.08.28.610193v1.abstract">bioRxiv:2024.08.28.610193</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>The human hippocampus is involved in implicit motor learning</strong><br>
-Griffa G, Deleglise A, Solano A, Jacobacci F, De Pino G, Della-Maggiore V<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610548v1.abstract">bioRxiv:2024.08.30.610548</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Anatomical abnormalities suggest a compensatory role of the cerebellum in early Parkinson’s disease</strong><br>
-Yun JJ, Gailly de Taurines A, Tai YF, Haar S<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.08.30.610437v1.abstract">bioRxiv:2024.08.30.610437</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Learning to move and plan like the Knight: Sequential decision making with a novel motor mapping</strong><br>
-Velázquez-Vargas CA, Taylor JA<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.08.29.610359v1.abstract">bioRxiv:2024.08.29.610359</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>A collicular map for touch-guided tongue control</strong><br>
-Ito BS, Gao Y, Kardon B, Goldberg JH<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.04.08.587629v2.abstract">bioRxiv:2024.04.08.587629</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Miniature linear and split-belt treadmills reveal mechanisms of adaptive motor control in walking Drosophila</strong><br>
-Pratt BG, Lee S-YJ, Chou GM, Tuthill JC<br>
-<a href="https://dx.doi.org/10.1016/j.cub.2024.08.006">Curr Biol</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Motor decision-making under uncertainty and time pressure</strong><br>
-Contemori S, Carroll T<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.02.610909v1.abstract">bioRxiv:2024.09.02.610909</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>A gut-brain-gut interoceptive circuit loop gates sugar ingestion in Drosophila</strong><br>
-Cui X, Meiselman MR, Thornton SN, Yapici N<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.02.610892v1.abstract">bioRxiv:2024.09.02.610892</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Attention defines the context for implicit sensorimotor adaptation</strong><br>
-Wang T, Li J, Ivry RB<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.03.611108v1.abstract">bioRxiv:2024.09.03.611108</a></p>
-</section>
-<section id="superlab-papers" class="level2">
-<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
-<p><strong>Future movement plans interact in sequential arm movements</strong><br>
-Kashefi M, Reschechtko S, Ariani G, Shahbazi M, Tan A, Diedrichsen J, Pruszynski JA<br>
-<a href="https://elifesciences.org/articles/94485">Elife 13</a></p>
-<p>Magazine | Insight on <em>Kashefi et al.</em><br>
-<strong>Reaching into the future</strong><br>
-Chowdhury RH<br>
-<a href="https://elifesciences.org/articles/101739">Elife 13</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-09-06-list261.html</guid>
-  <pubDate>Fri, 06 Sep 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
