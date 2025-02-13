@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 282"
+date:   2025-02-14 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**SPM 25: open source neuroimaging analysis software**  
+Tierney TM et al.  
+[arXiv [q-bioQM]](https://arxiv.org/abs/2501.12081)
+
+## 2
+**Neuropixels Opto: Combining high-resolution electrophysiology and optogenetics**  
+Lakunina A et al.  
+[bioRxiv:2025.02.04.636286](https://www.biorxiv.org/content/10.1101/2025.02.04.636286v1.abstract)
+
+## 3
+**Overwriting an instinct: Visual cortex instructs learning to suppress fear responses**  
+Mederos S, Blakely P, Vissers N, Clopath C, Hofer SB  
+[Science 387:682–688](https://www.science.org/doi/10.1126/science.adr2247)
+
+## 4
+**Little brain, little minds: The big role of the cerebellum in social development**  
+Olson IR, Hoffman LJ, Jobson KR, Popal HS, Wang Y  
+[Dev Cogn Neurosci 60:101238](http://dx.doi.org/10.1016/j.dcn.2023.101238)
+
+## 5
+**Optogenetic modulation of long-range cortical circuits in awake nonhuman primates**  
+Andrei AR, Dragoi V  
+[Nat Protoc:1–23](https://www.nature.com/articles/s41596-024-01123-7)
+
+## 6
+**Computation-through-Dynamics Benchmark: Simulated datasets and quality metrics for dynamical models of neural activity**  
+Versteeg C, McCart JD, Ostrow M, Zoltowski DM, Washington CB, Driscoll L, Codol O, Michaels JA, Linderman SW, Sussillo D, Pandarinath C  
+[bioRxiv:2025.02.07.637062](https://www.biorxiv.org/content/10.1101/2025.02.07.637062v1.abstract)
+
+## 7
+**A Generalist Intracortical Motor Decoder**  
+Ye J et al.  
+[bioRxiv:2025.02.02.634313](https://www.biorxiv.org/content/10.1101/2025.02.02.634313v1.abstract)]
+
+## 8
+**Dynamic tracking of objects in the macaque dorsomedial frontal cortex**  
+Rajalingham R, Sohn H, Jazayeri M  
+[Nat Commun 16:346](https://www.nature.com/articles/s41467-024-54688-y)
+
+## 9
+**Rigid control of motor unit firing rates in the human tibialis anterior muscle persists during neurofeedback**  
+Lee M-J, Ofner P, Huang H-Y, Mulder J, Ibanez J, Farina D, Mehring C  
+[bioRxiv:2025.02.10.637074](https://www.biorxiv.org/content/10.1101/2025.02.10.637074v1.abstract)
+
+## 10
+**Timing of the co-activation of antagonist muscles affects foreleg movements during mantis strikes**  
+Ogawa S, Yamawaki Y  
+[J Insect Physiol:104753](http://dx.doi.org/10.1016/j.jinsphys.2025.104753)
+
+## 11
+**Latent circuit inference from heterogeneous neural responses during cognitive tasks**  
+Langdon C, Engel TA  
+[Nat Neurosci:1–11](https://www.nature.com/articles/s41593-025-01869-7)
+
+## 12
+**A thalamic hub-and-spoke network enables visual perception during action by coordinating visuomotor dynamics**  
+Vega-Zuniga T, Sumser A, Symonova O, Koppensteiner P, Schmidt FH, Joesch M  
+[Nat Neurosci:1–13](https://www.nature.com/articles/s41593-025-01874-w)
+
+## 13
+**Identification of V0g propriospinal neurons and their role in locomotor control**  
+Toscano E, Giomi M, Evtushenko N, Santuz A, Lowenstein ED, Birchmeier C, Zampieri N  
+[bioRxiv:2025.02.11.636221](https://www.biorxiv.org/content/10.1101/2025.02.11.636221v1.abstract)
+
+## 14
+**Dentate nucleus deep brain stimulation for spinocerebellar ataxia: results of a six-month follow-up**  
+Zhao L, Qiu C, Dong W, Luo B, Sun J, Yan J, Wei X, Lu G, Liu J, Zhang W  
+[medRxiv:2025.02.10.25321730](https://www.medrxiv.org/content/10.1101/2025.02.10.25321730v1.abstract)
+
+## 15
+**Humans can learn bimodal priors in complex sensorimotor behaviour**  
+Zahno S, Beck D, Hossner E-J, Kording KP  
+[bioRxiv:2025.02.12.637788](https://www.biorxiv.org/content/10.1101/2025.02.12.637788v1.abstract)
+
+## 16
+**Spike sorting AI agent**  
+Lin Z, Marin-Llobet A, Baek J, He Y, Lee J, Wang W, Zhang X, Lee AJ, Liang N, Du J, Ding J, Li N, Liu J  
+[bioRxiv:2025.02.11.637754](https://www.biorxiv.org/content/10.1101/2025.02.11.637754v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
