@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Reading List 283"
+date:   2025-02-21 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Cortical control of innate behavior from subcortical demonstration**  
+Keller JA, Kwak IS, Stark AK, Pachitariu M, Branson K, Dudman JT  
+[bioRxiv:2025.02.12.637930](https://www.biorxiv.org/content/10.1101/2025.02.12.637930v1.abstract)
+
+## 2
+**Smooth pursuit inhibition reveals audiovisual enhancement of fast movement control**  
+Kreyenmeier P, Bhuiyan I, Gian M, Chow HM, Spering M  
+[J Vis 24:3](https://doi.org/10.1167/jov.24.4.3)
+
+## 3
+**Neural processing of naturalistic audiovisual events in space and time**  
+Hu Y, Mohsenzadeh Y  
+[Commun Biol 8:110](https://www.nature.com/articles/s42003-024-07434-5)
+
+## 4
+**The geometry of correlated variability leads to highly suboptimal discriminative sensory coding**  
+Livezey JA, Sachdeva PS, Dougherty ME, Summers MT, Bouchard KE  
+[J Neurophysiol 133:124–141](https://journals.physiology.org/doi/10.1152/jn.00313.2024)
+
+## 5
+**Learning produces an orthogonalized state machine in the hippocampus**  
+Sun W, Winnubst J, Natrajan M, Lai C, Kajikawa K, Bast A, Michaelos M, Gattoni R, Stringer C, Flickinger D, Fitzgerald JE, Spruston N  
+[Nature](https://www.nature.com/articles/s41586-024-08548-w)
+
+## 6
+**The computational bottleneck of basal ganglia output (and what to do about it)**  
+Humphries MD  
+[bioRxiv:2024.10.23.619790](https://www.biorxiv.org/content/10.1101/2024.10.23.619790v1.abstract)
+
+## 7
+**The roles of internal dynamics and proprioceptive feedback in motor cortex during movement execution**  
+Jiang H, Bu X, Zheng Z, Tang H, Pan X, Chen Y  
+[Neurocomputing 629:129551](http://dx.doi.org/10.1016/j.neucom.2025.129551)
+
+## 8
+**MARBLE: interpretable representations of neural population dynamics using geometric deep learning**  
+Gosztolai A, Peach RL, Arnaudon A, Barahona M, Vandergheynst P  
+[Nat Methods](https://www.nature.com/articles/s41592-024-02582-2)
+
+## 9
+**Ignoring the cerebellum is hindering progress in neuroscience**  
+Wang B, LeBel A, D’Mello AM  
+[Trends Cogn Sci](http://www.cell.com/article/S136466132500004X/abstract)
+
+## 10
+**Functional ultrasound imaging of human brain activity through an acoustically transparent cranial window**  
+Rabut C, Norman SL, Griggs WS, Russin JJ, Jann K, Christopoulos V, Liu C, Andersen RA, Shapiro MG  
+[Sci Transl Med 16:eadj3143](https://www.science.org/doi/10.1126/scitranslmed.adj3143)
+
+---
+
+# Superlab Papers
+
+**A paradigm to study the learning of muscle activity patterns outside of the natural repertoire**  
+Ghavampour A, Emanuele M, Sayyid SR, Orban de Xivry J-J, Michaels JA, Pruszynski JA, Diedrichsen J  
+[bioRxiv:2025.02.13.638098](https://www.biorxiv.org/content/10.1101/2025.02.13.638098v1.abstract)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
