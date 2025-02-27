@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Reading List 284"
+date:   2025-02-28 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Mathematics in Biology**  
+Meister M, Lee KH, Portugues R  
+[MIT Press (2021)](https://mitpress.mit.edu/9780262049405/mathematics-in-biology/)
+
+## 2
+**Neuroethology of natural actions in freely moving monkeys**  
+Lanzarini F, Maranesi M, Rondoni EH, Albertini D, Ferretti E, Lanzilotto M, Micera S, Mazzoni A, Bonini L  
+[Science 387:214–220](https://www.science.org/doi/10.1126/science.adq6510)
+
+## 3
+**Quantifying state-dependent control properties of brain dynamics from perturbation responses**  
+Shikauchi Y, Takemi M, Tomasevic L, Kitazono J, Siebner HR, Oizumi M  
+[bioRxiv:2025.02.18.638784](https://www.biorxiv.org/content/10.1101/2025.02.18.638784v1.abstract)
+
+## 4
+**Neural circuit mechanisms to transform cerebellar population dynamics for motor control in monkeys**  
+Herzfeld DJ, Lisberger SG  
+[bioRxiv:2025.02.21.639459](https://www.biorxiv.org/content/10.1101/2025.02.21.639459v1.abstract)
+
+## 5
+**Layer connective fields from ultrafast resting-state fMRI differentiate feedforward from feedback signaling**  
+Carvalho J  
+[bioRxiv:2025.02.23.639720](https://www.biorxiv.org/content/10.1101/2025.02.23.639720v1.abstract)
+
+## 6
+**Transfer of learned object manipulations between two- and five-digit grasps**  
+Ulloa-Marquez J, Gutterman J, Santello M, Gordon AM  
+[bioRxiv:2025.02.24.639552](https://www.biorxiv.org/content/10.1101/2025.02.24.639552v1.abstract)
+
+## 7
+**Brain stimulation preferentially influences long-range projections in primates**  
+Vieira PG, Krause MR, Laamerad P, Pack CC  
+[bioRxiv:2025.02.19.639189](https://www.biorxiv.org/content/10.1101/2025.02.19.639189v1.abstract)
+
+## 8
+**Within-individual precision mapping of brain networks exclusively using task data**  
+Du J, Elliott ML, Ladopoulou J, Eldaief MC, Buckner RL  
+[bioRxiv:2025.02.25.640090](https://www.biorxiv.org/content/10.1101/2025.02.25.640090v1.abstract)
+
+## 9
+**Hybrid neural networks for volitional movement**  
+Mao H, Hasse BA, Schwartz AB  
+[bioRxiv:2025.02.20.636945](https://www.biorxiv.org/content/10.1101/2025.02.20.636945v2.abstract)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

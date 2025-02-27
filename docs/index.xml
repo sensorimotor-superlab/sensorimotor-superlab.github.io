@@ -9,8 +9,93 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 21 Feb 2025 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Fri, 28 Feb 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 284</title>
+  <link>https://superlab.ca/posts/2025-02-28-list284.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Mathematics in Biology</strong><br>
+Meister M, Lee KH, Portugues R<br>
+<a href="https://mitpress.mit.edu/9780262049405/mathematics-in-biology/">MIT Press (2021)</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Neuroethology of natural actions in freely moving monkeys</strong><br>
+Lanzarini F, Maranesi M, Rondoni EH, Albertini D, Ferretti E, Lanzilotto M, Micera S, Mazzoni A, Bonini L<br>
+<a href="https://www.science.org/doi/10.1126/science.adq6510">Science 387:214–220</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Quantifying state-dependent control properties of brain dynamics from perturbation responses</strong><br>
+Shikauchi Y, Takemi M, Tomasevic L, Kitazono J, Siebner HR, Oizumi M<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.18.638784v1.abstract">bioRxiv:2025.02.18.638784</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Neural circuit mechanisms to transform cerebellar population dynamics for motor control in monkeys</strong><br>
+Herzfeld DJ, Lisberger SG<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.21.639459v1.abstract">bioRxiv:2025.02.21.639459</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Layer connective fields from ultrafast resting-state fMRI differentiate feedforward from feedback signaling</strong><br>
+Carvalho J<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.23.639720v1.abstract">bioRxiv:2025.02.23.639720</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Transfer of learned object manipulations between two- and five-digit grasps</strong><br>
+Ulloa-Marquez J, Gutterman J, Santello M, Gordon AM<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.24.639552v1.abstract">bioRxiv:2025.02.24.639552</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Brain stimulation preferentially influences long-range projections in primates</strong><br>
+Vieira PG, Krause MR, Laamerad P, Pack CC<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.19.639189v1.abstract">bioRxiv:2025.02.19.639189</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Within-individual precision mapping of brain networks exclusively using task data</strong><br>
+Du J, Elliott ML, Ladopoulou J, Eldaief MC, Buckner RL<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.25.640090v1.abstract">bioRxiv:2025.02.25.640090</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Hybrid neural networks for volitional movement</strong><br>
+Mao H, Hasse BA, Schwartz AB<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.20.636945v2.abstract">bioRxiv:2025.02.20.636945</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-02-28-list284.html</guid>
+  <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 283</title>
   <link>https://superlab.ca/posts/2025-02-21-list283.html</link>
@@ -2452,101 +2537,6 @@ Busch SE, Hansel C<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-10-04-list265.html</guid>
   <pubDate>Fri, 04 Oct 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 264</title>
-  <link>https://superlab.ca/posts/2024-09-27-list264.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!<br>
-—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Primate superior colliculus is causally engaged in abstract higher-order cognition</strong><br>
-Peysakhovich B, Zhu O, Tetrick SM, Shirhatti V, Silva AA, Li S, Ibos G, Rosen MC, Johnston WJ, Freedman DJ<br>
-<a href="https://www.nature.com/articles/s41593-024-01744-x">Nat Neurosci</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Muscle spindles provide flexible sensory feedback for movement sequences</strong><br>
-Olson WP, Chokshi VB, Kim JJ, Cowan N, O’Connor DH<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612899v2.abstract">bioRxiv:2024.09.13.612899</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Lateralized cerebellar connectivity differentiates auditory pathways in echolocating and non-echolocating whales</strong><br>
-Flem S, Berns G, Inglis B, Niederhut D, Montie E, Deacon T, Miller KL, Tyack P, Cook PF<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.18.609772v1.abstract">bioRxiv:2024.09.18.609772</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Incorporating buccal mass planar mechanics and anatomical features improves neuromechanical modeling of <em>Aplysia</em> feeding behavior</strong><br>
-Bennington MJ, Liao AS, Sukhnandan R, Kundu B, Rogers SM, Gill JP, McManus JM, Sutton GP, Chiel HJ, Webster-Wood VA<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.17.613591v1.abstract">bioRxiv:2024.09.17.613591</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Multiple Functions of Cerebello-Thalamic Neurons in Learning and Offline Consolidation of a Motor Skill in mice</strong><br>
-Varani A, Mailhes-Hamon C, Sala RW, Fouda S, Frontera JL, Léna C, Popa D<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.11.612475v1.abstract">bioRxiv:2024.09.11.612475</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>A geometrical solution underlies general neural principle for serial ordering</strong><br>
-Di Antonio G, Raglio S, Mattia M<br>
-<a href="https://www.nature.com/articles/s41467-024-52240-6">Nat Commun 15:8238</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Human hippocampal and entorhinal neurons encode the temporal structure of experience</strong><br>
-Tacikowski P, Kalender G, Ciliberti D, Fried I<br>
-<a href="https://www.nature.com/articles/s41586-024-07973-1">Nature</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Overlearning hyperstabilizes a skill by rapidly making neurochemical processing inhibitory-dominant</strong><br>
-Shibata K, Sasaki Y, Bang JW, Walsh EG, Machizawa MG, Tamaki M, Chang L-H, Watanabe T<br>
-<a href="https://dx.doi.org/10.1038/nn.4490">Nat Neurosci 20:470–475</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>When preparation pays off</strong><br>
-Churchland MM<br>
-<a href="https://elifesciences.org/articles/102187">Elife 13</a></p>
-<p><strong>When and why does motor preparation arise in recurrent neural network models of motor control?</strong><br>
-Schimel M, Kao T-C, Hennequin G<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.04.03.535429v4">bioRxiv:2023.04.03.535429</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Forget ChatGPT: why researchers now run small AIs on their laptops</strong><br>
-Hutson M<br>
-<a href="https://www.nature.com/articles/d41586-024-02998-y">Nature 633:728–729</a></p>
-<p><br></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-09-27-list264.html</guid>
-  <pubDate>Fri, 27 Sep 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
