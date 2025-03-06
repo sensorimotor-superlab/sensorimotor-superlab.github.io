@@ -10,7 +10,86 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 28 Feb 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Mar 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 285</title>
+  <link>https://superlab.ca/posts/2025-03-07-list285.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Long-term development of a motor memory</strong><br>
+Franklin DW, Nietschmann P, Papadopoulou T, Franklin S<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.22.639647v1.abstract">bioRxiv:2025.02.22.639647</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Linking motor working memory to explicit and implicit motor learning</strong><br>
+Hillman H, McClure T, McDougle SD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.27.640657v1.abstract">bioRxiv:2025.02.27.640657</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>A deep learning strategy to identify cell types across species from high-density extracellular recordings</strong><br>
+Beau M et al.<br>
+<a href="https://www.cell.com/action/showAbstract?pii=S0092867425001102">Cell</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Mouse sensorimotor cortex reflects complex kinematic details during reaching and grasping</strong><br>
+Grier H, Salimian S, Kaufman M<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.02.19.639049v1.abstract">bioRxiv:2025.02.19.639049</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Net decrease in spine-surface GluA1-containing AMPA receptors after post-learning sleep in the adult mouse cortex</strong><br>
+Miyamoto D, Marshall W, Tononi G, Cirelli C<br>
+<a href="https://www.nature.com/articles/s41467-021-23156-2">Nat Commun 12:1–13</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Sleep pressure modulates single-neuron synapse number in zebrafish</strong><br>
+Suppermpool A, Lyons DG, Broom E, Rihel J<br>
+<a href="https://www.nature.com/articles/s41586-024-07367-3">Nature 629:639–645</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Mapping the landscape of social behavior</strong><br>
+Klibaite U, Li T, Aldarondo D, Akoad JF, Ölveczky BP, Dunn TW<br>
+<a href="https://www.cell.com/action/showAbstract?pii=S0092867425001540">Cell</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Wave physics as an analog recurrent neural network</strong><br>
+Hughes TW, Williamson IAD, Minkov M, Fan S<br>
+<a href="http://dx.doi.org/10.1126/sciadv.aay6946">Sci Adv 5</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-03-07-list285.html</guid>
+  <pubDate>Fri, 07 Mar 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 284</title>
   <link>https://superlab.ca/posts/2025-02-28-list284.html</link>
@@ -2384,159 +2463,6 @@ Covarrubias BV, Kamminga JM, Muchlinski MN, Munds RA, Villero Núñez V, Bauman 
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-10-11-list266.html</guid>
   <pubDate>Fri, 11 Oct 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 265</title>
-  <link>https://superlab.ca/posts/2024-10-04-list265.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>This week we continue our new feature (see below): the Sensorimotor Superlab <strong>Journal Club</strong>. In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Rewiring movements: A single neuronal population in the spinal cord is crucial to restore walking after paralysis</strong><br>
-Kathe C<br>
-<a href="https://www.science.org/doi/10.1126/science.ads1540">Science 385:1429</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Long-term memory formation for voices during sleep in three-month-old infants</strong><br>
-Bastian L, Kurz E-M, Näher T, Zinke K, Friedrich M, Born J<br>
-<a href="https://dx.doi.org/10.1016/j.nlm.2024.107987">Neurobiol Learn Mem 215:107987</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Mental programming of spatial sequences in working memory in the macaque frontal cortex</strong><br>
-Tian Z, Chen J, Zhang C, Min B, Xu B, Wang L<br>
-<a href="https://www.science.org/doi/10.1126/science.adp6091">Science 385:eadp6091</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Visual effects on tactile texture perception</strong><br>
-Roberts RD, Li M, Allen HA<br>
-<a href="https://www.nature.com/articles/s41598-023-50596-1">Sci Rep 14:632</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Nonlinear dynamics of multi-omics profiles during human aging</strong><br>
-Shen X, Wang C, Zhou X, Zhou W, Hornburg D, Wu S, Snyder MP<br>
-<a href="https://www.nature.com/articles/s43587-024-00692-2">Nat Aging</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Differential formation of motor cortical dynamics during movement preparation according to the predictability of go timing</strong><br>
-Chae S, Sohn J-W, Kim S-P<br>
-<a href="https://www.jneurosci.org/content/44/8/e1353232024.abstract">J Neurosci 44</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Haptic perception and its relation to action</strong><br>
-Klatzky RL<br>
-<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-011624-101129">Annu Rev Psychol</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Initial and corrective submovement encoding differences within primary motor cortex during precision reaching</strong><br>
-Schwartze KC, Lee W-H, Rouse AG<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00269.2023">J Neurophysiol 132:433–445</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Potentiation of active locomotor state by spinal-projecting serotonergic neurons</strong><br>
-Fenstermacher S, Vonasek A, Gattuso H, Chaimowitz C, Dymecki S, Jessell T, Dasen J<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.26.615260v2.abstract">bioRxiv:2024.09.26.615260</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Millisecond-scale motor control precedes sensorimotor learning in Bengalese finches</strong><br>
-Pascual LM, Vusirikala A, Nemenman I, Sober SJ, Pasek MJ<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.27.615500v1.abstract">bioRxiv:2024.09.27.615500</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Tracking neurons across days with high-density probes</strong><br>
-van Beest EH, Bimbard C, Fabre JMJ, Dodgson SW, Takács F, Coen P, Lebedeva A, Harris KD, Carandini M<br>
-<a href="https://www.nature.com/articles/s41592-024-02440-1">Nat Methods</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>Cortically disparate visual features evoke content-independent load signals during storage in working memory</strong><br>
-Jones HM, Thyer WS, Suplica D, Awh E<br>
-<a href="https://www.jneurosci.org/content/early/2024/09/24/JNEUROSCI.0448-24.2024.abstract">J Neurosci</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>Potentiation of cortico-spinal output via targeted electrical stimulation of the motor thalamus</strong><br>
-Ho JC et al.<br>
-<a href="https://www.nature.com/articles/s41467-024-52477-1">Nat Commun 15</a></p>
-</section>
-<section id="section-14" class="level2">
-<h2 class="anchored" data-anchor-id="section-14">14</h2>
-<p><strong>Distributed and specific encoding of sensory, motor, and decision information in the mouse neocortex during goal-directed behavior</strong><br>
-Oryshchuk A, Sourmpis C, Weverbergh J, Asri R, Esmaeili V, Modirshanechi A, Gerstner W, Petersen CCH, Crochet S<br>
-<a href="https://dx.doi.org/10.1016/j.celrep.2023.113618">Cell Rep 43:113618</a></p>
-</section>
-<section id="section-15" class="level2">
-<h2 class="anchored" data-anchor-id="section-15">15</h2>
-<p><strong>Variations in clustering of multielectrode local field potentials in the motor cortex of macaque monkeys during a reach-and-grasp task</strong><br>
-Chambellant F, Falaki A, Moreau-Debord I, French R, Serrano E, Quessy S, Dancause N, Thomas E<br>
-<a href="https://www.eneuro.org/content/11/9/ENEURO.0047-24.2024.abstract">eNeuro 11:ENEURO.0047-24.2024</a></p>
-</section>
-<section id="section-16" class="level2">
-<h2 class="anchored" data-anchor-id="section-16">16</h2>
-<p><strong>Acquiring musculoskeletal skills with curriculum-based reinforcement learning</strong><br>
-Chiappa AS, Tano P, Patel N, Ingster A, Pouget A, Mathis A<br>
-<a href="https://www.cell.com/article/S0896627324006500/abstract">Neuron</a></p>
-</section>
-<section id="section-17" class="level2">
-<h2 class="anchored" data-anchor-id="section-17">17</h2>
-<p><strong>Neural manifolds: Latest buzzword or pathway to understand the brain?</strong><br>
-Perich M<br>
-<a href="https://www.thetransmitter.org/neural-dynamics/neural-manifolds-latest-buzzword-or-pathway-to-understand-the-brain/">The Transmitter: Neuroscience News and Perspectives</a></p>
-<p><br></p>
-<hr>
-</section>
-</section>
-<section id="superlab-papers" class="level1">
-<h1>Superlab Papers</h1>
-<p><br></p>
-<p><strong>A hierarchical atlas of the human cerebellum for functional precision mapping</strong><br>
-Nettekoven C, Zhi D, Shahshahani L, Pinho AL, Saadon-Grosman N, Buckner RL, Diedrichsen J<br>
-<a href="https://www.nature.com/articles/s41467-024-52371-w">Nat Commun 15:8376</a></p>
-<p><br></p>
-<hr>
-</section>
-<section id="journal-club" class="level1">
-<h1>Journal Club</h1>
-<p>This week in the sensorimotor superlab lab meeting we welcomed Silas Busch to present his work from Christian Hansel’s lab at the University of Chicago:</p>
-<p><strong>Climbing fiber multi-innervation of mouse Purkinje dendrites with arborization common to human</strong><br>
-Busch SE, Hansel C<br>
-<a href="https://www.science.org/doi/10.1126/science.adi1024">Science 381:420–427</a></p>
-<p>Video: <a href="https://youtu.be/1iH1dvyKXIs?si=1PDXrt8lrDKvYkW1">https://youtu.be/1iH1dvyKXIs?si=1PDXrt8lrDKvYkW1</a></p>
-<hr>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-10-04-list265.html</guid>
-  <pubDate>Fri, 04 Oct 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

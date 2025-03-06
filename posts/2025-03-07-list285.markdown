@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Reading List 285"
+date:   2025-03-07 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Long-term development of a motor memory**  
+Franklin DW, Nietschmann P, Papadopoulou T, Franklin S  
+[bioRxiv:2025.02.22.639647](https://www.biorxiv.org/content/10.1101/2025.02.22.639647v1.abstract)
+
+## 2
+**Linking motor working memory to explicit and implicit motor learning**  
+Hillman H, McClure T, McDougle SD  
+[bioRxiv:2025.02.27.640657](https://www.biorxiv.org/content/10.1101/2025.02.27.640657v1.abstract)
+
+## 3
+**A deep learning strategy to identify cell types across species from high-density extracellular recordings**  
+Beau M et al.  
+[Cell ](https://www.cell.com/action/showAbstract?pii=S0092867425001102)
+
+## 4
+**Mouse sensorimotor cortex reflects complex kinematic details during reaching and grasping**  
+Grier H, Salimian S, Kaufman M  
+[bioRxiv:2025.02.19.639049](https://www.biorxiv.org/content/10.1101/2025.02.19.639049v1.abstract)
+
+## 5
+**Net decrease in spine-surface GluA1-containing AMPA receptors after post-learning sleep in the adult mouse cortex**  
+Miyamoto D, Marshall W, Tononi G, Cirelli C  
+[Nat Commun 12:1–13](https://www.nature.com/articles/s41467-021-23156-2)
+
+## 6
+**Sleep pressure modulates single-neuron synapse number in zebrafish**  
+Suppermpool A, Lyons DG, Broom E, Rihel J  
+[Nature 629:639–645](https://www.nature.com/articles/s41586-024-07367-3)
+
+## 7
+**Mapping the landscape of social behavior**  
+Klibaite U, Li T, Aldarondo D, Akoad JF, Ölveczky BP, Dunn TW  
+[Cell](https://www.cell.com/action/showAbstract?pii=S0092867425001540)
+
+## 8
+**Wave physics as an analog recurrent neural network**  
+Hughes TW, Williamson IAD, Minkov M, Fan S  
+[Sci Adv 5](http://dx.doi.org/10.1126/sciadv.aay6946)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
