@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Reading List 286"
+date:   2025-03-14 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**DREDge: robust motion correction for high-density extracellular recordings across species**  
+Windolf C et al.  
+[Nat Methods](https://www.nature.com/articles/s41592-025-02614-5)
+
+## 2
+**Flexible control of motor units: Is the multidimensionality of motor unit manifolds a sufficient condition?**  
+Dernoncourt F, Avrillon S, Logtens T, Cattagni T, Farina D, Hug F  
+[bioRxiv:2024.07.23.604408](https://www.biorxiv.org/content/10.1101/2024.07.23.604408v2.abstract)
+
+## 3
+**A prenatal window for enhancing spatial resolution of cortical barrel maps**  
+Aníbal-Martínez M, Puche-Aroca L, Pérez-Montoyo E, Pumo G, Madrigal MP, Rodríguez-Malmierca LM, Martini FJ, Rijli FM, López-Bendito G  
+[Nat Commun 16:1955](https://www.nature.com/articles/s41467-025-57052-w)
+
+## 4
+**A subcortical switchboard for perseverative, exploratory and disengaged states**  
+Ahmadlou M, Shirazi MY, Zhang P, Rogers ILM, Dziubek J, Young M, Hofer SB  
+[Nature](https://www.nature.com/articles/s41586-025-08672-1)
+
+## 5
+**Linking neural population formatting to function**  
+Ruff DA, Markman SK, Kim JZ, Cohen MR  
+[bioRxiv:2025.01.03.631242](https://www.biorxiv.org/content/10.1101/2025.01.03.631242v1.abstract)
+
+## 6
+**The neural bases of the reach-grasp movement in humans: Quantitative evidence from brain lesions**  
+Di Caro V, Cesari P, Sala F, Cattaneo L  
+[PNAS 122:e2419801122](https://www.pnas.org/doi/abs/10.1073/pnas.2419801122)
+
+## 7
+**Human neural dynamics of real-world and imagined navigation**  
+Seeber M, Stangl M, Vallejo Martelo M, Topalovic U, Hiller S, Halpern CH, Langevin J-P, Rao VR, Fried I, Eliashiv D, Suthana N  
+[Nat Hum Behav](https://www.nature.com/articles/s41562-025-02119-3)
+
+## 8
+**Reward signals in the motor cortex: from biology to neurotechnology**  
+Derosiere G, Shokur S, Vassiliadis P  
+[Nat Commun 16:1307](https://www.nature.com/articles/s41467-024-55016-0)  
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
