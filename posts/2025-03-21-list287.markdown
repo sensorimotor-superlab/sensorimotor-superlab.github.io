@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Reading List 287"
+date:   2025-03-21 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**The control of movement gradually transitions from feedback control to feedforward adaptation throughout childhood**  
+Malone LA, Hill NM, Tripp H, Zipunnikov V, Wolpert DM, Bastian AJ  
+[NPJ Sci Learn 10:13](https://www.nature.com/articles/s41539-025-00304-7)
+
+## 2
+**Neural synchrony links sensorimotor cortices in a network for facial motor control**  
+Vazquez Y, Ianni GR, Rassi E, Rouse AG, Schieber MH, Yazdani F, Prut Y, Freiwald WA  
+[bioRxiv:2025.03.04.641458](https://www.biorxiv.org/content/10.1101/2025.03.04.641458v3)
+
+## 3
+**Reach&Grasp: a multimodal dataset of the whole upper-limb during simple and complex movements**  
+Di Domenico D, Forsiuk I, Müller-Cleve S, Tanzarella S, Garro F, Marinelli A, Canepa M, Laffranchi M, Chiappalone M, Bartolozzi C, De Michieli L, Boccardo N, Semprini M  
+[Sci Data 12:233](https://www.nature.com/articles/s41597-025-04552-5)
+
+## 4
+**Oscillatory control over representational geometry of sequence working memory in macaque frontal cortex**  
+Fang W, Jiang X, Chen J, Zhang C, Wang L  
+[Curr Biol](http://dx.doi.org/10.1016/j.cub.2025.02.031)
+
+## 5
+**Are online corrections really a distinct class of movement?**  
+Mekhaiel DY, Goodale MA, Corneil BD  
+[bioRxiv:2025.03.14.643316](https://www.biorxiv.org/content/10.1101/2025.03.14.643316v2.abstract)
+
+## 6
+**SpikeMAP: An unsupervised spike sorting pipeline for cortical excitatory and inhibitory neurons in high-density multielectrode arrays with ground-truth validation**  
+Giraud E, Lynn M, Vincent-Lamarre P, Beique J-C, Thivierge J-P  
+[bioRxiv:2025.03.14.643403](https://www.biorxiv.org/content/10.1101/2025.03.14.643403v1.abstract)
+
+## 7
+**HIPPIE: A multimodal deep learning model for electrophysiological classification of neurons**  
+Gonzalez-Ferrer J, Lehrer J, Schweiger HE, Geng J, Hernandez S, Reyes F, Sevetson JL, Salama S, Teodorescu M, Haussler D, Mostajo-Radji MA  
+[bioRxiv:2025.03.14.642461](https://www.biorxiv.org/content/10.1101/2025.03.14.642461v1.abstract)
+
+## 8
+**A hippocampal population code for rapid generalization**  
+Tang W, Chang H, Liu C, Perez-Hernandez S, Zheng WY, Park J, Oliva A, Fernandez-Ruiz A  
+[bioRxiv:2025.03.15.643456](https://www.biorxiv.org/content/10.1101/2025.03.15.643456v1.abstract)
+
+## 9
+**Merging motoneuron and postural synergies in prosthetic hand design for natural bionic interfacing**  
+Capsi-Morales P, Barsakcioglu DY, Catalano MG, Grioli G, Bicchi A, Farina D  
+[Sci Robot 10:eado9509](https://www.science.org/doi/10.1126/scirobotics.ado9509)
+
+## 10
+**Online movements reflect ongoing deliberation**  
+Calalo JA, Ngo TT, Sullivan SR, Strand K, Buggeln JH, Lokesh R, Roth AM, Carter MJ, Kurtzer IL, Cashaback JGA  
+[bioRxiv:2024.08.19.608669](https://www.biorxiv.org/content/10.1101/2024.08.19.608669v1.abstract)
+
+## 11
+**Expectation-driven sensory adaptations support enhanced acuity during categorical perception**  
+Sainburg T, McPherson TS, Arneodo EM, Rudraraju S, Turvey M, Theilman BH, Tostado Marcos P, Thielk M, Gentner TQ  
+[Nat Neurosci:1–12](https://www.nature.com/articles/s41593-025-01899-1)
+
+## 12
+**Monkeys (Macaca mulatta) rank lists using multiple cognitive mechanisms simultaneously**  
+Sammeroff R, Hampton RR  
+[J Comp Psychol](http://dx.doi.org/10.1037/com0000405)
+
+## 13
+**Deep-learning models of the ascending proprioceptive pathway are subject to illusions**  
+Perez Rotondo A, Simos M, David F, Pigeon S, Blanke O, Mathis A  
+[bioRxiv:2025.03.15.643457](https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1.abstract)
+
+## 14
+**Perturbing human V1 degrades the fidelity of visual working memory**  
+Dake M, Curtis CE  
+[Nat Commun 16:2675](https://www.nature.com/articles/s41467-025-57882-8)
+
+## 15
+**Characteristics of Tactile Orientation Perception: Oblique Effect, Active vs Passive Exploration, and Serial Dependence**  
+Wang G, Alais D  
+[bioRxiv:2025.03.19.644099](https://www.biorxiv.org/content/10.1101/2025.03.19.644099v1.abstract)
+
+## 16
+**Musical neurodynamics**  
+Harding EE, Kim JC, Demos AP, Roman IR, Tichko P, Palmer C, Large EW  
+[Nat Rev Neurosci:1–15](https://www.nature.com/articles/s41583-025-00915-4)
+
+## 17
+**Mixed recurrent connectivity in primate prefrontal cortex**  
+Sigalas E, Libedinsky C  
+[PLoS Comput Biol 21:e1012867](https://doi.org/10.1371/journal.pcbi.1012867)
+
+## 18
+**Corticomuscular and intermuscular coherence during evidence accumulation in sensorimotor decision-making**  
+Visser YF, Medendorp WP, Selen LPJ  
+[Physiol Rep 13:e70237](https://onlinelibrary.wiley.com/doi/abs/10.14814/phy2.70237)
+
+## 19
+**Rapid emergence of latent knowledge in the sensory cortex drives learning**  
+Drieu C, Zhu Z, Wang Z, Fuller K, Wang A, Elnozahy S, Kuchibhotla K  
+[bioRxiv:2024.06.10.597946](https://www.biorxiv.org/content/10.1101/2024.06.10.597946v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

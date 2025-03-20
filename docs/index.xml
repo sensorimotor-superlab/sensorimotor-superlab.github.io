@@ -10,7 +10,152 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 14 Mar 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 21 Mar 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 287</title>
+  <link>https://superlab.ca/posts/2025-03-21-list287.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>The control of movement gradually transitions from feedback control to feedforward adaptation throughout childhood</strong><br>
+Malone LA, Hill NM, Tripp H, Zipunnikov V, Wolpert DM, Bastian AJ<br>
+<a href="https://www.nature.com/articles/s41539-025-00304-7">NPJ Sci Learn 10:13</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Neural synchrony links sensorimotor cortices in a network for facial motor control</strong><br>
+Vazquez Y, Ianni GR, Rassi E, Rouse AG, Schieber MH, Yazdani F, Prut Y, Freiwald WA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.04.641458v3">bioRxiv:2025.03.04.641458</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Reach&amp;Grasp: a multimodal dataset of the whole upper-limb during simple and complex movements</strong><br>
+Di Domenico D, Forsiuk I, Müller-Cleve S, Tanzarella S, Garro F, Marinelli A, Canepa M, Laffranchi M, Chiappalone M, Bartolozzi C, De Michieli L, Boccardo N, Semprini M<br>
+<a href="https://www.nature.com/articles/s41597-025-04552-5">Sci Data 12:233</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Oscillatory control over representational geometry of sequence working memory in macaque frontal cortex</strong><br>
+Fang W, Jiang X, Chen J, Zhang C, Wang L<br>
+<a href="http://dx.doi.org/10.1016/j.cub.2025.02.031">Curr Biol</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Are online corrections really a distinct class of movement?</strong><br>
+Mekhaiel DY, Goodale MA, Corneil BD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.14.643316v2.abstract">bioRxiv:2025.03.14.643316</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>SpikeMAP: An unsupervised spike sorting pipeline for cortical excitatory and inhibitory neurons in high-density multielectrode arrays with ground-truth validation</strong><br>
+Giraud E, Lynn M, Vincent-Lamarre P, Beique J-C, Thivierge J-P<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.14.643403v1.abstract">bioRxiv:2025.03.14.643403</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>HIPPIE: A multimodal deep learning model for electrophysiological classification of neurons</strong><br>
+Gonzalez-Ferrer J, Lehrer J, Schweiger HE, Geng J, Hernandez S, Reyes F, Sevetson JL, Salama S, Teodorescu M, Haussler D, Mostajo-Radji MA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.14.642461v1.abstract">bioRxiv:2025.03.14.642461</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>A hippocampal population code for rapid generalization</strong><br>
+Tang W, Chang H, Liu C, Perez-Hernandez S, Zheng WY, Park J, Oliva A, Fernandez-Ruiz A<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.15.643456v1.abstract">bioRxiv:2025.03.15.643456</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Merging motoneuron and postural synergies in prosthetic hand design for natural bionic interfacing</strong><br>
+Capsi-Morales P, Barsakcioglu DY, Catalano MG, Grioli G, Bicchi A, Farina D<br>
+<a href="https://www.science.org/doi/10.1126/scirobotics.ado9509">Sci Robot 10:eado9509</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Online movements reflect ongoing deliberation</strong><br>
+Calalo JA, Ngo TT, Sullivan SR, Strand K, Buggeln JH, Lokesh R, Roth AM, Carter MJ, Kurtzer IL, Cashaback JGA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.08.19.608669v1.abstract">bioRxiv:2024.08.19.608669</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Expectation-driven sensory adaptations support enhanced acuity during categorical perception</strong><br>
+Sainburg T, McPherson TS, Arneodo EM, Rudraraju S, Turvey M, Theilman BH, Tostado Marcos P, Thielk M, Gentner TQ<br>
+<a href="https://www.nature.com/articles/s41593-025-01899-1">Nat Neurosci:1–12</a></p>
+</section>
+<section id="section-12" class="level2">
+<h2 class="anchored" data-anchor-id="section-12">12</h2>
+<p><strong>Monkeys (Macaca mulatta) rank lists using multiple cognitive mechanisms simultaneously</strong><br>
+Sammeroff R, Hampton RR<br>
+<a href="http://dx.doi.org/10.1037/com0000405">J Comp Psychol</a></p>
+</section>
+<section id="section-13" class="level2">
+<h2 class="anchored" data-anchor-id="section-13">13</h2>
+<p><strong>Deep-learning models of the ascending proprioceptive pathway are subject to illusions</strong><br>
+Perez Rotondo A, Simos M, David F, Pigeon S, Blanke O, Mathis A<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.15.643457v1.abstract">bioRxiv:2025.03.15.643457</a></p>
+</section>
+<section id="section-14" class="level2">
+<h2 class="anchored" data-anchor-id="section-14">14</h2>
+<p><strong>Perturbing human V1 degrades the fidelity of visual working memory</strong><br>
+Dake M, Curtis CE<br>
+<a href="https://www.nature.com/articles/s41467-025-57882-8">Nat Commun 16:2675</a></p>
+</section>
+<section id="section-15" class="level2">
+<h2 class="anchored" data-anchor-id="section-15">15</h2>
+<p><strong>Characteristics of Tactile Orientation Perception: Oblique Effect, Active vs Passive Exploration, and Serial Dependence</strong><br>
+Wang G, Alais D<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.19.644099v1.abstract">bioRxiv:2025.03.19.644099</a></p>
+</section>
+<section id="section-16" class="level2">
+<h2 class="anchored" data-anchor-id="section-16">16</h2>
+<p><strong>Musical neurodynamics</strong><br>
+Harding EE, Kim JC, Demos AP, Roman IR, Tichko P, Palmer C, Large EW<br>
+<a href="https://www.nature.com/articles/s41583-025-00915-4">Nat Rev Neurosci:1–15</a></p>
+</section>
+<section id="section-17" class="level2">
+<h2 class="anchored" data-anchor-id="section-17">17</h2>
+<p><strong>Mixed recurrent connectivity in primate prefrontal cortex</strong><br>
+Sigalas E, Libedinsky C<br>
+<a href="https://doi.org/10.1371/journal.pcbi.1012867">PLoS Comput Biol 21:e1012867</a></p>
+</section>
+<section id="section-18" class="level2">
+<h2 class="anchored" data-anchor-id="section-18">18</h2>
+<p><strong>Corticomuscular and intermuscular coherence during evidence accumulation in sensorimotor decision-making</strong><br>
+Visser YF, Medendorp WP, Selen LPJ<br>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.14814/phy2.70237">Physiol Rep 13:e70237</a></p>
+</section>
+<section id="section-19" class="level2">
+<h2 class="anchored" data-anchor-id="section-19">19</h2>
+<p><strong>Rapid emergence of latent knowledge in the sensory cortex drives learning</strong><br>
+Drieu C, Zhu Z, Wang Z, Fuller K, Wang A, Elnozahy S, Kuchibhotla K<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.06.10.597946v1.abstract">bioRxiv:2024.06.10.597946</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-03-21-list287.html</guid>
+  <pubDate>Fri, 21 Mar 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 286</title>
   <link>https://superlab.ca/posts/2025-03-14-list286.html</link>
@@ -2288,115 +2433,6 @@ Williams AH<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-10-25-list268.html</guid>
   <pubDate>Fri, 25 Oct 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 267</title>
-  <link>https://superlab.ca/posts/2024-10-18-list267.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Social status as a latent variable in the amygdala of observers of social interactions</strong><br>
-Lee S, Rutishauser U, Gothard KM<br>
-<a href="https://www.cell.com/article/S0896627324006585/abstract">Neuron</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>I-Spin live, an open-source software based on blind-source separation for real-time decoding of motor unit activity in humans</strong><br>
-Rossato J, Hug F, Tucker K, Gibbs C, Lacourpaille L, Farina D, Avrillon S<br>
-<a href="https://elifesciences.org/articles/88670">Elife 12</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>The growing little brain: Cerebellar functional development from cradle to school</strong><br>
-Lyu W, Thung K-H, Huynh KM, Wang L, Lin W, Ahmad S, Yap P-T<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.12.617938v1.abstract">bioRxiv:2024.10.12.617938</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Single-neuron representations of odours in the human brain</strong><br>
-Kehl MS, Mackay S, Ohla K, Schneider M, Borger V, Surges R, Spehr M, Mormann F<br>
-<a href="https://www.nature.com/articles/s41586-024-08016-5">Nature 634:626-634</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Efficient Coding in Motor Planning</strong><br>
-Wang T, Fang Y, Whitney D<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.09.30.615975v2">bioRxiv:2024.09.30.615975</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Changes in cortical grasp-related activity before and after object contact</strong><br>
-Yan Y, Sobinov AR, Goodman JM, Okorokova EV, Miller LE, Bensmaia SJ<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.11.617909v1.abstract">bioRxiv:2024.10.11.617909</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Inhibitory components in muscle synergies factorized by the rectified latent variable model from electromyographic data</strong><br>
-Guo X, Huang S, He B, Lan C, Xie JJ, Lau KYS, Takei T, Mak ADP, Cheung RTH, Seki K, Cheung VCK, Chan RHM<br>
-<a href="https://ieeexplore.ieee.org/document/10711266">IEEE J Biomed Health Inform</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Intramuscular high-density micro-electrode arrays enable high-precision decoding and mapping of spinal motor neurons to reveal hand control</strong><br>
-Grison A, Pereda JI, Muceli S, Kundu A, Baracat F, Indiveri G, Donati E, Farina D<br>
-<a href="https://arxiv.org/abs/2410.11016">arXiv [q-bioNC]</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Human motor learning dynamics in high-dimensional tasks</strong><br>
-Kamboj A, Ranganathan R, Tan X, Srivastava V<br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/39401262/">PLoS Comput Biol 20:e1012455</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Accurate neural control of a hand prosthesis by posture-related activity in the primate grasping circuit</strong><br>
-Agudelo-Toro A, Michaels JA, Sheng W-A, Scherberger H<br>
-<a href="https://www.cell.com/article/S0896627324006883/abstract">Neuron</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Integrating brainstem and cortical functional architectures</strong><br>
-Hansen JY, Cauzzo S, Singh K, García-Gomar MG, Shine JM, Bianciardi M, Misic B<br>
-<a href="https://www.nature.com/articles/s41593-024-01787-0">Nature Neuroscience</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>Dopamine dynamics are dispensable for movement but promote reward responses</strong><br>
-Cai X, Liu C, Tsutsui-Kimura I, Lee J-H, Guo C, Banerjee A, Lee J, Amo R, Xie Y, Patriarchi T, Li Y, Watabe-Uchida M, Uchida N, Kaeser PS<br>
-<a href="https://www.nature.com/articles/s41586-024-08038-z">Nature</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>Neuronal sequences in population bursts encode information in human cortex</strong><br>
-Xie W, Wittig JH Jr, Chapeton JI, El-Kalliny M, Jackson SN, Inati SK, Zaghloul KA<br>
-<a href="https://www.nature.com/articles/s41586-024-08075-8">Nature</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-10-18-list267.html</guid>
-  <pubDate>Fri, 18 Oct 2024 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
