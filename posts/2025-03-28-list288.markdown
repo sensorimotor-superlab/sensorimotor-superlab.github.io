@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 288"
+date:   2025-03-28 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Individualized non-invasive deep brain stimulation of the basal ganglia using transcranial ultrasound stimulation**  
+Darmani G, Ramezanpour H, Sarica C, et al.  
+[Nat Commun 16:2693](https://www.nature.com/articles/s41467-025-57883-7)
+
+## 2
+**Robust encoding of stimulus-response mapping by neurons in visual cortex**  
+Jonikaitis D, Xia R, Moore T  
+[PNAS 122:e2408079122](https://www.pnas.org/doi/abs/10.1073/pnas.2408079122)
+
+## 3
+**A novel biomechanical model of the proximal mouse forelimb predicts muscle activity in optimal control simulations of reaching movements**  
+Gilmer JI, Coltman SK, Cuenu G, Hutchinson JR, Huber D, Person AL, Al Borno M  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00499.2024)
+
+## 4
+**Oculomotor learning is evident during implicit motor sequence learning**  
+Rubino C, Harrison AT, Boyd LA  
+[Sci Rep 15:9498](https://www.nature.com/articles/s41598-025-93498-0)
+
+## 5
+**Individual variability of neural computations underlying flexible decisions**  
+Pagan M, Tang VD, Aoi MC, Pillow JW, Mante V, Sussillo D, Brody CD  
+[Nature 639:421–429](https://www.nature.com/articles/s41586-024-08433-6)
+
+## 6
+**Goal-directed action preparation in humans entails a mixture of corticospinal neural computations**  
+Wadsley CG, Nguyen T, Horton C, Greenhouse I  
+[bioRxiv:2024.07.08.602530](https://www.biorxiv.org/content/10.1101/2024.07.08.602530v4)
+
+## 7
+**Cerebellar output shapes cortical preparatory activity during motor adaptation**  
+Israely S, Ninou H, Rajchert O, Elmaleh L, Harel R, Mawase F, Kadmon J, Prut Y  
+[bioRxiv:2024.07.12.603354](https://www.biorxiv.org/content/10.1101/2024.07.12.603354v2)
+
+## 8
+**Training large neural networks with low-dimensional error feedback**  
+Hanut M, Kadmon J  
+[arXiv [csLG]](http://arxiv.org/abs/2502.20580)
+
+## 9
+**From exploration to structured navigation: Learning dynamics of freely moving marmosets during foraging**  
+El Mahmoudi N, Lanzarini F, Ziaie Nezhad F, Surendran D, Laurens J  
+[bioRxiv:2025.03.22.644580](https://www.biorxiv.org/content/10.1101/2025.03.22.644580v1.abstract)
+
+## 10
+**Complementary roles for hippocampus and anterior cingulate in composing continuous choice**  
+Fine JM, Chericoni A, Delgado G, Franch MC, Mickiewicz EA, Chavez AG, Bartoli E, Paulo D, Provenza NR, Watrous A, Yoo SBM, Sheth SA, Hayden BY  
+[bioRxiv:2025.03.17.643774](https://www.biorxiv.org/content/10.1101/2025.03.17.643774v1.abstract)
+
+## 11
+**A network correspondence toolbox for quantitative evaluation of novel neuroimaging results**  
+Kong R et al.  
+[Nat Commun 16:2930](https://www.nature.com/articles/s41467-025-58176-9)
+
+## 12
+**Accepting “the bitter lesson” and embracing the brain’s complexity**  
+Dyer E, Richards B  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/neuroai/accepting-the-bitter-lesson-and-embracing-the-brains-complexity/)
+
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
