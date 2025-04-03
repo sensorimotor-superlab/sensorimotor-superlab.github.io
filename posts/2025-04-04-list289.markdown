@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Reading List 289"
+date:   2025-04-04 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Bayesian inference by visuomotor neurons in the prefrontal cortex**  
+Langlois TA, Charlton JA, Goris RLT  
+[PNAS 122:e2420815122](https://www.pnas.org/doi/abs/10.1073/pnas.2420815122)
+
+## 2
+**Uncertainty estimation with prediction-error circuits**  
+Hertäg L, Wilmes KA, Clopath C  
+[Nat Commun 16:3036](https://www.nature.com/articles/s41467-025-58311-6)
+
+## 3
+**BAND: Behavior-Aligned Neural Dynamics is all you need to capture motor corrections**  
+Kudryashova N, Hurwitz C, Perich MG, Hennig MH  
+[bioRxiv:2025.03.21.644350](https://www.biorxiv.org/content/10.1101/2025.03.21.644350v1.abstract)
+
+## 4
+**Phase of firing does not reflect temporal order in sequence memory of humans and recurrent neural networks**  
+Liebe S, Niediek J, Pals M, Reber TP, Faber J, Boström J, Elger CE, Macke JH, Mormann F  
+[Nat Neurosci:1–10](https://www.nature.com/articles/s41593-025-01893-7)
+
+## 5
+**A prospective code for value in the serotonin system**  
+Harkin EF, Grossman CD, Cohen JY, Béïque J-C, Naud R  
+[Nature](https://www.nature.com/articles/s41586-025-08731-7)
+
+## 6
+**A natural biomimetic prosthetic hand with neuromorphic tactile sensing for precise and compliant grasping**  
+Sankar S, Cheng W-Y, Zhang J, Slepyan A, Iskarous MM, Greene RJ, DeBrabander R, Chen J, Gupta A, Thakor NV  
+[Sci Adv 11:eadr9300](https://www.science.org/doi/10.1126/sciadv.adr9300)
+
+## 7
+**Inter-individual variability in motor learning due to differences in effective learning rates between generalist and specialist memory stores**  
+Osu R, Sugimoto N, Yoshioka T, Schweighofer N, Kawato M  
+[bioRxiv:2024.07.15.603502](https://www.biorxiv.org/content/10.1101/2024.07.15.603502v1.abstract)
+
+## 8
+**Cerebellar deep brain stimulation for chronic post-stroke motor rehabilitation: a phase I trial**  
+Baker KB et al.  
+[Nat Med 29:2366–2374](https://www.nature.com/articles/s41591-023-02507-0)
+
+---
+
+# Superlab Papers
+
+**A context-free model of savings in motor learning**  
+Shahbazi M, Codol O, Michaels JA, Gribble PL  
+[bioRxiv:2025.03.26.645562](https://www.biorxiv.org/content/10.1101/2025.03.26.645562v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
