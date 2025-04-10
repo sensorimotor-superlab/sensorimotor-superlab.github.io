@@ -1,0 +1,127 @@
+---
+layout: post
+title:  "Reading List 290"
+date:   2025-04-11 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Online reach correction in 6- and 11-month-old infants**  
+Verhaar E, Medendorp WP, Hunnius S, Stapel JC  
+[Infancy 28:667–683](https://onlinelibrary.wiley.com/doi/abs/10.1111/infa.12524)
+
+## 2
+**Explaining human motor coordination via the synergy expansion hypothesis**  
+Tessari F, West AM Jr, Hogan N  
+[PNAS 122:e2501705122](https://www.pnas.org/doi/abs/10.1073/pnas.2501705122)
+
+## 3
+**Ethologically relevant behavioural assay for investigating reach and grasp kinematics during whole-body motor control in mice**  
+Black CJ, Browne LE, Brownstone RM, Koch SC  
+[bioRxiv:2025.04.04.647225](https://www.biorxiv.org/content/10.1101/2025.04.04.647225v1.abstract)
+
+## 4
+**Overcoming failure: improving acceptance and success of implanted neural interfaces**  
+Dalrymple AN, Jones ST, Fallon JB, Shepherd RK, Weber DJ  
+[Bioelectron Med 11:6](https://doi.org/10.1186/s42234-025-00168-7)
+
+## 5
+**Distributed activity in the medial frontal cortex predicts self-initiated action**  
+Claron J, Blons M, Dizeux A, Deffieux T, Tanter M, Berthon B, Pouget P  
+[bioRxiv:2025.04.01.646546](https://www.biorxiv.org/content/10.1101/2025.04.01.646546v1.abstract)
+
+## 6
+**Autonomic responses to proprioceptive and visual errors during single-trial reach adaptation**  
+Nogami M, Hagura N, Yokoi A  
+[bioRxiv:2025.03.31.646172](https://www.biorxiv.org/content/10.1101/2025.03.31.646172v1.abstract)
+
+## 7
+**Autogenic spinal excitatory circuit ensures skilled hand movements in primates**  
+Kim J, Tomatsu S, Umeda T, Takei T, Funato T, Seki K  
+[bioRxiv:2025.03.31.646263](https://www.biorxiv.org/content/10.1101/2025.03.31.646263v1.abstract)
+
+## 8
+**From sensation to cognition**  
+Mesulam MM  
+[Brain 121:1013–1052](https://academic.oup.com/brain/article-pdf/121/6/1013/17863894/1211013.pdf)
+
+## 9
+**Nonlinear integration of sensory and motor inputs by a single neuron inC. elegans**  
+Ray A, Gordus A  
+[bioRxiv:2025.04.05.647390](https://www.biorxiv.org/content/10.1101/2025.04.05.647390v1.abstract)
+
+## 10
+**Continuous sensorimotor transformation enhances robustness of neural dynamics to perturbation in macaque motor cortex**  
+Zheng C, Wang Q, Cui H  
+[bioRxiv:2024.11.10.622879](https://doi.org/10.1101/2024.11.10.622879)
+
+## 11
+**Ex vivo cortical circuits learn to predict and spontaneously replay temporal patterns**  
+Liu B, Buonomano DV  
+[Nat Commun 16:3179](https://www.nature.com/articles/s41467-025-58013-z)
+
+## 12
+**Whether or not to act is determined by distinct signals from motor thalamus and orbitofrontal cortex to secondary motor cortex**  
+Yoshida E, Kondo M, Nakae K, Ako R, Terada S-I, Hatano N, Liu L, Kobayashi K, Ishii S, Matsuzaki M  
+[Nat Commun 16:3106](https://www.nature.com/articles/s41467-025-58272-w)
+
+## 13
+**Neural geometry from mixed sensorimotor selectivity for predictive sensorimotor control**  
+Zhang Y, Chen Y, Wang T, Cui H  
+[eLife](https://elifesciences.org/reviewed-preprints/100064)
+
+## 14
+**Effort drives saccade selection**  
+Koevoet D, Van Zantwijk L, Naber M, Mathôt S, van der Stigchel S, Strauch C  
+[Elife 13](https://elifesciences.org/articles/97760)
+
+## 15
+**Active and passive touch are differentially represented in the mouse somatosensory thalamus**  
+Sumser A, Isaías-Camacho EU, Mease RA, Groh A  
+[PLoS Biol 23:e3003108](https://doi.org/10.1371/journal.pbio.3003108)
+
+## 16
+**Reactivation of memory-associated neurons induces downstream suppression of competing neuronal populations**  
+Norman JF, Rahsepar B, Vena A, Thunemann M, Devor A, Ramirez S, White JA  
+[PNAS 122:e2410101122](https://www.pnas.org/doi/abs/10.1073/pnas.2410101122)
+
+## 17
+**Neural signatures of motor memories emerge in neural network models**  
+Chang JC, Clopath C, Gallego JA  
+[bioRxiv:2025.04.02.646788](https://www.biorxiv.org/content/10.1101/2025.04.02.646788v1.abstract)
+
+## 18
+**Foundation model of neural activity predicts response to new stimulus types**  
+Wang EY et al.  
+[Nature 640:470–477](https://www.nature.com/articles/s41586-025-08829-y)
+
+## 19
+**Peripheral nervous system microglia-like cells regulate neuronal soma size throughout evolution**  
+Wu Z et al.  
+[Cell ](https://www.cell.com/action/showAbstract?pii=S0092867425001928)
+
+--- 
+
+# Superlab Papers
+
+**String-pulling by the common marmoset**  
+Bertrand M, Karkuszewski M, Kersten R, Orban de Xivry J-J, Pruszynski JA  
+[bioRxiv:2024.10.25.620352](https://www.biorxiv.org/content/10.1101/2024.10.25.620352v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
