@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Reading List 291"
+date:   2025-04-18 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Coding schemes in neural networks learning classification tasks**  
+van Meegen A, Sompolinsky H  
+[Nat Commun 16:3354](https://www.nature.com/articles/s41467-025-58276-6)
+
+## 2
+**Purkinje cells of the cerebellum control deceleration of tongue movements**  
+Hage P, Fakharian MA, Shoup AM, Pi JS, Sedaghat-Nejad E, Orozco SP, Jang IK, Looi V, Elseweifi HY, Mohammadrezaei N, Vasserman AN, Arginteanu T, Shadmehr R  
+[PLoS Biol 23:e3003110](https://doi.org/10.1371/journal.pbio.3003110)
+
+## 3
+**Modeling neural activity with conditionally linear dynamical systems**  
+Geadah V, Nejatbakhsh A, Lipshutz D, Pillow JW, Williams AH  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2502.18347)
+
+## 4
+**Acute dentate nucleus deep brain stimulation modulates corticomotor excitability in chronic stroke survivors**  
+Li X, Baker KB, O’Laughlin K, Lin Y-L, Baker K, Chen R, Chen J, Machado AG, Plow EB  
+[Brain Stimul 18:640–648](http://dx.doi.org/10.1016/j.brs.2025.02.021)
+
+## 5
+**Reward influences movement vigor through multiple motor cortical mechanisms**  
+Smoulder AL, Marino PJ, Oby ER, Snyder SE, Batista AP, Chase SM  
+[bioRxiv:2025.04.09.648001](https://www.biorxiv.org/content/10.1101/2025.04.09.648001v1.abstract)
+
+## 6
+**Task-specific motor units in the extrinsic hand muscles control single- and multi-digit tasks of the human hand**  
+Osswald M, Cakici AL, Oliveira DS de, Braun DI, Farina D, Del Vecchio A  
+[J Appl Physiol](https://journals.physiology.org/doi/10.1152/japplphysiol.00911.2024)
+
+## 7
+**Visual target and task-critical feedback uncertainty impair different stages of reach planning in motor cortex**  
+Amann LK, Casasnovas V, Gail A  
+[Nat Commun 16:3372](https://www.nature.com/articles/s41467-025-58738-x)
+
+## 8
+**Disuse-driven plasticity in the human thalamus and putamen**  
+Chauvin RJ et al.  
+[Cell Rep 44:115570](https://www.cell.com/action/showAbstract?pii=S2211124725003419)
+
+--- 
+
+# Superlab Papers
+
+**To be flexible, or not to be flexible, that is the question**  
+Oya T  
+[J Physiol](https://onlinelibrary.wiley.com/doi/abs/10.1113/JP288662)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

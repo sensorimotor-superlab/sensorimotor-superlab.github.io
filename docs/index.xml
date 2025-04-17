@@ -9,8 +9,95 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.7.23</generator>
-<lastBuildDate>Fri, 11 Apr 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.26</generator>
+<lastBuildDate>Fri, 18 Apr 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 291</title>
+  <link>https://superlab.ca/posts/2025-04-18-list291.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Coding schemes in neural networks learning classification tasks</strong><br>
+van Meegen A, Sompolinsky H<br>
+<a href="https://www.nature.com/articles/s41467-025-58276-6">Nat Commun 16:3354</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Purkinje cells of the cerebellum control deceleration of tongue movements</strong><br>
+Hage P, Fakharian MA, Shoup AM, Pi JS, Sedaghat-Nejad E, Orozco SP, Jang IK, Looi V, Elseweifi HY, Mohammadrezaei N, Vasserman AN, Arginteanu T, Shadmehr R<br>
+<a href="https://doi.org/10.1371/journal.pbio.3003110">PLoS Biol 23:e3003110</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Modeling neural activity with conditionally linear dynamical systems</strong><br>
+Geadah V, Nejatbakhsh A, Lipshutz D, Pillow JW, Williams AH<br>
+<a href="http://arxiv.org/abs/2502.18347">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Acute dentate nucleus deep brain stimulation modulates corticomotor excitability in chronic stroke survivors</strong><br>
+Li X, Baker KB, O’Laughlin K, Lin Y-L, Baker K, Chen R, Chen J, Machado AG, Plow EB<br>
+<a href="http://dx.doi.org/10.1016/j.brs.2025.02.021">Brain Stimul 18:640–648</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Reward influences movement vigor through multiple motor cortical mechanisms</strong><br>
+Smoulder AL, Marino PJ, Oby ER, Snyder SE, Batista AP, Chase SM<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.04.09.648001v1.abstract">bioRxiv:2025.04.09.648001</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Task-specific motor units in the extrinsic hand muscles control single- and multi-digit tasks of the human hand</strong><br>
+Osswald M, Cakici AL, Oliveira DS de, Braun DI, Farina D, Del Vecchio A<br>
+<a href="https://journals.physiology.org/doi/10.1152/japplphysiol.00911.2024">J Appl Physiol</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Visual target and task-critical feedback uncertainty impair different stages of reach planning in motor cortex</strong><br>
+Amann LK, Casasnovas V, Gail A<br>
+<a href="https://www.nature.com/articles/s41467-025-58738-x">Nat Commun 16:3372</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Disuse-driven plasticity in the human thalamus and putamen</strong><br>
+Chauvin RJ et al.<br>
+<a href="https://www.cell.com/action/showAbstract?pii=S2211124725003419">Cell Rep 44:115570</a></p>
+<hr>
+</section>
+</section>
+<section id="superlab-papers" class="level1">
+<h1>Superlab Papers</h1>
+<p><strong>To be flexible, or not to be flexible, that is the question</strong><br>
+Oya T<br>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1113/JP288662">J Physiol</a></p>
+<hr>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-04-18-list291.html</guid>
+  <pubDate>Fri, 18 Apr 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 290</title>
   <link>https://superlab.ca/posts/2025-04-11-list290.html</link>
@@ -2297,146 +2384,6 @@ In: <a href="https://academic.oup.com/book/55212/chapter/427110505">The Cerebral
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-11-22-list272.html</guid>
   <pubDate>Fri, 22 Nov 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 271</title>
-  <link>https://superlab.ca/posts/2024-11-15-list271.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Analysis methods for large-scale neuronal recordings</strong><br>
-Stringer C, Pachitariu M<br>
-<a href="https://www.science.org/doi/10.1126/science.adp7429">Science 386</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Maintaining and updating accurate internal representations of continuous variables with a handful of neurons</strong><br>
-Noorman M, Hulse BK, Jayaraman V, Romani S, Hermundstad AM<br>
-<a href="https://www.nature.com/articles/s41593-024-01766-5">Nat Neurosci:1-11</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Stimulus history, not expectation, drives sensory prediction errors in mammalian cortex</strong><br>
-Westerberg JA et al.<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.02.616378v1.abstract">bioRxiv:2024.10.02.616378</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Human tactile discrimination of pulse shape is possible without pre-adaptation</strong><br>
-Bhattacharjee A, Antony H, Schwarz C<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00376.2024">J Neurophysiol</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Disentangling acute motor deficits and adaptive responses evoked by the loss of cerebellar output</strong><br>
-Sinha N, Israely S, Harosh OB, Harel R, Dewald JP, Prut Y<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.05.21.595172v3.abstract">bioRxivorg:2024.05.21.595172</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>ONIX: a unified open-source platform for multimodal neural recording and perturbation during naturalistic behavior</strong><br>
-Newman JP, Zhang J, Cuevas-López A, Miller NJ, Honda T, van der Goes M-SH, Leighton AH, Carvalho F, Lopes G, Lakunina A, Siegle JH, Harnett MT, Wilson MA, Voigts J<br>
-<a href="https://www.nature.com/articles/s41592-024-02521-1">Nat Methods:1-6</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Revealing single-neuron and network-activity interaction by combining high-density microelectrode array and optogenetics</strong><br>
-Kobayashi T, Shimba K, Narumi T, Asahina T, Kotani K, Jimbo Y<br>
-<a href="https://www.nature.com/articles/s41467-024-53505-w">Nat Commun 15:1-13</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Processing reliant on granule cells is essential for motor learning but dispensable for many cerebellar-dependent behaviors</strong><br>
-Lee J-H, Guo C, Wu S, Norton A, Seo S, Yao Z, Regehr WG<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.10.622849v1.abstract">bioRxiv:2024.11.10.622849</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Kinetix: Investigating the training of general agents through open-ended physics-based control tasks</strong><br>
-Matthews M, Beukman M, Lu C, Foerster J<br>
-<a href="http://arxiv.org/abs/2410.23208">arXiv [csLG]</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Audience presence influences cognitive task performance in chimpanzees</strong><br>
-Lin C, Muramatsu A, Yamamoto S<br>
-<a href="http://www.cell.com/article/S2589004224024167/abstract">iScience 0:111191</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Long-term optical imaging of the spinal cord in awake behaving mice</strong><br>
-Ahanonu B, Crowther A, Kania A, Rosa-Casillas M, Basbaum AI<br>
-<a href="https://www.nature.com/articles/s41592-024-02476-3">Nat Methods:1-13</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>Human cerebellum and ventral tegmental area interact during extinction of learned fear</strong><br>
-Nio E, Pereira PP, Diekmann N, Petrenko M, Doubliez A, Ernst TM, Batsikadze G, Maderwald S, Deuschl C, Üngör M, Cheng S, Merz CJ, Quick HH, Timmann D<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.06.622063v1.abstract">bioRxiv:2024.11.06.622063</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>Prefrontal cortex encodes behavior states decoupled from movement</strong><br>
-Rautio IV, Nevjen F, Hem IG, Dunn BA, Whitlock JR<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.11.623038v1.abstract">bioRxiv:2024.11.11.623038</a></p>
-</section>
-<section id="section-14" class="level2">
-<h2 class="anchored" data-anchor-id="section-14">14</h2>
-<p><strong>Functional segregation of cortical hand and speech areas by frequency detuning of an intrinsic motor rhythm</strong><br>
-Anastasopoulou I, Cheyne DO, Johnson BW<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.11.622882v1.abstract">bioRxiv:2024.11.11.622882</a></p>
-</section>
-<section id="section-15" class="level2">
-<h2 class="anchored" data-anchor-id="section-15">15</h2>
-<p><strong>Scaling laws for task-optimized models of the primate visual ventral stream</strong><br>
-Gokce A, Schrimpf M<br>
-<a href="http://arxiv.org/abs/2411.05712">arXiv [csLG]</a></p>
-</section>
-<section id="section-16" class="level2">
-<h2 class="anchored" data-anchor-id="section-16">16</h2>
-<p><strong>Feedback control guides credit assignment in recurrent neural networks</strong><br>
-Kaleb K, Feulner B, Gallego JA, Clopath C<br>
-<a href="https://openreview.net/pdf?id=xavWvnJTST">NeurIPS 2024</a></p>
-</section>
-<section id="section-17" class="level2">
-<h2 class="anchored" data-anchor-id="section-17">17</h2>
-<p><strong>Task-agnostic exoskeleton control via biological joint moment estimation</strong><br>
-Molinaro DD, Scherpereel KL, Schonhaut EB, Evangelopoulos G, Shepherd MK, Young AJ<br>
-<a href="https://www.nature.com/articles/s41586-024-08157-7">Nature 635:337-344</a></p>
-</section>
-<section id="section-18" class="level2">
-<h2 class="anchored" data-anchor-id="section-18">18</h2>
-<p><strong>Contribution of remote Pacinian corpuscles to flutter-range frequency discrimination in humans</strong><br>
-Nagi SS, McIntyre S, Ng KKW, Mahns DA, Birznieks I, Vickery RM<br>
-<a href="https://www.nature.com/articles/s41598-024-79693-5">Sci Rep 14:1-10</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: (https://superlab.ca](https://superlab.ca)</p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-11-15-list271.html</guid>
-  <pubDate>Fri, 15 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
