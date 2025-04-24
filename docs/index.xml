@@ -9,8 +9,106 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.7.26</generator>
-<lastBuildDate>Fri, 18 Apr 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.28</generator>
+<lastBuildDate>Fri, 25 Apr 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 292</title>
+  <link>https://superlab.ca/posts/2025-04-25-list292.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Identifying patterns differing between high-dimensional datasets with generalized contrastive PCA</strong><br>
+de Oliveira EF, Garg P, Hjerling-Leffler J, Batista-Brito R, Sjulson L<br>
+<a href="http://dx.doi.org/10.1371/journal.pcbi.1012747">PLoS Comput Biol 21:e1012747</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>The sensory input from the external cuneate nucleus and central cervical nucleus to the cerebellum refines forelimb movements</strong><br>
+Eneanya C, Smith GM<br>
+<a href="http://dx.doi.org/10.3390/cells14080589">Cells 14:589</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>The sign of exploration during reward-based motor learning is not independent from trial to trial</strong><br>
+Kooij K van der, Smeets JBJ, van Mastrigt NM, van Wijk BCM<br>
+<a href="http://dx.doi.org/10.1007/s00221-025-07074-z">Exp Brain Res 243:117</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Neural dynamics in superior colliculus of freely moving mice</strong><br>
+Sharp SL, Shin J, Martins DM, Jones K, Niell CM<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.04.16.648828v1.abstract">bioRxiv:2025.04.16.648828</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>The cerebellar components of the human language network</strong><br>
+Casto C, Small H, Poliak M, Tuckute G, Lipkin B, Wolna A, D’Mello AM, Fedorenko E<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1.abstract">bioRxiv:2025.04.14.645351</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>High-dimensional dynamics in low-dimensional networks</strong><br>
+Wan Y, Rosenbaum R<br>
+<a href="http://arxiv.org/abs/2504.13727">arXiv [mathDS]</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>In vivo cell-type and brain region classification via multimodal contrastive learning</strong><br>
+Yu H, Lyu H, Xu Y, Windolf C, Lee EK, Yang F, Shelton AM, Winter O, International Brain Laboratory, Dyer EL, Chandrasekaran C, Steinmetz NA, Paninski L, Hurwitz CL<br>
+<a href="https://openreview.net/forum?id=10JOlFIPjt">ICLR 13</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Transcranial magnetic stimulation over supramarginal gyrus stimulates primary motor cortex directly and impairs manual dexterity: Implications for TMS focality</strong><br>
+Holmes NP, Di Chiaro NV, Crowe EM, Marson B, Göbel K, Gaigalas D, Jay T, Lockett AV, Powell ES, Zeni S, Reader AT<br>
+<a href="https://doi.org/10.1152/jn.00369.2023">J Neurophysiol</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>A novel biomechanical model of the proximal mouse forelimb predicts muscle activity in optimal control simulations of reaching movements</strong><br>
+Gilmer JI, Coltman SK, Cuenu G, Hutchinson JR, Huber D, Person AL, Al Borno M<br>
+<a href="https://journals.physiology.org/doi/10.1152/jn.00499.2024">J Neurophysiol</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Error signals in the parvocellular division of the red nucleus, not the magnocellular division, drive adaptation in reaching</strong><br>
+Inoue M, Kitazawa S<br>
+<a href="http://dx.doi.org/10.1016/j.celrep.2025.115598">Cell Rep 44:115598</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Brain-hemispheric differences in the premotor area for motor planning: An approach based on corticomuscular connectivity during motor decision-making</strong><br>
+Cano LA, Albarracín AL, Farfán FD, Fernández E<br>
+<a href="http://dx.doi.org/10.1016/j.neuroimage.2025.121230">Neuroimage 312:121230</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-04-25-list292.html</guid>
+  <pubDate>Fri, 25 Apr 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 291</title>
   <link>https://superlab.ca/posts/2025-04-18-list291.html</link>
@@ -2229,161 +2327,6 @@ Song Y, Millidge B, Salvatori T, Lukasiewicz T, Xu Z, Bogacz R<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2024-11-29-list273.html</guid>
   <pubDate>Fri, 29 Nov 2024 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 272</title>
-  <link>https://superlab.ca/posts/2024-11-22-list272.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>More than 20 trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>This week we continue our <strong>Journal Club</strong> feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>C-LTMRs evoke wet dog shakes via the spinoparabrachial pathway</strong><br>
-Zhang D, Turecek J, Choi S, Delisle M, Pamplona CL, Meltzer S, Ginty DD<br>
-<a href="https://www.science.org/doi/10.1126/science.adq8834">Science 386:686–692</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>A resource efficient, high-dose neurorehabilitation program for chronic stroke at home</strong><br>
-Arbuckle SA, Knill AS, Rozanski G, Chan-Cortés M, Ford AE, Derungs LT, Putrino D, Tosto-Mancuso J, Branscheidt M<br>
-<a href="https://doi.org/10.1101/2024.10.08.24313178">medRxiv:2024.10.08.24313178</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>A vector calculus for neural computation in the cerebellum</strong><br>
-Fakharian MA, Shoup AM, Hage P, Elseweifi HY, Shadmehr R<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.14.623565v1.abstract">bioRxiv:2024.11.14.623565</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Impaired online and enhanced offline motor sequence learning in individuals with Parkinson’s disease</strong><br>
-Van Roy A, Dan E, Micca L, Gilat M, Chan P, Doyon J, Albouy G, King BR<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.14.623568v1.abstract">bioRxiv:2024.11.14.623568</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Feedback control guides credit assignment in recurrent neural networks</strong><br>
-Kaleb K, Feulner B, Gallego JA, Clopath C<br>
-<a href="https://openreview.net/forum?id=xavWvnJTST">NeurIPS 2024</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Emergence of a brainstem somatosensory tonotopic map for substrate vibration</strong><br>
-Lee K-S, Loutit AJ, de Thomas Wagner D, Sanders M, Huber D<br>
-<a href="https://www.nature.com/articles/s41593-024-01821-1">Nat Neurosci:1–8</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Monkeys engage in visual simulation to solve complex problems</strong><br>
-Ahuja A, Yusif Rodriguez N, Ashok AK, Serre T, Desrochers TM, Sheinberg DL<br>
-<a href="http://dx.doi.org/10.1016/j.cub.2024.10.026">Curr Biol</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Preferential activity of dentate neurons during limb movements guided by vision</strong><br>
-Mushiake H, Strick PL<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.1993.70.6.2660">J Neurophysiol 70:2660–2664</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Continuous sensorimotor transformation enhances robustness of neural dynamics to perturbation in macaque motor cortex</strong><br>
-Zheng C, Wang Q, Cui H<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.10.622879v2.abstract">bioRxiv:2024.11.10.622879</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Chemogenetic dissection of the primate prefronto-subcortical pathways for working memory and decision-making</strong><br>
-Oyama K, Hori Y, Nagai Y, Miyakawa N, Mimura K, Hirabayashi T, Inoue K-I, Suhara T, Takada M, Higuchi M, Minamimoto T<br>
-<a href="https://www.science.org/doi/10.1126/sciadv.abg4246">Sci Adv 7:eabg4246</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Ramping dissociates motor and cognitive sequences in the parietal and prefrontal cortices</strong><br>
-Doyle H, Yewbrey R, Kornysheva K, Desrochers TM<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.09.617499v1.abstract">bioRxivorg:2024.10.09.617499</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>Dissociable effects of urgency and evidence accumulation during reaching revealed by dynamic multisensory integration</strong><br>
-Hoffmann AH, Crevecoeur F<br>
-<a href="https://www.eneuro.org/content/early/2024/11/13/ENEURO.0262-24.2024.abstract">eNeuro</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>Rapid eye and hand responses in an interception task are differentially modulated by context-dependent predictability</strong><br>
-Fooken J, Balalaie P, Park K, Flanagan JR, Scott SH<br>
-<a href="https://doi.org/10.1167/jov.24.12.10">J Vis 24:10</a></p>
-</section>
-<section id="section-14" class="level2">
-<h2 class="anchored" data-anchor-id="section-14">14</h2>
-<p><strong>Acid-sensing ion channels drive the generation of tactile impulses in Merkel cell-neurite complexes of the glabrous skin of rodent hindpaws</strong><br>
-Yamada A, Gautam M, Yamada AI, Ling J, Gupta S, Furue H, Luo W, Gu JG<br>
-<a href="https://www.jneurosci.org/content/44/47/e0885242024.abstract">J Neurosci 44</a></p>
-</section>
-<section id="section-15" class="level2">
-<h2 class="anchored" data-anchor-id="section-15">15</h2>
-<p><strong>Language enables the acquisition of distinct sensorimotor memories for speech</strong><br>
-Lametti DR, Wheeler ED, Palatinus S, Hocine I, Shiller DM<br>
-<a href="http://dx.doi.org/10.1016/j.cognition.2024.106010">Cognition 254:106010</a></p>
-</section>
-<section id="section-16" class="level2">
-<h2 class="anchored" data-anchor-id="section-16">16</h2>
-<p><strong>Kernels of motor memory formation: Temporal generalization in bimanual adaptation</strong><br>
-Howard IS, Franklin S, Franklin DW<br>
-<a href="https://www.jneurosci.org/content/44/47/e0359242024.abstract">J Neurosci 44</a></p>
-</section>
-<section id="section-17" class="level2">
-<h2 class="anchored" data-anchor-id="section-17">17</h2>
-<p><strong>Subthalamic nucleus neurons encode syllable sequence and phonetic characteristics during speech</strong><br>
-Lipski WJ, Bush A, Chrabaszcz A, Crammond DJ, Fiez JA, Turner RS, Richardson RM<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00471.2023">J Neurophysiol 132:1382–1394</a></p>
-</section>
-<section id="section-18" class="level2">
-<h2 class="anchored" data-anchor-id="section-18">18</h2>
-<p><strong>Rescaling perceptual hand maps by visual-tactile recalibration</strong><br>
-Fuchs X, Heed T<br>
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ejn.16571">Eur J Neurosci</a></p>
-</section>
-<section id="section-19" class="level2">
-<h2 class="anchored" data-anchor-id="section-19">19</h2>
-<p><strong>Sensorimotor adaptation to a non-uniform formant perturbation generalizes to untrained vowels</strong><br>
-Parrell B, Niziolek CA, Chen T<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00240.2024">J Neurophysiol</a></p>
-</section>
-</section>
-<section id="journal-club" class="level1">
-<h1>Journal Club</h1>
-<p>This week in the sensorimotor superlab lab meeting we welcomed Laureline Logiaco from MIT/ University of Colorado to present:</p>
-<p><strong>Models of thalamocortical interactions in motor control</strong> (2023)<br>
-Escola GS, Lakshminarasimhan K, Logiaco L<br>
-In: <a href="https://academic.oup.com/book/55212/chapter/427110505">The Cerebral Cortex and Thalamus</a>](Hantman AW, Cross KP, eds), pp 354–366. Oxford University Press, New York</p>
-<p>Video: <a href="https://youtu.be/6Z366GTSkY0">https://youtu.be/6Z366GTSkY0</a></p>
-<hr>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here:](https://superlab.ca](https://superlab.ca)</p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2024-11-22-list272.html</guid>
-  <pubDate>Fri, 22 Nov 2024 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 292"
+date:   2025-04-25 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Identifying patterns differing between high-dimensional datasets with generalized contrastive PCA**  
+de Oliveira EF, Garg P, Hjerling-Leffler J, Batista-Brito R, Sjulson L  
+[PLoS Comput Biol 21:e1012747](http://dx.doi.org/10.1371/journal.pcbi.1012747)
+
+## 2
+**The sensory input from the external cuneate nucleus and central cervical nucleus to the cerebellum refines forelimb movements**  
+Eneanya C, Smith GM  
+[Cells 14:589](http://dx.doi.org/10.3390/cells14080589)
+
+## 3
+**The sign of exploration during reward-based motor learning is not independent from trial to trial**  
+Kooij K van der, Smeets JBJ, van Mastrigt NM, van Wijk BCM  
+[Exp Brain Res 243:117](http://dx.doi.org/10.1007/s00221-025-07074-z)
+
+## 4
+**Neural dynamics in superior colliculus of freely moving mice**  
+Sharp SL, Shin J, Martins DM, Jones K, Niell CM  
+[bioRxiv:2025.04.16.648828](https://www.biorxiv.org/content/10.1101/2025.04.16.648828v1.abstract)
+
+## 5
+**The cerebellar components of the human language network**  
+Casto C, Small H, Poliak M, Tuckute G, Lipkin B, Wolna A, D’Mello AM, Fedorenko E  
+[bioRxiv:2025.04.14.645351](https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1.abstract)
+
+## 6
+**High-dimensional dynamics in low-dimensional networks**  
+Wan Y, Rosenbaum R  
+[arXiv [mathDS]](http://arxiv.org/abs/2504.13727)
+
+## 7
+**In vivo cell-type and brain region classification via multimodal contrastive learning**  
+Yu H, Lyu H, Xu Y, Windolf C, Lee EK, Yang F, Shelton AM, Winter O, International Brain Laboratory, Dyer EL, Chandrasekaran C, Steinmetz NA, Paninski L, Hurwitz CL  
+[ICLR 13](https://openreview.net/forum?id=10JOlFIPjt)
+
+## 8
+**Transcranial magnetic stimulation over supramarginal gyrus stimulates primary motor cortex directly and impairs manual dexterity: Implications for TMS focality**  
+Holmes NP, Di Chiaro NV, Crowe EM, Marson B, Göbel K, Gaigalas D, Jay T, Lockett AV, Powell ES, Zeni S, Reader AT  
+[J Neurophysiol](https://doi.org/10.1152/jn.00369.2023)
+
+## 9
+**A novel biomechanical model of the proximal mouse forelimb predicts muscle activity in optimal control simulations of reaching movements**  
+Gilmer JI, Coltman SK, Cuenu G, Hutchinson JR, Huber D, Person AL, Al Borno M  
+[J Neurophysiol](https://journals.physiology.org/doi/10.1152/jn.00499.2024)
+
+## 10
+**Error signals in the parvocellular division of the red nucleus, not the magnocellular division, drive adaptation in reaching**  
+Inoue M, Kitazawa S  
+[Cell Rep 44:115598](http://dx.doi.org/10.1016/j.celrep.2025.115598)
+
+## 11
+**Brain-hemispheric differences in the premotor area for motor planning: An approach based on corticomuscular connectivity during motor decision-making**  
+Cano LA, Albarracín AL, Farfán FD, Fernández E  
+[Neuroimage 312:121230](http://dx.doi.org/10.1016/j.neuroimage.2025.121230)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
