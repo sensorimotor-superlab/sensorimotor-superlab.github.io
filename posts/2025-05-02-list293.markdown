@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Reading List 293"
+date:   2025-05-02 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Distinct synaptic plasticity rules operate across dendritic compartments in vivo during learning**  
+Wright WJ, Hedrick NG, Komiyama T  
+[Science 388:322–328](http://dx.doi.org/10.1126/science.ads4706)
+
+## 2
+**Arm trajectory modifications during reaching towards visual targets**  
+Flash T, Henis E  
+[J Cogn Neurosci 3:220–230](https://dx.doi.org/10.1162/jocn.1991.3.3.220)
+
+## 3
+**Synaptic interactions in primate motor cortex: Relations between connectivity and intracortical location**  
+Matsumura M, Chen D-F, Fetz EE  
+[bioRxiv:2025.04.22.650058](https://www.biorxiv.org/content/10.1101/2025.04.22.650058v1.abstract)
+
+## 4
+**Human motor cortex encodes complex handwriting through a sequence of stable neural states**  
+Qi Y, Zhu X, Xiong X, Yang X, Ding N, Wu H, Xu K, Zhu J, Zhang J, Wang Y  
+[Nat Hum Behav:1–12](http://dx.doi.org/10.1038/s41562-025-02157-x)
+
+## 5
+**Time varying encoding of grasping type and force in the primate motor cortex**  
+Moreno A, de Lafuente V, Merchant H  
+[eNeuro 12](http://dx.doi.org/10.1523/ENEURO.0010-25.2025)
+
+## 6
+**Cerebellar nuclei cells produce distinct pathogenic spike signatures in mouse models of ataxia, dystonia, and tremor**  
+van der Heijden ME, Brown AM, Kizek DJ, Sillitoe RV  
+[Elife 12](http://dx.doi.org/10.7554/eLife.91483)
+
+## 7
+**Logarithmic coding leads to adaptive stabilization in the presence of sensorimotor delays**  
+Demarchi L, Coraggioso M, Hubert A, Panier T, Morvan-Dubois G, Bormuth V, Debrégeas G  
+[bioRxiv:2025.04.28.650940](https://www.biorxiv.org/content/10.1101/2025.04.28.650940v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
