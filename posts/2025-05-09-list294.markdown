@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 294"
+date:   2025-05-09 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Multiplexed subspaces route neural activity across brain-wide networks**  
+MacDowell CJ, Libby A, Jahn CI, Tafazoli S, Ardalan A, Buschman TJ  
+[Nat Commun 16:3359](http://dx.doi.org/10.1038/s41467-025-58698-2)
+
+## 2
+**Automatic individual cortical parcellation for the Human Connectome Project**  
+Yang C, Coalson TS, Farahibozorg S-R, Bijsterbosch JD, Smith SM, Van Essen DC, Glasser MF  
+[bioRxiv:2025.04.29.651219](https://www.biorxiv.org/content/10.1101/2025.04.29.651219v1.abstract)
+
+## 3
+**Preparation duration shapes the goal-directed tuning of stretch reflex responses**  
+Rohlén R, Torell F, Dimitriou M  
+[bioRxiv:2025.04.29.651111](https://www.biorxiv.org/content/10.1101/2025.04.29.651111v2.abstract)
+
+## 4
+**Prior knowledge changes initial sensory processing in the human spinal cord**  
+Stenner M-P, Nossa CM, Zaehle T, Azañón E, Heinze H-J, Deliano M, Büntjen L  
+[Sci Adv 11](http://dx.doi.org/10.1126/sciadv.adl5602)
+
+## 5
+**The invisible hand: Neurocognitive mechanisms of human hand function**  
+Longo MR  
+[MIT Press](http://dx.doi.org/10.7551/mitpress/15233.001.0001)
+
+## 6
+**Adversarial testing of global neuronal workspace and integrated information theories of consciousness**  
+Cogitate Consortium et al.  
+[Nature](http://dx.doi.org/10.1038/s41586-025-08888-1)
+
+## 7
+**Cuttlefish interact with multimodal “arm wave sign” displays**  
+Cohen-Bodénès S, Neri P  
+[bioRxiv:2025.04.13.648584](https://www.biorxiv.org/content/10.1101/2025.04.13.648584v3.abstract)
+
+## 8
+**Motor learning refines thalamic influence on motor cortex**  
+Ramot A, Taschbach FH, Yang YC, Hu Y, Chen Q, Morales BC, Wang XC, Wu A, Tye KM, Benna MK, Komiyama T  
+[Nature](http://dx.doi.org/10.1038/s41586-025-08962-8)
+
+## 9
+**Task-specific motor units in the extrinsic hand muscles control single- and multi-digit tasks of the human hand**  
+Osswald M, Cakici AL, Oliveira DS de, Braun DI, Farina D, Del Vecchio A  
+[J Appl Physiol](https://journals.physiology.org/doi/10.1152/japplphysiol.00911.2024)
+
+## 10
+**Large reaching datasets quantify the impact of age, sex/gender, and experience on motor control**  
+Zhang A, Ruitenberg M, Warburton M, Scott S, Tsay JS  
+[bioRxiv:2025.05.01.651757](https://www.biorxiv.org/content/10.1101/2025.05.01.651757v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
