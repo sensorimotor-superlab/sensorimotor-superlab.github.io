@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 295"
+date:   2025-05-16 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Patient outcomes after peripheral nerve injury depend on bimanual dexterity and preserved use of the affected hand**  
+Kim T, Lohse KR, Mackinnon SE, Philip BA  
+[Neurorehabil Neural Repair 38:134–147](http://dx.doi.org/10.1177/15459683241227222)
+
+## 2
+**Spatial periodicity in grid cell firing is explained by a neural sequence code of 2-D trajectories**  
+Rg R, Ascoli GA, Sutton NM, Dannenberg H  
+[eLife](http://dx.doi.org/10.7554/eLife.96627.2)
+
+## 3
+**A spatial code governs olfactory receptor choice and aligns sensory maps in the nose and brain**  
+Brann DH, Tsukahara T, Tau C, Kalloor D, Lubash R, Thamarai Kannan L, Klimpert N, Kollo M, Escamilla-Del-Arenal M, Bintu B, Bozza T, Datta SR  
+[bioRxiv:2025.05.02.651738](https://www.biorxiv.org/content/10.1101/2025.05.02.651738v1.abstract)
+
+## 4
+**Recycling of prefrontal subspaces dynamically multiplexes information**  
+Wentz PT, Brincat SL, Pasupathy A, Miller EK  
+[bioRxiv:2025.05.02.651965](https://www.biorxiv.org/content/10.1101/2025.05.02.651965v1.abstract)
+
+## 5
+**A deep learning strategy to identify cell types across species from high-density extracellular recordings**  
+Beau M et al.  
+[Cell](https://www.cell.com/action/showAbstract?pii=S0092867425001102)
+
+## 6
+**Triple-N Dataset: Non-human Primate Neural Responses to Natural Scenes**  
+Li Y, Jin W, Yang J, Li W, Gong B, Liu X, Gong Z, Wang K, Zhao Z, Luo J, Bao P  
+[bioRxiv:2025.05.06.652408](https://www.biorxiv.org/content/10.1101/2025.05.06.652408v1.abstract)
+
+## 7
+**Striatum supports fast learning but not memory recall**  
+Reinhold K, Iadarola M, Tang S, Chang A, Kuwamoto W, Albanese MA, Sun S, Hakim R, Zimmer J, Wang W, Sabatini BL  
+[Nature](http://dx.doi.org/10.1038/s41586-025-08969-1)
+
+## 8
+**Common brain representations of action and perception investigated with cross-modal classification of newly learned melodies**  
+Chang Y-HF, Ullén F, de Manzano Ö  
+[Sci Rep 15:16492](http://dx.doi.org/10.1038/s41598-025-00208-x)
+
+## 9
+**Aging and injury drive neuronal senescence in the dorsal root ganglia**  
+Donovan LJ, Brewer CL, Bond SF, Laslavic AM, Pena Lopez A, Colman L, Jordan CE, Hansen LH, González OC, Pujari A, de Lecea L, Quarta M, Kauer JA, Tawfik VL  
+[Nat Neurosci](http://dx.doi.org/10.1038/s41593-025-01954-x)
+
+--- 
+
+# Superlab Papers
+
+
+**Single-shot detection of microscale tactile features**  
+Reschechtko S, Pangan WR, Zeinal Zadeh R, Pruszynski JA  
+[J Neurophysiol](http://dx.doi.org/10.1152/jn.00414.2024)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
