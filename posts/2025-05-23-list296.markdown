@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "Reading List 296"
+date:   2025-05-23 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Systems consolidation reorganizes hippocampal engram circuitry**  
+Ko SY, Rong Y, Ramsaran AI, Chen X, Rashid AJ, Mocle AJ, Dhaliwal J, Awasthi A, Guskjolen A, Josselyn SA, Frankland PW  
+[Nature](http://dx.doi.org/10.1038/s41586-025-08993-1)
+
+## 2
+**An “Aha!” moment precedes the strategic response to a visuomotor rotation**  
+Townsend M, Warburton M, Campagnoli C, Mon-Williams M, Mushtaq F, Morehead JR  
+[bioRxiv:2025.05.11.653302](https://www.biorxiv.org/content/10.1101/2025.05.11.653302v1.abstract)
+
+## 3
+**Bilateral integration in somatosensory cortex is controlled by behavioral relevance**  
+Park H, Keri HVS, Yoo C, Bi C, Pluta SR  
+[Nat Neurosci](http://dx.doi.org/10.1038/s41593-025-01960-z)
+
+## 4
+**Neural Population Mechanisms for Flexible Sensorimotor Control**  
+Kalidindi H, Crevecoeur F  
+[bioRxiv:2025.05.15.654192](https://www.biorxiv.org/content/10.1101/2025.05.15.654192v1.abstract)
+
+## 5
+**Adaptation in somatosensory afferents improves rate and temporal coding of vibrotactile stimulus features**  
+Halawa A, Dedek C, Medlock L, Al-Basha D, Ratte S, Prescott SA  
+[bioRxiv:2025.05.06.652367](https://www.biorxiv.org/content/10.1101/2025.05.06.652367v1.abstract)
+
+## 6
+**Spatial transcriptomics reveals human cortical layer and area specification**  
+Qian X et al.  
+[Nature](http://dx.doi.org/10.1038/s41586-025-09010-1)
+
+## 7
+**Network influence determines the impact of cortical ensembles on stimulus detection**  
+Bounds HA, Adesnik H  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.04.023)
+
+## 8
+**Activity-dependent development of the body’s touch receptors**  
+Santiago C, Siegrist J, Africawala N, Handler A, Tasnim A, Anjum R, Turecek J, Lehnert BP, Renauld S, Choi J, Nolan-Tamariz M, Iskols M, Magee AR, Paradis S, Sharma N, Ginty DD  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.04.015)
+
+## 9
+**The human brainstem’s red nucleus was upgraded to support goal-directed action**  
+Krimmel SR et al.  
+[Nat Commun 16:3398](http://dx.doi.org/10.1038/s41467-025-58172-z)
+
+## 10
+**Optimal focused ultrasound lesion location in essential tremor**  
+Chua MMJ et al.  
+[Sci Adv 11:eadp0532](http://dx.doi.org/10.1126/sciadv.adp0532)
+
+## 11
+**High–resolution laminar recordings reveal structure–function relationships in monkey V1**  
+Carr N, Zhu S, Lee EK, Xia R, Chen X, Perliss A, Moore T, Chandrasekaran C  
+[bioRxiv:2025.05.14.653875](https://www.biorxiv.org/content/10.1101/2025.05.14.653875v1.abstract)
+
+## 12
+**Compositional pretraining improves computational efficiency and matches animal behaviour on complex tasks**  
+Hocker D, Constantinople CM, Savin C  
+[Nat Mach Intell](http://dx.doi.org/10.1038/s42256-025-01029-3)
+
+## 13
+**Constructing future behavior in the hippocampal formation through composition and replay**  
+Bakermans JJW, Warren J, Whittington JCR, Behrens TEJ  
+[Nat Neurosci 28:1061–1072](http://dx.doi.org/10.1038/s41593-025-01908-3)
+
+## 14
+**Sensorimotor transformations for postural control in the vermis of the cerebellum**  
+Mildren RL, Cullen KE  
+[J Neurosci 45:e0249252025](http://dx.doi.org/10.1523/JNEUROSCI.0249-25.2025)
+
+## 15
+**Closed-loop vagus nerve stimulation aids recovery from spinal cord injury**  
+Kilgard MP, Epperson JD, Adehunoluwa EA, Swank C, Porter AL, Pruitt DT, Gallaway HL, Stevens C, Gillespie J, Arnold D, Powers MB, Hamilton RG, Naftalis RC, Foreman ML, Wigginton JG, Hays SA, Rennaker RL  
+[Nature](http://dx.doi.org/10.1038/s41586-025-09028-5)
+
+## 16
+**Corticothalamic neurons in motor cortex have a permissive role in motor execution**  
+Carmona LM, Nelson A, Tun LT, Kim A, Shiao R, Kissner MD, Menon V, Costa RM  
+[Nat Commun 16](http://dx.doi.org/10.1038/s41467-025-59954-1)
+
+## 17
+**Autonomic responses to proprioceptive and visual errors during single-trial reach adaptation**  
+Nogami M, Hagura N, Yokoi A  
+[bioRxiv:2025.03.31.646172](https://www.biorxiv.org/content/10.1101/2025.03.31.646172v2)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
