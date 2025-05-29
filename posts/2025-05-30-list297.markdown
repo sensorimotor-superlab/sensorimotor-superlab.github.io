@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 297"
+date:   2025-05-30 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**A vector calculus for neural computation in the cerebellum**  
+Fakharian MA, Shoup AM, Hage P, Elseweifi HY, Shadmehr R  
+[Science 388:869–875](http://dx.doi.org/10.1126/science.adu6331)
+
+## 2
+**Bioresorbable, wireless dual stimulator for peripheral nerve regeneration**  
+Ahn H-Y et al.  
+[Nat Commun 16:4752](http://dx.doi.org/10.1038/s41467-025-59835-7)
+
+## 3
+**Flexible sensitivity to inputs during skilled tongue movements**  
+Dasgupta R, Dong M, O’Connor DH  
+[bioRxiv:2025.05.18.654702](https://www.biorxiv.org/content/10.1101/2025.05.18.654702v1.abstract)
+
+## 4
+**Math and biology meet in the cerebellum**  
+Churchland MM, Sawtell NB  
+[Science 388:820–821](http://dx.doi.org/10.1126/science.adx8989)
+
+## 5
+**Bilateral integration in somatosensory cortex is controlled by behavioral relevance**  
+Park H, Keri HVS, Yoo C, Bi C, Pluta SR  
+[Nat Neurosci:1–11](http://dx.doi.org/10.1038/s41593-025-01960-z )
+
+## 6
+**Mastering diverse control tasks through world models**  
+Hafner D, Pasukonis J, Ba J, Lillicrap T  
+[Nature 640:647–653](http://dx.doi.org/10.1038/s41586-025-08744-2)
+
+## 7
+**The history and future of resting-state functional magnetic resonance imaging**  
+Biswal BB, Uddin LQ  
+[Nature 641:1121–1131](http://dx.doi.org/10.1038/s41586-025-08953-9)
+
+## 8
+**Dynamic basal ganglia output signals license and suppress forelimb movements**  
+Falasconi A, Kanodia H, Arber S  
+[Nature:1–10](http://dx.doi.org/10.1038/s41586-025-09066-z)
+
+## 9
+**Unravelling neuromechanical constraints to finger independence**  
+Mulla DM, Tilley PM, Keir PJ  
+[bioRxiv:2025.05.23.655831](https://www.biorxiv.org/content/10.1101/2025.05.23.655831v1.abstract)
+
+## 10
+**A hypothalamus–brainstem circuit governs the prioritization of safety over essential needs**  
+Krauth N, Sach LK, Sitzia G, Clemmensen C, Kiehn O  
+[Nat Neurosci:1–13](http://dx.doi.org/10.1038/s41593-025-01975-6)
+
+## 11
+**Learning dynamics of RNNs in closed-loop environments**  
+Ger Y, Barak O  
+[arXiv [csLG]](http://arxiv.org/abs/2505.13567)
+
+
+--- 
+
+# Superlab Papers
+
+**A Python toolbox for representational similarity analysis**  
+van den Bosch JJF, Golan T, Peters B, Taylor J, Shahbazi M, Lin B, Charest I, Diedrichsen J, Kriegeskorte N, Mur M, Schuett H  
+[bioRxiv:2025.05.22.655542](https://www.biorxiv.org/content/10.1101/2025.05.22.655542v1.abstract)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
