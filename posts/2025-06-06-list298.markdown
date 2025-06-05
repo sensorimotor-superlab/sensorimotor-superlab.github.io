@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 298"
+date:   2025-06-06 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**The origin of vertebrate teeth and evolution of sensory exoskeletons**  
+Haridy Y, Norris SCP, Fabbri M, Nanglu K, Sharma N, Miller JF, Rivers M, La Riviere P, Vargas P, Ortega-Hernández J, Shubin NH  
+[Nature 642:119–124](http://dx.doi.org/10.1038/s41586-025-08944-w)
+
+## 2
+**Conserved brain-wide emergence of emotional response from sensory experience in humans and mice**  
+Kauvar I et al.  
+[Science 388:eadt3971](http://dx.doi.org/10.1126/science.adt3971)
+
+## 3
+**Whole body coarticulation reflects expertise in sport climbing**  
+Maselli A, Musculus L, Moretti R, d’Avella A, Raab M, Pezzulo G  
+[J Neurophysiol 133:1016–1033](http://dx.doi.org/10.1152/jn.00341.2024)
+
+## 4
+**In vivo calcium imaging shows that dorsal root ganglion stimulation predominantly activates large-sized sensory neurons in mice**  
+Goodwin GL, Franken G  
+[bioRxiv:2025.05.27.656338](https://www.biorxiv.org/content/10.1101/2025.05.27.656338v1.abstract)
+
+## 5
+**Neural connectivity of a computational map for fly flight control**  
+Dhawan S, Huang Z, Dickerson BH  
+[bioRxiv:2025.05.29.656834](https://www.biorxiv.org/content/10.1101/2025.05.29.656834v2.abstract)
+
+## 6
+**Modulation of error sensitivity during motor learning across time, space and environment variability**  
+Todorov D, Moulin M, Buch E, Quentin R  
+[bioRxiv:2025.05.30.656374](https://www.biorxiv.org/content/10.1101/2025.05.30.656374v1.abstract)
+
+## 7
+**Modeling 2D spatio-tactile population receptive fields of the fingertip in human primary somatosensory cortex**  
+Stoll S, Luesebrink F, Schwarzkopf DS, Mattern H, Liu P, Noelle J, Kuehn E  
+[bioRxiv:2025.05.24.655840](https://www.biorxiv.org/content/10.1101/2025.05.24.655840v1.abstract)
+
+## 8
+**Encoding of speech modes and loudness in ventral precentral gyrus**  
+Srinivasan A, Wairagkar M, Iacobacci C, Hou X, Card NS, Jacques BG, Pritchard AL, Bechefsky PH, Hochberg LR, AuYong N, Pandarinath C, Brandman DM, Stavisky SD  
+[bioRxiv:2025.05.30.657105](https://www.biorxiv.org/content/10.1101/2025.05.30.657105v1.abstract)
+
+## 9
+**Eye and hand coarticulation during problem solving reveals hierarchically organized planning**  
+Eluchans M, Maselli A, Lancia GL, Pezzulo G  
+[bioRxiv:2024.11.18.624090](https://www.biorxiv.org/content/10.1101/2024.11.18.624090v5.abstract)
+
+## 10
+**Mental graphs structure the storage and retrieval of visuomotor associations**  
+Trach JE, McDougle SD  
+[Nat Hum Behav:1–15](http://dx.doi.org/10.1038/s41562-025-02217-2)
+
+## 11
+**A hypothalamus–brainstem circuit governs the prioritization of safety over essential needs**  
+Krauth N, Sach LK, Sitzia G, Clemmensen C, Kiehn O  
+[Nat Neurosci:1–13](http://dx.doi.org/10.1038/s41593-025-01975-6)
+
+## 12
+**Biological kinematics: a detailed review of the velocity-curvature power law calculation**  
+Fraser DS, Di Luca M, Cook JL  
+[Exp Brain Res 243:107](http://dx.doi.org/10.1007/s00221-025-07065-0)
+
+## 13
+**Synthetic serum markers enable noninvasive monitoring of gene expression in primate brains**  
+Lee S, Romac M, Watanabe S, Chernov M, Li H, Raisley E, Szablowski JO, Costa VD  
+[bioRxiv:2025.06.01.657212](https://www.biorxiv.org/content/10.1101/2025.06.01.657212v2.abstract)
+
+## 14
+**Dissociable habits of response preparation versus response initiation**  
+Du Y, Haith AM  
+[Nat Hum Behav:1–18](http://dx.doi.org/10.1038/s41562-025-02215-4)
+
+## 15
+**Multi-timescale reinforcement learning in the brain**  
+Masset P, Tano P, Kim HR, Malik AN, Pouget A, Uchida N  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-08929-9)
+
+## 16
+**A semantic embedding space based on large language models for modelling human beliefs**  
+Lee B, Aiyappa R, Ahn Y-Y, Kwak H, An J  
+[Nat Hum Behav:1–13](http://dx.doi.org/10.1038/s41562-025-02228-z)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
