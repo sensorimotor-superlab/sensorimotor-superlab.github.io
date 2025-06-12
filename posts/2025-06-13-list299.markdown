@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 299"
+date:   2025-06-13 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Distinct transmission sites within a synapse for strengthening and homeostasis**  
+Yang Y, Wong MH, Huang X, Chiu DN, Liu Y-Z, Prabakaran V, Imran A, Panzeri E, Chen Y, Huguet P, Kunisky A, Ho J, Dong Y, Carter BC, Xu W, Schlüter OM  
+[Sci Adv 11:eads5750](http://dx.doi.org/10.1126/sciadv.ads5750)
+
+## 2
+**The cerebellum shapes motions by encoding motor frequencies with precision and cross-individual uniformity**  
+Liu C-W, Wang Y-M, Chen S-Y, Lu L-Y, Liang T-Y, Fang K-C, Chen P, Lee I-C, Liu W-C, Kumar A, Kuo S-H, Lee J-C, Lo C-C, Wu S-C, Pan M-K  
+[Nat Biomed Eng:1–20](http://dx.doi.org/10.1038/s41551-025-01409-5)
+
+## 3
+**Peripheral anatomy and central connectivity of proprioceptive sensory neurons in the Drosophila wing**  
+Lesser E, Moussa A, Tuthill JC  
+[bioRxiv:2025.05.29.656810](https://www.biorxiv.org/content/10.1101/2025.05.29.656810v1.abstract)
+
+## 4
+**Training-induced alterations in the modulation of human motoneuron discharge patterns with contraction force**  
+Škarabot J, Thomason HW, Nazaroff BM, Connelly CD, Valenčič T, Ho ML, Tyagi K, Beauchamp JA, Pearcey GEP  
+[bioRxiv:2025.06.02.657380](https://www.biorxiv.org/content/10.1101/2025.06.02.657380v1.abstract)
+
+## 5
+**Central terminals of primary afferents coordinate the spontaneous activity of dorsal horn neurons**  
+Lucas-Romero J, Lopez-Garcia JA, Rivera-Arconada I  
+[J Physiol](http://dx.doi.org/10.1113/JP287970)
+
+## 6
+**High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model**  
+Schmutz V, Haydaroglu A, Wang S, Feng Y, Carandini M, Harris KD  
+[bioRxiv:2025.06.03.657632](https://www.biorxiv.org/content/10.1101/2025.06.03.657632v1.abstract)
+
+## 7
+**Sensory modality of initiation cues modulates action goal-relevant neural representations**  
+Kreter N, Dundon NM, Smith J, Marneweck M  
+[Imaging Neuroscience](https://dx.doi.org/10.1162/IMAG.a.57)
+
+## 8
+**Noninvasive precision modulation of high-level neural population activity via natural vision perturbations**  
+Gaziv G, Goulding S, Ayvazian-Hancock A, Bai Y, DiCarlo JJ  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2506.05633)
+
+## 9
+**Neural ensembles that encode nocifensive mechanical and heat pain in mouse spinal cord**  
+Zhang M-D, Kupari J, Su J, Magnusson KA, Hu Y, Calvo-Enrique L, Usoskin D, Albisetti GW, Ceder MM, Henriksson K, Leavitt AD, Zeilhofer HU, Hökfelt T, Lagerström MC, Ernfors P  
+[Nat Neurosci 28:1012–1023](http://dx.doi.org/10.1038/s41593-025-01921-6)
+
+## 10
+**Generalizable, real-time neural decoding with hybrid state-space models**  
+Ryoo AH-W, Krishna NH, Mao X, Azabou M, Dyer EL, Perich MG, Lajoie G  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2506.05320)
+
+## 11
+**An instantaneous voice-synthesis neuroprosthesis**  
+Wairagkar M, Card NS, Singer-Clark T, Hou X, Iacobacci C, Miller LM, Hochberg LR, Brandman DM, Stavisky SD  
+[Nature](http://dx.doi.org/10.1038/s41586-025-09127-3)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

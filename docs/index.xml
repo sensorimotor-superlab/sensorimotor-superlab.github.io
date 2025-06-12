@@ -10,7 +10,105 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Fri, 06 Jun 2025 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Jun 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 299</title>
+  <link>https://superlab.ca/posts/2025-06-13-list299.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Distinct transmission sites within a synapse for strengthening and homeostasis</strong><br>
+Yang Y, Wong MH, Huang X, Chiu DN, Liu Y-Z, Prabakaran V, Imran A, Panzeri E, Chen Y, Huguet P, Kunisky A, Ho J, Dong Y, Carter BC, Xu W, Schlüter OM<br>
+<a href="http://dx.doi.org/10.1126/sciadv.ads5750">Sci Adv 11:eads5750</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>The cerebellum shapes motions by encoding motor frequencies with precision and cross-individual uniformity</strong><br>
+Liu C-W, Wang Y-M, Chen S-Y, Lu L-Y, Liang T-Y, Fang K-C, Chen P, Lee I-C, Liu W-C, Kumar A, Kuo S-H, Lee J-C, Lo C-C, Wu S-C, Pan M-K<br>
+<a href="http://dx.doi.org/10.1038/s41551-025-01409-5">Nat Biomed Eng:1–20</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Peripheral anatomy and central connectivity of proprioceptive sensory neurons in the Drosophila wing</strong><br>
+Lesser E, Moussa A, Tuthill JC<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.05.29.656810v1.abstract">bioRxiv:2025.05.29.656810</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Training-induced alterations in the modulation of human motoneuron discharge patterns with contraction force</strong><br>
+Škarabot J, Thomason HW, Nazaroff BM, Connelly CD, Valenčič T, Ho ML, Tyagi K, Beauchamp JA, Pearcey GEP<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.06.02.657380v1.abstract">bioRxiv:2025.06.02.657380</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Central terminals of primary afferents coordinate the spontaneous activity of dorsal horn neurons</strong><br>
+Lucas-Romero J, Lopez-Garcia JA, Rivera-Arconada I<br>
+<a href="http://dx.doi.org/10.1113/JP287970">J Physiol</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>High-dimensional neuronal activity from low-dimensional latent dynamics: a solvable model</strong><br>
+Schmutz V, Haydaroglu A, Wang S, Feng Y, Carandini M, Harris KD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.06.03.657632v1.abstract">bioRxiv:2025.06.03.657632</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Sensory modality of initiation cues modulates action goal-relevant neural representations</strong><br>
+Kreter N, Dundon NM, Smith J, Marneweck M<br>
+<a href="https://dx.doi.org/10.1162/IMAG.a.57">Imaging Neuroscience</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>Noninvasive precision modulation of high-level neural population activity via natural vision perturbations</strong><br>
+Gaziv G, Goulding S, Ayvazian-Hancock A, Bai Y, DiCarlo JJ<br>
+<a href="http://arxiv.org/abs/2506.05633">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Neural ensembles that encode nocifensive mechanical and heat pain in mouse spinal cord</strong><br>
+Zhang M-D, Kupari J, Su J, Magnusson KA, Hu Y, Calvo-Enrique L, Usoskin D, Albisetti GW, Ceder MM, Henriksson K, Leavitt AD, Zeilhofer HU, Hökfelt T, Lagerström MC, Ernfors P<br>
+<a href="http://dx.doi.org/10.1038/s41593-025-01921-6">Nat Neurosci 28:1012–1023</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Generalizable, real-time neural decoding with hybrid state-space models</strong><br>
+Ryoo AH-W, Krishna NH, Mao X, Azabou M, Dyer EL, Perich MG, Lajoie G<br>
+<a href="http://arxiv.org/abs/2506.05320">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>An instantaneous voice-synthesis neuroprosthesis</strong><br>
+Wairagkar M, Card NS, Singer-Clark T, Hou X, Iacobacci C, Miller LM, Hochberg LR, Brandman DM, Stavisky SD<br>
+<a href="http://dx.doi.org/10.1038/s41586-025-09127-3">Nature</a></p>
+<hr>
+</section>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-06-13-list299.html</guid>
+  <pubDate>Fri, 13 Jun 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 298</title>
   <link>https://superlab.ca/posts/2025-06-06-list298.html</link>
@@ -2028,110 +2126,6 @@ Stine GM, Jazayeri M<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-01-31-list280.html</guid>
   <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 279</title>
-  <link>https://superlab.ca/posts/2025-01-24-list279.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>The origin of color categories</strong><br>
-Garside DJ, Chang ALY, Selwyn HM, Conway BR<br>
-<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2400273121">PNAS 122:e2400273121</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Dynamical constraints on neural population activity</strong><br>
-Oby ER, Degenhart AD, Grigsby EM, Motiwala A, Mcclain NT, Marino PJ, Yu BM, Batista AP<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.01.03.573543v1.abstract">bioRxiv:2024.01.03.573543</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Prior knowledge changes initial sensory processing in the human spinal cord</strong><br>
-Stenner M-P, Nossa CM, Zaehle T, Azañón E, Heinze H-J, Deliano M, Büntjen L<br>
-<a href="http://dx.doi.org/10.1126/sciadv.adl5602">Sci Adv 11</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Self-organized and self-sustained ensemble activity patterns in simulation of mouse primary motor cortex</strong><br>
-Doherty DW, Jung J, Dura-Bernal, Lytton WW<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.01.13.632866v1.abstract">bioRxiv:2025.01.13.632866</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Cortico-spinal modularity in the parieto-frontal system: A new perspective on action control</strong><br>
-Bufacchi RJ, Battaglia-Mayer A, Iannetti GD, Caminiti R<br>
-<a href="http://dx.doi.org/10.1016/j.pneurobio.2023.102537">Prog Neurobiol 231:102537</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Bidirectional Decoding: Improving action chunking via closed-loop resampling</strong><br>
-Liu Y, Hamid JI, Xie A, Lee Y, Du M, Finn C<br>
-<a href="http://arxiv.org/abs/2408.17355">arXiv [csRO]</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>High-throughput unsupervised quantification of patterns in the natural behavior of marmosets</strong><br>
-Menegas W, Corbett E, Beliard K, Xu H, Parmar S, Desimone R, Feng G<br>
-<a href="https://elifesciences.org/reviewed-preprints/103586">eLife</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Stability of cross-sensory input to primary somatosensory cortex across experience</strong><br>
-Kato DD, Bruno RM<br>
-<a href="http://www.cell.com/article/S0896627324007682/abstract">Neuron 113:291-306.e7</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Derived motor neurons transplantation promotes nerve regeneration in a rodent model of a chronically denervated nerve through delayed adoption of a chronic denervation phenotype</strong><br>
-Cashman CR, Mi R, Hoke A<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.01.21.634102v1.abstract">bioRxiv:2025.01.21.634102</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Conjoint specification of action by neocortex and striatum</strong><br>
-Park J, Polidoro P, Fortunato C, Arnold J, Mensh B, Gallego JA, Dudman JT<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.10.04.560957v1.abstract">bioRxiv:2023.10.04.560957</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>The human voice aligns with whole-body kinetics</strong><br>
-Pouw W, Werner R, Burchardt LS, Selen L<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.11.28.568991v2.abstract">bioRxiv:2023.11.28.568991</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>What happened to the pursuit of truth?</strong><br>
-Marder E<br>
-<a href="https://doi.org/10.1085/jgp.202413672">J Gen Physiol 156</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-01-24-list279.html</guid>
-  <pubDate>Fri, 24 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
