@@ -9,8 +9,105 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Fri, 13 Jun 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Fri, 20 Jun 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 300</title>
+  <link>https://superlab.ca/posts/2025-06-20-list300.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>This week we continue our Journal Club feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Planning-while-acting: addressing the continuous dynamics of planning and action in a sequential embodied task</strong><br>
+Nuzzi D, Cisek P, Pezzulo G<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.11.28.625911v2.abstract">bioRxiv:2024.11.28.625911</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Learning to move and plan like the knight: Sequential decision making with a novel motor mapping</strong><br>
+Velázquez-Vargas CA, Taylor JA<br>
+<a href="https://dx.doi.org/10.1007/s42113-025-00245-9">Comput Brain Behav</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>How a target’s speed influences the extent to which the time or place at which it is intercepted is adjusted</strong><br>
+Bertonati G, Gori M, Smeets JBJ, Brenner E<br>
+<a href="https://dx.doi.org/10.1007/s00221-025-07108-6">Exp Brain Res 243:171</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Egocentric value maps of the near-body environment</strong><br>
+Bufacchi RJ, Somervail R, Fitzpatrick AM, Murayama Y, Logothetis N, Caminiti R, Iannetti GD<br>
+<a href="https://dx.doi.org/10.1038/s41593-025-01958-7">Nat Neurosci 28:1336–1347</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Interactions across hemispheres in prefrontal cortex reflect global cognitive processing</strong><br>
+McDonnell ME, Umakantha A, Williamson RC, Smith MA, Yu BM<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.06.12.659406v1.abstract">bioRxiv:2025.06.12.659406</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Cerebellar circuit computations for predictive motor control</strong><br>
+Nguyen KP, Person AL<br>
+<a href="https://dx.doi.org/10.1038/s41583-025-00936-z">Nat Rev Neurosci</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Motoneurons can count: A cell intrinsic spike number memory compensates for deviations from rate coding</strong><br>
+Huthmacher L, Hilgert S, Reichert S, Hürkey S, Ryglewski S, Duch C<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.06.16.659928v1.abstract">bioRxiv:2025.06.16.659928</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>The spinal premotor network driving scratching flexor and extensor alternation</strong><br>
+Yao M, Nagamori A, Campos Maçãs S, Azim E, Sharpee T, Goulding M, Golomb D, Gatto G<br>
+<a href="https://dx.doi.org/10.1016/j.celrep.2025.115845">Cell Rep 44:115845</a></p>
+<hr>
+</section>
+</section>
+<section id="superlab-papers" class="level1">
+<h1>Superlab Papers</h1>
+<p><strong>The brain works at more than 10 bits per second</strong><br>
+Sauerbrei BA, Pruszynski JA<br>
+<a href="https://dx.doi.org/10.1038/s41593-025-01997-0">Nat Neurosci</a></p>
+<hr>
+</section>
+<section id="journal-club" class="level1">
+<h1>Journal Club</h1>
+<p>We recently welcomed two guest speakers to our sensorimotor superlab lab meetings:</p>
+<p>Mohammad Amin Fakharian from the Shadmehr Lab at Johns Hopkins presented a recent paper, “<strong>A vector calculus for neural computation in the cerebellum</strong>”. Now out in Science: <a href="https://doi.org/10.1126/science.adu6331">https://doi.org/10.1126/science.adu6331</a>.<br>
+<strong>Video</strong>: <a href="https://youtu.be/SV4qdMvsOIU">https://youtu.be/SV4qdMvsOIU</a></p>
+<p>Ariel Rokem (University of Washington) showed us <strong>the latest and greatest in tract tracing via MRI, especially as it relates to development</strong> (<a href="https://neuroinformatics.uw.edu/publications">https://neuroinformatics.uw.edu/publications</a>).<br>
+<strong>Video</strong>: <a href="https://youtu.be/HMrk2zekoa4">https://youtu.be/HMrk2zekoa4</a></p>
+<hr>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-06-20-list300.html</guid>
+  <pubDate>Fri, 20 Jun 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 299</title>
   <link>https://superlab.ca/posts/2025-06-13-list299.html</link>
@@ -2028,104 +2125,6 @@ Clark J, Abbasi K<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-02-07-list281.html</guid>
   <pubDate>Fri, 07 Feb 2025 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 280</title>
-  <link>https://superlab.ca/posts/2025-01-31-list280.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Circuit modules for flexible locomotion</strong><br>
-Picton L, Pallucchi I, Fontanel P, Bertuzzi M, Song J, El Manira A<br>
-<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-112723-061241">Annu Rev Neurosci</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Is visual perception WEIRD? The Müller-Lyer illusion and the Cultural Byproduct Hypothesis</strong><br>
-Amir D, Firestone C<br>
-<a href="https://osf.io/preprints/psyarxiv/y7mtf_v1">PsyArXiv</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Symmetries and continuous attractors in disordered neural circuits</strong><br>
-Clark DG, Abbott LF, Sompolinsky H<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.01.26.634933v1.abstract">bioRxiv:2025.01.26.634933</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Sensorimnemonic decisions: choosing memories versus sensory information</strong><br>
-Kumle L, Nobre AC, Draschkow D<br>
-<a href="http://dx.doi.org/10.1016/j.tics.2024.12.010">Trends Cogn Sci</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>A neuromechanics solution for adjustable robot compliance and accuracy</strong><br>
-Abadía I, Bruel A, Courtine G, Ijspeert AJ, Ros E, Luque NR<br>
-<a href="https://www.science.org/doi/10.1126/scirobotics.adp2356">Sci Robot 10:eadp2356</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Decomposition of a complex motor skill with precise error feedback and intensive training breaks expertise ceiling</strong><br>
-Kimoto Y, Hirano M, Furuya S<br>
-<a href="https://www.nature.com/articles/s42003-025-07562-6">Commun Biol 8:118</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Trust in scientists and their role in society across 68 countries</strong><br>
-Cologna V et al.<br>
-<a href="https://www.nature.com/articles/s41562-024-02090-5">Nat Hum Behav</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Two cameras can be as good as four for markerless hand tracking during simple finger movements</strong><br>
-Mulla DM, Majoni N, Tilley PM, Keir PJ<br>
-<a href="http://dx.doi.org/10.1016/j.jbiomech.2025.112534">J Biomech 181:112534</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>The brain’s sensitivity to sensory error can be modulated by altering perceived variability</strong><br>
-Tang D-L, Parrell B, Beach SD, Niziolek CA<br>
-<a href="https://www.jneurosci.org/content/45/5/e0024242024.abstract">J Neurosci 45</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>A modular architecture for trial-by-trial learning of redundant muscle activity patterns in novel sensorimotor tasks</strong><br>
-Rebelo Dal’Bello L, Berger DJ, Borzelli D, Burdet E, d’Avella A<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.01.29.635432v1.abstract">bioRxiv:2025.01.29.635432</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Control principles of neural dynamics revealed by the neurobiology of timing</strong><br>
-Stine GM, Jazayeri M<br>
-<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-091724-015512">Annu Rev Neurosci</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-01-31-list280.html</guid>
-  <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

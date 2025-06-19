@@ -1,0 +1,87 @@
+---
+layout: post
+title:  "Reading List 300"
+date:   2025-06-20 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our Journal Club feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.  
+
+Enjoy!  
+
+---the superlab
+
+
+## 1
+**Planning-while-acting: addressing the continuous dynamics of planning and action in a sequential embodied task**  
+Nuzzi D, Cisek P, Pezzulo G  
+[bioRxiv:2024.11.28.625911](https://www.biorxiv.org/content/10.1101/2024.11.28.625911v2.abstract)
+
+## 2
+**Learning to move and plan like the knight: Sequential decision making with a novel motor mapping**  
+Velázquez-Vargas CA, Taylor JA  
+[Comput Brain Behav](https://dx.doi.org/10.1007/s42113-025-00245-9)
+
+## 3
+**How a target’s speed influences the extent to which the time or place at which it is intercepted is adjusted**  
+Bertonati G, Gori M, Smeets JBJ, Brenner E  
+[Exp Brain Res 243:171](https://dx.doi.org/10.1007/s00221-025-07108-6)
+
+## 4
+**Egocentric value maps of the near-body environment**  
+Bufacchi RJ, Somervail R, Fitzpatrick AM, Murayama Y, Logothetis N, Caminiti R, Iannetti GD  
+[Nat Neurosci 28:1336–1347](https://dx.doi.org/10.1038/s41593-025-01958-7)
+
+## 5
+**Interactions across hemispheres in prefrontal cortex reflect global cognitive processing**  
+McDonnell ME, Umakantha A, Williamson RC, Smith MA, Yu BM  
+[bioRxiv:2025.06.12.659406](https://www.biorxiv.org/content/10.1101/2025.06.12.659406v1.abstract)
+
+## 6
+**Cerebellar circuit computations for predictive motor control**  
+Nguyen KP, Person AL  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-025-00936-z)
+
+## 7
+**Motoneurons can count: A cell intrinsic spike number memory compensates for deviations from rate coding**  
+Huthmacher L, Hilgert S, Reichert S, Hürkey S, Ryglewski S, Duch C  
+[bioRxiv:2025.06.16.659928](https://www.biorxiv.org/content/10.1101/2025.06.16.659928v1.abstract)
+
+## 8
+**The spinal premotor network driving scratching flexor and extensor alternation**  
+Yao M, Nagamori A, Campos Maçãs S, Azim E, Sharpee T, Goulding M, Golomb D, Gatto G  
+[Cell Rep 44:115845](https://dx.doi.org/10.1016/j.celrep.2025.115845)
+
+---
+
+# Superlab Papers
+
+**The brain works at more than 10 bits per second**  
+Sauerbrei BA, Pruszynski JA  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-025-01997-0)
+
+---
+
+# Journal Club
+
+We recently welcomed two guest speakers to our sensorimotor superlab lab meetings:
+
+Mohammad Amin Fakharian from the Shadmehr Lab at Johns Hopkins presented a recent paper, "**A vector calculus for neural computation in the cerebellum**". Now out in Science: [https://doi.org/10.1126/science.adu6331](https://doi.org/10.1126/science.adu6331).  
+**Video**: [https://youtu.be/SV4qdMvsOIU](https://youtu.be/SV4qdMvsOIU)
+
+
+Ariel Rokem (University of Washington) showed us **the latest and greatest in tract tracing via MRI, especially as it relates to development** ([https://neuroinformatics.uw.edu/publications](https://neuroinformatics.uw.edu/publications)).  
+**Video**: [https://youtu.be/HMrk2zekoa4](https://youtu.be/HMrk2zekoa4)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
