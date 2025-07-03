@@ -1,0 +1,156 @@
+---
+layout: post
+title:  "Reading List 301"
+date:   2025-07-04 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+This week we continue our Journal Club feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+# 1
+**Brain-wide spatial mapping of oscillatory activity during naturalistic motor behavior**  
+Bönstrup M, Schneider T, Bräuer A, Ader J, Villringer A, Classen J  
+[J Neurophysiol 133:1583–1593](http://dx.doi.org/10.1152/jn.00500.2024)
+
+# 2
+**The stretch-shortening cycle effect is not associated with cortical or spinal excitability modulations**  
+Rissmann L-F, Raiteri BJ, Seiberl W, Siebert T, Hahn D  
+[J Physiol](http://dx.doi.org/10.1113/JP287508)
+
+# 3
+**Investigating the speed and accuracy of human movement corrections to visual, somatosensory, and tactile perturbations: Evidence for distinct sensorimotor processes**  
+Abdulrabba S, Facchini J, Manson GA  
+[eNeuro 12:ENEURO.0548-24.2025](http://dx.doi.org/10.1523/ENEURO.0548-24.2025)
+
+# 4
+**Biomechanical simplification of the motor control of whisking**  
+Bresee CS, Luo Y, Alade’Fa JL, Black ME, Kleczka KJ, Bush NE, Zhang K, Hartmann MJ  
+[bioRxiv:2025.06.21.660818](https://www.biorxiv.org/content/10.1101/2025.06.21.660818v1.abstract)
+
+# 5
+**Preserved cerebellar functions despite structural degeneration in older adults**  
+Witte A de, Matthijs A, Parrell B, Mantini D, Gooijers J, Orban de Xivry J-J  
+[bioRxiv:2025.06.18.660418](https://www.biorxiv.org/content/10.1101/2025.06.18.660418v1.abstract)
+
+# 6
+**Cortical sculpting of a rhythmic motor program**  
+Kirk EA, Cai K, Sauerbrei BA  
+[bioRxiv:2025.06.20.660772](https://www.biorxiv.org/content/10.1101/2025.06.20.660772v1.abstract)
+
+# 7
+**Large-scale high-density brain-wide neural recording in nonhuman primates**  
+Trautmann EM et al.  
+[Nat Neurosci:1–14](http://dx.doi.org/10.1038/s41593-025-01976-5)
+
+# 8
+**Fingertip viscoelasticity enables human tactile neurons to encode loading history alongside current force**  
+Saal HP, Birznieks I, Johansson RS  
+[Elife 12](http://dx.doi.org/10.7554/eLife.89616)
+
+# 9
+**Intramuscular high-density micro-electrode arrays enable high-precision decoding and mapping of spinal motor neurons to reveal hand control**  
+Grison A, Pereda JI, Muceli S, Kundu A, Baracat F, Indiveri G, Donati E, Farina D  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2410.11016)
+
+# 10
+**Developing a sensory representation of an artificial body part**  
+Dowdall L, Molina-Sanchez M, Dominijanni G, da Silva E, Pavalkyte V, Jugovic E, Bianchi M, Iida F, Clode D, Makin TR  
+[bioRxiv:2025.06.16.658246](https://www.biorxiv.org/content/10.1101/2025.06.16.658246v1.abstract)
+
+# 11
+**The dynamics and geometry of choice in the premotor cortex**  
+Genkin M, Shenoy KV, Chandrasekaran C, Engel TA  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-09199-1)
+
+# 12
+**Flexible sensitivity to inputs during skilled tongue movements**  
+Dasgupta R, Dong M, O’Connor DH  
+[bioRxiv:2025.05.18.654702](https://www.biorxiv.org/content/10.1101/2025.05.18.654702v1.abstract)
+
+# 13
+**Dissociable effects of curiosity and hedonic valence on reinforcement learning**  
+Rothenhoefer KM, Romac MD, Henderson K, Costa VD  
+[bioRxiv:2025.06.24.660807](https://www.biorxiv.org/content/10.1101/2025.06.24.660807v2.abstract)
+
+# 14
+**Non-human primates can flexibly learn serial sequences and reorder context-dependent object sequences**  
+Wen X, Neumann A, Dhungana S, Womelsdorf T  
+[PLoS Biol 23:e3003255](http://dx.doi.org/10.1371/journal.pbio.3003255)
+
+# 15
+**Computing muscle mechanical state variables from combined proprioceptive sensory feedback**  
+Stephens JD, Ting LH, Cope TC  
+[Exp Physiol](http://dx.doi.org/10.1113/EP092351)
+
+# 16
+**Power Pixels: a turnkey pipeline for processing of Neuropixel recordings**  
+Meijer GT, Battaglia FP  
+[bioRxiv:2025.06.27.661890](https://www.biorxiv.org/content/10.1101/2025.06.27.661890v2.abstract)
+
+# 17
+**Cerebellar imaging for neuroscience at 9.4 T**  
+van der Zwaag W, Tse DHY, Poser BA, Priovoulos N  
+[Magn Reson Med](http://dx.doi.org/10.1002/mrm.30596)
+
+# 18
+**Regional specialization of movement encoding across the primate sensorimotor cortex**  
+Borgognon S, Macellari N, Hickey AM, Perich MG, Javaheri H, Ornelas-Kobayashi R, Delacombaz M, Hitz C, Fallegger F, Lacour SP, Bezard E, Rouiller EM, Bloch J, Milekovic T, Seáñez I, Courtine G  
+[Nat Commun 16:5729](http://dx.doi.org/10.1038/s41467-025-61172-8)
+
+# 19
+**Inter-brain neural dynamics in biological and artificial intelligence systems**  
+Zhang X, Phi N, Li Q, Gorzek R, Zwingenberger N, Huang S, Zhou JL, Kingsbury L, Raam T, Wu YE, Wei D, Kao JC, Hong W  
+[Nature:1–11](http://dx.doi.org/10.1038/s41586-025-09196-4)
+
+# 20
+**Discovering cognitive strategies with tiny recurrent neural networks**  
+Ji-An L, Benna MK, Mattar MG  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-09142-4)
+
+# 21
+**Brain implantation of soft bioelectronics via embryonic development**  
+Sheng H et al.  
+[Nature 642:954–964](http://dx.doi.org/10.1038/s41586-025-09106-8)
+
+# 22
+**A foundation model to predict and capture human cognition**  
+Binz M et al.  
+[Nature:1–8](http://dx.doi.org/10.1038/s41586-025-09215-4)
+
+---
+
+# Superlab Papers
+
+**A paradigm to study the learning of muscle activity patterns outside of the natural repertoire**  
+Ghavampour A, Emanuele M, Sayyid SR, Orban de Xivry J-J, Michaels JA, Pruszynski JA, Diedrichsen J  
+[bioRxiv:2025.02.13.638098](https://www.biorxiv.org/content/10.1101/2025.02.13.638098v1.abstract)
+
+---
+
+# Journal Club
+
+We recently welcomed Dr. Emily Oby from Queen's University to talk to us about her recent paper:  
+
+**Dynamical constraints on neural population activity**  
+Oby ER, Degenhart AD, Grigsby EM, Motiwala A, McClain NT, Marino PJ, Yu BM, Batista AP (2025)  
+[Nat Neurosci 28:383–393](http://dx.doi.org/10.1038/s41593-024-01845-7)  
+video: [https://youtu.be/zU5RbP5qk9c](https://youtu.be/zU5RbP5qk9c)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
