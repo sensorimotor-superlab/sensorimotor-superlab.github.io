@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "Reading List 302"
+date:   2025-09-05 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## 1
+**Convergent motifs of early olfactory processing are recapitulated by layer-wise efficient coding**  
+del Castillo JCF, Pashakhanloo F, Murthy VN, Zavatone-Veth JA  
+[bioRxiv:2025.09.03.673748](https://www.biorxiv.org/content/10.1101/2025.09.03.673748v1.abstract)
+
+
+## 2
+**A brain-wide map of neural activity during complex behaviour**  
+International Brain Laboratory et al.  
+[Nature 645:177–191](https://dx.doi.org/10.1038/s41586-025-09235-0)
+
+## 3
+**Brain-wide representations of prior information in mouse decision-making**  
+Findling C et al.  
+[bioRxiv:2023.07.04.547684](https://www.biorxiv.org/content/10.1101/2023.07.04.547684v5)
+
+## 4
+**Mice navigate scent trails using predictive policies**  
+Jayakumar S, Rigolli N, Mathis MW, Vergassola M, Mathis A, Murthy VN  
+[bioRxiv:2025.08.27.672631](https://www.biorxiv.org/content/10.1101/2025.08.27.672631v1.abstract)
+
+## 5
+**Temporal coding carries more stable cortical visual representations than firing rate over time**  
+Zhu H, He F, Zolotavin P, Patel S, Tolias AS, Luan L, Xie C  
+[Nat Commun 16:7162](https://dx.doi.org/10.1038/s41467-025-62069-2)
+
+## 6
+**Human dexterity and brains evolved hand in hand**  
+Baker J, Barton RA, Venditti C  
+[Commun Biol 8:1257](https://dx.doi.org/10.1038/s42003-025-08686-5)
+
+## 7
+**Task affordances shape hornbills’ problem-solving strategies**  
+Garcia-Pelegrin E  
+[Biol Lett 21:20250271](https://dx.doi.org/10.1098/rsbl.2025.0271)
+
+## 8
+**Countrywide natural experiment links built environment to physical activity**  
+Althoff T, Ivanovic B, King AC, Hicks JL, Delp SL, Leskovec J  
+[Nature:1–7](https://dx.doi.org/10.1038/s41586-025-09321-3)
+
+
+## 9
+**Should neuroscientists ‘vibe code’?**  
+Dichter B  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/craft-and-careers/should-neuroscientists-vibe-code/)
+
+## 10
+**Working together to build strong scientific communities**  
+Carey MR  
+[Nat Rev Neurosci:1–2](https://www.nature.com/articles/s41583-025-00967-6)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
