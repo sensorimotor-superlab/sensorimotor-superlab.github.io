@@ -1,0 +1,96 @@
+---
+layout: post
+title:  "Reading List 303"
+date:   2025-09-12 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## 1
+**Involuntary feedback responses reflect a representation of partner actions**  
+Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, Cashaback JGA  
+[bioRxiv:2025.07.29.667240](https://www.biorxiv.org/content/10.1101/2025.07.29.667240v1.abstract)
+
+
+## 2
+**Hierarchical Bayesian modelling of interoceptive psychophysics**  
+Courtin AS, Fischer Ehmsen J, Banellis L, Fardo F, Allen M  
+[bioRxiv:2025.08.27.672360](https://www.biorxiv.org/content/10.1101/2025.08.27.672360v1.abstract)
+
+## 3
+**Sensory compression as a unifying principle for action chunking and time coding in the brain**  
+Kumar S, Le Cauchois MB, Mathis A, Duncker L, Howlett JR, Mattar MG  
+[bioRxiv:2025.09.05.674585](https://www.biorxiv.org/content/10.1101/2025.09.05.674585v1.abstract)
+
+## 4
+**Arnold: a generalist muscle transformer policy**  
+Chiappa AS, An B, Simos M, Li C, Mathis A  
+[arXiv [csRO]](http://arxiv.org/abs/2508.18066)
+
+## 5
+**Motor cortex flexibly deploys a high-dimensional repertoire of subskills**  
+Amematsro EA, Trautmann EM, Marshall NJ, Abbott LF, Shadlen MN, Wolpert DM, Churchland MM  
+[bioRxiv:2025.09.07.674717](https://www.biorxiv.org/content/10.1101/2025.09.07.674717v1.abstract)
+
+## 6
+**Reward function compression facilitates goal-dependent reinforcement learning**  
+Molinaro G, Collins AGE  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2509.06810)
+
+## 7
+**Multimodal imaging of human fetal brain development at the mesoscopic scale using 11.7 T ex vivo MRI**  
+Arcamone L, Poupon C, Adle-Biassette H, Khung-Savatovsky S, Alison M, Dubois J, Hertz-Pannier L, Leprince Y  
+[bioRxiv:2025.09.08.669657](https://www.biorxiv.org/content/10.1101/2025.09.08.669657v1.abstract)
+
+## 8
+**The human cerebellum encodes temporally sensitive reinforcement learning signals**  
+Trach JE, Ou Y, McDougle SD  
+[bioRxiv:2025.09.06.674658](https://www.biorxiv.org/content/10.1101/2025.09.06.674658v1.abstract)
+
+## 9
+**Spatially distributed and regionally unbound cellular resolution brain-wide processing loops in mice**  
+Schartner M, Liu A, International Brain Laboratory, Fiete I  
+[bioRxiv:2025.07.30.667641](https://www.biorxiv.org/content/10.1101/2025.07.30.667641v1.abstract)
+
+## 10
+**Gesture encoding in human left precentral gyrus neuronal ensembles**  
+Vargas-Irwin CE, Hosman T, Gusman JT, Pun TK, Simeral JD, Singer-Clark T, Kapitonava A, Nicolas C, Shah NP, Avansino DT, Kamdar F, Williams ZM, Henderson JM, Hochberg LR  
+[Nat Commun Biol 8:1315](http://dx.doi.org/10.1038/s42003-025-08557-z)
+
+## 11
+**Learned precision tool use in carrion crows**  
+Moll FW, Würzler J, Nieder A  
+[Curr Biol](http://dx.doi.org/10.1016/j.cub.2025.08.033)
+
+
+---
+
+# Superlab Papers
+
+**Compositional neural dynamics during reaching**  
+Kashefi M, Michaels JA, Kersten R, Lau JC, Diedrichsen J, Pruszynski JA  
+[bioRxiv:2025.09.04.674069](https://www.biorxiv.org/content/10.1101/2025.09.04.674069v1.abstract)
+
+**Integration of memory and sensory information in skilled sequence production**  
+Nazerzadeh A, Porwal M, Andrew Pruszynski J, Diedrichsen J  
+[bioRxiv:2025.09.10.675426](https://www.biorxiv.org/content/10.1101/2025.09.10.675426v1.abstract)
+
+**Developing a model of temporomandibular disorder in the common marmoset using nerve growth factor**  
+Holzscherer EJ, Kersten R, Bertrand M, Khokhar JY, Cairns BE, Pruszynski JA, Seminowicz DA  
+[bioRxiv:2025.08.20.671273](https://www.biorxiv.org/content/10.1101/2025.08.20.671273v1.abstract)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

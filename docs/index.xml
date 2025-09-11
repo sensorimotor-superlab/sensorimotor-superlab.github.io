@@ -9,8 +9,119 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.8.23</generator>
-<lastBuildDate>Fri, 05 Sep 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.24</generator>
+<lastBuildDate>Fri, 12 Sep 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 303</title>
+  <link>https://superlab.ca/posts/2025-09-12-list303.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="section" class="level1">
+<h1></h1>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">1</h2>
+<p><strong>Involuntary feedback responses reflect a representation of partner actions</strong><br>
+Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, Cashaback JGA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.07.29.667240v1.abstract">bioRxiv:2025.07.29.667240</a></p>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2</h2>
+<p><strong>Hierarchical Bayesian modelling of interoceptive psychophysics</strong><br>
+Courtin AS, Fischer Ehmsen J, Banellis L, Fardo F, Allen M<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.08.27.672360v1.abstract">bioRxiv:2025.08.27.672360</a></p>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3">3</h2>
+<p><strong>Sensory compression as a unifying principle for action chunking and time coding in the brain</strong><br>
+Kumar S, Le Cauchois MB, Mathis A, Duncker L, Howlett JR, Mattar MG<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.05.674585v1.abstract">bioRxiv:2025.09.05.674585</a></p>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4">4</h2>
+<p><strong>Arnold: a generalist muscle transformer policy</strong><br>
+Chiappa AS, An B, Simos M, Li C, Mathis A<br>
+<a href="http://arxiv.org/abs/2508.18066">arXiv [csRO]</a></p>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5">5</h2>
+<p><strong>Motor cortex flexibly deploys a high-dimensional repertoire of subskills</strong><br>
+Amematsro EA, Trautmann EM, Marshall NJ, Abbott LF, Shadlen MN, Wolpert DM, Churchland MM<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.07.674717v1.abstract">bioRxiv:2025.09.07.674717</a></p>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6">6</h2>
+<p><strong>Reward function compression facilitates goal-dependent reinforcement learning</strong><br>
+Molinaro G, Collins AGE<br>
+<a href="http://arxiv.org/abs/2509.06810">arXiv [q-bioNC]</a></p>
+</section>
+<section id="section-7" class="level2">
+<h2 class="anchored" data-anchor-id="section-7">7</h2>
+<p><strong>Multimodal imaging of human fetal brain development at the mesoscopic scale using 11.7 T ex vivo MRI</strong><br>
+Arcamone L, Poupon C, Adle-Biassette H, Khung-Savatovsky S, Alison M, Dubois J, Hertz-Pannier L, Leprince Y<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.08.669657v1.abstract">bioRxiv:2025.09.08.669657</a></p>
+</section>
+<section id="section-8" class="level2">
+<h2 class="anchored" data-anchor-id="section-8">8</h2>
+<p><strong>The human cerebellum encodes temporally sensitive reinforcement learning signals</strong><br>
+Trach JE, Ou Y, McDougle SD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.06.674658v1.abstract">bioRxiv:2025.09.06.674658</a></p>
+</section>
+<section id="section-9" class="level2">
+<h2 class="anchored" data-anchor-id="section-9">9</h2>
+<p><strong>Spatially distributed and regionally unbound cellular resolution brain-wide processing loops in mice</strong><br>
+Schartner M, Liu A, International Brain Laboratory, Fiete I<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.07.30.667641v1.abstract">bioRxiv:2025.07.30.667641</a></p>
+</section>
+<section id="section-10" class="level2">
+<h2 class="anchored" data-anchor-id="section-10">10</h2>
+<p><strong>Gesture encoding in human left precentral gyrus neuronal ensembles</strong><br>
+Vargas-Irwin CE, Hosman T, Gusman JT, Pun TK, Simeral JD, Singer-Clark T, Kapitonava A, Nicolas C, Shah NP, Avansino DT, Kamdar F, Williams ZM, Henderson JM, Hochberg LR<br>
+<a href="http://dx.doi.org/10.1038/s42003-025-08557-z">Nat Commun Biol 8:1315</a></p>
+</section>
+<section id="section-11" class="level2">
+<h2 class="anchored" data-anchor-id="section-11">11</h2>
+<p><strong>Learned precision tool use in carrion crows</strong><br>
+Moll FW, Würzler J, Nieder A<br>
+<a href="http://dx.doi.org/10.1016/j.cub.2025.08.033">Curr Biol</a></p>
+<hr>
+</section>
+</section>
+<section id="superlab-papers" class="level1">
+<h1>Superlab Papers</h1>
+<p><strong>Compositional neural dynamics during reaching</strong><br>
+Kashefi M, Michaels JA, Kersten R, Lau JC, Diedrichsen J, Pruszynski JA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.04.674069v1.abstract">bioRxiv:2025.09.04.674069</a></p>
+<p><strong>Integration of memory and sensory information in skilled sequence production</strong><br>
+Nazerzadeh A, Porwal M, Andrew Pruszynski J, Diedrichsen J<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.09.10.675426v1.abstract">bioRxiv:2025.09.10.675426</a></p>
+<p><strong>Developing a model of temporomandibular disorder in the common marmoset using nerve growth factor</strong><br>
+Holzscherer EJ, Kersten R, Bertrand M, Khokhar JY, Cairns BE, Pruszynski JA, Seminowicz DA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.08.20.671273v1.abstract">bioRxiv:2025.08.20.671273</a></p>
+<hr>
+</section>
+<section id="archive" class="level1">
+<h1>Archive</h1>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level1">
+<h1>Disclaimer</h1>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-09-12-list303.html</guid>
+  <pubDate>Fri, 12 Sep 2025 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 302</title>
   <link>https://superlab.ca/posts/2025-09-05-list302.html</link>
@@ -2032,105 +2143,6 @@ Mao H, Hasse BA, Schwartz AB<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-02-28-list284.html</guid>
   <pubDate>Fri, 28 Feb 2025 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 283</title>
-  <link>https://superlab.ca/posts/2025-02-21-list283.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Cortical control of innate behavior from subcortical demonstration</strong><br>
-Keller JA, Kwak IS, Stark AK, Pachitariu M, Branson K, Dudman JT<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.02.12.637930v1.abstract">bioRxiv:2025.02.12.637930</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Smooth pursuit inhibition reveals audiovisual enhancement of fast movement control</strong><br>
-Kreyenmeier P, Bhuiyan I, Gian M, Chow HM, Spering M<br>
-<a href="https://doi.org/10.1167/jov.24.4.3">J Vis 24:3</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Neural processing of naturalistic audiovisual events in space and time</strong><br>
-Hu Y, Mohsenzadeh Y<br>
-<a href="https://www.nature.com/articles/s42003-024-07434-5">Commun Biol 8:110</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>The geometry of correlated variability leads to highly suboptimal discriminative sensory coding</strong><br>
-Livezey JA, Sachdeva PS, Dougherty ME, Summers MT, Bouchard KE<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00313.2024">J Neurophysiol 133:124–141</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Learning produces an orthogonalized state machine in the hippocampus</strong><br>
-Sun W, Winnubst J, Natrajan M, Lai C, Kajikawa K, Bast A, Michaelos M, Gattoni R, Stringer C, Flickinger D, Fitzgerald JE, Spruston N<br>
-<a href="https://www.nature.com/articles/s41586-024-08548-w">Nature</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>The computational bottleneck of basal ganglia output (and what to do about it)</strong><br>
-Humphries MD<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.23.619790v1.abstract">bioRxiv:2024.10.23.619790</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>The roles of internal dynamics and proprioceptive feedback in motor cortex during movement execution</strong><br>
-Jiang H, Bu X, Zheng Z, Tang H, Pan X, Chen Y<br>
-<a href="http://dx.doi.org/10.1016/j.neucom.2025.129551">Neurocomputing 629:129551</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>MARBLE: interpretable representations of neural population dynamics using geometric deep learning</strong><br>
-Gosztolai A, Peach RL, Arnaudon A, Barahona M, Vandergheynst P<br>
-<a href="https://www.nature.com/articles/s41592-024-02582-2">Nat Methods</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Ignoring the cerebellum is hindering progress in neuroscience</strong><br>
-Wang B, LeBel A, D’Mello AM<br>
-<a href="http://www.cell.com/article/S136466132500004X/abstract">Trends Cogn Sci</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Functional ultrasound imaging of human brain activity through an acoustically transparent cranial window</strong><br>
-Rabut C, Norman SL, Griggs WS, Russin JJ, Jann K, Christopoulos V, Liu C, Andersen RA, Shapiro MG<br>
-<a href="https://www.science.org/doi/10.1126/scitranslmed.adj3143">Sci Transl Med 16:eadj3143</a></p>
-<hr>
-</section>
-</section>
-<section id="superlab-papers" class="level1">
-<h1>Superlab Papers</h1>
-<p><strong>A paradigm to study the learning of muscle activity patterns outside of the natural repertoire</strong><br>
-Ghavampour A, Emanuele M, Sayyid SR, Orban de Xivry J-J, Michaels JA, Pruszynski JA, Diedrichsen J<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.02.13.638098v1.abstract">bioRxiv:2025.02.13.638098</a></p>
-<hr>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here:]]](https://superlab.ca]]](https://superlab.ca)</p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-02-21-list283.html</guid>
-  <pubDate>Fri, 21 Feb 2025 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
