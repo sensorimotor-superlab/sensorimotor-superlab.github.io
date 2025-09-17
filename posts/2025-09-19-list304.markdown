@@ -1,0 +1,94 @@
+---
+layout: post
+title:  "Reading List 304"
+date:   2025-09-19 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## 1
+**Sequential effects in reaching reveal efficient coding in motor planning**  
+Wang T, Fang Y, Whitney D  
+[Sci Adv 11:eadv6572](http://dx.doi.org/10.1126/sciadv.adv6572)
+
+## 2
+**Efficient working memory maintenance via high-dimensional rotational dynamics**  
+Ritter L, Chadwick A  
+[bioRxiv:2025.09.08.674838](https://www.biorxiv.org/content/10.1101/2025.09.08.674838v1.abstract)
+
+## 3
+**Motor working memory**  
+McDougle SD, Hillman H  
+[Trends Cogn Sci](http://dx.doi.org/10.1016/j.tics.2025.08.011)
+
+## 4
+**Assessing the digit organisation of focal hand dystonia using 7T functional MRI**  
+Asghar M, Francis S, Sanchez-Panchuelo R, Glover P, Pakenham D, O’Neill GC, Schluppeck D, Humberstone M  
+[bioRxiv:2025.09.11.675579](https://www.biorxiv.org/content/10.1101/2025.09.11.675579v2.abstract)
+
+## 5
+**Functional evidence for early origin of tactile acuity in the vertebrate somatosensory system**  
+Tan K, Hillgen-Santa LF, Graham M, Li Y, Liu X, Pang S, Gracheva EO, Bagriantsev SN  
+[Curr Biol 0](http://dx.doi.org/10.1016/j.cub.2025.08.035)
+
+## 6
+**A common neural architecture for encoding finger movements**  
+Marins T, de Azevedo FAC, Wood G  
+[bioRxiv:2025.09.11.675501](https://www.biorxiv.org/content/10.1101/2025.09.11.675501v1.abstract)
+
+## 7
+**Neural coding for tactile motion: Scanning speed or temporal frequency?**  
+Cheng Y-P, Huang J-J, Yeh C-I, Pei Y-C  
+[bioRxiv:2025.09.06.674674](https://www.biorxiv.org/content/10.1101/2025.09.06.674674v1.abstract)
+
+## 8
+**Cerebellar contributions to action and cognition: Prediction, Timescale, and Continuity**  
+Tsay J, Ivry R  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2509.09818)
+
+## 9
+**From adaptive deep brain stimulation to adaptive circuit targeting**  
+Horn A, Neumann W-J  
+[Nat Rev Neurol:1–11](http://dx.doi.org/10.1038/s41582-025-01131-5)
+
+## 10
+**Skin-attached haptic patch for versatile and augmented tactile interaction**  
+Youn J-H, Jang S-Y, Hwang I, Pei Q, Yun S, Kyung K-U  
+[Sci Adv 11:eadt4839](http://dx.doi.org/10.1126/sciadv.adt4839)
+
+## 11
+**Coherent dynamics of thalamic head-direction neurons irrespective of input**  
+Viejo G, Skromne Carrasco S, Peyrache A  
+[bioRxiv:2025.09.10.675474](https://www.biorxiv.org/content/10.1101/2025.09.10.675474v1.abstract)
+
+## 12
+**A compressed hierarchy for visual form processing in the tree shrew**  
+Lanfranchi FF, Wekselblatt J, Wagenaar DA, Tsao DY  
+[Nature:1–11](http://dx.doi.org/10.1038/s41586-025-09441-w)
+
+## 13
+**The myth of optimality in human movement science**  
+Mangalam M  
+[Neurosci Biobehav Rev 178:106352](http://dx.doi.org/10.1016/j.neubiorev.2025.106352)
+
+## 14
+**Embodied decision making in athletes and other animals**  
+Maselli A, Iodice P, Cisek P, Pezzulo G  
+[Psychol Sport Exerc 80:102915](http://dx.doi.org/10.1016/j.psychsport.2025.102915)
+
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
