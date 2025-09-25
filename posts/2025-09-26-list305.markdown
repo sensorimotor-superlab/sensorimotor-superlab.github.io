@@ -1,0 +1,118 @@
+---
+layout: post
+title:  "Reading List 305"
+date:   2025-09-26 00:00:00
+categories: readinglist
+---
+
+# 
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## 1
+**Selective presynaptic inhibition of leg proprioception in behaving Drosophila**  
+Dallmann CJ, Luo Y, Agrawal S, Mamiya A, Chou GM, Cook A, Sustar A, Brunton BW, Tuthill JC  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-09554-2)
+
+## 2
+**Recurrent pattern completion drives the neocortical representation of sensory inference**  
+Shin H et al.  
+[bioRxiv:2023.06.05.543698](https://www.biorxiv.org/content/10.1101/2023.06.05.543698v1)
+
+## 3
+**A comparison of movement-related neuronal activities in cerebellar- and basal ganglia-recipient regions of the macaque thalamus**  
+Kase D, Zimnik AJ, Pearce T, Turner RS  
+[bioRxiv:2025.09.12.675921](https://www.biorxiv.org/content/10.1101/2025.09.12.675921v1.abstract)
+
+## 4
+**Transitions in dynamical regime and neural mode during perceptual decisions**  
+Luo TZ, Kim TD, Gupta D, Bondy AG, Kopec CD, Elliott VA, DePasquale B, Brody CD  
+[Nature:1–11](http://dx.doi.org/10.1038/s41586-025-09528-4)
+
+## 5
+**The dimensions of dimensionality**  
+Roads BD, Love BC  
+[Trends Cogn Sci 28:1118–1131](http://dx.doi.org/10.1016/j.tics.2024.07.005)
+
+## 6
+**Discrete and sequential critical periods organise the development of task-specific sensorimotor circuits in mice**  
+Andreoli L, Constantinescu AM, Garai A, Black CJ, Koch SC  
+[bioRxiv:2025.09.18.676788](https://www.biorxiv.org/content/10.1101/2025.09.18.676788v1.abstract)
+
+## 7
+**Arm position estimates derived from motor biases**  
+Abishek K, Muzammall H, Lee H, Buneo CA  
+[bioRxiv:2025.07.26.664535](https://www.biorxiv.org/content/10.1101/2025.07.26.664535v1.abstract)
+
+## 8
+**Embodied sensorimotor control: computational modeling of the neural control of movement**  
+Almani MN, John L, Jeff W, Shreya S  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2509.14360)
+
+## 9
+**A hardwired neural circuit for temporal difference learning**  
+Campbell MG, Ra Y, Chen Z, Xu S, Burrell M, Matias S, Watabe-Uchida M, Uchida N  
+[bioRxiv:2025.09.18.677203](https://www.biorxiv.org/content/10.1101/2025.09.18.677203v1.abstract)
+
+## 10
+**Encoding of motor sequences in primate globus pallidus and motor cortex: Uniform preference for ordinal position**  
+Harsch DR, Cox KM, Wright KKM, Rice PJ, Pasquerau B, Turner RS  
+[bioRxiv:2025.09.15.676392](https://www.biorxiv.org/content/10.1101/2025.09.15.676392v2.abstract)
+
+## 11
+**Neural mechanisms underlying the recovery of voluntary control of motoneurons after paralysis with spinal cord stimulation**  
+Balaguer J-M et al.  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.08.023)
+
+## 12
+**Multitasking recurrent networks utilize compositional strategies for control of movement**  
+Lazzari J, Saxena S  
+[bioRxiv:2025.09.10.675375](https://www.biorxiv.org/content/10.1101/2025.09.10.675375v1.abstract)
+
+## 13
+**Optimal foraging requires coordinating decisions with movements**  
+Saleri C, Gardechaux G, Foncelle A, Thura D  
+[bioRxiv:2025.09.19.677254](https://www.biorxiv.org/content/10.1101/2025.09.19.677254v1.abstract)
+
+## 14
+**Evidence for an active handoff between hemispheres during target tracking**  
+Broschard MB, Roy JE, Brincat SL, Mahnke MK, Miller EK  
+[J Neurosci:e0841252025](http://dx.doi.org/10.1523/JNEUROSCI.0841-25.2025)
+
+## 15
+**Can you learn not to respond to irrelevant motion while making fast arm movements?**  
+Brenner E, de Jonge LM, Tiems NJJ, Rosenquist G, Wiggers T, Smeets JBJ, Crowe EM  
+[PLoS One 20:e0332171](http://dx.doi.org/10.1371/journal.pone.0332171)
+
+## 16
+**A mechanistic theory of planning in prefrontal cortex**  
+Jensen KT, Doohan P, Sablé-Meyer M, Reinert S, Baram A, Akam T, Behrens TEJ  
+[bioRxiv:2025.09.23.677709](https://www.biorxiv.org/content/10.1101/2025.09.23.677709v1.abstract)
+
+## 17
+**EPFL-Smart-Kitchen-30: Densely annotated cooking dataset with 3D kinematics to challenge video and language models**  
+Bonnetto A, Qi H, Leong F, Tashkovska M, Rad M, Shokur S, Hummel F, Micera S, Pollefeys M, Mathis A  
+[arXiv [csCV]](http://arxiv.org/abs/2506.01608)
+
+## 18
+**Spinal dI3 neurons are involved in sustained motor adaptation elicited by low-threshold cutaneous afferents**  
+Khan EU, Nasiri S, Chiasson SA, Couvrette LJ, Laliberte AM, Bui TV  
+[bioRxiv:2025.09.22.677841](https://www.biorxiv.org/content/10.1101/2025.09.22.677841v1.abstract)
+
+## 19
+**Arousal as a universal embedding for spatiotemporal brain dynamics**  
+Raut RV, Rosenthal ZP, Wang X, Miao H, Zhang Z, Lee J-M, Raichle ME, Bauer AQ, Brunton SL, Brunton BW, Kutz JN  
+[Nature:1–8](http://dx.doi.org/10.1038/s41586-025-09544-4)
+
+---
+
+# Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+# Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
