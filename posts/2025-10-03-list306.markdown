@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Reading List 306"
+date:   2025-10-03 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Dynamic and context-dependent modulation of proprioceptive input in primate primary motor cortex**  
+Yoshida J, Kikuta S, Hasegawa W, Kubota S, Seki K  
+[bioRxiv:2025.09.21.677658](https://www.biorxiv.org/content/10.1101/2025.09.21.677658v1.abstract)
+
+### 2
+**Active filtering: A predictive function of recurrent circuits of sensory cortex**  
+Histed MH  
+[Annu Rev Vis Sci 11:193–215](http://dx.doi.org/10.1146/annurev-vision-101922-041523)
+
+### 3
+**Programmable RNA-guided enzymes for next-generation genome editing**  
+Tou CJ, Kleinstiver BP  
+[Nature 630:827–828](http://dx.doi.org/10.1038/d41586-024-01461-2)
+
+### 4
+**Motor origins of timbre in piano performance**  
+Kuromiya K, Kobayashi Y, Hirano M, Furuya S  
+[Proc Natl Acad Sci U S A 122:e2425073122](http://dx.doi.org/10.1073/pnas.2425073122)
+
+### 5
+**Preparatory encoding of diverse features of intended movement in the human motor cortex**  
+Rigotti-Thompson M, Nason-Tomaszewski SR, Bechefsky P, Acosta A, Hahn N, Avansino D, Richards B, Nicolas C, Ali YH, Henderson JM, Hochberg LR, AuYong N, Pandarinath C  
+[bioRxiv:2025.09.24.678356](https://www.biorxiv.org/content/10.1101/2025.09.24.678356v1.abstract)
+
+### 6
+**Facial expressions in mice reveal latent cognitive variables and their neural correlates**  
+Cazettes F, Reato D, Augusto E, Steinfeld R, Renart A, Mainen ZF  
+[Nat Neurosci:1–9](http://dx.doi.org/10.1038/s41593-025-02071-5)
+
+### 7
+**POCO: Scalable neural forecasting through population conditioning**  
+Cazettes F, Reato D, Augusto E, Steinfeld R, Renart A, Mainen ZF  
+[arXiv](http://arxiv.org/abs/2506.14957)
+
+### 8
+**Primate neuroethology: a new synthesis**  
+Parodi F, Kording KP, Platt ML  
+[Trends Cogn Sci](http://dx.doi.org/10.1016/j.tics.2025.09.002)
+
+
+## Superlab Papers
+
+**Speed-dependent modulation of tactile edge orientation discrimination**  
+Sukumar V, Pruszynski JA  
+[bioRxiv:2025.09.24.678395](https://www.biorxiv.org/content/10.1101/2025.09.24.678395v1.abstract)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
