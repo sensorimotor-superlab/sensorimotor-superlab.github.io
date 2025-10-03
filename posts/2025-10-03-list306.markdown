@@ -48,7 +48,7 @@ Cazettes F, Reato D, Augusto E, Steinfeld R, Renart A, Mainen ZF
 
 ### 7
 **POCO: Scalable neural forecasting through population conditioning**  
-Cazettes F, Reato D, Augusto E, Steinfeld R, Renart A, Mainen ZF  
+Duan Y, Chaudhry HT, Ahrens MB, Harvey CD, Perich MG, Deisseroth K, Rajan K  
 [arXiv](http://arxiv.org/abs/2506.14957)
 
 ### 8
