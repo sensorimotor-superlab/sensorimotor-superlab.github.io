@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 307"
+date:   2025-10-10 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**High-resolution in vivo kinematic tracking with customized injectable fluorescent nanoparticles**  
+Ulutas EZ, Pradhan A, Koveal D, Markowitz JE  
+[Sci Adv 11:eadu9136](http://dx.doi.org/10.1126/sciadv.adu9136)
+
+### 2
+**Expectation of tactile signals in human motor cortex**  
+Shelchkova ND, Alamri AH, Emonds AMX, Downey JE, Greenspon CM  
+[medRxiv:2025.09.30.25336988](https://www.medrxiv.org/content/10.1101/2025.09.30.25336988v1.abstract)
+
+### 3
+**Task and resting state fMRI modelling of brain-behavior relationships in developmental cohorts**  
+Uddin LQ, Garavan H  
+[Biol Psychiatry](http://dx.doi.org/10.1016/j.biopsych.2025.09.012)
+
+### 4
+**Improved interpretability in LFADS models using a learned, context-dependent per-trial bias**  
+Shah NP, Krasa BA, Kunz E, Hahn N, Kamdar F, Avansino D, Hochberg LR, Henderson JM, Sussillo D  
+[bioRxiv:2025.10.03.680303](https://www.biorxiv.org/content/10.1101/2025.10.03.680303v1.abstract)
+
+### 5
+**Adults up to 80 years old maintain effective movement planning when facing complex body dynamics**  
+Matthijs A, de Witte A, Mantini D, Orban de Xivry J-J  
+[bioRxiv:2025.10.03.680305](https://www.biorxiv.org/content/10.1101/2025.10.03.680305v1.abstract)
+
+### 6
+**Competitive pre-ordering during planning persists in kinematically fused sequential movements**  
+Wright-Wieckowski H, Friedman J, Galea JM, Kornysheva K  
+[bioRxiv:2025.08.18.670892](https://www.biorxiv.org/content/10.1101/2025.08.18.670892v1.abstract)
+
+### 7
+**Dense longitudinal neuroimaging reveals individual brain change trajectories**  
+Vinci-Booher S, Ren X, Kay K, Yu C, Pestilli F, Booth JR  
+[Trends Cogn Sci](http://dx.doi.org/10.1016/j.tics.2025.09.005)
+
+### 8
+**Mixture models for domain-adaptive brain decoding**  
+Dempster A, Laschowski B  
+[bioRxiv:2025.10.05.680511](https://www.biorxiv.org/content/10.1101/2025.10.05.680511v1.abstract)
+
+### 9
+**Cerebellar outputs for rapid directional refinement of forelimb movement**  
+Thanawalla AR, Wilcox O, Rhee E, Jiang J, Huang KW, Yusufi R, Saklaway D, Nagamori A, Conner JM, Chen AI, Azim E  
+[bioRxiv:2025.10.01.679895](https://www.biorxiv.org/content/10.1101/2025.10.01.679895v1.abstract)
+
+### 10
+**Eye and hand coarticulation during problem-solving reveals hierarchically organized planning**  
+Eluchans M, Maselli A, Lancia GL, Pezzulo G  
+[J Neurophysiol 134:985–997](http://dx.doi.org/10.1152/jn.00188.2025)
+
+### 11
+**Can only meat machines be conscious?**  
+Block N  
+[Trends Cogn Sci](http://dx.doi.org/10.1016/j.tics.2025.08.009)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
