@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Reading List 308"
+date:   2025-10-17 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Arm dominance emerges through asymmetric practice of complex trajectory shapes inherent to tool-use**  
+Arac A, Jeong Lee NYH, Krakauer JW  
+[bioRxiv:2025.10.08.680998](https://www.biorxiv.org/content/10.1101/2025.10.08.680998v2.abstract)
+
+### 2
+**Mapping the causal roles of Non-primary motor areas in human reach planning and execution**  
+Haddadshargh G, de Freitas RM, Mak J, Boos A, Fang X, Collinger JL, McKernan G, Zhan L, Liu F, Wittenberg GF  
+[bioRxiv:2025.09.11.671853](https://www.biorxiv.org/content/10.1101/2025.09.11.671853v1.abstract)
+
+### 3
+**Sensorimotor theta oscillations coordinate speech movements**  
+Norman Y, Frank LM, Chang EF  
+[bioRxiv:2025.10.09.681482](https://www.biorxiv.org/content/10.1101/2025.10.09.681482v1.abstract)
+
+### 4
+**Neural coding of choice and outcome are modulated by uncertainty in orbitofrontal but not secondary motor cortex**  
+Romero-Sosa JL, Yeghikian A, Wikenheiser AM, Blair HT, Izquierdo A  
+[Nat Commun 16:8931](http://dx.doi.org/10.1038/s41467-025-63866-5)
+
+### 5
+**Learning neural dynamics through instructive signals**  
+Pang R, Arbelaiz J, Pillow JW  
+[bioRxivorg:2025.08.30.673300](https://www.biorxiv.org/content/10.1101/2025.08.30.673300v2.abstract)
+
+### 6
+**Science must break its silence to rebuild public trust**  
+Miller CT, Basso MA, Batista AP, Gothard KM, Parker KJ, Tsao DY, Williams ZM, Platt ML  
+[Nat Neurosci](http://dx.doi.org/10.1038/s41593-025-02092-0)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
