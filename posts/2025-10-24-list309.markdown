@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Reading List 309"
+date:   2025-10-24 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Voluntary activation of maximal single and all finger power grip contractions**  
+Chauhan D, Aruneethan T, Tran T, Zarnett-Klein J, Shah E, Behnia S, Paris MT  
+[J Appl Physiol 138:45–54](http://dx.doi.org/10.1152/japplphysiol.00650.2024)
+
+### 2
+**Head-direction cells as a neural compass in bats navigating outdoors on a remote oceanic island**  
+Palgi S, Ray S, Maimon SR, Waserman Y, Ben-Ari L, Eliav T, Tuval A, Cohen C, Keyyu JD, Ali AI, Mouritsen H, Las L, Ulanovsky N  
+[Science 390:eadw6202](http://dx.doi.org/10.1126/science.adw6202)
+
+### 3
+**Mental representation without neural representation: Understanding the evidence**  
+Krakauer JW, Ramsey W  
+[PsyArXiv](https://doi.org/10.31234/osf.io/cezjn_v1)
+
+### 4
+**Hierarchical dynamic coding coordinates speech comprehension in the human brain**  
+Gwilliams L, Marantz A, Poeppel D, King J-R  
+[Proc Natl Acad Sci U S A 122:e2422097122](http://dx.doi.org/10.1073/pnas.2422097122)
+
+### 5
+**Coarse-graining reveals collective predictive information in a sensory population**  
+Kline AG, Koch-Janusz M, Walczak AM, Mora T, Palmer SE  
+[bioRxiv:2025.10.18.683195](https://www.biorxiv.org/content/10.1101/2025.10.18.683195v1.abstract)
+
+### 6
+**Flexible tapping synchronization in macaques: dynamic switching of timing strategies within rhythmic sequences**  
+Castillo-Almazán A, Pérez O, Prado L, Jacoby N, Merchant H  
+[J Neurophysiol 134:580–590](http://dx.doi.org/10.1152/jn.00158.2025)
+
+### 7
+**The spatiotemporal structure of neural activity in motor cortex during reaching**  
+Canfield RA, Ouchi T, Fang H, Macagno B, Smith LI, Scholl LR, Orsborn AL  
+[bioRxiv:2025.10.17.683171](https://www.biorxiv.org/content/10.1101/2025.10.17.683171v1.abstract)
+
+### 8
+**Subretinal photovoltaic implant to restore vision in geographic atrophy due to AMD**  
+Holz FG et al.  
+[N Engl J Med](http://dx.doi.org/10.1056/nejmoa2501396)
+
+### 9
+**Foot placement control underlies stable locomotion across species**  
+De Comite A, Seethapathi N  
+[Proc Natl Acad Sci USA 122:e2413958122](http://dx.doi.org/10.1073/pnas.2413958122)
+
+### 10
+**Mapping neural subspace dynamics onto the structure of the mouse descending motor system**  
+Hasnain MA, Han Y, Economo MN  
+[bioRxiv:2025.10.17.682917](https://www.biorxiv.org/content/10.1101/2025.10.17.682917v1.abstract)
+
+### 11
+**A mechanistic theory of planning in prefrontal cortex**  
+Jensen KT, Doohan P, Sablé-Meyer M, Reinert S, Baram A, Akam T, Behrens TEJ  
+[bioRxiv:2025.09.23.677709](https://www.biorxiv.org/content/10.1101/2025.09.23.677709v1.abstract)
+
+### 12
+**Time-dependent facilitation of homologous actions**  
+Hamel R, Savoie F-A, Punt D, Jenkinson N, Hinder MR  
+[bioRxiv:2025.10.15.682693](https://www.biorxiv.org/content/10.1101/2025.10.15.682693v1.abstract)
+
+### 13
+**Selective coupling and decoupling coordinate distributed brain networks for precise action**  
+Lemke SM, Appaqaq S, Guo J-Z, Hantman AW  
+[bioRxiv:2025.10.19.683309](https://www.biorxiv.org/content/10.1101/2025.10.19.683309v1.abstract)
+
+### 14
+**Stop treating code like an afterthought: record, share and value it**  
+Di Cosmo R, Granger S, Hinsen K, Jullien N, Le Berre D, Louvet V, Maumet C, Maurice C, Monat R, Rougier NP  
+[Nature 646:284–286](http://dx.doi.org/10.1038/d41586-025-03196-0)
+
+### 15
+**The strategy behind one of the most successful labs in the world**  
+Gebel L, Velu C, Vidal-Puig A  
+[Nature 630:813–816](https://www.nature.com/articles/d41586-024-02085-2)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
