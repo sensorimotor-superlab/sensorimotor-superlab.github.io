@@ -1,0 +1,99 @@
+---
+layout: post
+title:  "Reading List 310"
+date:   2025-10-31 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Infinite horizon control captures modulation of movement duration in reaching movements**  
+De Comite A, Kalidindi HT, Pruszynski JA, Crevecoeur F  
+[bioRxiv:2025.10.22.683958](https://www.biorxiv.org/content/10.1101/2025.10.22.683958v1.abstract)
+
+### 2
+**Single-unit activations confer inductive biases for emergent circuit solutions to cognitive tasks**  
+Tolmachev P, Engel TA  
+[Nat Mach Intell 7:1742–1754](http://dx.doi.org/10.1038/s42256-025-01127-2)
+
+### 3
+**Are online corrections really a distinct class of movement?**  
+Mekhaiel DY, Goodale MA, Corneil BD  
+[bioRxiv:2025.03.14.643316](https://www.biorxiv.org/content/10.1101/2025.03.14.643316v4)
+
+### 4
+**Purkinje cell spatial correlation dynamics are key to cerebellar cortical contributions to behavior**  
+Streng ML, Carter RE, Kottke BW, Togneri K, Wasserman E, Rajendran V, Kodandaramaiah SB, Krook-Magnuson E, Ebner TJ  
+[J Neurosci 45](http://dx.doi.org/10.1523/JNEUROSCI.1915-24.2025)
+
+### 5
+**Relative-location tuning in five frontal areas in a rhesus monkey**  
+Lebedev MA, Wise SP  
+[bioRxiv:2025.10.25.684521](https://www.biorxiv.org/content/10.1101/2025.10.25.684521v1.abstract)
+
+### 6
+**Very briefly hiding the hand impedes goal-directed arm movements**  
+Brenner E, Smeets JBJ  
+[Perception:3010066251389521](http://dx.doi.org/10.1177/03010066251389521)
+
+### 7
+**Longitudinal measures of monkey brain structure and activity through adolescence predict cognitive maturation**  
+Zhu J, Garin CM, Qi X-L, Machado A, Wang Z, Ben Hamed S, Stanford TR, Salinas E, Whitlow CT, Anderson AW, Zhou XM, Calabro FJ, Luna B, Constantinidis C  
+[Nat Neurosci:1–12](http://dx.doi.org/10.1038/s41593-025-02076-0)
+
+### 8
+**Spinal cord stimulation improves motor function and spasticity in chronic post-stroke upper limb hemiparesis**  
+de Freitas RM et al.  
+[medRxiv:2025.08.01.25332445](https://www.medrxiv.org/content/10.1101/2025.08.01.25332445v1.abstract)
+
+### 9
+**Stopping muscle contractions and relaxations during action inhibition involves global and targeted control dependent on muscle state**  
+De Havas J, Ibañez J, Gomi H, Bestmann S  
+[J Neurosci 45:e1170252025](http://www.jneurosci.org/content/45/40/e1170252025.abstract)
+
+### 10
+**Evolutionary expansion of the corticospinal system is linked to dexterity in Peromyscus mice**  
+Tyssowski KM, Cohen JD, Guo J-Z, Richardson PR, Cortina KE, Smith IH, Eijogu DC, Hantman AW, Hoekstra HE  
+[bioRxiv:2025.10.16.682851](https://www.biorxiv.org/content/10.1101/2025.10.16.682851v1.abstract)
+
+### 11
+**Unintended bias in the pursuit of collinearity solutions in fMRI analysis**  
+Mumford JA, Demidenko MI, Bjork JM, Chaarani B, Feczko EJ, Garavan HP, Hagler DJ Jr, Nelson SM, Wager TD, Poldrack RA  
+[Imaging Neurosci (Camb) 3:IMAG.a.958](https://dx.doi.org/10.1162/IMAG.a.958)
+
+### 12
+**Ultrasound-driven programmable artificial muscles**  
+Shi Z, Zhang Z, Schnermann J, Neuhauss SCF, Nama N, Wittkowski R, Ahmed D  
+[Nature 646:1096–1104](http://dx.doi.org/10.1038/s41586-025-09650-3)
+
+### 13
+**Lateralized sleeping positions in domestic cats**  
+Isparta S, Ocklenburg S, Siniscalchi M, Goursot C, Ryan CL, Doucette TA, Reinhardt PR, Gosse R, Çıldır ÖŞ, Serenella d’Ingeo, Freund N, Güntürkün O, Demirbas YS  
+[Curr Biol 35:R597–R598](http://dx.doi.org/10.1016/j.cub.2025.04.043)
+
+
+## Superlab Papers
+
+
+**Sensory expectations shape neural population dynamics in motor circuits**  
+Michaels JA, Kashefi M, Zheng J, Codol O, Weiler J, Kersten R, Lau JC,  
+Gribble PL, Diedrichsen J, Pruszynski JA  
+[Nature (2025): 1-10](http://dx.doi.org/10.1038/s41586-025-09690-9)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
