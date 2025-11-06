@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 311"
+date:   2025-11-07 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**A neuroimaging database combining movie-watching, eye-tracking, sensorimotor mapping, and cognitive tasks**  
+Levchenko E, Chow-Wing-Bom H, Dick F, Tierney A, Skipper JI  
+[bioRxiv:2025.09.25.678556](https://www.biorxiv.org/content/10.1101/2025.09.25.678556v2.abstract)
+
+### 2
+**Contextual effects during sensorimotor adaptation are an emergent property of population coding in a cerebellar-inspired model**  
+Wang T, Ivry RB  
+[Sci Adv 11:eadr4540](http://dx.doi.org/10.1126/sciadv.adr4540)
+
+### 3
+**Specialized structure of neural population codes in parietal cortex outputs**  
+Safaai H, Wang AY, Kira S, Blanco Malerba S, Panzeri S, Harvey CD  
+[Nat Neurosci:1–11](http://dx.doi.org/10.1038/s41593-025-02095-x)
+
+### 4
+**Motor learning after stroke: what we’ve learned and what lies ahead**  
+Koch ET, Dukelow SP, Cluff T  
+[Brain:awaf388](https://dx.doi.org/10.1093/brain/awaf388)
+
+### 5
+**Agile and cooperative aerial manipulation of a cable-suspended load**  
+Sun S, Wang X, Sanalitro D, Franchi A, Tognon M, Alonso-Mora J  
+[Sci Robot 10:eadu8015](http://dx.doi.org/10.1126/scirobotics.adu8015)
+
+### 6
+**Single-cell, multi-region profiling of the macaque brain across the lifespan**  
+Yang W et al.  
+[bioRxiv:2025.10.31.685880](https://www.biorxiv.org/content/10.1101/2025.10.31.685880v1.abstract)
+
+### 7
+**Striatal pathways for action counting and steering**  
+Fallon IP, Roshchina M, Hong F, Fernandez S, Ruan S, Yin HH  
+[bioRxiv:2025.11.02.686102](https://www.biorxiv.org/content/10.1101/2025.11.02.686102v1.abstract)
+
+### 8
+**A probabilistic histological atlas of the human brain for MRI segmentation**  
+Casamitjana A et al.  
+[Nature:1–8](http://dx.doi.org/10.1038/s41586-025-09708-2)
+
+### 9
+**Dissociable roles of primary motor and supplementary motor cortex in shaping the neural drive to muscle**  
+Escalante YR, Lei Y  
+[bioRxiv:2025.10.28.685170](https://www.biorxiv.org/content/10.1101/2025.10.28.685170v1.abstract)
+
+### 10
+**The missing half of the neurodynamical systems theory**  
+Wang X-J  
+[The Transmitter: Neuroscience News and Perspectives](https://www.thetransmitter.org/neural-dynamics/the-missing-half-of-the-neurodynamical-systems-theory/)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
