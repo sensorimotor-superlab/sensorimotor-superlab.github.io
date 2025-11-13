@@ -9,8 +9,86 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Fri, 07 Nov 2025 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Fri, 14 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 312</title>
+  <link>https://superlab.ca/posts/2025-11-14-list312.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>A reference atlas of the human dorsal root ganglion</strong><br>
+Bhuiyan SA et al.<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.05.686654v1.abstract">bioRxiv:2025.11.05.686654</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Transcranial direct current stimulation of the supplementary motor area modulates behavioral and peripheral electrophysiological measures of motor preparation</strong><br>
+Kumar A, Murthy A<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.10.31.685710v2">bioRxiv:2025.10.31.685710</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Selective direct influence of motor cortex on limb muscle activity during naturalistic climbing in mice</strong><br>
+Koh N, Ma Z, Sarup A, Kristl AC, Agrios M, Young M, Miri A<br>
+<a href="http://dx.doi.org/10.1038/s41593-025-02093-z">Nat Neurosci:1–13</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Neural manifolds that orchestrate walking and stopping</strong><br>
+Komi S, Kaur J, Winther A, Adamsson Bonfils MC, Houser GA, Sørensen RJF, Li G, Sobriel K, Berg RW<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.08.687367v1.abstract">bioRxiv:2025.11.08.687367</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Brain dissection photogrammetry: a tool for studying human white matter connections integrating ex vivo and in vivo multimodal datasets</strong><br>
+Vavassori L, Rheault F, Nocerino E, Annicchiarico L, Corsini F, Zigiotto L, De Benedictis A, Barbareschi M, Rozzanigo U, Avesani P, Sarubbo S, Petit L<br>
+<a href="http://dx.doi.org/10.1038/s41467-025-64788-y">Nat Commun 16:9801</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Activity in primate visual cortex is minimally driven by spontaneous movements</strong><br>
+Talluri BC, Kang I, Lazere A, Quinn KR, Kaliss N, Yates JL, Butts DA, Nienborg H<br>
+<a href="http://dx.doi.org/10.1038/s41593-023-01459-5">Nat Neurosci 26:1953–1959</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Fundamental performance bounds on reservoir computing</strong><br>
+Qian D, Fiete I<br>
+<a href="http://dx.doi.org/10.1103/t4hg-vpmr">Phys Rev E 112:054214</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>The drain of scientific publishing</strong><br>
+Beigel F, Brockington D, Crosetto P, Derrick G, Fyfe A, Barreiro PG, Hanson MA, Haustein S, Larivière V, Noe C, Pinfield S, Wilsdon J<br>
+<a href="http://arxiv.org/abs/2511.04820">arXiv [csDL]</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-11-14-list312.html</guid>
+  <pubDate>Fri, 14 Nov 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 311</title>
   <link>https://superlab.ca/posts/2025-11-07-list311.html</link>
@@ -2049,104 +2127,6 @@ Demarchi L, Coraggioso M, Hubert A, Panier T, Morvan-Dubois G, Bormuth V, Debré
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-05-02-list293.html</guid>
   <pubDate>Fri, 02 May 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 292</title>
-  <link>https://superlab.ca/posts/2025-04-25-list292.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Identifying patterns differing between high-dimensional datasets with generalized contrastive PCA</strong><br>
-de Oliveira EF, Garg P, Hjerling-Leffler J, Batista-Brito R, Sjulson L<br>
-<a href="http://dx.doi.org/10.1371/journal.pcbi.1012747">PLoS Comput Biol 21:e1012747</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>The sensory input from the external cuneate nucleus and central cervical nucleus to the cerebellum refines forelimb movements</strong><br>
-Eneanya C, Smith GM<br>
-<a href="http://dx.doi.org/10.3390/cells14080589">Cells 14:589</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>The sign of exploration during reward-based motor learning is not independent from trial to trial</strong><br>
-Kooij K van der, Smeets JBJ, van Mastrigt NM, van Wijk BCM<br>
-<a href="http://dx.doi.org/10.1007/s00221-025-07074-z">Exp Brain Res 243:117</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Neural dynamics in superior colliculus of freely moving mice</strong><br>
-Sharp SL, Shin J, Martins DM, Jones K, Niell CM<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.04.16.648828v1.abstract">bioRxiv:2025.04.16.648828</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>The cerebellar components of the human language network</strong><br>
-Casto C, Small H, Poliak M, Tuckute G, Lipkin B, Wolna A, D’Mello AM, Fedorenko E<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.04.14.645351v1.abstract">bioRxiv:2025.04.14.645351</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>High-dimensional dynamics in low-dimensional networks</strong><br>
-Wan Y, Rosenbaum R<br>
-<a href="http://arxiv.org/abs/2504.13727">arXiv [mathDS]</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>In vivo cell-type and brain region classification via multimodal contrastive learning</strong><br>
-Yu H, Lyu H, Xu Y, Windolf C, Lee EK, Yang F, Shelton AM, Winter O, International Brain Laboratory, Dyer EL, Chandrasekaran C, Steinmetz NA, Paninski L, Hurwitz CL<br>
-<a href="https://openreview.net/forum?id=10JOlFIPjt">ICLR 13</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Transcranial magnetic stimulation over supramarginal gyrus stimulates primary motor cortex directly and impairs manual dexterity: Implications for TMS focality</strong><br>
-Holmes NP, Di Chiaro NV, Crowe EM, Marson B, Göbel K, Gaigalas D, Jay T, Lockett AV, Powell ES, Zeni S, Reader AT<br>
-<a href="https://doi.org/10.1152/jn.00369.2023">J Neurophysiol</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>A novel biomechanical model of the proximal mouse forelimb predicts muscle activity in optimal control simulations of reaching movements</strong><br>
-Gilmer JI, Coltman SK, Cuenu G, Hutchinson JR, Huber D, Person AL, Al Borno M<br>
-<a href="https://journals.physiology.org/doi/10.1152/jn.00499.2024">J Neurophysiol</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Error signals in the parvocellular division of the red nucleus, not the magnocellular division, drive adaptation in reaching</strong><br>
-Inoue M, Kitazawa S<br>
-<a href="http://dx.doi.org/10.1016/j.celrep.2025.115598">Cell Rep 44:115598</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Brain-hemispheric differences in the premotor area for motor planning: An approach based on corticomuscular connectivity during motor decision-making</strong><br>
-Cano LA, Albarracín AL, Farfán FD, Fernández E<br>
-<a href="http://dx.doi.org/10.1016/j.neuroimage.2025.121230">Neuroimage 312:121230</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-04-25-list292.html</guid>
-  <pubDate>Fri, 25 Apr 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
