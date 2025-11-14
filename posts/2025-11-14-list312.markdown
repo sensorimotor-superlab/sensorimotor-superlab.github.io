@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Reading List 312"
+date:   2025-11-14 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**A reference atlas of the human dorsal root ganglion**  
+Bhuiyan SA et al.  
+[bioRxiv:2025.11.05.686654](https://www.biorxiv.org/content/10.1101/2025.11.05.686654v1.abstract)
+
+### 2
+**Transcranial direct current stimulation of the supplementary motor area modulates behavioral and peripheral electrophysiological measures of motor preparation**  
+Kumar A, Murthy A  
+[bioRxiv:2025.10.31.685710](https://www.biorxiv.org/content/10.1101/2025.10.31.685710v2)
+
+### 3
+**Selective direct influence of motor cortex on limb muscle activity during naturalistic climbing in mice**  
+Koh N, Ma Z, Sarup A, Kristl AC, Agrios M, Young M, Miri A  
+[Nat Neurosci:1–13](http://dx.doi.org/10.1038/s41593-025-02093-z)
+
+### 4
+**Neural manifolds that orchestrate walking and stopping**  
+Komi S, Kaur J, Winther A, Adamsson Bonfils MC, Houser GA, Sørensen RJF, Li G, Sobriel K, Berg RW  
+[bioRxiv:2025.11.08.687367](https://www.biorxiv.org/content/10.1101/2025.11.08.687367v1.abstract)
+
+### 5
+**Brain dissection photogrammetry: a tool for studying human white matter connections integrating ex vivo and in vivo multimodal datasets**  
+Vavassori L, Rheault F, Nocerino E, Annicchiarico L, Corsini F, Zigiotto L, De Benedictis A, Barbareschi M, Rozzanigo U, Avesani P, Sarubbo S, Petit L  
+[Nat Commun 16:9801](http://dx.doi.org/10.1038/s41467-025-64788-y)
+
+### 6
+**Activity in primate visual cortex is minimally driven by spontaneous movements**  
+Talluri BC, Kang I, Lazere A, Quinn KR, Kaliss N, Yates JL, Butts DA, Nienborg H  
+[Nat Neurosci 26:1953–1959](http://dx.doi.org/10.1038/s41593-023-01459-5)
+
+### 7
+**Fundamental performance bounds on reservoir computing**  
+Qian D, Fiete I  
+[Phys Rev E 112:054214](http://dx.doi.org/10.1103/t4hg-vpmr)
+
+### 8
+**The drain of scientific publishing**  
+Beigel F, Brockington D, Crosetto P, Derrick G, Fyfe A, Barreiro PG, Hanson MA, Haustein S, Larivière V, Noe C, Pinfield S, Wilsdon J  
+[arXiv [csDL]](http://arxiv.org/abs/2511.04820)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
