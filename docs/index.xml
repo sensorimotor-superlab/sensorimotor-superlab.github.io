@@ -10,7 +10,148 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 14 Nov 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 313</title>
+  <link>https://superlab.ca/posts/2025-11-28-list313.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Infinite horizon control captures modulation of movement duration in reaching movements</strong><br>
+De Comite A, Kalidindi HT, Pruszynski JA, Crevecoeur F<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.10.22.683958v1.abstract">bioRxiv:2025.10.22.683958</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Time, space, memory and brain-body rhythms</strong><br>
+Buzsáki G<br>
+<a href="http://dx.doi.org/10.1038/s41583-025-00987-2">Nat Rev Neurosci:1–18</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>JAXLEY: differentiable simulation enables large-scale training of detailed biophysical models of neural dynamics</strong><br>
+Deistler M, Kadhim KL, Pals M, Beck J, Huang Z, Gloeckler M, Lappalainen JK, Schröder C, Berens P, Gonçalves PJ, Macke JH<br>
+<a href="http://dx.doi.org/10.1038/s41592-025-02895-w">Nat Methods:1–9</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Cardiac, respiratory, and gastric rhythms independently modulate motor corticospinal excitability in humans</strong><br>
+Engelen T, Schuhmann T, Sack AT, Tallon-Baudry C<br>
+<a href="http://dx.doi.org/10.1371/journal.pbio.3003478">PLoS Biol 23:e3003478</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Characterizing neuronal population geometry with AI equation discovery</strong><br>
+Tilbury R, Kwon D, Haydaroglu A, Ratliff J, Schmutz V, Carandini M, Miller KJ, Stachenfeld K, Harris KD<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.12.688086v2.abstract">bioRxiv:2025.11.12.688086</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Motor cortical output integrates distorted proprioceptive feedback</strong><br>
+Li Y, Xu XH, Pan S, An X, Mulcahey PJ, Qiu Z, Zhao S, Li N, Pearson J, Huang ZJ<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687832v1.abstract">bioRxivorg:2025.11.11.687832</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>A habit and working memory model as an alternative account of human reward-based learning</strong><br>
+Collins AGE<br>
+<a href="http://dx.doi.org/10.1038/s41562-025-02340-0">Nat Hum Behav:1–13</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>High-dose high-intensity arm neurorehabilitation in chronic stroke improves general motor control</strong><br>
+Dawson AC, Galea JM, Sporn S, Krakauer JW, Bestmann S, Ward NS<br>
+<a href="https://www.medrxiv.org/content/10.1101/2025.11.18.25340491v1.abstract">medRxiv:2025.11.18.25340491</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Neural dynamics outside task-coding dimensions drive decision trajectories through transient amplification</strong><br>
+Pereira-Obilinovic U, Daie K, Chen S, Svoboda K, Darshan R<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.20.689599v1.abstract">bioRxiv:2025.11.20.689599</a></p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">10</h3>
+<p><strong>Sensorimotor integration during grasping is mediated by distinct M1 circuits</strong><br>
+Botta K, Dolfini E, Casarotto A, Koch G, D’Ausilio A, Fadiga L<br>
+<a href="http://dx.doi.org/10.1152/jn.00189.2025">J Neurophysiol 134:1320–1328</a></p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">11</h3>
+<p><strong>Vicarious body maps bridge vision and touch in the human brain</strong><br>
+Hedger N, Naselaris T, Kay K, Knapen T<br>
+<a href="http://dx.doi.org/10.1038/s41586-025-09796-0">Nature:1–9</a></p>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">12</h3>
+<p><strong>Connectivity underlying motor cortex activity during goal-directed behaviour</strong><br>
+Finkelstein A, Daie K, Rózsa M, Darshan R, Svoboda K<br>
+<a href="http://dx.doi.org/10.1038/s41586-025-09758-6">Nature:1–7</a></p>
+</section>
+<section id="section-12" class="level3">
+<h3 class="anchored" data-anchor-id="section-12">13</h3>
+<p><strong>Characterizing control between interacting subsystems with deep Jacobian estimation</strong><br>
+Eisen AJ, Ostrow M, Chandra S, Kozachkov L, Miller EK, Fiete IR<br>
+<a href="https://openreview.net/forum?id=I822ZIRtms">NIPS 39</a></p>
+</section>
+<section id="section-13" class="level3">
+<h3 class="anchored" data-anchor-id="section-13">14</h3>
+<p><strong>Building compositional tasks with shared neural subspaces</strong><br>
+Tafazoli S, Bouchacourt FM, Ardalan A, Markov NT, Uchimura M, Mattar MG, Daw ND, Buschman TJ<br>
+<a href="http://dx.doi.org/10.1038/s41586-025-09805-2">Nature:1–9</a></p>
+</section>
+<section id="section-14" class="level3">
+<h3 class="anchored" data-anchor-id="section-14">15</h3>
+<p><strong>In search for the invisible: motor inhibition in monkey premotor cortex and its RNN replicas</strong><br>
+Alboré N, Galluzzi A, Pani P, Ferraina S, Mattia M<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.24.690225v1.abstract">bioRxiv:2025.11.24.690225</a></p>
+</section>
+<section id="superlab-papers" class="level2">
+<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
+<p><strong>Sequence preparation is not always associated with a reaction time cost</strong><br>
+Panjehpour A, Kashefi M, Diedrichsen J, Pruszynski JA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.11.687917v1.abstract">bioRxiv:2025.11.11.687917</a></p>
+</section>
+<section id="journal-club" class="level2">
+<h2 class="anchored" data-anchor-id="journal-club">Journal Club</h2>
+<ul>
+<li><p><a href="https://scholar.google.com/citations?user=z1FvqvMAAAAJ&amp;hl=en">Juliana Trach</a> (Yale University) PhD student in <a href="https://actcompthink.org/">Sam McDougle’s lab</a> joined us to talk about her paper:</p>
+<p>Trach JE, McDougle SD<br>
+<strong>Mental graphs structure the storage and retrieval of visuomotor associations</strong><br>
+<a href="http://dx.doi.org/10.1038/s41562-025-02217-2">Nat Hum Behav:1–15</a></p>
+<p>YouTube video: <a href="https://youtu.be/6LlDYxDV8wo">https://youtu.be/6LlDYxDV8wo</a></p></li>
+<li><p><a href="https://scholar.google.com/citations?user=_gQ9qLQAAAAJ&amp;hl=en">Lucas Tian</a> (Rockefeller University) Postdoc in <a href="https://lab.rockefeller.edu/freiwald/">Winrich Freiwald’s lab</a> joined us to talk about his paper:</p>
+<p><strong>Neural representation of action symbols in primate frontal cortex</strong><br>
+Tian LY, Garzón KU, Hanuska DJ, Rouse AG, Eldridge MAG, Schieber MH, Wang X-J, Tenenbaum JB, Freiwald WA<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.03.641276v3">bioRxivorg:2025.03.03.641276</a></p>
+<p>YouTube video: <a href="https://youtu.be/hCuUE7XEg8o">https://youtu.be/hCuUE7XEg8o</a></p></li>
+</ul>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-11-28-list313.html</guid>
+  <pubDate>Fri, 28 Nov 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 312</title>
   <link>https://superlab.ca/posts/2025-11-14-list312.html</link>
@@ -2053,80 +2194,6 @@ Zhang A, Ruitenberg M, Warburton M, Scott S, Tsay JS<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-05-09-list294.html</guid>
   <pubDate>Fri, 09 May 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 293</title>
-  <link>https://superlab.ca/posts/2025-05-02-list293.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Distinct synaptic plasticity rules operate across dendritic compartments in vivo during learning</strong><br>
-Wright WJ, Hedrick NG, Komiyama T<br>
-<a href="http://dx.doi.org/10.1126/science.ads4706">Science 388:322–328</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Arm trajectory modifications during reaching towards visual targets</strong><br>
-Flash T, Henis E<br>
-<a href="https://dx.doi.org/10.1162/jocn.1991.3.3.220">J Cogn Neurosci 3:220–230</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Synaptic interactions in primate motor cortex: Relations between connectivity and intracortical location</strong><br>
-Matsumura M, Chen D-F, Fetz EE<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.04.22.650058v1.abstract">bioRxiv:2025.04.22.650058</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Human motor cortex encodes complex handwriting through a sequence of stable neural states</strong><br>
-Qi Y, Zhu X, Xiong X, Yang X, Ding N, Wu H, Xu K, Zhu J, Zhang J, Wang Y<br>
-<a href="http://dx.doi.org/10.1038/s41562-025-02157-x">Nat Hum Behav:1–12</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Time varying encoding of grasping type and force in the primate motor cortex</strong><br>
-Moreno A, de Lafuente V, Merchant H<br>
-<a href="http://dx.doi.org/10.1523/ENEURO.0010-25.2025">eNeuro 12</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Cerebellar nuclei cells produce distinct pathogenic spike signatures in mouse models of ataxia, dystonia, and tremor</strong><br>
-van der Heijden ME, Brown AM, Kizek DJ, Sillitoe RV<br>
-<a href="http://dx.doi.org/10.7554/eLife.91483">Elife 12</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Logarithmic coding leads to adaptive stabilization in the presence of sensorimotor delays</strong><br>
-Demarchi L, Coraggioso M, Hubert A, Panier T, Morvan-Dubois G, Bormuth V, Debrégeas G<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.04.28.650940v1.abstract">bioRxiv:2025.04.28.650940</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-05-02-list293.html</guid>
-  <pubDate>Fri, 02 May 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,123 @@
+---
+layout: post
+title:  "Reading List 313"
+date:   2025-11-28 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Infinite horizon control captures modulation of movement duration in reaching movements**  
+De Comite A, Kalidindi HT, Pruszynski JA, Crevecoeur F  
+[bioRxiv:2025.10.22.683958](https://www.biorxiv.org/content/10.1101/2025.10.22.683958v1.abstract)
+
+### 2
+**Time, space, memory and brain-body rhythms**  
+Buzsáki G  
+[Nat Rev Neurosci:1–18](http://dx.doi.org/10.1038/s41583-025-00987-2)
+
+### 3
+**JAXLEY: differentiable simulation enables large-scale training of detailed biophysical models of neural dynamics**  
+Deistler M, Kadhim KL, Pals M, Beck J, Huang Z, Gloeckler M, Lappalainen JK, Schröder C, Berens P, Gonçalves PJ, Macke JH  
+[Nat Methods:1–9](http://dx.doi.org/10.1038/s41592-025-02895-w)
+
+### 4
+**Cardiac, respiratory, and gastric rhythms independently modulate motor corticospinal excitability in humans**  
+Engelen T, Schuhmann T, Sack AT, Tallon-Baudry C  
+[PLoS Biol 23:e3003478](http://dx.doi.org/10.1371/journal.pbio.3003478)
+
+### 5
+**Characterizing neuronal population geometry with AI equation discovery**  
+Tilbury R, Kwon D, Haydaroglu A, Ratliff J, Schmutz V, Carandini M, Miller KJ, Stachenfeld K, Harris KD  
+[bioRxiv:2025.11.12.688086](https://www.biorxiv.org/content/10.1101/2025.11.12.688086v2.abstract)
+
+### 6
+**Motor cortical output integrates distorted proprioceptive feedback**  
+Li Y, Xu XH, Pan S, An X, Mulcahey PJ, Qiu Z, Zhao S, Li N, Pearson J, Huang ZJ  
+[bioRxivorg:2025.11.11.687832](https://www.biorxiv.org/content/10.1101/2025.11.11.687832v1.abstract)
+
+### 7
+**A habit and working memory model as an alternative account of human reward-based learning**  
+Collins AGE  
+[Nat Hum Behav:1–13](http://dx.doi.org/10.1038/s41562-025-02340-0)
+
+### 8
+**High-dose high-intensity arm neurorehabilitation in chronic stroke improves general motor control**  
+Dawson AC, Galea JM, Sporn S, Krakauer JW, Bestmann S, Ward NS  
+[medRxiv:2025.11.18.25340491](https://www.medrxiv.org/content/10.1101/2025.11.18.25340491v1.abstract)
+
+### 9
+**Neural dynamics outside task-coding dimensions drive decision trajectories through transient amplification**  
+Pereira-Obilinovic U, Daie K, Chen S, Svoboda K, Darshan R  
+[bioRxiv:2025.11.20.689599](https://www.biorxiv.org/content/10.1101/2025.11.20.689599v1.abstract)
+
+### 10
+**Sensorimotor integration during grasping is mediated by distinct M1 circuits**  
+Botta K, Dolfini E, Casarotto A, Koch G, D’Ausilio A, Fadiga L  
+[J Neurophysiol 134:1320–1328](http://dx.doi.org/10.1152/jn.00189.2025)
+
+### 11
+**Vicarious body maps bridge vision and touch in the human brain**  
+Hedger N, Naselaris T, Kay K, Knapen T  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-09796-0)
+
+### 12
+**Connectivity underlying motor cortex activity during goal-directed behaviour**  
+Finkelstein A, Daie K, Rózsa M, Darshan R, Svoboda K  
+[Nature:1–7](http://dx.doi.org/10.1038/s41586-025-09758-6)
+
+### 13
+**Characterizing control between interacting subsystems with deep Jacobian estimation**  
+Eisen AJ, Ostrow M, Chandra S, Kozachkov L, Miller EK, Fiete IR  
+[NIPS 39](https://openreview.net/forum?id=I822ZIRtms)
+
+### 14
+**Building compositional tasks with shared neural subspaces**  
+Tafazoli S, Bouchacourt FM, Ardalan A, Markov NT, Uchimura M, Mattar MG, Daw ND, Buschman TJ  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-09805-2)
+
+### 15
+**In search for the invisible: motor inhibition in monkey premotor cortex and its RNN replicas**  
+Alboré N, Galluzzi A, Pani P, Ferraina S, Mattia M  
+[bioRxiv:2025.11.24.690225](https://www.biorxiv.org/content/10.1101/2025.11.24.690225v1.abstract)
+
+## Superlab Papers
+
+**Sequence preparation is not always associated with a reaction time cost**  
+Panjehpour A, Kashefi M, Diedrichsen J, Pruszynski JA  
+[bioRxiv:2025.11.11.687917](https://www.biorxiv.org/content/10.1101/2025.11.11.687917v1.abstract)
+
+## Journal Club
+
+- [Juliana Trach](https://scholar.google.com/citations?user=z1FvqvMAAAAJ&hl=en) (Yale University) PhD student in [Sam McDougle's lab](https://actcompthink.org/) joined us to talk about her paper:
+
+  Trach JE, McDougle SD  
+  **Mental graphs structure the storage and retrieval of visuomotor associations**  
+  [Nat Hum Behav:1–15](http://dx.doi.org/10.1038/s41562-025-02217-2)
+
+  YouTube video: [https://youtu.be/6LlDYxDV8wo](https://youtu.be/6LlDYxDV8wo)
+
+- [Lucas Tian](https://scholar.google.com/citations?user=_gQ9qLQAAAAJ&hl=en) (Rockefeller University) Postdoc in [Winrich Freiwald's lab](https://lab.rockefeller.edu/freiwald/) joined us to talk about his paper:
+
+  **Neural representation of action symbols in primate frontal cortex**  
+  Tian LY, Garzón KU, Hanuska DJ, Rouse AG, Eldridge MAG, Schieber MH, Wang X-J, Tenenbaum JB, Freiwald WA  
+  [bioRxivorg:2025.03.03.641276](https://www.biorxiv.org/content/10.1101/2025.03.03.641276v3)
+
+  YouTube video: [https://youtu.be/hCuUE7XEg8o](https://youtu.be/hCuUE7XEg8o)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
