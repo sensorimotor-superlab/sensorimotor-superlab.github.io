@@ -1,0 +1,109 @@
+---
+layout: post
+title:  "Reading List 314"
+date:   2025-12-05 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Monkeys have rhythm**  
+Rajendran VG, Prado L, Marquez JP, Merchant H  
+[Science 390:940–944](http://dx.doi.org/10.1126/science.adp5220)
+
+### 2
+**A non-monotonic code for event probability in the human brain**  
+Foucault C, Bounmy T, Demortain S, Thirion B, Eger E, Meyniel F  
+[Nat Commun 16:10695](http://dx.doi.org/10.1038/s41467-025-65727-7)
+
+### 3
+**Coordinated multilaminar dynamics underlie multiplexed computation in motor cortex**  
+López-Galdo L, Nougaret S, Battaglia D, Kilavik BE  
+[bioRxiv:2025.11.26.690660](https://www.biorxiv.org/content/10.1101/2025.11.26.690660v1.abstract)
+
+### 4
+**Inferential planning in the frontal cortex**  
+Donnarumma F, Parr T, Friston K, Whittington J, Pezzulo G  
+[bioRxiv:2025.11.26.690672](https://www.biorxiv.org/content/10.1101/2025.11.26.690672v1.abstract)
+
+### 5
+**Policy-gradient reinforcement learning as a general theory of practice-based motor skill learning**  
+Haith AM  
+[bioRxiv:2025.10.17.682587](https://www.biorxiv.org/content/10.1101/2025.10.17.682587v1.abstract)
+
+### 6
+**A transient neural code for feedback-driven motor corrections during teaching**  
+Kudryashova N, Hurwitz C, Perich MG, Hennig MH  
+[bioRxiv:2025.03.21.644350](https://www.biorxiv.org/content/10.1101/2025.03.21.644350v2)
+
+### 7
+**Topological turning points across the human lifespan**  
+Mousley A, Bethlehem RAI, Yeh F-C, Astle DE  
+[Nat Commun 16:10055](http://dx.doi.org/10.1038/s41467-025-65974-8)
+
+### 8
+**Brain-wide analysis reveals movement encoding structured across and within brain areas**  
+Wang ZA, Kurgyis B, Chen S, Kang B, Chen F, Liu Y, Liu D, Svoboda K, Li N, Druckmann S  
+[Nat Neurosci:1–12](http://dx.doi.org/10.1038/s41593-025-02114-x)
+
+### 9
+**An adaptive and flexible role for primary sensory cortex**  
+Waiblinger C, Reedy AR, Stanley GB  
+[Nat Neurosci:1–11](http://dx.doi.org/10.1038/s41593-025-02124-9)
+
+### 10
+**A scalable, causal, and energy efficient framework for neural decoding with spiking neural networks**  
+Mentzelopoulos G, Asmanis I, Kording KP, Dyer EL, Daniilidis K, Vitale F  
+[arXiv [csLG]](http://arxiv.org/abs/2510.20683)
+
+### 11
+**Generative inference unifies feedback processing for learning and perception in natural and artificial vision**  
+Toosi T, Miller KD  
+[bioRxiv:2025.10.21.683535](https://www.biorxiv.org/content/10.1101/2025.10.21.683535v2.abstract)
+
+### 12
+**Concurrent saliency and intentional maps in posterior parietal cortex**  
+Zheng R, Gu Y, Cui H  
+[bioRxiv:2025.11.27.689962](https://www.biorxiv.org/content/10.1101/2025.11.27.689962v1.abstract)
+
+### 13
+**Know thyself by knowing others: Learning neuron identity from population context**  
+Arora V, Lachi D, Knight IJ, Azabou M, Richards B, Hurwitz CL, Siegle J, Dyer EL  
+[arXiv [csLG]](http://arxiv.org/abs/2512.01199)
+
+### 14
+**Dynamical principles in neuroscience**  
+Rabinovich MI, Varona P, Selverston AI, Abarbanel HDI  
+[Rev Mod Phys 78:1213–1265](http://dx.doi.org/10.1103/RevModPhys.78.1213)
+
+### 15
+**Multidimensional motoneuron control using intramuscular microelectrode arrays in tetraplegic spinal cord injury**  
+Grison A, Gibbs C, Rawji V, Vila LG, Szczech I, Varghese R, Bryan P, Kundu A, Yang X, Gallego JA, Farina D  
+[medRxiv:2025.07.17.25331429](https://www.medrxiv.org/content/10.1101/2025.07.17.25331429v2.abstract)
+
+## Journal Club
+
+- [Harrison Ritz](https://scholar.google.com/citations?user=2MGy7zwAAAAJ&hl=en&oi=ao) (Princeton University) Postdoc working with [Jonathan Cohen](https://ncclab.princeton.edu/) and [Nathanial Daw](https://dawlab.princeton.edu/) joined us to talk about his paper:
+
+  **Humans actively reconfigure neural task states**  
+  Ritz H, Jha A, Pillow J, Daw ND, Cohen JD (2024)  
+  [bioRxiv:2024.09.29.615736](https://www.biorxiv.org/content/10.1101/2024.09.29.615736v5)
+
+  YouTube video: [https://youtu.be/MdOkOjSa7JA](https://youtu.be/MdOkOjSa7JA)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
