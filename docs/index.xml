@@ -10,7 +10,91 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 05 Dec 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 12 Dec 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 315</title>
+  <link>https://superlab.ca/posts/2025-12-12-list315.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>An informational account of anticipatory coarticulation – theoretical considerations and empirical plausibility</strong><br>
+Kasper J, Kell CA, Perrier P<br>
+<a href="http://dx.doi.org/10.1016/j.jneuroling.2025.101298">J Neurolinguistics 78:101298</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Tiny recurrent neural networks for discovering cognitive strategies</strong><br>
+Ji-An L<br>
+<a href="http://dx.doi.org/10.1038/s41583-025-01007-z">Nat Rev Neurosci</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Efficient and reproducible pipelines for spike sorting large-scale electrophysiology data</strong><br>
+Buccino AP, Sridhar A, Feng D, Svoboda K, Siegle JH<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.12.687966v1.abstract">bioRxiv:2025.11.12.687966</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>A global screen for magnetically induced neuronal activity in the pigeon brain</strong><br>
+Nordmann GC, Balay SD, Kapuruge TN, Numi M, Leeb C, Nimpf S, Malkemper EP, Landler L, Keays DA<br>
+<a href="http://dx.doi.org/10.1126/science.aea6425">Science:eaea6425</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Differential controls of forelimb versus whole‑body movements by striatum</strong><br>
+Cao J, Zhao Y, Yu J<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.11.10.687756v2.abstract">bioRxiv:2025.11.10.687756</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Coordination of spike timing among the neurons of the cerebellum</strong><br>
+Fakharian MA, Taeckens EA, Vasserman AN, Shoup AM, Shadmehr R<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.03.692114v1.abstract">bioRxiv:2025.12.03.692114</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>From skin to cortex: End-to-end spiking neural network simulation of tactile information flow</strong><br>
+Rault N, Tompos T, Marx EF, Zeldenrust F, Degertekin L, Celikel T<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.03.692094v1.abstract">bioRxiv:2025.12.03.692094</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>Striatal ensembles specify and control granular forelimb actions</strong><br>
+Rodrigues-Vaz I, Athalye VR, Peterka DS, Costa RM<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.03.692128v1.abstract">bioRxiv:2025.12.03.692128</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Joint modelling of brain and behaviour dynamics with artificial intelligence</strong><br>
+Mathis MW, Mathis A<br>
+<a href="http://dx.doi.org/10.1038/s41583-025-00996-1">Nat Rev Neurosci</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2025-12-12-list315.html</guid>
+  <pubDate>Fri, 12 Dec 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 314</title>
   <link>https://superlab.ca/posts/2025-12-05-list314.html</link>
@@ -2139,99 +2223,6 @@ Nogami M, Hagura N, Yokoi A<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-05-23-list296.html</guid>
   <pubDate>Fri, 23 May 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 295</title>
-  <link>https://superlab.ca/posts/2025-05-16-list295.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Patient outcomes after peripheral nerve injury depend on bimanual dexterity and preserved use of the affected hand</strong><br>
-Kim T, Lohse KR, Mackinnon SE, Philip BA<br>
-<a href="http://dx.doi.org/10.1177/15459683241227222">Neurorehabil Neural Repair 38:134–147</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Spatial periodicity in grid cell firing is explained by a neural sequence code of 2-D trajectories</strong><br>
-Rg R, Ascoli GA, Sutton NM, Dannenberg H<br>
-<a href="http://dx.doi.org/10.7554/eLife.96627.2">eLife</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>A spatial code governs olfactory receptor choice and aligns sensory maps in the nose and brain</strong><br>
-Brann DH, Tsukahara T, Tau C, Kalloor D, Lubash R, Thamarai Kannan L, Klimpert N, Kollo M, Escamilla-Del-Arenal M, Bintu B, Bozza T, Datta SR<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.02.651738v1.abstract">bioRxiv:2025.05.02.651738</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Recycling of prefrontal subspaces dynamically multiplexes information</strong><br>
-Wentz PT, Brincat SL, Pasupathy A, Miller EK<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.02.651965v1.abstract">bioRxiv:2025.05.02.651965</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>A deep learning strategy to identify cell types across species from high-density extracellular recordings</strong><br>
-Beau M et al.<br>
-<a href="https://www.cell.com/action/showAbstract?pii=S0092867425001102">Cell</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Triple-N Dataset: Non-human Primate Neural Responses to Natural Scenes</strong><br>
-Li Y, Jin W, Yang J, Li W, Gong B, Liu X, Gong Z, Wang K, Zhao Z, Luo J, Bao P<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.06.652408v1.abstract">bioRxiv:2025.05.06.652408</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Striatum supports fast learning but not memory recall</strong><br>
-Reinhold K, Iadarola M, Tang S, Chang A, Kuwamoto W, Albanese MA, Sun S, Hakim R, Zimmer J, Wang W, Sabatini BL<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-08969-1">Nature</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Common brain representations of action and perception investigated with cross-modal classification of newly learned melodies</strong><br>
-Chang Y-HF, Ullén F, de Manzano Ö<br>
-<a href="http://dx.doi.org/10.1038/s41598-025-00208-x">Sci Rep 15:16492</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Aging and injury drive neuronal senescence in the dorsal root ganglia</strong><br>
-Donovan LJ, Brewer CL, Bond SF, Laslavic AM, Pena Lopez A, Colman L, Jordan CE, Hansen LH, González OC, Pujari A, de Lecea L, Quarta M, Kauer JA, Tawfik VL<br>
-<a href="http://dx.doi.org/10.1038/s41593-025-01954-x">Nat Neurosci</a></p>
-<hr>
-</section>
-</section>
-<section id="superlab-papers" class="level1">
-<h1>Superlab Papers</h1>
-<p><strong>Single-shot detection of microscale tactile features</strong><br>
-Reschechtko S, Pangan WR, Zeinal Zadeh R, Pruszynski JA<br>
-<a href="http://dx.doi.org/10.1152/jn.00414.2024">J Neurophysiol</a></p>
-<hr>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-05-16-list295.html</guid>
-  <pubDate>Fri, 16 May 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

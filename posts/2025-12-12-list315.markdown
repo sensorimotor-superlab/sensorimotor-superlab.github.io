@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Reading List 315"
+date:   2025-12-12 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**An informational account of anticipatory coarticulation – theoretical considerations and empirical plausibility**  
+Kasper J, Kell CA, Perrier P  
+[J Neurolinguistics 78:101298](http://dx.doi.org/10.1016/j.jneuroling.2025.101298)
+
+### 2
+**Tiny recurrent neural networks for discovering cognitive strategies**  
+Ji-An L  
+[Nat Rev Neurosci](http://dx.doi.org/10.1038/s41583-025-01007-z)
+
+### 3
+**Efficient and reproducible pipelines for spike sorting large-scale electrophysiology data**  
+Buccino AP, Sridhar A, Feng D, Svoboda K, Siegle JH  
+[bioRxiv:2025.11.12.687966](https://www.biorxiv.org/content/10.1101/2025.11.12.687966v1.abstract)
+
+### 4
+**A global screen for magnetically induced neuronal activity in the pigeon brain**  
+Nordmann GC, Balay SD, Kapuruge TN, Numi M, Leeb C, Nimpf S, Malkemper EP, Landler L, Keays DA  
+[Science:eaea6425](http://dx.doi.org/10.1126/science.aea6425)
+
+### 5
+**Differential controls of forelimb versus whole‑body movements by striatum**  
+Cao J, Zhao Y, Yu J  
+[bioRxiv:2025.11.10.687756](https://www.biorxiv.org/content/10.1101/2025.11.10.687756v2.abstract)
+
+### 6
+**Coordination of spike timing among the neurons of the cerebellum**  
+Fakharian MA, Taeckens EA, Vasserman AN, Shoup AM, Shadmehr R  
+[bioRxiv:2025.12.03.692114](https://www.biorxiv.org/content/10.64898/2025.12.03.692114v1.abstract)
+
+### 7
+**From skin to cortex: End-to-end spiking neural network simulation of tactile information flow**  
+Rault N, Tompos T, Marx EF, Zeldenrust F, Degertekin L, Celikel T  
+[bioRxiv:2025.12.03.692094](https://www.biorxiv.org/content/10.64898/2025.12.03.692094v1.abstract)
+
+### 8
+**Striatal ensembles specify and control granular forelimb actions**  
+Rodrigues-Vaz I, Athalye VR, Peterka DS, Costa RM  
+[bioRxiv:2025.12.03.692128](https://www.biorxiv.org/content/10.64898/2025.12.03.692128v1.abstract)
+
+### 9
+**Joint modelling of brain and behaviour dynamics with artificial intelligence**  
+Mathis MW, Mathis A  
+[Nat Rev Neurosci](http://dx.doi.org/10.1038/s41583-025-00996-1)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
