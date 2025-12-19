@@ -1,0 +1,104 @@
+---
+layout: post
+title:  "Reading List 316"
+date:   2025-12-19 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Universal scale-free representations in human visual cortex**  
+Gauthaman RM, Ménard B, Bonner MF  
+[PLoS Comput Biol 21:e1013714](http://dx.doi.org/10.1371/journal.pcbi.1013714)
+
+### 2
+**Convergent information flows explain recurring firing patterns in cerebral cortex**  
+Guarino D, Filipchuk A, Destexhe A  
+[Nat Neurosci:1–9](http://dx.doi.org/10.1038/s41593-025-02128-5)
+
+### 3
+**Distributed neural dynamics underlie the shift from movement preparation to execution**  
+Yin Z, Liu JK, Kornysheva K  
+[bioRxiv:2025.12.09.693175](https://www.biorxiv.org/content/10.64898/2025.12.09.693175v1.abstract)
+
+### 4
+**Cerebellar outputs for rapid directional refinement of forelimb movement**  
+Thanawalla AR, Wilcox O, Rhee E, Jiang J, Huang KW, Yusufi R, Saklaway D, Nagamori A, Conner JM, Chen AI, Azim E  
+[bioRxiv:2025.10.01.679895](https://www.biorxiv.org/content/10.1101/2025.10.01.679895v1.abstract)
+
+### 5
+**Selective engagement of the primate orbitofrontal cortex during value-based but not perceptual decisions**  
+Moll MG, Read RK, Wallis JD, Elston TW  
+[bioRxiv:2025.11.17.688922](https://www.biorxiv.org/content/10.1101/2025.11.17.688922v1.abstract)
+
+### 6
+**Simulated complex cells contribute to object recognition through representational untangling**  
+Slapik MB, Shouval HZ  
+[Neural Comput:1–20](https://dx.doi.org/10.1162/NECO.a.1480)
+
+### 7
+**Tactile-evoked EEG dataset for natural perception using an integrated stimulation-recording framework**  
+Mao L, Liu P, Li J, Wang X, Su H, Zhang X, Sun J, Li T  
+[Sci Data:1–9](http://dx.doi.org/10.1038/s41597-025-06250-8)
+
+### 8
+**Cell-type-specific manifold analysis discloses independent geometric transformations in the hippocampal spatial code**  
+Esparza J, Quintanilla JP, Cid E, Medeiros AC, Gallego JA, de la Prida LM  
+[Neuron 113:1098-1109.e6](http://dx.doi.org/10.1016/j.neuron.2025.01.022)
+
+### 9
+**The hierarchical organization of human praxis: A lesion-connectome mapping study of limb and oral apraxias**  
+Nishio Y, Itabashi R, Kataoka Y, Yazawa Y, Mori E  
+[bioRxiv:2025.12.13.694084](https://www.biorxiv.org/content/10.64898/2025.12.13.694084v2.abstract)
+
+### 10
+**BOLD signal changes can oppose oxygen metabolism across the human cortex**  
+Epp SM, Castrillón G, Yuan B, Andrews-Hanna J, Preibisch C, Riedl V  
+[Nat Neurosci:1–12](http://dx.doi.org/10.1038/s41593-025-02132-9)
+
+### 11
+**Reduced rank regression for neural communication: a tutorial for neuroscientists**  
+Wu B, Pillow J  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2512.12467)
+
+### 12
+**From skin to cortex: End-to-end spiking neural network simulation of tactile information flow**  
+Rault N, Tompos T, Marx EF, Zeldenrust F, Degertekin L, Celikel T  
+[bioRxiv:2025.12.03.692094](https://www.biorxiv.org/content/10.64898/2025.12.03.692094v1.abstract)
+
+### 13
+**Crossmodal attention develops in the first year of life: Cortical signatures of tactile to visual exogenous spatial cuing at 8 but not 5 months of age**  
+Orioli G, Thomas RL, Begum Ali J, Mason L, van Velzen JL, Bremner AJ  
+[bioRxiv:2025.12.03.691887](https://www.biorxiv.org/content/10.64898/2025.12.03.691887v1.abstract)
+
+### 14
+**Toward a science of prospective learning**  
+Kording KP, Vogelstein JT, Chaudhari P, Verstynen T  
+[Neuron 113:4103–4106](http://dx.doi.org/10.1016/j.neuron.2025.11.010)
+
+### 15
+**Cerebellar-cortical beta oscillations emerge as a predictive signal facilitating the stability of behavioral performance**  
+Bracco M, Vasudevan V, Rohira V, Welniarz Q, Razafinimanana M, Richard A, Gitton C, Meunier S, Valero-Cabré A, Schwartz D, Popa T, Gallea C  
+[Curr Biol](http://dx.doi.org/10.1016/j.cub.2025.11.049)
+
+### 16
+**Inferring system and optimal control parameters of closed-loop systems from partial observations**  
+Geadah V, Arbelaiz J, Ritz H, Daw ND, Cohen JD, Pillow JW  
+[arXiv [mathOC]](http://arxiv.org/abs/2502.15014)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
