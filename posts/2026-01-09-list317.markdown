@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 317"
+date:   2026-01-09 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Mental representation without neural representation: Understanding the evidence**  
+Krakauer JW, Ramsey W  
+[PsyArXiv](https://osf.io/preprints/psyarxiv/cezjn_v1)
+
+### 2
+**Janet Shibley Hyde Sinks Stereotypes With Data**  
+Armstrong K  
+[APS Observer 32](https://www.psychologicalscience.org/observer/janet-shibley-hyde-sinks-stereotypes-with-data)
+
+### 3
+**EEG is better left alone**  
+Delorme A  
+[Sci Rep 13:2372](http://dx.doi.org/10.1038/s41598-023-27528-0)
+
+### 4
+**Rethinking the centrality of brain areas in understanding functional organization**  
+Hayden BY, Heilbronner SR, Yoo SBM  
+[Nat Neurosci:1–12](http://dx.doi.org/10.1038/s41593-025-02166-z)
+
+### 5
+**Context-dependent low-dimensional neural dynamics unfold in distinct subspaces, dimensionality, and dynamical strength for natural walking and reaching**  
+Ling AS, Silvernagel MP, Clarke SE, Jun EJ, Abdulla MU, Nuyujukian P, Brain Interfacing Laboratory  
+[bioRxivorg:2025.12.19.695640](https://www.biorxiv.org/content/10.64898/2025.12.19.695640v1.abstract)
+
+### 6
+**Intuitive, multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings**  
+Yang X, Rawji V, Gibbs C, Jia T, Vila LG, Grison A, Nair A, Farina D, Gallego JA  
+[medRxiv:2025.12.09.25341760](https://www.medrxiv.org/content/10.64898/2025.12.09.25341760v4.abstract)
+
+### 7
+**A system for live sorting of neuronal spiking activity from large-scale recordings**  
+Muralidharan S, Leng C, Orts L, Trepka E, Zhu S, Panichello M, Jonikaitis D, Pennington J, Pachitariu M, Moore T  
+[bioRxiv:2025.12.29.696938](https://www.biorxiv.org/content/10.64898/2025.12.29.696938v1.abstract)
+
+### 8
+**Surrogate deep neural networks reveal hierarchical handwriting encoding in the human motor cortex**  
+Chen J, Xu T, Xiong X, Yang X, Wang Y, Qi Y  
+[Cell Rep 45:116837](http://dx.doi.org/10.1016/j.celrep.2025.116837)
+
+### 9
+**Humans plan for the near future to walk economically on uneven terrain**  
+Darici O, Kuo AD  
+[Proc Natl Acad Sci USA 120:e2211405120](http://dx.doi.org/10.1073/pnas.2211405120)
+
+### 10
+**How heterogeneity shapes dynamics and computation in the brain**  
+Dahmen D, Hutt A, Indiveri G, Kennedy A, Lefebvre J, Mazzucato L, Motter AE, Narayanan R, Payvand M, Planert H, Gast R  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.11.023)
+
+### 11
+**Breath as an internal context: Respiratory phase alignment between encoding and retrieval optimizes memory performance**  
+Nakamura NH, Yoshino K, Fukunaga M  
+[bioRxiv:2025.12.25.696473](https://www.biorxiv.org/content/10.64898/2025.12.25.696473v1.abstract)
+
+### 12
+**Multi-timescale neural adaptation underlying long-term musculoskeletal reorganization**  
+Philipp R, Hara Y, Uchida N, Ota N, Oya T, Funato T, Seki K  
+[bioRxiv:2024.10.18.618983](https://www.biorxiv.org/content/10.1101/2024.10.18.618983v1.abstract)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

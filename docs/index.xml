@@ -10,7 +10,109 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 19 Dec 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 09 Jan 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 317</title>
+  <link>https://superlab.ca/posts/2026-01-09-list317.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Mental representation without neural representation: Understanding the evidence</strong><br>
+Krakauer JW, Ramsey W<br>
+<a href="https://osf.io/preprints/psyarxiv/cezjn_v1">PsyArXiv</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Janet Shibley Hyde Sinks Stereotypes With Data</strong><br>
+Armstrong K<br>
+<a href="https://www.psychologicalscience.org/observer/janet-shibley-hyde-sinks-stereotypes-with-data">APS Observer 32</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>EEG is better left alone</strong><br>
+Delorme A<br>
+<a href="http://dx.doi.org/10.1038/s41598-023-27528-0">Sci Rep 13:2372</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Rethinking the centrality of brain areas in understanding functional organization</strong><br>
+Hayden BY, Heilbronner SR, Yoo SBM<br>
+<a href="http://dx.doi.org/10.1038/s41593-025-02166-z">Nat Neurosci:1–12</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Context-dependent low-dimensional neural dynamics unfold in distinct subspaces, dimensionality, and dynamical strength for natural walking and reaching</strong><br>
+Ling AS, Silvernagel MP, Clarke SE, Jun EJ, Abdulla MU, Nuyujukian P, Brain Interfacing Laboratory<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.19.695640v1.abstract">bioRxivorg:2025.12.19.695640</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Intuitive, multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings</strong><br>
+Yang X, Rawji V, Gibbs C, Jia T, Vila LG, Grison A, Nair A, Farina D, Gallego JA<br>
+<a href="https://www.medrxiv.org/content/10.64898/2025.12.09.25341760v4.abstract">medRxiv:2025.12.09.25341760</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>A system for live sorting of neuronal spiking activity from large-scale recordings</strong><br>
+Muralidharan S, Leng C, Orts L, Trepka E, Zhu S, Panichello M, Jonikaitis D, Pennington J, Pachitariu M, Moore T<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.29.696938v1.abstract">bioRxiv:2025.12.29.696938</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>Surrogate deep neural networks reveal hierarchical handwriting encoding in the human motor cortex</strong><br>
+Chen J, Xu T, Xiong X, Yang X, Wang Y, Qi Y<br>
+<a href="http://dx.doi.org/10.1016/j.celrep.2025.116837">Cell Rep 45:116837</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Humans plan for the near future to walk economically on uneven terrain</strong><br>
+Darici O, Kuo AD<br>
+<a href="http://dx.doi.org/10.1073/pnas.2211405120">Proc Natl Acad Sci USA 120:e2211405120</a></p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">10</h3>
+<p><strong>How heterogeneity shapes dynamics and computation in the brain</strong><br>
+Dahmen D, Hutt A, Indiveri G, Kennedy A, Lefebvre J, Mazzucato L, Motter AE, Narayanan R, Payvand M, Planert H, Gast R<br>
+<a href="http://dx.doi.org/10.1016/j.neuron.2025.11.023">Neuron</a></p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">11</h3>
+<p><strong>Breath as an internal context: Respiratory phase alignment between encoding and retrieval optimizes memory performance</strong><br>
+Nakamura NH, Yoshino K, Fukunaga M<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.25.696473v1.abstract">bioRxiv:2025.12.25.696473</a></p>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">12</h3>
+<p><strong>Multi-timescale neural adaptation underlying long-term musculoskeletal reorganization</strong><br>
+Philipp R, Hara Y, Uchida N, Ota N, Oya T, Funato T, Seki K<br>
+<a href="https://www.biorxiv.org/content/10.1101/2024.10.18.618983v1.abstract">bioRxiv:2024.10.18.618983</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-01-09-list317.html</guid>
+  <pubDate>Fri, 09 Jan 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 316</title>
   <link>https://superlab.ca/posts/2025-12-19-list316.html</link>
@@ -2110,111 +2212,6 @@ Lee B, Aiyappa R, Ahn Y-Y, Kwak H, An J<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-06-06-list298.html</guid>
   <pubDate>Fri, 06 Jun 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 297</title>
-  <link>https://superlab.ca/posts/2025-05-30-list297.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>A vector calculus for neural computation in the cerebellum</strong><br>
-Fakharian MA, Shoup AM, Hage P, Elseweifi HY, Shadmehr R<br>
-<a href="http://dx.doi.org/10.1126/science.adu6331">Science 388:869–875</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Bioresorbable, wireless dual stimulator for peripheral nerve regeneration</strong><br>
-Ahn H-Y et al.<br>
-<a href="http://dx.doi.org/10.1038/s41467-025-59835-7">Nat Commun 16:4752</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Flexible sensitivity to inputs during skilled tongue movements</strong><br>
-Dasgupta R, Dong M, O’Connor DH<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.18.654702v1.abstract">bioRxiv:2025.05.18.654702</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Math and biology meet in the cerebellum</strong><br>
-Churchland MM, Sawtell NB<br>
-<a href="http://dx.doi.org/10.1126/science.adx8989">Science 388:820–821</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Bilateral integration in somatosensory cortex is controlled by behavioral relevance</strong><br>
-Park H, Keri HVS, Yoo C, Bi C, Pluta SR<br>
-<a href="http://dx.doi.org/10.1038/s41593-025-01960-z">Nat Neurosci:1–11</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Mastering diverse control tasks through world models</strong><br>
-Hafner D, Pasukonis J, Ba J, Lillicrap T<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-08744-2">Nature 640:647–653</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>The history and future of resting-state functional magnetic resonance imaging</strong><br>
-Biswal BB, Uddin LQ<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-08953-9">Nature 641:1121–1131</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Dynamic basal ganglia output signals license and suppress forelimb movements</strong><br>
-Falasconi A, Kanodia H, Arber S<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-09066-z">Nature:1–10</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Unravelling neuromechanical constraints to finger independence</strong><br>
-Mulla DM, Tilley PM, Keir PJ<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.23.655831v1.abstract">bioRxiv:2025.05.23.655831</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>A hypothalamus–brainstem circuit governs the prioritization of safety over essential needs</strong><br>
-Krauth N, Sach LK, Sitzia G, Clemmensen C, Kiehn O<br>
-<a href="http://dx.doi.org/10.1038/s41593-025-01975-6">Nat Neurosci:1–13</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Learning dynamics of RNNs in closed-loop environments</strong><br>
-Ger Y, Barak O<br>
-<a href="http://arxiv.org/abs/2505.13567">arXiv [csLG]</a></p>
-<hr>
-</section>
-</section>
-<section id="superlab-papers" class="level1">
-<h1>Superlab Papers</h1>
-<p><strong>A Python toolbox for representational similarity analysis</strong><br>
-van den Bosch JJF, Golan T, Peters B, Taylor J, Shahbazi M, Lin B, Charest I, Diedrichsen J, Kriegeskorte N, Mur M, Schuett H<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.22.655542v1.abstract">bioRxiv:2025.05.22.655542</a></p>
-<hr>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-05-30-list297.html</guid>
-  <pubDate>Fri, 30 May 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
