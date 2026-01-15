@@ -10,7 +10,91 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 09 Jan 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 16 Jan 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 318</title>
+  <link>https://superlab.ca/posts/2026-01-16-list318.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Preserved cerebellar functions despite structural degeneration in older adults</strong><br>
+de Witte A, Matthijs A, Parrell B, Mantini D, Gooijers J, Orban de Xivry J-J<br>
+<a href="http://dx.doi.org/10.7554/eLife.109440.1">eLife</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>High performance sorting of motor unit action potentials with EMUsort</strong><br>
+O’Connell S, Michaels JA, Wang R, Mamidipaka S, Venkatesh M, Aresh N, Pachitariu M, Pruszynski JA, Sober SJ, Pandarinath C<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697952v1.abstract">bioRxiv:2026.01.06.697952</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Repeatable, low-drift recordings in behaving non-human primates using flexible microelectrodes</strong><br>
+Woods DP, Adams GM, Mozumder R, Dang W, Chen AY, Constantinidis C, Gonzales DL<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698500v1.abstract">bioRxiv:2026.01.09.698500</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Facial gestures are enacted through a cortical hierarchy of dynamic and stable codes</strong><br>
+Ianni GR, Vázquez Y, Rouse AG, Schieber MH, Prut Y, Freiwald WA<br>
+<a href="http://dx.doi.org/10.1126/science.aea0890">Science 391:eaea0890</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Evidence accumulation from experience and observation in the cingulate cortex</strong><br>
+Chen R, Radkani S, Valluru N, Yoo SBM, Jazayeri M<br>
+<a href="http://dx.doi.org/10.1038/s41586-025-09885-0">Nature:1–9</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Dynamic engagement of the motor cortex in controlling movement</strong><br>
+Dragoi T, Loschinskey Z, Hasnain MA, DePasquale B, Economo MN<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699314v1.abstract">bioRxiv:2026.01.13.699314</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Enabling skilled human-computer interaction after paralysis via a wearable sEMG interface</strong><br>
+Despradel Rumaldo DL et al.<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698484v2.abstract">bioRxiv:2026.01.09.698484</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>The Story behind the Science: Preprints of pandemic potential-how bioRxiv and medRxiv brought preprints to the life sciences</strong><br>
+Sever R<br>
+<a href="http://dx.doi.org/10.1128/mbio.02989-25">MBio:e0298925</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>The SAFE Labs Handbook as a tool for improving lab culture</strong><br>
+Donà E, Gahan JM, Lau P, Jeschke J, Ott T, Reinhard K, Sinigaglia C, Treur JL, Vogl T, Bugeon S, Mariotti L, Rossi LF, Coen P<br>
+<a href="http://dx.doi.org/10.7554/eLife.108853">Elife 14</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-01-16-list318.html</guid>
+  <pubDate>Fri, 16 Jan 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 317</title>
   <link>https://superlab.ca/posts/2026-01-09-list317.html</link>
@@ -2084,134 +2168,6 @@ Wairagkar M, Card NS, Singer-Clark T, Hou X, Iacobacci C, Miller LM, Hochberg LR
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-06-13-list299.html</guid>
   <pubDate>Fri, 13 Jun 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 298</title>
-  <link>https://superlab.ca/posts/2025-06-06-list298.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>The origin of vertebrate teeth and evolution of sensory exoskeletons</strong><br>
-Haridy Y, Norris SCP, Fabbri M, Nanglu K, Sharma N, Miller JF, Rivers M, La Riviere P, Vargas P, Ortega-Hernández J, Shubin NH<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-08944-w">Nature 642:119–124</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Conserved brain-wide emergence of emotional response from sensory experience in humans and mice</strong><br>
-Kauvar I et al.<br>
-<a href="http://dx.doi.org/10.1126/science.adt3971">Science 388:eadt3971</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Whole body coarticulation reflects expertise in sport climbing</strong><br>
-Maselli A, Musculus L, Moretti R, d’Avella A, Raab M, Pezzulo G<br>
-<a href="http://dx.doi.org/10.1152/jn.00341.2024">J Neurophysiol 133:1016–1033</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>In vivo calcium imaging shows that dorsal root ganglion stimulation predominantly activates large-sized sensory neurons in mice</strong><br>
-Goodwin GL, Franken G<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.27.656338v1.abstract">bioRxiv:2025.05.27.656338</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Neural connectivity of a computational map for fly flight control</strong><br>
-Dhawan S, Huang Z, Dickerson BH<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.29.656834v2.abstract">bioRxiv:2025.05.29.656834</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Modulation of error sensitivity during motor learning across time, space and environment variability</strong><br>
-Todorov D, Moulin M, Buch E, Quentin R<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.30.656374v1.abstract">bioRxiv:2025.05.30.656374</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Modeling 2D spatio-tactile population receptive fields of the fingertip in human primary somatosensory cortex</strong><br>
-Stoll S, Luesebrink F, Schwarzkopf DS, Mattern H, Liu P, Noelle J, Kuehn E<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.24.655840v1.abstract">bioRxiv:2025.05.24.655840</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Encoding of speech modes and loudness in ventral precentral gyrus</strong><br>
-Srinivasan A, Wairagkar M, Iacobacci C, Hou X, Card NS, Jacques BG, Pritchard AL, Bechefsky PH, Hochberg LR, AuYong N, Pandarinath C, Brandman DM, Stavisky SD<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.05.30.657105v1.abstract">bioRxiv:2025.05.30.657105</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Eye and hand coarticulation during problem solving reveals hierarchically organized planning</strong><br>
-Eluchans M, Maselli A, Lancia GL, Pezzulo G<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.18.624090v5.abstract">bioRxiv:2024.11.18.624090</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Mental graphs structure the storage and retrieval of visuomotor associations</strong><br>
-Trach JE, McDougle SD<br>
-<a href="http://dx.doi.org/10.1038/s41562-025-02217-2">Nat Hum Behav:1–15</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>A hypothalamus–brainstem circuit governs the prioritization of safety over essential needs</strong><br>
-Krauth N, Sach LK, Sitzia G, Clemmensen C, Kiehn O<br>
-<a href="http://dx.doi.org/10.1038/s41593-025-01975-6">Nat Neurosci:1–13</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>Biological kinematics: a detailed review of the velocity-curvature power law calculation</strong><br>
-Fraser DS, Di Luca M, Cook JL<br>
-<a href="http://dx.doi.org/10.1007/s00221-025-07065-0">Exp Brain Res 243:107</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>Synthetic serum markers enable noninvasive monitoring of gene expression in primate brains</strong><br>
-Lee S, Romac M, Watanabe S, Chernov M, Li H, Raisley E, Szablowski JO, Costa VD<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.06.01.657212v2.abstract">bioRxiv:2025.06.01.657212</a></p>
-</section>
-<section id="section-14" class="level2">
-<h2 class="anchored" data-anchor-id="section-14">14</h2>
-<p><strong>Dissociable habits of response preparation versus response initiation</strong><br>
-Du Y, Haith AM<br>
-<a href="http://dx.doi.org/10.1038/s41562-025-02215-4">Nat Hum Behav:1–18</a></p>
-</section>
-<section id="section-15" class="level2">
-<h2 class="anchored" data-anchor-id="section-15">15</h2>
-<p><strong>Multi-timescale reinforcement learning in the brain</strong><br>
-Masset P, Tano P, Kim HR, Malik AN, Pouget A, Uchida N<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-08929-9">Nature:1–9</a></p>
-</section>
-<section id="section-16" class="level2">
-<h2 class="anchored" data-anchor-id="section-16">16</h2>
-<p><strong>A semantic embedding space based on large language models for modelling human beliefs</strong><br>
-Lee B, Aiyappa R, Ahn Y-Y, Kwak H, An J<br>
-<a href="http://dx.doi.org/10.1038/s41562-025-02228-z">Nat Hum Behav:1–13</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-06-06-list298.html</guid>
-  <pubDate>Fri, 06 Jun 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

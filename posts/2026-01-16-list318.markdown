@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "Reading List 318"
+date:   2026-01-16 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Preserved cerebellar functions despite structural degeneration in older adults**  
+de Witte A, Matthijs A, Parrell B, Mantini D, Gooijers J, Orban de Xivry J-J  
+[eLife](http://dx.doi.org/10.7554/eLife.109440.1)
+
+### 2
+**High performance sorting of motor unit action potentials with EMUsort**  
+O’Connell S, Michaels JA, Wang R, Mamidipaka S, Venkatesh M, Aresh N, Pachitariu M, Pruszynski JA, Sober SJ, Pandarinath C  
+[bioRxiv:2026.01.06.697952](https://www.biorxiv.org/content/10.64898/2026.01.06.697952v1.abstract)
+
+### 3
+**Repeatable, low-drift recordings in behaving non-human primates using flexible microelectrodes**  
+Woods DP, Adams GM, Mozumder R, Dang W, Chen AY, Constantinidis C, Gonzales DL  
+[bioRxiv:2026.01.09.698500](https://www.biorxiv.org/content/10.64898/2026.01.09.698500v1.abstract)
+
+### 4
+**Facial gestures are enacted through a cortical hierarchy of dynamic and stable codes**  
+Ianni GR, Vázquez Y, Rouse AG, Schieber MH, Prut Y, Freiwald WA  
+[Science 391:eaea0890](http://dx.doi.org/10.1126/science.aea0890)
+
+### 5
+**Evidence accumulation from experience and observation in the cingulate cortex**  
+Chen R, Radkani S, Valluru N, Yoo SBM, Jazayeri M  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-09885-0)
+
+### 6
+**Dynamic engagement of the motor cortex in controlling movement**  
+Dragoi T, Loschinskey Z, Hasnain MA, DePasquale B, Economo MN  
+[bioRxiv:2026.01.13.699314](https://www.biorxiv.org/content/10.64898/2026.01.13.699314v1.abstract)
+
+### 7
+**Enabling skilled human-computer interaction after paralysis via a wearable sEMG interface**  
+Despradel Rumaldo DL et al.  
+[bioRxiv:2026.01.09.698484](https://www.biorxiv.org/content/10.64898/2026.01.09.698484v2.abstract)
+
+### 8
+**The Story behind the Science: Preprints of pandemic potential-how bioRxiv and medRxiv brought preprints to the life sciences**  
+Sever R  
+[MBio:e0298925](http://dx.doi.org/10.1128/mbio.02989-25)
+
+### 9
+**The SAFE Labs Handbook as a tool for improving lab culture**  
+Donà E, Gahan JM, Lau P, Jeschke J, Ott T, Reinhard K, Sinigaglia C, Treur JL, Vogl T, Bugeon S, Mariotti L, Rossi LF, Coen P  
+[Elife 14](http://dx.doi.org/10.7554/eLife.108853)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
