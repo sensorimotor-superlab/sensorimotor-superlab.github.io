@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "Reading List 319"
+date:   2026-01-23 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Flexible use of a multi-purpose tool by a cow**  
+Osuna-Mascaró AJ, Auersperg AMI  
+[Curr Biol 36:R44–R45](http://dx.doi.org/10.1016/j.cub.2025.11.059)
+
+### 2
+**Motor learning and adaptation in bird flight**  
+Bodin C, Wong JCM, Windsor S, Woolley SC  
+[bioRxiv:2026.01.20.700397](https://www.biorxiv.org/content/10.64898/2026.01.20.700397v1.abstract)
+
+### 3
+**The geometry of context-dependent biased decisions during learning**  
+Nogueira R, Esteki S, Fusi S, Kiani R  
+[bioRxiv:2026.01.14.699497](https://www.biorxiv.org/content/10.64898/2026.01.14.699497v1.abstract)
+
+### 4
+**Subject fingerprinting and task classification rely on distinct functional connectivity features**  
+Aggarwal H, Ponce AF, Shankar S, Mzayek Y, Pérez-Millan A, Pinho AL, Thual A, Thirion B  
+[Brain Struct Funct 231:12](http://dx.doi.org/10.1007/s00429-025-03068-3)
+
+### 5
+**Age-related shift towards feedforward motor control under uncertainty**  
+Kreter N, Sager C, Barany D, Dundon N, Marneweck M  
+[Research Square](http://dx.doi.org/10.21203/rs.3.rs-8564293/v1)
+
+### 6
+**The cerebellar components of the human language network**  
+Casto C, Poliak M, Tuckute G, Small H, Sherlock P, Wolna A, Lipkin B, D’Mello AM, Fedorenko E  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.12.030)
+
+
+## Superlab Papers
+
+**Sensory expectations and prediction error during feedback control in the human brain**  
+Emanuele M, Gribble P, Pruszynski JA, Michaels JA, Diedrichsen J  
+[bioRxiv:2026.01.19.700321](https://www.biorxiv.org/content/10.64898/2026.01.19.700321v1.abstract)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
