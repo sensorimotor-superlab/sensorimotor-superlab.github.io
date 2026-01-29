@@ -43,6 +43,17 @@ Weinreb C, Kannan LT, Newman-Boulle A, Sainburg T, Gillis WF, Plotnikoff A, Mako
 Shahbazi M, Codol O, Michaels JA, Gribble PL  
 [bioRxiv:2025.03.26.645562](https://www.biorxiv.org/content/10.1101/2025.03.26.645562v3)
 
+## Journal Club
+
+[Jessie Liu](https://jessierliu.com/about/), Postdoc in the [Chang Lab](https://changlab.ucsf.edu/) at UCSF, joined us to talk about her recent paper on speech sequencing:
+
+Liu JR, Zhao L, Hullett PW, Chang EF (2025)  
+**Speech sequencing in the human precentral gyrus**  
+[Nat Hum Behav 9:2327–2344](https://dx.doi.org/10.1038/s41562-025-02250-1)
+
+YouTube video: [https://www.youtube.com/watch?v=IOcr_PauaVU](https://www.youtube.com/watch?v=IOcr_PauaVU)
+
+
 ## Archive
 You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
 
