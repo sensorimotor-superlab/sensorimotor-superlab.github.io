@@ -1,0 +1,51 @@
+---
+layout: post
+title:  "Reading List 320"
+date:   2026-01-30 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Infinite hidden Markov models can dissect the complexities of learning**  
+Bruijns SA, International Brain Laboratory, Bougrova K, Laranjeira IC, Lau PYP, Meijer GT, Miska NJ, Noel J-P, Pan-Vazquez A, Roth N, Socha KZ, Urai AE, Dayan P  
+[Nat Neurosci 29:186–194](http://dx.doi.org/10.1038/s41593-025-02130-x)
+
+### 2
+**Oxygen-free metabolism in the bird inner retina supported by the pecten**  
+Damsgaard C et al.  
+[Nature:1–7](http://dx.doi.org/10.1038/s41586-025-09978-w)
+
+### 3
+**Precision in motion: Reactive and anticipatory control of mouse tongue movement for interception**  
+ELTabbal M, Galetzka C, Kuhn B  
+[bioRxiv:2026.01.25.701632](https://www.biorxiv.org/content/10.64898/2026.01.25.701632v1.abstract)
+
+### 4
+**Spontaneous behavior is a succession of self-directed tasks**  
+Weinreb C, Kannan LT, Newman-Boulle A, Sainburg T, Gillis WF, Plotnikoff A, Makowska S, Pearl JE, Osman MAM, Linderman SW, Datta SR  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.11.021)
+
+
+## Superlab Papers
+
+**A context-free model of savings in motor learning**  
+Shahbazi M, Codol O, Michaels JA, Gribble PL  
+[bioRxiv:2025.03.26.645562](https://www.biorxiv.org/content/10.1101/2025.03.26.645562v3)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

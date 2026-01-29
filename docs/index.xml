@@ -10,7 +10,67 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 23 Jan 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Jan 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 320</title>
+  <link>https://superlab.ca/posts/2026-01-30-list320.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Infinite hidden Markov models can dissect the complexities of learning</strong><br>
+Bruijns SA, International Brain Laboratory, Bougrova K, Laranjeira IC, Lau PYP, Meijer GT, Miska NJ, Noel J-P, Pan-Vazquez A, Roth N, Socha KZ, Urai AE, Dayan P<br>
+<a href="http://dx.doi.org/10.1038/s41593-025-02130-x">Nat Neurosci 29:186–194</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Oxygen-free metabolism in the bird inner retina supported by the pecten</strong><br>
+Damsgaard C et al.<br>
+<a href="http://dx.doi.org/10.1038/s41586-025-09978-w">Nature:1–7</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Precision in motion: Reactive and anticipatory control of mouse tongue movement for interception</strong><br>
+ELTabbal M, Galetzka C, Kuhn B<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.01.25.701632v1.abstract">bioRxiv:2026.01.25.701632</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Spontaneous behavior is a succession of self-directed tasks</strong><br>
+Weinreb C, Kannan LT, Newman-Boulle A, Sainburg T, Gillis WF, Plotnikoff A, Makowska S, Pearl JE, Osman MAM, Linderman SW, Datta SR<br>
+<a href="http://dx.doi.org/10.1016/j.neuron.2025.11.021">Neuron</a></p>
+</section>
+<section id="superlab-papers" class="level2">
+<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
+<p><strong>A context-free model of savings in motor learning</strong><br>
+Shahbazi M, Codol O, Michaels JA, Gribble PL<br>
+<a href="https://www.biorxiv.org/content/10.1101/2025.03.26.645562v3">bioRxiv:2025.03.26.645562</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-01-30-list320.html</guid>
+  <pubDate>Fri, 30 Jan 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 319</title>
   <link>https://superlab.ca/posts/2026-01-23-list319.html</link>
@@ -2045,103 +2105,6 @@ video: <a href="https://youtu.be/zU5RbP5qk9c">https://youtu.be/zU5RbP5qk9c</a></
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-07-04-list301.html</guid>
   <pubDate>Fri, 04 Jul 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 300</title>
-  <link>https://superlab.ca/posts/2025-06-20-list300.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>This week we continue our Journal Club feature (see below). In our lab meeting we discuss a paper from the list, and invite one of the authors to give a presentation and answer questions. We post a video of the meeting on YouTube, and we post a link to the video here.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Planning-while-acting: addressing the continuous dynamics of planning and action in a sequential embodied task</strong><br>
-Nuzzi D, Cisek P, Pezzulo G<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.11.28.625911v2.abstract">bioRxiv:2024.11.28.625911</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Learning to move and plan like the knight: Sequential decision making with a novel motor mapping</strong><br>
-Velázquez-Vargas CA, Taylor JA<br>
-<a href="https://dx.doi.org/10.1007/s42113-025-00245-9">Comput Brain Behav</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>How a target’s speed influences the extent to which the time or place at which it is intercepted is adjusted</strong><br>
-Bertonati G, Gori M, Smeets JBJ, Brenner E<br>
-<a href="https://dx.doi.org/10.1007/s00221-025-07108-6">Exp Brain Res 243:171</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Egocentric value maps of the near-body environment</strong><br>
-Bufacchi RJ, Somervail R, Fitzpatrick AM, Murayama Y, Logothetis N, Caminiti R, Iannetti GD<br>
-<a href="https://dx.doi.org/10.1038/s41593-025-01958-7">Nat Neurosci 28:1336–1347</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Interactions across hemispheres in prefrontal cortex reflect global cognitive processing</strong><br>
-McDonnell ME, Umakantha A, Williamson RC, Smith MA, Yu BM<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.06.12.659406v1.abstract">bioRxiv:2025.06.12.659406</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Cerebellar circuit computations for predictive motor control</strong><br>
-Nguyen KP, Person AL<br>
-<a href="https://dx.doi.org/10.1038/s41583-025-00936-z">Nat Rev Neurosci</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Motoneurons can count: A cell intrinsic spike number memory compensates for deviations from rate coding</strong><br>
-Huthmacher L, Hilgert S, Reichert S, Hürkey S, Ryglewski S, Duch C<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.06.16.659928v1.abstract">bioRxiv:2025.06.16.659928</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>The spinal premotor network driving scratching flexor and extensor alternation</strong><br>
-Yao M, Nagamori A, Campos Maçãs S, Azim E, Sharpee T, Goulding M, Golomb D, Gatto G<br>
-<a href="https://dx.doi.org/10.1016/j.celrep.2025.115845">Cell Rep 44:115845</a></p>
-<hr>
-</section>
-</section>
-<section id="superlab-papers" class="level1">
-<h1>Superlab Papers</h1>
-<p><strong>The brain works at more than 10 bits per second</strong><br>
-Sauerbrei BA, Pruszynski JA<br>
-<a href="https://dx.doi.org/10.1038/s41593-025-01997-0">Nat Neurosci</a></p>
-<hr>
-</section>
-<section id="journal-club" class="level1">
-<h1>Journal Club</h1>
-<p>We recently welcomed two guest speakers to our sensorimotor superlab lab meetings:</p>
-<p>Mohammad Amin Fakharian from the Shadmehr Lab at Johns Hopkins presented a recent paper, “<strong>A vector calculus for neural computation in the cerebellum</strong>”. Now out in Science: <a href="https://doi.org/10.1126/science.adu6331">https://doi.org/10.1126/science.adu6331</a>.<br>
-<strong>Video</strong>: <a href="https://youtu.be/SV4qdMvsOIU">https://youtu.be/SV4qdMvsOIU</a></p>
-<p>Ariel Rokem (University of Washington) showed us <strong>the latest and greatest in tract tracing via MRI, especially as it relates to development</strong> (<a href="https://neuroinformatics.uw.edu/publications">https://neuroinformatics.uw.edu/publications</a>).<br>
-<strong>Video</strong>: <a href="https://youtu.be/HMrk2zekoa4">https://youtu.be/HMrk2zekoa4</a></p>
-<hr>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-06-20-list300.html</guid>
-  <pubDate>Fri, 20 Jun 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
