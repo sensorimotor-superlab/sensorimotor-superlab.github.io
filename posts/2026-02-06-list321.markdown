@@ -1,0 +1,129 @@
+---
+layout: post
+title:  "Reading List 321"
+date:   2026-02-06 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Sparse input representations explain odor discrimination in complex, concentration-varying mixtures**  
+McCalmon H, Cai G, Tsibouris C, Pashakhanloo F, Chung S, Kapoor V, Murthy VN  
+[bioRxiv:2026.01.27.702074](https://www.biorxiv.org/content/10.64898/2026.01.27.702074v1.abstract)
+
+### 2
+**Neural modes in motor cortex cycle over fast timescales**  
+Clarke SE, Jun EJ, Nuyujukian P  
+[bioRxiv:2026.01.26.701671](https://www.biorxiv.org/content/10.64898/2026.01.26.701671v1.abstract)
+
+### 3
+**How AI Impacts Skill Formation**  
+Shen JH, Tamkin A  
+[arXiv [csCY]](http://arxiv.org/abs/2601.20245)
+
+### 4
+**Audiomotor prediction errors drive speech adaptation even in the absence of overt movement**  
+Parrell B, Naber C, Kim OA, Nizolek CA, McDougle SD  
+[bioRxiv:2024.08.13.607718](https://www.biorxiv.org/content/10.1101/2024.08.13.607718v2)
+
+### 5
+**RPNT: Robust pre-trained neural transformer -- A pathway for generalized motor decoding**  
+Fang H, Canfield RA, Ouchi T, Macagno B, Shlizerman E, Orsborn AL  
+[arXiv [csLG]](http://arxiv.org/abs/2601.17641)
+
+### 6
+**Dynamics of working memory drift and information flow across the cortical hierarchy**  
+Li H-H, Ma WJ, Curtis CE  
+[Proc Natl Acad Sci USA 123:e2518110123](http://dx.doi.org/10.1073/pnas.2518110123)
+
+### 7
+**Deepmriprep: Voxel-based morphometry preprocessing via deep neural networks**  
+Fisch L et al.  
+[Nat Comput Sci:1–10](http://dx.doi.org/10.1038/s43588-026-00953-7)
+
+### 8
+**Mixed-selective organization of reach and grasp in the primate fronto-parietal network**  
+Fathian A, Lehmann SJ, Michaels JA, Scherberger H  
+[Prog Neurobiol 258:102889](http://dx.doi.org/10.1016/j.pneurobio.2026.102889)
+
+### 9
+**Representational drift reflects ongoing balancing of stochastic changes by Hebbian learning**  
+Eppler J-B, Lai T, Aschauer DF, Rumpel S, Kaschube M  
+[Proc Natl Acad Sci USA 123:e2503046123](http://dx.doi.org/10.1073/pnas.2503046123)
+
+### 10
+**Neural subspace reorganization reflects value-based decision making**  
+Li H, Chrysanthidis N, Brincat SL, Rose J, Miller EK  
+[bioRxiv:2026.02.02.703171](https://www.biorxiv.org/content/10.64898/2026.02.02.703171v1.abstract)
+
+### 11
+**The curse of dimensionality in motor cortex**  
+Silvernagel MP, Tor A, Jun EJ, Clarke SE, Sutherland R, Marshall K, Wu Y, Abdulla MU, Even-Chen N, Nuyujukian P, Brain Interfacing Laboratory  
+[bioRxiv:2026.01.26.701668](https://www.biorxiv.org/content/10.64898/2026.01.26.701668v1.abstract)
+
+### 12
+**Closed-loop imitation learning reveals muscle-centric and latent-goal codes in primate sensorimotor cortex**  
+Marin Vargas A, Chiappa AS, Perez Rotondo A, Mathis MW, Mathis A  
+[bioRxiv:2026.02.01.703133](https://www.biorxiv.org/content/10.64898/2026.02.01.703133v1.abstract)
+
+### 13
+**The unexpected sight: improvement of visual function following intracortical microstimulation of the human occipital cortex**  
+Alfaro A, Soo L, Waclawczyk D, Morollón R, Grani F, Fernandez E  
+[Brain Commun 8:fcaf504](https://dx.doi.org/10.1093/braincomms/fcaf504)
+
+### 14
+**Representation of action sequence boundaries by macaque prefrontal cortical neurons**  
+Fujii N, Graybiel AM  
+[Science 301:1246–1249](http://dx.doi.org/10.1126/science.1086872)
+
+### 15
+**Brain-computer interface control with artificial intelligence copilots**  
+Lee JY, Lee S, Mishra A, Yan X, McMahan B, Gaisford B, Kobashigawa C, Qu M, Xie C, Kao JC  
+[Nat Mach Intell 7:1510–1523](http://dx.doi.org/10.1038/s42256-025-01090-y)
+
+### 16
+**Parkinson’s disease as a somato-cognitive action network disorder**  
+Ren J et al.  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-025-10059-1)
+
+### 17
+**Distinct neural dynamics in prefrontal and premotor cortex during flexible perceptual decisions**  
+Wang T, Lee EK, Carr N, Li Y, Chandrasekaran C  
+[bioRxiv:2026.02.02.702013](https://www.biorxiv.org/content/10.64898/2026.02.02.702013v1.abstract)
+
+### 18
+**Neural population activity for memory: Properties, computations, and codes**  
+Dupret D, Fusi S, Panzeri S  
+[Neuron 114:390–407](http://dx.doi.org/10.1016/j.neuron.2025.11.007)
+
+### 19
+**Integrated approaches for investigating the neural bases of movement - highlights from the 34th annual meeting of the society for the neural control of movement**  
+Dowdall L, Geminiani A, Kosugi A, Lemke SM, Liu S, Nashef A, Perks KM, Chowdhury RR, Thanawalla AR, Wang T, Wei R-H, Wood JM  
+[J Neurophysiol](http://dx.doi.org/10.1152/jn.00583.2025)
+
+## Superlab Papers
+
+**Reward-driven emergence of auditory pattern encoding in the primate motor system**  
+Neupane S, Kashefi M, Kersten R, Pruszynski JA, Grahn JA, Michaels JA  
+[bioRxiv:2026.01.29.702435](https://www.biorxiv.org/content/10.64898/2026.01.29.702435v1.abstract)
+
+**Neural representations of speech production in neocortical and cerebellar regions**  
+Jossinger S, Arafat B, Diedrichsen J  
+[bioRxiv:2026.01.30.702863](https://www.biorxiv.org/content/10.64898/2026.01.30.702863v1.abstract)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
