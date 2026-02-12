@@ -1,0 +1,84 @@
+---
+layout: post
+title:  "Reading List 322"
+date:   2026-02-13 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**In praise of artifice**  
+Rust NC, Movshon JA  
+[Nat Neurosci 8:1647–1650](https://dx.doi.org/10.1038/nn1606)
+
+### 2
+**Sensory adaptation supports flexible evidence accumulation during perceptual decision making**  
+McGaughey KD, Gold JI  
+[bioRxiv:2026.02.03.703553](https://www.biorxiv.org/content/10.64898/2026.02.03.703553v1.abstract)
+
+### 3
+**The layer 6b theory of attention**  
+Zolnik TA, Eickholt BJ, Molnár Z, Larkum ME  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2025.11.024)
+
+### 4
+**A system for live sorting of neuronal spiking activity from large-scale recordings**  
+Muralidharan S, Leng C, Orts L, Trepka E, Zhu S, Panichello M, Jonikaitis D, Pennington J, Pachitariu M, Moore T  
+[bioRxiv:2025.12.29.696938](https://www.biorxiv.org/content/10.64898/2025.12.29.696938v1.abstract)
+
+### 5
+**Eye tracking insights into movement preparation and execution under nonstandard visual movement feedback**  
+Quirmbach F, Helmert JR, Pannasch S, Dix A, Limanowski J  
+[bioRxiv:2026.02.04.703867](https://www.biorxiv.org/content/10.64898/2026.02.04.703867v1.abstract)
+
+### 6
+**Action Progress Organizes Motor Memory**  
+Makino Y, Suemitsu K, Hirashima M  
+[bioRxiv:2026.02.09.704807](https://www.biorxiv.org/content/10.64898/2026.02.09.704807v1.abstract)
+
+### 7
+**Cortical traveling waves in time and space: Physics, physiology, and psychology**  
+Cruddas J, Pang JC, Fornito A  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2025.12.019)
+
+### 8
+**Moving intentions from brains to machines**  
+Beste C, Slagter HA, Herff C, Kamitani Y, Coninx S, van Wezel R, Frings C  
+[Trends Cogn Sci](https://dx.doi.org/10.1016/j.tics.2025.12.003)
+
+### 9
+**Evidence for representation of pretend objects by Kanzi, a language-trained bonobo**  
+Bastos APM, Krupenye C  
+[Science 391:583–586](https://dx.doi.org/10.1126/science.adz0743)
+
+### 10
+**Primate dexterous hand movements are controlled by functionally distinct premotoneuronal systems**  
+Takei T, Oya T, Seki K  
+[Sci Adv 12](https://dx.doi.org/10.1126/sciadv.aea1184)
+
+### 11
+**Months-long stability of the head-direction system**  
+Skromne Carrasco S, Viejo G, Peyrache A  
+[Nature](https://dx.doi.org/10.1038/s41586-025-10096-w)
+
+### 12
+**Mapping the causal roles of non-primary motor areas in human reach planning and execution**  
+Haddadshargh G, de Freitas RM, Mak J, Boos A, Fang X, Collinger JL, McKernan G, Zhan L, Liu F, Wittenberg GF  
+[Hum Brain Mapp 47:e70465](https://dx.doi.org/10.1002/hbm.70465)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

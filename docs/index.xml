@@ -10,7 +10,109 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 06 Feb 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 322</title>
+  <link>https://superlab.ca/posts/2026-02-13-list322.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>In praise of artifice</strong><br>
+Rust NC, Movshon JA<br>
+<a href="https://dx.doi.org/10.1038/nn1606">Nat Neurosci 8:1647–1650</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Sensory adaptation supports flexible evidence accumulation during perceptual decision making</strong><br>
+McGaughey KD, Gold JI<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.02.03.703553v1.abstract">bioRxiv:2026.02.03.703553</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>The layer 6b theory of attention</strong><br>
+Zolnik TA, Eickholt BJ, Molnár Z, Larkum ME<br>
+<a href="https://dx.doi.org/10.1016/j.neuron.2025.11.024">Neuron</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>A system for live sorting of neuronal spiking activity from large-scale recordings</strong><br>
+Muralidharan S, Leng C, Orts L, Trepka E, Zhu S, Panichello M, Jonikaitis D, Pennington J, Pachitariu M, Moore T<br>
+<a href="https://www.biorxiv.org/content/10.64898/2025.12.29.696938v1.abstract">bioRxiv:2025.12.29.696938</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Eye tracking insights into movement preparation and execution under nonstandard visual movement feedback</strong><br>
+Quirmbach F, Helmert JR, Pannasch S, Dix A, Limanowski J<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.02.04.703867v1.abstract">bioRxiv:2026.02.04.703867</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Action Progress Organizes Motor Memory</strong><br>
+Makino Y, Suemitsu K, Hirashima M<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.02.09.704807v1.abstract">bioRxiv:2026.02.09.704807</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Cortical traveling waves in time and space: Physics, physiology, and psychology</strong><br>
+Cruddas J, Pang JC, Fornito A<br>
+<a href="https://dx.doi.org/10.1016/j.neuron.2025.12.019">Neuron</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>Moving intentions from brains to machines</strong><br>
+Beste C, Slagter HA, Herff C, Kamitani Y, Coninx S, van Wezel R, Frings C<br>
+<a href="https://dx.doi.org/10.1016/j.tics.2025.12.003">Trends Cogn Sci</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Evidence for representation of pretend objects by Kanzi, a language-trained bonobo</strong><br>
+Bastos APM, Krupenye C<br>
+<a href="https://dx.doi.org/10.1126/science.adz0743">Science 391:583–586</a></p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">10</h3>
+<p><strong>Primate dexterous hand movements are controlled by functionally distinct premotoneuronal systems</strong><br>
+Takei T, Oya T, Seki K<br>
+<a href="https://dx.doi.org/10.1126/sciadv.aea1184">Sci Adv 12</a></p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">11</h3>
+<p><strong>Months-long stability of the head-direction system</strong><br>
+Skromne Carrasco S, Viejo G, Peyrache A<br>
+<a href="https://dx.doi.org/10.1038/s41586-025-10096-w">Nature</a></p>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">12</h3>
+<p><strong>Mapping the causal roles of non-primary motor areas in human reach planning and execution</strong><br>
+Haddadshargh G, de Freitas RM, Mak J, Boos A, Fang X, Collinger JL, McKernan G, Zhan L, Liu F, Wittenberg GF<br>
+<a href="https://dx.doi.org/10.1002/hbm.70465">Hum Brain Mapp 47:e70465</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-02-13-list322.html</guid>
+  <pubDate>Fri, 13 Feb 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 321</title>
   <link>https://superlab.ca/posts/2026-02-06-list321.html</link>
@@ -1992,98 +2094,6 @@ Holzscherer EJ, Kersten R, Bertrand M, Khokhar JY, Cairns BE, Pruszynski JA, Sem
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-09-12-list303.html</guid>
   <pubDate>Fri, 12 Sep 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 302</title>
-  <link>https://superlab.ca/posts/2025-09-05-list302.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Convergent motifs of early olfactory processing are recapitulated by layer-wise efficient coding</strong><br>
-del Castillo JCF, Pashakhanloo F, Murthy VN, Zavatone-Veth JA<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.09.03.673748v1.abstract">bioRxiv:2025.09.03.673748</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>A brain-wide map of neural activity during complex behaviour</strong><br>
-International Brain Laboratory et al.<br>
-<a href="https://dx.doi.org/10.1038/s41586-025-09235-0">Nature 645:177–191</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Brain-wide representations of prior information in mouse decision-making</strong><br>
-Findling C et al.<br>
-<a href="https://www.biorxiv.org/content/10.1101/2023.07.04.547684v5">bioRxiv:2023.07.04.547684</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Mice navigate scent trails using predictive policies</strong><br>
-Jayakumar S, Rigolli N, Mathis MW, Vergassola M, Mathis A, Murthy VN<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.08.27.672631v1.abstract">bioRxiv:2025.08.27.672631</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Temporal coding carries more stable cortical visual representations than firing rate over time</strong><br>
-Zhu H, He F, Zolotavin P, Patel S, Tolias AS, Luan L, Xie C<br>
-<a href="https://dx.doi.org/10.1038/s41467-025-62069-2">Nat Commun 16:7162</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>Human dexterity and brains evolved hand in hand</strong><br>
-Baker J, Barton RA, Venditti C<br>
-<a href="https://dx.doi.org/10.1038/s42003-025-08686-5">Commun Biol 8:1257</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Task affordances shape hornbills’ problem-solving strategies</strong><br>
-Garcia-Pelegrin E<br>
-<a href="https://dx.doi.org/10.1098/rsbl.2025.0271">Biol Lett 21:20250271</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Countrywide natural experiment links built environment to physical activity</strong><br>
-Althoff T, Ivanovic B, King AC, Hicks JL, Delp SL, Leskovec J<br>
-<a href="https://dx.doi.org/10.1038/s41586-025-09321-3">Nature:1–7</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>Should neuroscientists ‘vibe code’?</strong><br>
-Dichter B<br>
-<a href="https://www.thetransmitter.org/craft-and-careers/should-neuroscientists-vibe-code/">The Transmitter: Neuroscience News and Perspectives</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Working together to build strong scientific communities</strong><br>
-Carey MR<br>
-<a href="https://www.nature.com/articles/s41583-025-00967-6">Nat Rev Neurosci:1–2</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-09-05-list302.html</guid>
-  <pubDate>Fri, 05 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
