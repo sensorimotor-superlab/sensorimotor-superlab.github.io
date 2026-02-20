@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "Reading List 323"
+date:   2026-02-20 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Myelin sheaths in the central nervous system can withstand damage and dynamically remodel**  
+Arafa D et al. (2026)  
+[Science 391:eadr4661](http://dx.doi.org/10.1126/science.adr4661)
+
+### 2
+**TRIBE: TRImodal Brain Encoder for whole-brain fMRI response prediction**  
+d’Ascoli S, Rapin J, Benchetrit Y, Banville H, King J-R (2025)  
+[arXiv [csLG]](http://arxiv.org/abs/2507.22229)
+
+### 3
+**Hierarchy in neuronal representations of multiple tasks in prefrontal cortex**  
+Sheng Q, Luo S, Li D, Jia J, Fan Z, He Z, Wang F, Chen Y, Yuan S, Cheng Z, Li CT, Xie Y (2026)  
+[bioRxiv:2026.02.10.705211](https://www.biorxiv.org/content/10.64898/2026.02.10.705211v1.abstract)
+
+### 4
+**Feedback control of random networks as a model of flexible motor cortical dynamics across tasks**  
+Kalidindi HT, Crevecoeur F (2026)  
+[Cell Reports 45:116991](http://dx.doi.org/10.1016/j.celrep.2026.116991)
+
+### 5
+**Neural population geometry and optimal coding of tasks with shared latent structure**  
+Wakhloo AJ, Slatton W, Chung S (2026)  
+[Nat Neurosci:1–11](http://dx.doi.org/10.1038/s41593-025-02183-y)
+
+### 6
+**The evolution of gene regulation in mammalian cerebellum development**  
+Sarropoulos I et al. (2026)  
+[Science 391:eadw9154](http://dx.doi.org/10.1126/science.adw9154)
+
+### 7
+**The equilibrium point hypothesis revisited: why threshold control does not explain human movement**  
+Mangalam M, Stergiou N (2026)  
+[Exp Brain Res 244:44](http://dx.doi.org/10.1007/s00221-026-07242-9)
+
+### 8
+**Feature-tuned synaptic inputs to somatostatin interneurons drive context-dependent processing**  
+Hendricks WD, Sadahiro M, Mossing D, Veit J, Adesnik H (2026)  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.12.021)
+
+### 9
+**Shared somatosensory–motor neural population dynamics track motor recovery after stroke**  
+Heimbuch IS, Khanna P, Novik L, Morecraft RJ, Ganguly K (2026)  
+[bioRxiv:2026.02.10.705199](https://www.biorxiv.org/content/10.64898/2026.02.10.705199v1.abstract)
+
+### 10
+**Neuropixels reveal laminar microcircuit organization in monkey V1 in vivo**  
+Carr N, Zhu S, Chen X, Lee EK, Perliss A, Moore T, Chandrasekaran C (2026)  
+[Proc Natl Acad Sci USA 123:e2521556123](http://dx.doi.org/10.1073/pnas.2521556123)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
