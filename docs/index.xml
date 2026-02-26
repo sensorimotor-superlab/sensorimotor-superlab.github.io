@@ -10,7 +10,79 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 20 Feb 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Feb 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 324</title>
+  <link>https://superlab.ca/posts/2026-02-27-list324.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Does anodal tDCS over M1 really enhance motor sequence learning? A non-replication of earlier findings in a double-blind, pre-registered large-sample study in humans</strong><br>
+Kerstens S, van Boekholdt L, Vanderheyden H, Smedt LD, Seminck N, Van Bogaert T, Albouy G, King BR, Orban de Xivry J-J, Mc Laughlin M (2025)<br>
+<a href="https://www.medrxiv.org/content/10.1101/2025.10.06.25337371v1.abstract">medRxiv:2025.10.06.25337371</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Astrocytes enable amygdala neural representations supporting memory</strong><br>
+Bukalo O, O’Sullivan R, Tanisumi Y, Mendez A, Weinholtz C, Zimmerman S, Offenberg V, Carpenter O, Bhagwat H, Mosley S, O’Malley JJ, Lyons K, Fang Y, Goldschlager J, Ostroff LE, Penzo MA, Wake H, Halladay LR, Holmes A (2026)<br>
+<a href="https://dx.doi.org/10.1038/s41586-025-10068-0">Nature:1–8</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Global remapping of the sensory homunculus emerges early in childhood development</strong><br>
+Tucciarelli R, Bird L, Straka Z, Szymanska M, Kollamkulam M, Sonar HA, Paik J, Clode D, Hoffmann M, Cowie D, Makin TR (2026)<br>
+<a href="https://dx.doi.org/10.1038/s41467-025-66539-5">Nat Commun 17:1591</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Human hippocampal neurogenesis in adulthood, ageing and Alzheimer’s disease</strong><br>
+Disouky A, Sanborn MA, Sabitha KR, Mostafa MM, Ayala IA, Bennett DA, Lu Y, Zhou Y, Keene CD, Weintraub S, Gefen T, Mesulam M-M, Geula C, Maienschein-Cline M, Rehman J, Lazarov O (2026)<br>
+<a href="https://dx.doi.org/10.1038/s41586-026-10169-4">Nature:1–10</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Expert motor synergies emerge predominantly offline during early skill learning</strong><br>
+Kistler W, Fakhreddine R, Rodriguez GR, Hayward M, Buch ER, Bestmann S, Cohen L (2026)<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.02.24.707000v1.abstract">bioRxiv:2026.02.24.707000</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Layer 5 Martinotti and pyramidal neurons encode spatial information in the primary motor cortex</strong><br>
+Ciralli B, Malfatti T, Kullander K (2026)<br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.02.25.707928v1.abstract">bioRxiv:2026.02.25.707928</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Vectorized instructive signals in cortical dendrites</strong><br>
+Francioni V, Tang VD, Toloza EHS, Ding Z, Brown NJ, Harnett MT (2026)<br>
+<a href="https://dx.doi.org/10.1038/s41586-026-10190-7">Nature:1–10</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-02-27-list324.html</guid>
+  <pubDate>Fri, 27 Feb 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 323</title>
   <link>https://superlab.ca/posts/2026-02-20-list323.html</link>
@@ -1957,122 +2029,6 @@ Raut RV, Rosenthal ZP, Wang X, Miao H, Zhang Z, Lee J-M, Raichle ME, Bauer AQ, B
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2025-09-26-list305.html</guid>
   <pubDate>Fri, 26 Sep 2025 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 304</title>
-  <link>https://superlab.ca/posts/2025-09-19-list304.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<section id="section" class="level1">
-<h1></h1>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<section id="section-1" class="level2">
-<h2 class="anchored" data-anchor-id="section-1">1</h2>
-<p><strong>Sequential effects in reaching reveal efficient coding in motor planning</strong><br>
-Wang T, Fang Y, Whitney D<br>
-<a href="http://dx.doi.org/10.1126/sciadv.adv6572">Sci Adv 11:eadv6572</a></p>
-</section>
-<section id="section-2" class="level2">
-<h2 class="anchored" data-anchor-id="section-2">2</h2>
-<p><strong>Efficient working memory maintenance via high-dimensional rotational dynamics</strong><br>
-Ritter L, Chadwick A<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.09.08.674838v1.abstract">bioRxiv:2025.09.08.674838</a></p>
-</section>
-<section id="section-3" class="level2">
-<h2 class="anchored" data-anchor-id="section-3">3</h2>
-<p><strong>Motor working memory</strong><br>
-McDougle SD, Hillman H<br>
-<a href="http://dx.doi.org/10.1016/j.tics.2025.08.011">Trends Cogn Sci</a></p>
-</section>
-<section id="section-4" class="level2">
-<h2 class="anchored" data-anchor-id="section-4">4</h2>
-<p><strong>Assessing the digit organisation of focal hand dystonia using 7T functional MRI</strong><br>
-Asghar M, Francis S, Sanchez-Panchuelo R, Glover P, Pakenham D, O’Neill GC, Schluppeck D, Humberstone M<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.09.11.675579v2.abstract">bioRxiv:2025.09.11.675579</a></p>
-</section>
-<section id="section-5" class="level2">
-<h2 class="anchored" data-anchor-id="section-5">5</h2>
-<p><strong>Functional evidence for early origin of tactile acuity in the vertebrate somatosensory system</strong><br>
-Tan K, Hillgen-Santa LF, Graham M, Li Y, Liu X, Pang S, Gracheva EO, Bagriantsev SN<br>
-<a href="http://dx.doi.org/10.1016/j.cub.2025.08.035">Curr Biol 0</a></p>
-</section>
-<section id="section-6" class="level2">
-<h2 class="anchored" data-anchor-id="section-6">6</h2>
-<p><strong>A common neural architecture for encoding finger movements</strong><br>
-Marins T, de Azevedo FAC, Wood G<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.09.11.675501v1.abstract">bioRxiv:2025.09.11.675501</a></p>
-</section>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7">7</h2>
-<p><strong>Neural coding for tactile motion: Scanning speed or temporal frequency?</strong><br>
-Cheng Y-P, Huang J-J, Yeh C-I, Pei Y-C<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.09.06.674674v1.abstract">bioRxiv:2025.09.06.674674</a></p>
-</section>
-<section id="section-8" class="level2">
-<h2 class="anchored" data-anchor-id="section-8">8</h2>
-<p><strong>Cerebellar contributions to action and cognition: Prediction, Timescale, and Continuity</strong><br>
-Tsay J, Ivry R<br>
-<a href="http://arxiv.org/abs/2509.09818">arXiv [q-bioNC]</a></p>
-</section>
-<section id="section-9" class="level2">
-<h2 class="anchored" data-anchor-id="section-9">9</h2>
-<p><strong>From adaptive deep brain stimulation to adaptive circuit targeting</strong><br>
-Horn A, Neumann W-J<br>
-<a href="http://dx.doi.org/10.1038/s41582-025-01131-5">Nat Rev Neurol:1–11</a></p>
-</section>
-<section id="section-10" class="level2">
-<h2 class="anchored" data-anchor-id="section-10">10</h2>
-<p><strong>Skin-attached haptic patch for versatile and augmented tactile interaction</strong><br>
-Youn J-H, Jang S-Y, Hwang I, Pei Q, Yun S, Kyung K-U<br>
-<a href="http://dx.doi.org/10.1126/sciadv.adt4839">Sci Adv 11:eadt4839</a></p>
-</section>
-<section id="section-11" class="level2">
-<h2 class="anchored" data-anchor-id="section-11">11</h2>
-<p><strong>Coherent dynamics of thalamic head-direction neurons irrespective of input</strong><br>
-Viejo G, Skromne Carrasco S, Peyrache A<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.09.10.675474v1.abstract">bioRxiv:2025.09.10.675474</a></p>
-</section>
-<section id="section-12" class="level2">
-<h2 class="anchored" data-anchor-id="section-12">12</h2>
-<p><strong>A compressed hierarchy for visual form processing in the tree shrew</strong><br>
-Lanfranchi FF, Wekselblatt J, Wagenaar DA, Tsao DY<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-09441-w">Nature:1–11</a></p>
-</section>
-<section id="section-13" class="level2">
-<h2 class="anchored" data-anchor-id="section-13">13</h2>
-<p><strong>The myth of optimality in human movement science</strong><br>
-Mangalam M<br>
-<a href="http://dx.doi.org/10.1016/j.neubiorev.2025.106352">Neurosci Biobehav Rev 178:106352</a></p>
-</section>
-<section id="section-14" class="level2">
-<h2 class="anchored" data-anchor-id="section-14">14</h2>
-<p><strong>Embodied decision making in athletes and other animals</strong><br>
-Maselli A, Iodice P, Cisek P, Pezzulo G<br>
-<a href="http://dx.doi.org/10.1016/j.psychsport.2025.102915">Psychol Sport Exerc 80:102915</a></p>
-<hr>
-</section>
-</section>
-<section id="archive" class="level1">
-<h1>Archive</h1>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level1">
-<h1>Disclaimer</h1>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2025-09-19-list304.html</guid>
-  <pubDate>Fri, 19 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

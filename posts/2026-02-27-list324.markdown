@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Reading List 324"
+date:   2026-02-27 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Does anodal tDCS over M1 really enhance motor sequence learning? A non-replication of earlier findings in a double-blind, pre-registered large-sample study in humans**  
+Kerstens S, van Boekholdt L, Vanderheyden H, Smedt LD, Seminck N, Van Bogaert T, Albouy G, King BR, Orban de Xivry J-J, Mc Laughlin M (2025)  
+[medRxiv:2025.10.06.25337371](https://www.medrxiv.org/content/10.1101/2025.10.06.25337371v1.abstract)
+
+### 2
+**Astrocytes enable amygdala neural representations supporting memory**  
+Bukalo O, O’Sullivan R, Tanisumi Y, Mendez A, Weinholtz C, Zimmerman S, Offenberg V, Carpenter O, Bhagwat H, Mosley S, O’Malley JJ, Lyons K, Fang Y, Goldschlager J, Ostroff LE, Penzo MA, Wake H, Halladay LR, Holmes A (2026)  
+[Nature:1–8](https://dx.doi.org/10.1038/s41586-025-10068-0)
+
+### 3
+**Global remapping of the sensory homunculus emerges early in childhood development**  
+Tucciarelli R, Bird L, Straka Z, Szymanska M, Kollamkulam M, Sonar HA, Paik J, Clode D, Hoffmann M, Cowie D, Makin TR (2026)  
+[Nat Commun 17:1591](https://dx.doi.org/10.1038/s41467-025-66539-5)
+
+### 4
+**Human hippocampal neurogenesis in adulthood, ageing and Alzheimer’s disease**  
+Disouky A, Sanborn MA, Sabitha KR, Mostafa MM, Ayala IA, Bennett DA, Lu Y, Zhou Y, Keene CD, Weintraub S, Gefen T, Mesulam M-M, Geula C, Maienschein-Cline M, Rehman J, Lazarov O (2026)  
+[Nature:1–10](https://dx.doi.org/10.1038/s41586-026-10169-4)
+
+### 5
+**Expert motor synergies emerge predominantly offline during early skill learning**  
+Kistler W, Fakhreddine R, Rodriguez GR, Hayward M, Buch ER, Bestmann S, Cohen L (2026)  
+[bioRxiv:2026.02.24.707000](https://www.biorxiv.org/content/10.64898/2026.02.24.707000v1.abstract)
+
+### 6
+**Layer 5 Martinotti and pyramidal neurons encode spatial information in the primary motor cortex**  
+Ciralli B, Malfatti T, Kullander K (2026)  
+[bioRxiv:2026.02.25.707928](https://www.biorxiv.org/content/10.64898/2026.02.25.707928v1.abstract)
+
+### 7
+**Vectorized instructive signals in cortical dendrites**  
+Francioni V, Tang VD, Toloza EHS, Ding Z, Brown NJ, Harnett MT (2026)  
+[Nature:1–10](https://dx.doi.org/10.1038/s41586-026-10190-7)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
