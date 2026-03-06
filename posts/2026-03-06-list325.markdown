@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Reading List 325"
+date:   2026-03-06 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**The human insula encodes somatotopic representation of motor execution with an effector-specific connectome map to primary motor cortex**  
+Kerezoudis P, Jensen MA, Klassen BT, Worrell GA, Gregg NM, Ince NF, Van Gompel JJ, Hermes D, Miller KJ (2026)  
+[Proc Natl Acad Sci USA 123:e2517734123](http://dx.doi.org/10.1073/pnas.2517734123)
+
+### 2
+**The methodological foundations of lesion network mapping remain sound**  
+Siddiqi SH, Horn A, Schaper FL, Khosravani S, Cohen AL, Joutsa J, Rolston JD, Ferguson MA, Snider SB, Winkler AM, Akram H, Smith S, Nichols TE, Friston K, Boes AD, Fox MD (2026)  
+[bioRxiv:2026.02.24.707529](https://www.biorxiv.org/content/10.64898/2026.02.24.707529v1.abstract)
+
+### 3
+**PANDORA: Population Archive of Neuroimaging Data Organized for Rapid Analysis**  
+Abivardi A, Webster M, McCarthy P, Alfaro-Almagro F, Radosavljevic L, Miller KL, Jbabdi S, Woolrich MW, Gong W, Beckmann CF, Elliott LT, Nichols TE, Smith SM (2026)  
+[medRxiv:2026.01.05.26343425](https://www.medrxiv.org/content/10.64898/2026.01.05.26343425v1.abstract)
+
+### 4
+**Proprioceptive Cortical Neurons Implement Optimal State Estimation**  
+Palacio-Manzano M, Scheer I, Prsa M (2026)  
+[bioRxiv:2026.02.23.707432](https://www.biorxiv.org/content/10.64898/2026.02.23.707432v2.abstract)
+
+### 5
+**Finding the groove in neural space**  
+Bhatt R, Sheets DE, Jordan PM, Downey JE, Merchant H, Greenspon CM (2026)  
+[medRxiv:2026.02.26.26347169](https://www.medrxiv.org/content/10.64898/2026.02.26.26347169v1.abstract)
+
+### 6
+**A central somatotopic map of the fly leg supports spatially targeted grooming**  
+Elabbady L, Chou G, Sustar A, Cook A, Collman F, Tuthill JC (2026)  
+[bioRxiv:2026.02.27.708590](https://www.biorxiv.org/content/10.64898/2026.02.27.708590v1.abstract)
+
+### 7
+**Closed-loop error damping in human BCI using pre-error motor cortex activity**  
+Gontier C, Hockeimer W, Kunigk NG, Canario E, Endsley LJ, Downey JE, Weiss JM, Dekleva B, Collinger JL (2026)  
+[bioRxiv:2026.02.25.707999](https://www.biorxiv.org/content/10.64898/2026.02.25.707999v1.abstract)
+
+### 8
+**Arm control and its recovery after selective lesions of sensorimotor cortex and the red nucleus: A kinematic study in non-human primates**  
+Baines A, Poll A, Baker AME, Krakauer JW, Baker SN (2025)  
+[bioRxiv:2025.08.06.668715](https://www.biorxiv.org/content/10.1101/2025.08.06.668715v2.abstract)
+
+### 9
+**On attaining and estimating steady walking speed**  
+Wong JD, Darici O, Kuo A (2026)  
+[bioRxiv:2026.03.01.708843](https://www.biorxiv.org/content/10.64898/2026.03.01.708843v1.abstract)
+
+### 10
+**Genetically encoded assembly recorder temporally resolves cellular history**  
+Yan Y, Lu J, Li Z, Zhao Z, Shay TF, Wang S, Lei Y, Wang Y, Chen W, Parker P, Yang H, Qi A, Sun Y, Bergles DE, Baker D, Lin D (2026)  
+[Nature:1–3](http://dx.doi.org/10.1038/s41586-026-10323-y)
+
+### 11
+**Structure, disorder, and dynamics in task-trained recurrent neural circuits**  
+Clark DG, Bordelon B, Zavatone-Veth JA, Pehlevan C (2026)  
+[bioRxiv:2026.03.02.708943](https://www.biorxiv.org/content/10.64898/2026.03.02.708943v1.abstract)
+
+### 12
+**The molecular basis of force selectivity by PIEZO2**  
+Mulhall EM, Yarishkin O, Hill RZ, Koster AK, Patapoutian A (2026)  
+[Nature:1–9](http://dx.doi.org/10.1038/s41586-026-10182-7)
+
+### 13
+**Granule cells reorient cortical manifolds to separate contexts but preserve their geometry**  
+Garcia-Garcia MG, Wojcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Ramos L, Costa RP, Wagner MJ (2026)  
+[bioRxiv:2026.03.03.709240](https://www.biorxiv.org/content/10.64898/2026.03.03.709240v1.abstract)
+
+### 14
+**Consistent EMG encoding during reach and grasp by neurons in motor cortex**  
+Ciucci C, Ma X, Rizzoglio F, Gasper E, Sobinov AR, Miller LE (2026)  
+[bioRxiv:2026.03.02.709159](https://www.biorxiv.org/content/10.64898/2026.03.02.709159v2.abstract)
+
+### 15
+**Data Visualization** (Second Edition)  
+Healy K (2026)  
+[https://socviz.co/](https://socviz.co/)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
