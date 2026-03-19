@@ -1,0 +1,101 @@
+---
+layout: post
+title:  "Reading List 326"
+date:   2026-03-20 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**JEDI: Jointly embedded inference of neural dynamics**  
+Jamkhandi A, Korojy A, Codol O, Lajoie G, Perich MG (2026)  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2603.10489)
+
+### 2
+**A spinal substrate for modular control of natural behavior**  
+Nicola F, Li L, Riesenmy T, Pursley R, Roome RB, Markowitz JE, Levine AJ (2026)  
+[bioRxiv:2026.03.12.711392](https://www.biorxiv.org/content/10.64898/2026.03.12.711392v1.abstract)
+
+### 3
+**Lifelong behavioral screen reveals an architecture of vertebrate aging**  
+Bedbrook CN, Nath RD, Zhang L, Linderman SW, Brunet A, Deisseroth K (2026)  
+[Science 391:eaea9795](http://dx.doi.org/10.1126/science.aea9795)
+
+### 4
+**Competitive interactions shape mammalian brain network dynamics and computation**  
+Luppi AI, Sanz Perl Y, Vohryzek J, Ali H, Mediano PAM, Rosas FE, Milisav F, Suárez LE, Gini S, Gutierrez-Barragan D, Yee Y, Froudist-Walsh S, Gozzi A, Misic B, Deco G, Kringelbach ML (2026)  
+[Nat Neurosci:1–19](http://dx.doi.org/10.1038/s41593-026-02205-3)
+
+### 5
+**Evolutionarily conserved neural dynamics across mice, monkeys, and humans**  
+Codol O, Asclipe M, Sobinov AR, Chen Z, Park J, Hatsopoulos NG, Dudman JT, Gallego JA, Lajoie G, Perich MG (2026)  
+[bioRxivorg:2026.03.06.709637](https://www.biorxiv.org/content/10.64898/2026.03.06.709637v2.abstract)
+
+### 6
+**Peripheral anatomy and central connectivity of proprioceptive sensory neurons in the Drosophila wing**  
+Lesser E, Moussa AJ, Tuthill JC (2026)  
+[Elife 14](http://dx.doi.org/10.7554/eLife.107867)
+
+### 7
+**Spatial transcriptomics reveals human cortical layer and area specification**  
+Qian X et al. (2025)  
+[Nature:1–11](http://dx.doi.org/10.1038/s41586-025-09010-1)
+
+### 8
+**Rapid integration of somatosensory feedback in planning tongue movements**  
+Kim JJ, Dong M, O’Connor DH (2026)  
+[bioRxivorg:2026.03.03.709371](https://www.biorxiv.org/content/10.64898/2026.03.03.709371v1.abstract)
+
+### 9
+**Tactile and pain mechanical sensitivity of the human hand**  
+Giner MJ, Mazar M, Aleixandre-Carrera F, Talavera K, Delicado-Miralles M, Miralles-Liborio V, Velasco E (2026)  
+[bioRxiv:2026.02.23.707479](https://www.biorxiv.org/content/10.64898/2026.02.23.707479v1.abstract)
+
+### 10
+**Dynamic engagement of the motor cortex in controlling movement**  
+Dragoi T, Loschinskey Z, Hasnain MA, DePasquale B, Economo MN (2026)  
+[bioRxiv:2026.01.13.699314](https://www.biorxiv.org/content/10.64898/2026.01.13.699314v1.abstract)
+
+### 11
+**Linking neural manifolds to circuit structure in recurrent networks**  
+Pezon L, Schmutz V, Gerstner W (2026)  
+[Neuron](http://dx.doi.org/10.1016/j.neuron.2025.12.047)
+
+## Superlab Papers
+
+**Multi-task fMRI outperforms resting-state fMRI for revealing task-invariant organization of the human brain**  
+Nettekoven C, Shahbazi A, Arafat B, Skenderija M, Xiang JD, Pinho AL, Diedrichsen J (2026)  
+[bioRxiv:2026.03.09.710558](https://www.biorxiv.org/content/10.64898/2026.03.09.710558v1.abstract)
+
+**Speed-dependent modulation of tactile edge orientation discrimination**  
+Sukumar V, Pruszynski JA (2026)  
+[J Neurophysiol 135:725–732](https://dx.doi.org/10.1152/jn.00499.2025)
+
+## Journal Club
+
+[Ryan Canfield](https://scholar.google.com/citations?user=R2o6H7MAAAAJ), recently graduated PhD student with [Dr. Amy Orsborn](https://faculty.washington.edu/aorsborn/) and [Dr. Gregory Horwitz](https://depts.washington.edu/horwitzlab) at University of Washington, joined us to talk about his recent paper:
+
+**The spatiotemporal structure of neural activity in motor cortex during reaching**  
+Canfield RA, Ouchi T, Fang H, Macagno B, Smith LI, Scholl LR, Orsborn AL (2025)  
+[bioRxiv:2025.10.17.683171](https://www.biorxiv.org/content/10.1101/2025.10.17.683171v1.abstract)
+
+
+YouTube video: [https://youtu.be/F23AW0k4y_M](https://youtu.be/F23AW0k4y_M)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
