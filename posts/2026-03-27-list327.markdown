@@ -1,0 +1,117 @@
+---
+layout: post
+title:  "Reading List 327"
+date:   2026-03-27 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Autogenic spinal excitatory circuit ensures skilled hand movements in primates**  
+Kim G, Tomatsu S, Umeda T, Takei T, Funato T, Seki K (2026)  
+[Proc Natl Acad Sci USA 123:e2525051123](http://dx.doi.org/10.1073/pnas.2525051123)
+
+### 2
+**Inhibitory normalization of error signals improves learning in neural circuits**  
+Eyono RH, Levenstein D, Ghosh A, Cornford J, Richards B (2026)  
+[arXiv [q-bioNC]](http://arxiv.org/abs/2603.17676)
+
+### 3
+**Clarifying the conceptual dimensions of representation in neuroscience**  
+Pohl S, Walker EY, Barack DL, Lee J, Denison RN, Block N, Meyniel F, Ma WJ (2026)  
+[Nat Rev Neurosci:1–16](http://dx.doi.org/10.1038/s41583-026-01030-8)
+
+### 4
+**Duration between rewards controls the rate of behavioral and dopaminergic learning**  
+Burke DA, Taylor A, Jeong H, Lee S, Zsembik L, Wu B, Floeder JR, Naik GA, Chen R, Namboodiri VMK (2026)  
+[Nat Neurosci:1–15](http://dx.doi.org/10.1038/s41593-026-02206-2)
+
+### 5
+**Limb state accounts for differences between motor imagery and action in motor cortex**  
+Johnson SN, Rybář M, Greenspon CM, Moore DD, Downey JE, Dekleva BM, Hatsopoulos NG (2026)  
+[medRxiv:2026.03.13.26348353](https://www.medrxiv.org/content/10.64898/2026.03.13.26348353v1.abstract)
+
+### 6
+**Extent of damage to descending output from cortex rather than to specific cortical regions drives the emergence of flexor synergy in non-human primates**  
+Baines A, Glover IS, Baker AME, Krakauer JW, Baker SN (2026)  
+[bioRxivorg:2026.03.04.709517](https://www.biorxiv.org/content/10.64898/2026.03.04.709517v1.abstract)
+
+### 7
+**Nested spatiotemporal theta-gamma waves organize hierarchical processing across the mouse visual cortex**  
+Harris B, Gong P (2026)  
+[Nat Commun 17:2629](http://dx.doi.org/10.1038/s41467-026-68893-4)
+
+### 8
+**Overlap in neural representations of coordinated wrist and finger movements in human motor cortex**  
+Emonds AMX, Okorokova EV, Blumenthal GH, Collinger JL, Bensmaia SJ, Miller LE, Downey JE, Sobinov AR (2026)  
+[bioRxiv:2026.03.19.712976](https://www.biorxiv.org/content/10.64898/2026.03.19.712976v2.abstract)
+
+### 9
+**Using tools as cues for motor adaptation in virtual reality**  
+King AM, Boulrice JJ, Modchalingam S, Mikula L, ’t Hart BM, Henriques DYP (2026)  
+[J Neurophysiol 135:642–652](http://dx.doi.org/10.1152/jn.00452.2025)
+
+### 10
+**Interhemispheric transfer of sensory and working memory information is dictated by behavioral strategy**  
+Avidan E, Sherer SD, Gilad A (2026)  
+[bioRxiv:2026.03.18.712808](https://www.biorxiv.org/content/10.64898/2026.03.18.712808v1.abstract)
+
+### 11
+**The digital sphinx: Can a worm brain control a fly body?**  
+Brunton BW, Abe ETT, Hu LJ, Tuthill JC (2026)  
+[bioRxiv:2026.03.20.713233](https://www.biorxiv.org/content/10.64898/2026.03.20.713233v1.abstract)
+
+### 12
+**Processes within the subspaces leading to changes in performance and keeping it unchanged**  
+De SD, Latash ML (2026)  
+[bioRxiv:2026.03.23.713586](https://www.biorxiv.org/content/10.64898/2026.03.23.713586v1.abstract)
+
+### 13
+**A right-hemispheric language network at single-neuron resolution**  
+Schiffl LF, Held LM, Waitzmann F, Eder M, Chen H, Alkan G, Favero P, Utzschmid A, Eisenkolb VM, Grosse-Wentrup M, Gjorgjieva J, Wagner A, Gempt J, Meyer B, Jacob SN (2026)  
+[bioRxiv:2026.03.24.713937](https://www.biorxiv.org/content/10.64898/2026.03.24.713937v1.abstract)
+
+### 14
+**Functional hierarchy of the human neocortex across the lifespan**  
+Taylor HP IV, Huynh KM, Thung K-H, Lin G, Lyu W, Lin W, Ahmad S, Yap P-T (2026)  
+[Nature:1–10](http://dx.doi.org/10.1038/s41586-026-10219-x)
+
+### 15
+**Computational framework to predict and shape human–machine interactions in closed-loop, co-adaptive neural interfaces**  
+Madduri MM, Yamagami M, Li SJ, Burckhardt S, Burden SA, Orsborn AL (2026)  
+[Nat Mach Intell 8:372–387](http://dx.doi.org/10.1038/s42256-026-01194-z)
+
+## Superlab Papers
+
+**How does the cerebellum contribute to cognitive functions?**  
+Diedrichsen J, McDougle SD (2026)  
+[PLoS Biol 24:e3003688](http://dx.doi.org/10.1371/journal.pbio.3003688)
+
+
+## Journal Club
+
+[Tatiana Engel](https://engel-lab.princeton.edu), (Princeton University), recently joined us to talk about her recent paper:
+
+**The dynamics and geometry of choice in the premotor cortex**  
+Genkin M, Shenoy KV, Chandrasekaran C, Engel TA (2025)  
+[Nature 645, 168–176](https://dx.doi.org/10.1038/s41586-025-09199-1)
+
+YouTube video: [https://youtu.be/e2rqL0VA5IE](https://youtu.be/e2rqL0VA5IE)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
