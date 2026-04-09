@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 328"
+date:   2026-04-10 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Prefrontal cortex encodes behavior states decoupled from motor execution**  
+Rautio IV, Nevjen F, Hem I, Dunn BA, Whitlock JR (2026)  
+[Cell Rep 45:117138](https://dx.doi.org/10.1016/j.celrep.2026.117138)
+
+### 2
+**Prenatal and early postnatal periods differentially shape the maturation of human cortical microstructure and myelin**  
+Tsigaras T, Dukart J, Oldham S, Eickhoff SB, Paquola C (2026)  
+[PLoS Biol 24:e3003722](https://dx.doi.org/10.1371/journal.pbio.3003722)
+
+### 3
+**Laminar CBV and BOLD response characteristics over time and space in the human primary somatosensory cortex at 7T**  
+Dresbach S, Gulban OF, Steinbach T, Eck J, Kashyap S, Kaas A, Weiskopf N, Goebel R, Huber R (2026)  
+[Imaging Neurosci (Camb) 4:IMAG.a.1157](https://dx.doi.org/10.1162/IMAG.a.1157)
+
+### 4
+**Cognition emerges from phase dynamics of intrinsic coordination**  
+Song Y, Chen J, Calhoun VD, Iraji A (2026)  
+[bioRxivorg:2026.03.26.714488](https://www.biorxiv.org/content/10.64898/2026.03.26.714488v1.abstract)
+
+### 5
+**Rapid concerted switching of the neural code in the inferotemporal cortex**  
+Shi Y, Bi D, Hesse JK, Lanfranchi FF, Chen S, Tsao DY (2026)  
+[Nature:1–10](https://dx.doi.org/10.1038/s41586-026-10267-3)
+
+### 6
+**Thalamic activation of the visual cortex at the single-synapse level**  
+Chen Y, Kloos M, Varga Z, Zhang Y, Piro I, Sato TK, Sakmann B, Nelken I, Konnerth A (2026)  
+[Science 391:1349–1354](https://dx.doi.org/10.1126/science.aec9923)
+
+### 7
+**Reciprocal fronto-parietal interactions support motor anticipation during sequential reaching**  
+Bardanikas G, Jana S, Meirhaeghe N, Barthelemy F, Riehle A, Grün S, Brovelli A, Brochier T (2026)  
+[bioRxiv:2026.03.03.709252](https://www.biorxiv.org/content/10.64898/2026.03.03.709252v1.abstract)
+
+### 8
+**Active dissociation of intracortical spiking and high gamma activity**  
+Lei T, Scheid MR, Flint RD, Glaser JI, Slutzky MW (2026)  
+[Nature:1–7](https://dx.doi.org/10.1038/s41586-026-10331-y)
+
+### 9
+**Cerebellar contributions to action and cognition: Prediction, timescale, and continuity**  
+Tsay JS, Ivry RB (2026)  
+[Proc Natl Acad Sci USA 123:e2524258123](https://dx.doi.org/10.1073/pnas.2524258123)
+
+### 10
+**Stretch-evoked motor responses in the brainstem are modulated by task instructions**  
+Nikonowicz RC, Reddy NA, Medina MC, Bright MG, Sergi F (2026)  
+[bioRxiv:2026.04.03.716388](https://www.biorxiv.org/content/10.64898/2026.04.03.716388v1.abstract)
+
+### 11
+**Faster fowl fall frequently: speed and force regulation during turning maneuvers by guinea fowl on high and low friction terrains**  
+Goldsmith H, Hall J, Daley MA (2026)  
+[J Exp Biol 229:jeb250929](https://dx.doi.org/10.1242/jeb.250929)
+
+### 12
+**Extracellular spike waveforms: Morphology, biophysics, and classification strategies**  
+Sun SH, Ibbotson MR (2026)  
+[J Neurosci 46:e1741252025](https://dx.doi.org/10.1523/JNEUROSCI.1741-25.2025)
+
+### 13
+**Open questions in elucidating neural mechanisms underlying sensory-guided motor control**  
+Q&A (2026)  
+[Nat Commun 17:3260](https://dx.doi.org/10.1038/s41467-026-71150-3)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
