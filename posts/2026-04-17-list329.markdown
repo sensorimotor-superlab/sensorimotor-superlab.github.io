@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Reading List 329"
+date:   2026-04-17 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Striatum-wide dopamine encodes trajectory errors separated from value**  
+Brown EH, Zi Y, Vu MA et al. (2026)  
+[Nature 652:424–433](https://doi.org/10.1038/s41586-025-10083-1)
+
+### 2
+**Flexible integration of corollary discharge and sensory feedback signals in somatosensory cortex**  
+An X, Chowdhury RH, Blum KP, Miller LE, Glaser JI (2026)  
+[bioRxiv:2026.04.02.716126](https://www.biorxiv.org/content/10.64898/2026.04.02.716126v2)
+
+### 3
+**Brain–computer interface–based neurofeedback training enables transferable control of cortical state switching in humans**  
+Iwama S, Matsuoka A, Ushiba J (2026)  
+[Proc Natl Acad Sci USA 123:e2525769123](https://doi.org/10.1073/pnas.2525769123)
+
+### 4
+**Translation of neurotechnologies**  
+Schalk G, Brunner P, Allison BZ et al. (2024)  
+[Nat Rev Bioeng 2:637–652](https://doi.org/10.1038/s44222-024-00185-2)
+
+### 5
+**Orbitofrontal cortex drives predictive filtering of sensory responses**  
+Tsukano H, Garcia MM, Dandu PR et al. (2026)  
+[Nat Neurosci 29:888–900](https://doi.org/10.1038/s41593-026-02217-z)
+
+### 6
+**Categorization is 'baked' into the brain**  
+Barrett LF, Miller EK (2026)  
+[Nat Rev Neurosci](https://doi.org/10.1038/s41583-026-01036-2)
+
+### 7
+**Neural sequences underlying directed turning in Caenorhabditis elegans**  
+Kramer TS, Wan FK, Pugliese SM et al. (2026)  
+[Nat Neurosci](https://doi.org/10.1038/s41593-026-02257-5)
+
+### 8
+**Neural representation of action grammar structure in primate frontal cortex**  
+Tian LY, Hanuska DJ, Garzón Gupta K, Liu Y, Wang XJ, Tenenbaum JB, Freiwald WA (2026)  
+[bioRxiv:2026.01.18.700235](https://www.biorxiv.org/content/10.64898/2026.01.18.700235v2)
+
+### 9
+**Brainwide blood volume reflects opposing neural populations**  
+Landemard A, Krumin M, Harris KD et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-10350-9)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
