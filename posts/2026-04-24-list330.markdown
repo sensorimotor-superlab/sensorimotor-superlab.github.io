@@ -1,0 +1,89 @@
+---
+layout: post
+title:  "Reading List 330"
+date:   2026-04-24 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Recurrent cortical networks encode natural sensory statistics via sequence filtering**  
+Deveau CE, Zhou Z, LaFosse PK, Deng Y, Mirbagheri S, Steinmetz N, Histed MH (2026)  
+[Neuron 114:1489-1503.e4](https://dx.doi.org/10.1016/j.neuron.2025.12.024)
+
+### 2
+**Overcoming the ceiling effects of experts’ motor expertise through active haptic training**  
+Hirano M, Sakurada M, Furuya S (2020)  
+[Sci Adv 6](https://dx.doi.org/10.1126/sciadv.abd2558)
+
+### 3
+**Enhanced somatosensory inhibition sharpens hand representation and sensorimotor skills in pianists**  
+Hirano M, Kimoto Y, Shiotani S, Furuya S (2025)  
+[J Neurosci](https://www.jneurosci.org/content/early/2025/01/01/JNEUROSCI.1486-24.2024.abstract)
+
+### 4
+**A central somatotopic map of the fly leg supports spatially targeted grooming**  
+Elabbady L, Chou GM, Sustar A, Cook A, Collman F, Tuthill JC (2026)  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2026.03.045)
+
+### 5
+**Language models transmit behavioural traits through hidden signals in data**  
+Cloud A, Le M, Chua J, Betley J, Sztyber-Betley A, Mindermann S, Hilton J, Marks S, Evans O (2026)  
+[Nature 652:615–621](https://dx.doi.org/10.1038/s41586-026-10319-8)
+
+### 6
+**Proprioceptive judgements made with the hand and the jaw: two distinct but functionally related body parts**  
+Robertson LS, Butler AA, Fisher G, Gandevia SC, Héroux ME (2026)  
+[Sci Rep:1–16](https://dx.doi.org/10.1038/s41598-026-42635-4)
+
+### 7
+**Neuronal competition shapes the encoding, consolidation, and retrieval of precise spatial memories in mice**  
+Wang Y, Wu B, Jacob AD, Ramsaran AI, Fallahi A, Jung JH, Fang X, Duncan KD, Schlichting ML, Frankland PW, Josselyn SA (2026)  
+[Curr Biol](https://dx.doi.org/10.1016/j.cub.2026.03.058)
+
+### 8
+**Somatosensory input drives membrane potential dynamics in motor cortex during voluntary limb movement**  
+Voigt BC, Rau F, Estebanez L, Poulet JFA (2026)  
+[PLoS Biol 24:e3003749](https://dx.doi.org/10.1371/journal.pbio.3003749)
+
+### 9
+**Rhesus macaque versus rat divergence in the corticospinal projectome**  
+Sinopoulou E et al., (2022)  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2022.07.002)
+
+### 10
+**A neural geometry for forelimb proprioception in the cervical spinal cord**  
+Bollu T, Goulding M (2025)  
+[bioRxiv:2025.09.26.678887](https://www.biorxiv.org/content/10.1101/2025.09.26.678887v1.abstract)
+
+### 11
+**Objects feel stiffer in the nondominant hand when comparing between hands**  
+Arusi S, Leib R, Nisky I (2026)  
+[J Neurophysiol 135:1034–1048](https://dx.doi.org/10.1152/jn.00388.2025)
+
+### 12
+**Stability of neural manifolds at minimal dimensionality despite motor representational drift**  
+Abdulla MU, Clarke SE, Jun EJ, Nuyujukian P (2026)  
+[bioRxiv:2026.01.30.702162](https://www.biorxiv.org/content/10.64898/2026.01.30.702162v1.abstract)
+
+### 13
+**Outplaying elite table tennis players with an autonomous robot**  
+Dürr P et al. (2026)  
+[Nature 652:886–891](https://dx.doi.org/10.1038/s41586-026-10338-5)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
