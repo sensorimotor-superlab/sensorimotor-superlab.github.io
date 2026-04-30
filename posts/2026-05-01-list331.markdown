@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Reading List 331"
+date:   2026-05-01 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Universal geometry of compositional construction in prefrontal cortex**  
+Manakov M, Proskurin M, Wang H, Kuleshova E, Lustig A, Behnam R, Druckmann S, Tervo DGR, Koay SA, Karpova AY (2026)  
+[bioRxiv:2026.04.23.720375](https://www.biorxiv.org/content/10.64898/2026.04.23.720375v1.abstract)
+
+### 2
+**Parallel processing chains span cytoarchitectures to organize association cortex**  
+Gordon EM et al. (2026)  
+[bioRxiv:2026.04.21.717753](https://www.biorxiv.org/content/10.64898/2026.04.21.717753v1.abstract)
+
+### 3
+**A mesoscale optogenetics system for precise and robust stimulation of the primate cortex**  
+Li H, Lu D, Liao H, Zhang J, Tang J, He F, Li L, Zhang Y, Leng X, Li C, Poo M-M, Liu Z (2026)  
+[Neuron 114:1006-1020.e4](https://dx.doi.org/10.1016/j.neuron.2025.12.001)
+
+### 4
+**Astrocytes connect specific brain regions through plastic networks**  
+Cooper ML, Selles MC, Cammer M, Redd C, Gildea HK, Sall J, Chiurri KE, Cheung P, Wheeler DG, Saab AS, Liddelow SA, Chao MV (2026)  
+[Nature:1–9](https://dx.doi.org/10.1038/s41586-026-10426-6)
+
+### 5
+**A multimodal approach for visualizing and identifying electrophysiological cell types in vivo**  
+Lee EK, Gül AE, Heller G, Lakunina A, Yu H, Shelton A, Olsen S, Steinmetz NA, Hurwitz C, Jaramillo S, Przytycki PF, Chandrasekaran C (2026)  
+[Nat Commun:1–21](https://dx.doi.org/10.1038/s41467-026-71331-0)
+
+### 6
+**The prefrontal cortex controls memory organization in the hippocampus**  
+de Sousa AF, Zeidler ZE, Almeida-Filho DG, Shen Y, Luchetti A, Simanian S, Mardini M, DeNardo LA, Silva AJ (2026)  
+[Nat Neurosci:1–12](https://dx.doi.org/10.1038/s41593-026-02231-1)
+
+### 7
+**A cortical circuit for orchestrating oromanual food manipulation**  
+An X, Li Y, Matho K, Mohan H, Xu XH, Boato F, Whishaw IQ, Kepecs A, Huang ZJ (2026)  
+[Neuron](https://dx.doi.org/10.1016/j.neuron.2026.02.010)
+
+### 8
+**Sensory basis of speech motor learning and memory**  
+Rao N, Gendron R, Manning TF, Ostry DJ (2026)  
+[Proc Natl Acad Sci USA 123:e2525468123](https://dx.doi.org/10.1073/pnas.2525468123)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
