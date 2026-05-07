@@ -1,0 +1,154 @@
+---
+layout: post
+title:  "Reading List 332"
+date:   2026-05-08 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Human motor memory retention requires fronto-parietal circuit plasticity**  
+Ebrahimi S, Darainy M, Manning TF, Lewis-Hoeber E, Ostry DJ (2026)  
+[J Neurophysiol 135:1175–1185](https://dx.doi.org/10.1152/jn.00009.2026)
+
+### 2
+**Premotor cortex uses a compositional neural geometry to plan words**  
+Abramovich Krasa B, Kunz EM, Kamdar F, Avansino D, Hahn N, Singh A, Card NS, Wairagkar M, Iacobacci C, Hochberg LR, Brandman DM, Stavisky SD, Henderson JM, Willett FR, Druckmann S (2026)  
+[bioRxiv:2026.04.27.721195](https://www.biorxiv.org/content/10.64898/2026.04.27.721195v1.abstract)
+
+### 3
+**Recovery of dexterous motor control via non-monosynaptic corticospinal pathways**  
+Sorensen E, Borda L, Ostrowski J, de Freitas RM, Verma N, Fisher LE, Wittenberg GF, Gerszten P, Weber DJ, Pirondini E, Gorassini M, Krakauer JW, Capogrosso M (2026)  
+[medRxiv:2026.03.24.26348827](https://www.medrxiv.org/content/10.64898/2026.03.24.26348827v2.abstract)
+
+### 4
+**Predictive pursuit emerges in high-dimensional recurrent neural networks**  
+Redman WT, Dinc FD, Lin X, Chan MG, Alexander AS (2026)  
+[bioRxiv:2026.04.23.720457](https://www.biorxiv.org/content/10.64898/2026.04.23.720457v1.abstract)
+
+### 5
+**Fast corrective responses in redundant motor control are shaped by intrinsic constraints of movement patterns**  
+Kobayashi T, Nozaki D (2026)  
+[bioRxiv:2026.03.11.711221](https://www.biorxiv.org/content/10.64898/2026.03.11.711221v1.abstract)
+
+### 6
+**Large-scale electrophysiology at single-spike resolution**  
+Siegle JH, Steinmetz NA (2026)  
+[Nat Rev Neurosci](https://dx.doi.org/10.1038/s41583-026-01042-4)
+
+### 7
+**Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges**  
+Silva AB, Marathe SA, Greicius QR, Xu D, Jain S, Chung JE, Yang X, Khambhati AN, Leonard MK, Kleen JK, Chang EF (2026)  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-026-02258-4)
+
+### 8
+**Infinite horizon control with nonlinear dynamics models reproduces temporal modulation of reaching movements**  
+De Comite A, Kalidindi HT, Pruszynski JA, Crevecoeur F (2026)  
+[Neural Comput 38:823–844](https://dx.doi.org/10.1162/NECO.a.1515)
+
+### 9
+**Granule cells reorient cortical manifolds to separate contexts but preserve their geometry**  
+Garcia-Garcia MG, Wojcik MJ, Thota S, Drake L, Otchere A, Akinwale O, Ramos L, Costa RP, Wagner MJ (2026)  
+[bioRxiv:2026.03.03.709240](https://www.biorxiv.org/content/10.64898/2026.03.03.709240v1.abstract)
+
+### 10
+**Premotor cortex uses a compositional neural geometry to plan words**  
+Abramovich Krasa B, Kunz EM, Kamdar F, Avansino D, Hahn N, Singh A, Card NS, Wairagkar M, Iacobacci C, Hochberg LR, Brandman DM, Stavisky SD, Henderson JM, Willett FR, Druckmann S (2026)  
+[bioRxiv:2026.04.27.721195](https://www.biorxiv.org/content/10.64898/2026.04.27.721195v1.abstract)
+
+### 11
+**Whole-body 3D kinematics of freely behaving Drosophila**  
+Ispizua JI, Abe ETT, Yan J, Othayoth R, Sawtelle S, Atkins F, Shiozaki H, Meier NR, Wong J, Tran TT, Mori CK, Voigts J, Stern DL, Brunton BW, Tuthill JC, Johnson RE (2026)  
+[bioRxiv:2026.05.03.722293](https://www.biorxiv.org/content/10.64898/2026.05.03.722293v1.abstract)
+
+### 12
+**A communication subspace relays context-dependent actions from human prefrontal to motor cortex**  
+Binish N, Terlau J, Martini J, Lin JJ, Knight RT, Helfrich RF (2026)  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-026-02290-4)
+
+### 13
+**Adaptive problem solving in the primate frontal cortex**  
+Ramadan M, Gosztolai A, Jazayeri M (2026)  
+[bioRxiv:2026.05.04.722785](https://www.biorxiv.org/content/10.64898/2026.05.04.722785v1.abstract)
+
+### 14
+**Evidence from Formal Logical Reasoning Reveals that the Language of Thought is not Natural Language**  
+Kean H, Fung A, Jaggers P, Chen J, Rule J, Benn Y, Tenenbaum J, Piantadosi S, Varley R, Fedorenko E (2025)  
+[bioRxiv:2025.07.26.666979](https://www.biorxiv.org/content/10.1101/2025.07.26.666979v3.abstract)
+
+### 15
+**Neural coding of arm and hand actions is spatially organized in motor cortex**  
+Chehade NG, Gharbawie O (2026)  
+[bioRxiv:2026.05.02.722416](https://www.biorxiv.org/content/10.64898/2026.05.02.722416v1.abstract)
+
+### 16
+**Involuntary feedback responses reflect a representation of partner actions**  
+Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, Cashaback JGA (2026)  
+[eLife](https://dx.doi.org/10.7554/eLife.109734.2)
+
+### 17
+**Plasticity and language in the anaesthetized human hippocampus**  
+Katlowitz KA et al. (2026)  
+[Nature](https://dx.doi.org/10.1038/s41586-026-10448-0)
+
+### 18
+**Neuromodulation enables transient flexible control of motoneurons**  
+T. Consul N, Avrillon S, Bracklein M, Gallego JA, Farina D (2026)  
+[bioRxiv:2026.05.01.721852](https://www.biorxiv.org/content/10.64898/2026.05.01.721852v1.abstract)
+
+### 19
+**Multiplexed magnetic resonance imaging**  
+Li Y, Guo R, Zhao Y, Jin W, Ke Z, Chen L, Chen X, Tang W, Li Y, Liang Z-P (2026)  
+[Nature](https://dx.doi.org/10.1038/s41586-026-10475-x)
+
+### 20
+**Human hippocampal ripples coordinate planning sequences and compositional representations in neocortex**  
+He L, Wang X, Zhang J, Xiao Z, Hu X, Schwartenbeck P, Bakermans J, Behrens T, Liu Y (2026)  
+[Nat Neurosci](https://dx.doi.org/10.1038/s41593-026-02291-3)
+
+### 21
+**Evolution imposes an inductive bias that alters and accelerates learning dynamics**  
+Midler B, Pan-Vazquez A (2026)  
+[bioRxiv:2026.05.04.722746](https://www.biorxiv.org/content/10.64898/2026.05.04.722746v1.abstract)
+
+### 22
+**Single human fingertip mechanoreceptive afferents simultaneously encode multidimensional aspects of touch**  
+Lang VA, Wasling HB, Ackerley R, Wessberg J (2026)  
+[J Physiol](https://dx.doi.org/10.1113/JP290540)
+
+## Journal Club
+
+- [Arseny Finklestein](https://www.finkelstein.sites.tau.ac.il) (Tel Aviv, Janelia) joined us to talk about his recent paper:
+
+  **Connectivity underlying motor cortex activity during goal-directed behaviour**  
+  Finkelstein A, Daie K, Rózsa M, Darshan R, Svoboda K (2025)  
+  [Nature](https://dx.doi.org/10.1038/s41586-025-09758-6)
+
+
+  YouTube video: [https://youtu.be/BRgyCb6dYDs?si=F2CC4Zsyef1Vizlt](https://youtu.be/BRgyCb6dYDs?si=F2CC4Zsyef1Vizlt)
+
+- Huidi Li joined us from the [Earl Miller lab](https://ekmillerlab.mit.edu) at MIT to talk about her recent paper:
+
+  **Neural subspace reorganization reflects value-based decision making**  
+  Li H, Chrysanthidis N, Brincat SL, Rose J, Miller EK (2026)  
+  [bioRxiv:2026.02.02.703171](https://www.biorxiv.org/content/10.64898/2026.02.02.703171v1.abstract)
+
+  YouTube video: [https://youtu.be/soDPs8zdua0?si=ir2A26UspfxjwyYS](https://youtu.be/soDPs8zdua0?si=ir2A26UspfxjwyYS)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
