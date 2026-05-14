@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 333"
+date:   2026-05-15 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**White matter micro- and macrostructure brain charts for the human lifespan**  
+Kim M. E. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-10454-2)
+
+### 2
+**A synaptic locus of song learning**  
+Schreiner D. C., Brudner S., Li A., Pearson J., Mooney R. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-10510-x)
+
+### 3
+**Spatiotemporal encoding of touch signals in the human somatosensory and motor cortices**  
+Cattabriga M. et al. (2026)  
+[bioRxiv:2026.05.08.721831](https://doi.org/10.64898/2026.05.08.721831)
+
+### 4
+**Learning a reversed bicycle disrupts predictive control and induces interference with the normal bicycle**  
+Nietschmann P., Franklin D. W. (2026)  
+[bioRxiv:2026.05.08.723825](https://doi.org/10.64898/2026.05.08.723825)
+
+### 5
+**Population-level encoding of somatosensation in mouse sensorimotor cortex**  
+Lipton M. H., Park S., Dadarlat M. C. (2026)  
+[Journal of Neurophysiology jn.00005.2026](https://doi.org/10.1152/jn.00005.2026)
+
+### 6
+**A framework for quantifying the mechanics of dexterous grasp**  
+Sobinov A. R. et al. (2026)  
+[bioRxiv:2026.05.05.723084](https://doi.org/10.64898/2026.05.05.723084)
+
+### 7
+**Neural population geometry and optimal coding of tasks with shared latent structure**  
+Wakhloo A. J., Slatton W., Chung S. (2026)  
+[Nature Neuroscience 29:682-692](https://doi.org/10.1038/s41593-025-02183-y)
+
+### 8
+**Laminar organization of cellular microcircuits modulating human interictal epileptiform discharges**  
+Silva A. B. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02258-4)
+
+### 9
+**Motor abstraction training generalizes to the refinement of specific movement patterns**  
+Sun Z., Xie Z., McDougle S. D. (2026)  
+[bioRxiv:2026.05.05.722946](https://doi.org/10.64898/2026.05.05.722946)
+
+### 10
+**Tuft dendrites in frontal motor cortex enable flexible learning**  
+Maristany de las Casas E. et al. (2026)  
+[Science 392](https://doi.org/10.1126/science.adx4358)
+
+
+## Superlab Papers
+
+**Sequence preparation is not always associated with a reaction time cost**  
+Panjehpour A., Kashefi M., Diedrichsen J., Pruszynski J. A. (2026)  
+[Journal of Neurophysiology 135:1398-1407](https://doi.org/10.1152/jn.00601.2025)
+
+**A context-free model of savings in motor learning**  
+Shahbazi M., Codol O., Michaels J. A., Gribble P. L. (2026)  
+[eLife 14](https://doi.org/10.7554/elife.107423.3)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
