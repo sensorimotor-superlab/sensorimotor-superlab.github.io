@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Reading List 334"
+date:   2026-05-22 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Simple input–output dependencies explain neuronal activity**  
+Lynn C. W. (2026)  
+[Nature Physics](https://doi.org/10.1038/s41567-026-03306-3)
+
+### 2
+**This paper changed my life: Appreciating John Hopfield’s brilliant neural network**  
+Geffen M. (2026)  
+[The Transmitter](https://doi.org/10.53053/lhia1484)
+
+### 3
+**Neural networks and physical systems with emergent collective computational abilities.**  
+Hopfield J. J. (1982)  
+[Proceedings of the National Academy of Sciences 79:2554-2558](https://doi.org/10.1073/pnas.79.8.2554)
+
+### 4
+**Neural representation of action symbols in primate frontal cortex**  
+Tian L. Y. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-10297-x)
+
+### 5
+**Neural correlates of perceptual decision-making in the primary somatosensory cortex**  
+Armstrong A. G., Vlasov Y. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2514107123)
+
+### 6
+**Neural xenografts contribute to long-term recovery in stroke via molecular graft-host crosstalk**  
+Weber R. Z. et al. (2025)  
+[Nature Communications 16](https://doi.org/10.1038/s41467-025-63725-3)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
