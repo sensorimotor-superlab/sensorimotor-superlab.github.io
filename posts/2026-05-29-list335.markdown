@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Reading List 335"
+date:   2026-05-29 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Voluntary Dissociation of Motor Unit Activity in the Vastii Muscles**  
+Haller D. et al. (2026)  
+[The Journal of Neuroscience e1982252026](https://doi.org/10.1523/jneurosci.1982-25.2026)
+
+### 2
+**Fixation duration on natural scenes is explained by memory encoding not processing demand**  
+Sulewski P., Amme C., Hebart M. N., König P., Kietzmann T. C. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02285-1)
+
+### 3
+**When anticipation is not enough: a mixture of robust and adaptive feedback control strategies improve reaching in dynamic environments**  
+Kalidindi H. T., Crevecoeur F. (2026)  
+[The Journal of Neuroscience e2158252026](https://doi.org/10.1523/jneurosci.2158-25.2026)
+
+### 4
+**Reward magnitude determines reinforcement learning efficiency**  
+Gong S., Martell A., Dudman J. T., Coddington L. T. (2026)  
+[Science 392](https://doi.org/10.1126/science.aeb0813)
+
+### 5
+**A critical initialization for biological neural networks**  
+Pachitariu M. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-10528-1)
+
+### 6
+**A systematic investigation reveals dissociable effects of ageing on implicit and explicit components of sensorimotor learning**  
+Cisneros E., Karny S., Ivry R. B., Tsay J. S. (2026)  
+[Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02468-7)
+
+## Superlab Papers
+
+**SUITPy: A Python-based toolbox for the analysis of cerebellar functional and anatomical imaging data across the human lifespan**  
+Wang Y. et al. (2026)  
+[bioRxiv:2026.05.14.724397](https://doi.org/10.64898/2026.05.14.724397)
+
+## Journal Club
+
+[Nishal Shah](https://profiles.rice.edu/faculty/nishal-shah) (Rice Univ.) joined us to talk about his recent paper:
+
+**Pseudo-linear summation explains neural geometry of multi-finger movements in human premotor cortex**  
+Shah N. P. et al. (2025)  
+[Nature Communications 16](https://doi.org/10.1038/s41467-025-59039-z)
+
+YouTube video: [https://youtu.be/4jd4eRIls0I](https://youtu.be/4jd4eRIls0I)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
