@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Reading List 336"
+date:   2026-06-05 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Neuropixels Opto: combining high-resolution electrophysiology and optogenetics**  
+Lakunina A. A. et al. (2026)  
+[Nature Methods](https://doi.org/10.1038/s41592-026-03076-z)
+
+### 2
+**Neural networks learn forward dynamics when freed from numerical integration**  
+Bahdasariants S., Yakovenko S. (2026)  
+[bioRxiv:2026.05.27.728310](https://doi.org/10.64898/2026.05.27.728310)
+
+### 3
+**Dynamic compression of whole-brain neural trajectories during human motor learning**  
+Mohseni H. et al. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2601546123)
+
+### 4
+**Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial**  
+de Freitas R. M. et al. (2026)  
+[Nature Medicine](https://doi.org/10.1038/s41591-026-04435-1)
+
+### 5
+**Neural similarity predicts whether strangers become friends**  
+Shen Y. L. et al. (2025)  
+[Nature Human Behaviour 9:2285-2298](https://doi.org/10.1038/s41562-025-02266-7)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
