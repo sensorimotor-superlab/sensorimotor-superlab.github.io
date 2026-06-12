@@ -9,8 +9,110 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.9.38</generator>
-<lastBuildDate>Fri, 05 Jun 2026 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 12 Jun 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 337</title>
+  <link>https://superlab.ca/posts/2026-06-12-list337.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Neuropixels Opto: combining high-resolution electrophysiology and optogenetics</strong><br>
+Lakunina A. A. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41592-026-03076-z">Nature Methods 23:1207-1216</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Neural networks learn forward dynamics when freed from numerical integration</strong><br>
+Bahdasariants S., Yakovenko S. (2026)<br>
+<a href="https://doi.org/10.64898/2026.05.27.728310">bioRxiv:2026.05.27.728310</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Dynamic compression of whole-brain neural trajectories during human motor learning</strong><br>
+Mohseni H. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1073/pnas.2601546123">Proceedings of the National Academy of Sciences 123</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial</strong><br>
+de Freitas R. M. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41591-026-04435-1">Nature Medicine</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Neural similarity predicts whether strangers become friends</strong><br>
+Shen Y. L. et al.&nbsp;(2025)<br>
+<a href="https://doi.org/10.1038/s41562-025-02266-7">Nature Human Behaviour 9:2285-2298</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>A motor basis for a foreign accent? Linguistic context constrains the generalization of second language speech motor plans</strong><br>
+Heyland L., Palatinus S., Shiller D. M., Lametti D. R. (2026)<br>
+<a href="https://doi.org/10.31234/osf.io/y6bqg_v1">10.31234/osf.io/y6bqg_v1</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Human learning of noninvasive brain–computer interfaces via manifold geometry</strong><br>
+Busch E. L., Fincke E. C., Lajoie G., Krishnaswamy S., Turk-Browne N. B. (2026)<br>
+<a href="https://doi.org/10.1038/s41593-026-02311-2">Nature Neuroscience</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>Individual locomotor bias drives counterclockwise motion in pedestrian crowds</strong><br>
+Echeverría-Huarte I. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41467-026-73713-w">Nature Communications 17</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Peripheral mechanisms of tactile sensation in fish</strong><br>
+Tan K., Gracheva E. O., Bagriantsev S. N. (2026)<br>
+<a href="https://doi.org/10.1016/j.conb.2026.103226">Current Opinion in Neurobiology 99:103226</a></p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">10</h3>
+<p><strong>The cortex as a central pattern generator</strong><br>
+Yuste R., MacLean J. N., Smith J., Lansner A. (2005)<br>
+<a href="https://doi.org/10.1038/nrn1686">Nature Reviews Neuroscience 6:477-483</a></p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">11</h3>
+<p><strong>The puzzling success of overparameterization: Lottery tickets or escape dimensions?</strong><br>
+Martinelli F, Brea J, Gerstner W (2026)<br>
+<a href="https://dx.doi.org/10.5075/EPFL.20.500.14299/263577">10.5075/EPFL.20.500.14299/263577</a></p>
+</section>
+<section id="superlab-papers" class="level2">
+<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
+<p><strong>Online planning of sequential actions</strong><br>
+Diedrichsen J., Kashefi M., Nazerzadeh A., Pruszynski J. A. (2026)<br>
+<a href="https://doi.org/10.1016/j.tics.2026.05.006">Trends in Cognitive Sciences</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-06-12-list337.html</guid>
+  <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 336</title>
   <link>https://superlab.ca/posts/2026-06-05-list336.html</link>
@@ -1878,108 +1980,6 @@ Donà E, Gahan JM, Lau P, Jeschke J, Ott T, Reinhard K, Sinigaglia C, Treur JL, 
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-01-16-list318.html</guid>
   <pubDate>Fri, 16 Jan 2026 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 317</title>
-  <link>https://superlab.ca/posts/2026-01-09-list317.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>Mental representation without neural representation: Understanding the evidence</strong><br>
-Krakauer JW, Ramsey W<br>
-<a href="https://osf.io/preprints/psyarxiv/cezjn_v1">PsyArXiv</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>Janet Shibley Hyde Sinks Stereotypes With Data</strong><br>
-Armstrong K<br>
-<a href="https://www.psychologicalscience.org/observer/janet-shibley-hyde-sinks-stereotypes-with-data">APS Observer 32</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>EEG is better left alone</strong><br>
-Delorme A<br>
-<a href="http://dx.doi.org/10.1038/s41598-023-27528-0">Sci Rep 13:2372</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Rethinking the centrality of brain areas in understanding functional organization</strong><br>
-Hayden BY, Heilbronner SR, Yoo SBM<br>
-<a href="http://dx.doi.org/10.1038/s41593-025-02166-z">Nat Neurosci:1–12</a></p>
-</section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">5</h3>
-<p><strong>Context-dependent low-dimensional neural dynamics unfold in distinct subspaces, dimensionality, and dynamical strength for natural walking and reaching</strong><br>
-Ling AS, Silvernagel MP, Clarke SE, Jun EJ, Abdulla MU, Nuyujukian P, Brain Interfacing Laboratory<br>
-<a href="https://www.biorxiv.org/content/10.64898/2025.12.19.695640v1.abstract">bioRxivorg:2025.12.19.695640</a></p>
-</section>
-<section id="section-5" class="level3">
-<h3 class="anchored" data-anchor-id="section-5">6</h3>
-<p><strong>Intuitive, multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings</strong><br>
-Yang X, Rawji V, Gibbs C, Jia T, Vila LG, Grison A, Nair A, Farina D, Gallego JA<br>
-<a href="https://www.medrxiv.org/content/10.64898/2025.12.09.25341760v4.abstract">medRxiv:2025.12.09.25341760</a></p>
-</section>
-<section id="section-6" class="level3">
-<h3 class="anchored" data-anchor-id="section-6">7</h3>
-<p><strong>A system for live sorting of neuronal spiking activity from large-scale recordings</strong><br>
-Muralidharan S, Leng C, Orts L, Trepka E, Zhu S, Panichello M, Jonikaitis D, Pennington J, Pachitariu M, Moore T<br>
-<a href="https://www.biorxiv.org/content/10.64898/2025.12.29.696938v1.abstract">bioRxiv:2025.12.29.696938</a></p>
-</section>
-<section id="section-7" class="level3">
-<h3 class="anchored" data-anchor-id="section-7">8</h3>
-<p><strong>Surrogate deep neural networks reveal hierarchical handwriting encoding in the human motor cortex</strong><br>
-Chen J, Xu T, Xiong X, Yang X, Wang Y, Qi Y<br>
-<a href="http://dx.doi.org/10.1016/j.celrep.2025.116837">Cell Rep 45:116837</a></p>
-</section>
-<section id="section-8" class="level3">
-<h3 class="anchored" data-anchor-id="section-8">9</h3>
-<p><strong>Humans plan for the near future to walk economically on uneven terrain</strong><br>
-Darici O, Kuo AD<br>
-<a href="http://dx.doi.org/10.1073/pnas.2211405120">Proc Natl Acad Sci USA 120:e2211405120</a></p>
-</section>
-<section id="section-9" class="level3">
-<h3 class="anchored" data-anchor-id="section-9">10</h3>
-<p><strong>How heterogeneity shapes dynamics and computation in the brain</strong><br>
-Dahmen D, Hutt A, Indiveri G, Kennedy A, Lefebvre J, Mazzucato L, Motter AE, Narayanan R, Payvand M, Planert H, Gast R<br>
-<a href="http://dx.doi.org/10.1016/j.neuron.2025.11.023">Neuron</a></p>
-</section>
-<section id="section-10" class="level3">
-<h3 class="anchored" data-anchor-id="section-10">11</h3>
-<p><strong>Breath as an internal context: Respiratory phase alignment between encoding and retrieval optimizes memory performance</strong><br>
-Nakamura NH, Yoshino K, Fukunaga M<br>
-<a href="https://www.biorxiv.org/content/10.64898/2025.12.25.696473v1.abstract">bioRxiv:2025.12.25.696473</a></p>
-</section>
-<section id="section-11" class="level3">
-<h3 class="anchored" data-anchor-id="section-11">12</h3>
-<p><strong>Multi-timescale neural adaptation underlying long-term musculoskeletal reorganization</strong><br>
-Philipp R, Hara Y, Uchida N, Ota N, Oya T, Funato T, Seki K<br>
-<a href="https://www.biorxiv.org/content/10.1101/2024.10.18.618983v1.abstract">bioRxiv:2024.10.18.618983</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-01-09-list317.html</guid>
-  <pubDate>Fri, 09 Jan 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
