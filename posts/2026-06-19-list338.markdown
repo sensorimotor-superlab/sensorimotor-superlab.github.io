@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Reading List 338"
+date:   2026-06-19 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**The Simons Collaboration on Ecological Neuroscience: Studying how the brain interacts with the world**  
+Angelaki D. E. et al. (2026)  
+[Neuron](https://doi.org/10.1016/j.neuron.2026.04.036)
+
+### 2
+**Striatal pathways dissociably control action counting and goal-directed steering**  
+Fallon I. P. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02330-z)
+
+### 3
+**Perineuronal nets in cerebellar nuclei neurons orchestrate social behaviour via regulation of neuronal activity in circuits innervated by the cerebellum**  
+Fujita K. et al. (2026)  
+[Translational Psychiatry 16](https://doi.org/10.1038/s41398-026-03952-4)
+
+### 4
+**Autism subtypes identified using cross-species functional connectivity analyses**  
+Pagani M. et al. (2026)  
+[Nature Neuroscience 29:1476-1487](https://doi.org/10.1038/s41593-026-02287-z)
+
+### 5
+**BiXformer: A Bidirectional Cross Attention Transformer for Disentangling Inter-Regional Neural Dynamics**  
+El Sayed O., Han Y., Dragoi T., Economo M. N., DePasquale B. (2026)  
+[bioRxiv:2026.06.05.730511](https://doi.org/10.64898/2026.06.05.730511)
+
+### 6
+**Extreme-value signal detection theory for recognition memory: The parametric road not taken.**  
+Meyer-Grant C. G., Kellen D., Harding S. M., Singmann H. (2026)  
+[Psychological Review](https://doi.org/10.1037/rev0000615)
+
+### 7
+**Long-term independent use of an intracortical brain–computer interface for speech and cursor control**  
+Card N. S. et al. (2026)  
+[Nature Medicine](https://doi.org/10.1038/s41591-026-04414-6)
+
+### 8
+**Two time scales of adaptation in human learning rates**  
+Simoens J. et al. (2026)  
+[eLife](https://doi.org/10.7554/elife.108223.2)
+
+### 9
+**Cued Recall of Human Motor Memory**  
+Lewis-Hoeber E., Darainy M., Ebrahimi S., Ostry D. J. (2026)  
+[Journal of Neurophysiology jn.00158.2026](https://doi.org/10.1152/jn.00158.2026)
+
+### 10
+**Movement planning predictions shape somatosensory sensitivity**  
+D’Onofrio Pacheco P. N., Zimmermann E. (2026)  
+[bioRxiv:2026.06.12.731893](https://doi.org/10.64898/2026.06.12.731893)
+
+### 11
+**Patterns of brain-wide associations reflect socioeconomics**  
+Marek S. et al. (2026)  
+[Science 392](https://doi.org/10.1126/science.aee6213)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
