@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Reading List 339"
+date:   2026-06-26 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Learning shapes neural geometry in the primate prefrontal cortex**  
+Wójcik M. J. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02333-w)
+
+### 2
+**Parallel processing of orthogonal manifolds enables zero-shot composition in recurrent networks**  
+Osako Y., Arango A., Asabuki T. (2026)  
+[bioRxiv:2026.06.14.732142](https://doi.org/10.64898/2026.06.14.732142)
+
+### 3
+**Prefrontal mechanisms of goal progress inference and monitoring in macaque monkeys**  
+Xu X. et al. (2026)  
+[bioRxiv:2026.05.19.726190](https://doi.org/10.64898/2026.05.19.726190)
+
+### 4
+**Mammalian Brains Seen through the Lens of Evolution**  
+Sherman S. M., Usrey W. M. (2026)  
+[The Journal of Neuroscience 46:e0217262026](https://doi.org/10.1523/jneurosci.0217-26.2026)
+
+### 5
+**Cerebellar output shapes cortical preparatory activity during motor adaptation**  
+Israely S. et al. (2025)  
+[Nature Communications 16](https://doi.org/10.1038/s41467-025-57832-4)
+
+### 6
+**Mechanisms of premotor-motor cortex interactions during movement initiation**  
+Alyahyay M. et al. (2026)  
+[Cell Reports 45:117542](https://doi.org/10.1016/j.celrep.2026.117542)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
