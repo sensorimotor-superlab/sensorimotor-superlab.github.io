@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "Reading List 340"
+date:   2026-07-03 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Interpretable compositional computation with recurrent neural networks**  
+Pezon L., van Meegen A. (2026)  
+[bioRxiv:2026.06.23.733979](https://doi.org/10.64898/2026.06.23.733979)
+
+### 2
+**Rigid control of motor unit firing rates in the human tibialis anterior muscle persists during neurofeedback**  
+Lee M. J. et al. (2026)  
+[Journal of Neurophysiology 135:1499-1517](https://doi.org/10.1152/jn.00070.2025)
+
+### 3
+**Arm dominance is an emergent effect of practice executing complex trajectory shapes required by tools and objects**  
+Arac A., Lee N. Y. H. J., Krakauer J. W. (2026)  
+[PNAS 123](https://doi.org/10.1073/pnas.2601569123)
+
+### 4
+**Connectomic evidence that ordered activity drives neuromuscular network formation**  
+Meirovitch Y. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02344-7)
+
+### 5
+**Cortical sculpting of a rhythmic motor program**  
+Kirk E. A., Cai K., Sauerbrei B. A. (2025)  
+[bioRxiv:2025.06.20.660772](https://doi.org/10.1101/2025.06.20.660772)
+
+### 6
+**Composing trajectories for rapid inference of navigational goals**  
+AbdelRahman N. Y. et al. (2026)  
+[Neuron](https://doi.org/10.1016/j.neuron.2026.05.030)
+
+### 7
+**Motor cortex directly excites the substantia nigra pars reticulata, the basal ganglia output nucleus**  
+Thompson W. S., Wekwejt P., Grillner S., Silberberg G. (2026)  
+[Nature Communications 17](https://doi.org/10.1038/s41467-026-74569-w)
+
+### 8
+**Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life**  
+d’Oleire Uquillas F. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02289-x)
+
+### 9
+**Shared neural geometries for bilingual semantic representations in human hippocampal neurons**  
+Yan X. et al. (2026)  
+[Cell](https://doi.org/10.1016/j.cell.2026.05.020)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.

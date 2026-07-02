@@ -9,8 +9,92 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 26 Jun 2026 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Fri, 03 Jul 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 340</title>
+  <link>https://superlab.ca/posts/2026-07-03-list340.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Interpretable compositional computation with recurrent neural networks</strong><br>
+Pezon L., van Meegen A. (2026)<br>
+<a href="https://doi.org/10.64898/2026.06.23.733979">bioRxiv:2026.06.23.733979</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Rigid control of motor unit firing rates in the human tibialis anterior muscle persists during neurofeedback</strong><br>
+Lee M. J. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1152/jn.00070.2025">Journal of Neurophysiology 135:1499-1517</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Arm dominance is an emergent effect of practice executing complex trajectory shapes required by tools and objects</strong><br>
+Arac A., Lee N. Y. H. J., Krakauer J. W. (2026)<br>
+<a href="https://doi.org/10.1073/pnas.2601569123">PNAS 123</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Connectomic evidence that ordered activity drives neuromuscular network formation</strong><br>
+Meirovitch Y. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41593-026-02344-7">Nature Neuroscience</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Cortical sculpting of a rhythmic motor program</strong><br>
+Kirk E. A., Cai K., Sauerbrei B. A. (2025)<br>
+<a href="https://doi.org/10.1101/2025.06.20.660772">bioRxiv:2025.06.20.660772</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Composing trajectories for rapid inference of navigational goals</strong><br>
+AbdelRahman N. Y. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1016/j.neuron.2026.05.030">Neuron</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Motor cortex directly excites the substantia nigra pars reticulata, the basal ganglia output nucleus</strong><br>
+Thompson W. S., Wekwejt P., Grillner S., Silberberg G. (2026)<br>
+<a href="https://doi.org/10.1038/s41467-026-74569-w">Nature Communications 17</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>Cerebellar aging is spatially heterogeneous and supports cognitive resilience in later life</strong><br>
+d’Oleire Uquillas F. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41593-026-02289-x">Nature Neuroscience</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Shared neural geometries for bilingual semantic representations in human hippocampal neurons</strong><br>
+Yan X. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1016/j.cell.2026.05.020">Cell</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-07-03-list340.html</guid>
+  <pubDate>Fri, 03 Jul 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 339</title>
   <link>https://superlab.ca/posts/2026-06-26-list339.html</link>
@@ -1918,74 +2002,6 @@ Jossinger S, Arafat B, Diedrichsen J<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-02-06-list321.html</guid>
   <pubDate>Fri, 06 Feb 2026 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 320</title>
-  <link>https://superlab.ca/posts/2026-01-30-list320.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>Infinite hidden Markov models can dissect the complexities of learning</strong><br>
-Bruijns SA, International Brain Laboratory, Bougrova K, Laranjeira IC, Lau PYP, Meijer GT, Miska NJ, Noel J-P, Pan-Vazquez A, Roth N, Socha KZ, Urai AE, Dayan P<br>
-<a href="http://dx.doi.org/10.1038/s41593-025-02130-x">Nat Neurosci 29:186–194</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>Oxygen-free metabolism in the bird inner retina supported by the pecten</strong><br>
-Damsgaard C et al.<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-09978-w">Nature:1–7</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>Precision in motion: Reactive and anticipatory control of mouse tongue movement for interception</strong><br>
-ELTabbal M, Galetzka C, Kuhn B<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.01.25.701632v1.abstract">bioRxiv:2026.01.25.701632</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Spontaneous behavior is a succession of self-directed tasks</strong><br>
-Weinreb C, Kannan LT, Newman-Boulle A, Sainburg T, Gillis WF, Plotnikoff A, Makowska S, Pearl JE, Osman MAM, Linderman SW, Datta SR<br>
-<a href="http://dx.doi.org/10.1016/j.neuron.2025.11.021">Neuron</a></p>
-</section>
-<section id="superlab-papers" class="level2">
-<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
-<p><strong>A context-free model of savings in motor learning</strong><br>
-Shahbazi M, Codol O, Michaels JA, Gribble PL<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.03.26.645562v3">bioRxiv:2025.03.26.645562</a></p>
-</section>
-<section id="journal-club" class="level2">
-<h2 class="anchored" data-anchor-id="journal-club">Journal Club</h2>
-<p><a href="https://jessierliu.com/about/">Jessie Liu</a>, Postdoc in the <a href="https://changlab.ucsf.edu/">Chang Lab</a> at UCSF, joined us to talk about her recent paper on speech sequencing:</p>
-<p>Liu JR, Zhao L, Hullett PW, Chang EF (2025)<br>
-<strong>Speech sequencing in the human precentral gyrus</strong><br>
-<a href="https://dx.doi.org/10.1038/s41562-025-02250-1">Nat Hum Behav 9:2327–2344</a></p>
-<p>YouTube video: <a href="https://www.youtube.com/watch?v=IOcr_PauaVU">https://www.youtube.com/watch?v=IOcr_PauaVU</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-01-30-list320.html</guid>
-  <pubDate>Fri, 30 Jan 2026 05:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
