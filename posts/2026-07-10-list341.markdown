@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Reading List 341"
+date:   2026-07-10 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Anticipatory organization of neural population dynamics speeds behavioral decisions**  
+Gorman J. C., Sainburg T., McPherson T. S., Gentner T. Q. (2026)  
+[bioRxiv:2026.06.30.735699](https://doi.org/10.64898/2026.06.30.735699)
+
+### 2
+**The Premotor Language Area Encodes a Full Acoustic-to-semantic Speech Hierarchy**  
+Guo S. S., Huth A. G. (2026)  
+[bioRxiv:2026.07.01.735929](https://doi.org/10.64898/2026.07.01.735929)
+
+### 3
+**Neural timescales from a computational perspective**  
+Zeraati R., Levina A., Macke J. H., Gao R. (2026)  
+[Nature Neuroscience 29:1534-1547](https://doi.org/10.1038/s41593-026-02343-8)
+
+### 4
+**Distinct neural processes link speech planning and execution**  
+Duraivel S. et al. (2024)  
+[bioRxiv:2024.10.07.617122](https://doi.org/10.1101/2024.10.07.617122)
+
+### 5
+**Learning-related population dynamics in right and left dorsal premotor cortex during typing skill acquisition**  
+Hashimoto H. et al. (2026)  
+[bioRxiv:2026.07.02.736059](https://doi.org/10.64898/2026.07.02.736059)
+
+### 6
+**Independent Online Visuomotor Control to Cursor and Target Motion**  
+Franklin S., Dimitriou M., Franklin D. W. (2026)  
+[bioRxiv:2026.06.28.735032](https://doi.org/10.64898/2026.06.28.735032)
+
+### 7
+**Learning Shapes the Energy Cost of Neural Tasks**  
+Xue K. et al. (2026)  
+[bioRxiv:2026.07.01.735889](https://doi.org/10.64898/2026.07.01.735889)
+
+### 8
+**The Importance of Synchrony in the Neural Control of Movement**  
+Hasegawa M. et al. (2026)  
+[bioRxiv:2026.06.26.734805](https://doi.org/10.64898/2026.06.26.734805)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
