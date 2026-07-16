@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Reading List 342"
+date:   2026-07-17 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Structural Composition Enables Very Fast Learning**  
+Riveland R., Pouget A., Latham P. (2026)  
+[bioRxiv:2026.07.14.738142](https://doi.org/10.64898/2026.07.14.738142)
+
+### 2
+**Effects of peripheral nerve damage on promoting maladaptive plasticity in the spinal cord and brain**  
+Dalrymple A. N. et al. (2026)  
+[Neuroscience 610:408-467](https://doi.org/10.1016/j.neuroscience.2026.05.016)
+
+### 3
+**Rarely categorical, highly separable representations along the cortical hierarchy**  
+Posani L., Wang S., Muscinelli S. P., Paninski L., Fusi S. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-10668-4)
+
+### 4
+**Hierarchical sensory processing in zebrafish thalamocortical-like circuits**  
+Trinh A. T. et al. (2026)  
+[Science eaec2171](https://doi.org/10.1126/science.aec2171)
+
+### 5
+**Planning in the Brain: It's Not What You Think It Is**  
+Mattar M. G., Daw N. D. (2026)  
+[Annual Review of Neuroscience 49:435-450](https://doi.org/10.1146/annurev-neuro-102124-015847)
+
+### 6
+**Flexible neuronal participation within a reliable motor sequence**  
+Peng J. et al. (2026)  
+[bioRxiv:2026.07.10.737866](https://doi.org/10.64898/2026.07.10.737866)
+
+### 7
+**A dexterous soft hand exoskeleton restores intentional grasping in individuals with severe hand impairment**  
+Nassour J., Berberich N., Utpadel-Fischler D., Wächter T., Cheng G. (2026)  
+[Nature Machine Intelligence](https://doi.org/10.1038/s42256-026-01263-3)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
