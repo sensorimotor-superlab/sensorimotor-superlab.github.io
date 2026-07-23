@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Reading List 343"
+date:   2026-07-24 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Unsupervised nonmotor learning in the human cerebellum**  
+Trach J. E., Ou Y., Turk-Browne N. B., McDougle S. D. (2026)  
+[bioRxiv:2026.07.22.740142](https://doi.org/10.64898/2026.07.22.740142)
+
+### 2
+**Motor Learning and Transfer Are Symmetric Across Hands**  
+Nyamsuren I. et al. (2026)  
+[bioRxiv:2026.07.17.739258](https://doi.org/10.64898/2026.07.17.739258)
+
+### 3
+**Exploring unintentional drifts in finger force production and muscle activity: a study of finger independence**  
+Tilley P. M., Mulla D. M., Keir P. J. (2026)  
+[Experimental Brain Research 244](https://doi.org/10.1007/s00221-026-07351-5)
+
+### 4
+**Response duration tracks confidence**  
+Zhou H., Goh R. Z., Phillips I., Firestone C. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2612367123)
+
+### 5
+**Arm movement control in gravity**  
+Kistemaker D. A., Staa R., van der Sar M., van Beers R. J. (2026)  
+[Journal of Neurophysiology jn.00610.2025](https://doi.org/10.1152/jn.00610.2025)
+
+### 6
+**Cerebellar Purkinje cells change dendritic architecture during primate evolution**  
+Ferrell A., Busch S. E., Hillegas M., Sherwood C. C., Hansel C. (2026)  
+[bioRxiv:2026.06.07.728033](https://doi.org/10.64898/2026.06.07.728033)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
