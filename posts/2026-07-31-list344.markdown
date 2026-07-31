@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 344"
+date:   2026-07-31 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## Job Posting: Postdoctoral Researcher
+
+The Pruszynski Laboratory at Western University is seeking a postdoctoral researcher to join a newly funded project investigating how the brain transforms sensory information into motor commands during reaching actions:
+
+[Job Posting](https://docs.google.com/document/d/1jUI5j0pwV2H101IKJwdVyvCwMhdkPm1UwcjjyIxtR_Q/edit?usp=sharing)
+
+---
+
+### 1
+**Cued recall of human motor memory**  
+Lewis-Hoeber E., Darainy M., Ebrahimi S., Ostry D. J. (2026)  
+[Journal of Neurophysiology 136:156-164](https://doi.org/10.1152/jn.00158.2026)
+
+### 2
+**Movement effort does not alter the planning horizon of sequential reaching movements**  
+Bellmann A., Oostwoud Wijdenes L., Medendorp W. P. (2026)  
+[Journal of Neurophysiology 136:285-293](https://doi.org/10.1152/jn.00457.2025)
+
+### 3
+**Replay of procedural memory is independent of the hippocampus**  
+Thompson E. J. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02362-5)
+
+### 4
+**Spinal rotational dynamics orchestrate locomotor recovery**  
+Colard J., Harnie J., Berg R. W., Frigon A. (2026)  
+[bioRxiv:2026.07.21.739844](https://doi.org/10.64898/2026.07.21.739844)
+
+### 5
+**Internal perturbation reveals the flexible and adaptive nature of the coordination between decisions and movements**  
+Thura D., Gardechaux G., Saleri C. (2026)  
+[bioRxiv:2026.07.23.740304](https://doi.org/10.64898/2026.07.23.740304)
+
+### 6
+**Spatial and network principles behind neural generation of locomotion**  
+Komi S. et al. (2026)  
+[Nature Communications 17](https://doi.org/10.1038/s41467-026-74228-0)
+
+### 7
+**Climbing fibers encode the gradient of a loss function for the cerebellum**  
+Doostmohammadi J. et al. (2026)  
+[bioRxiv:2026.07.27.741034](https://doi.org/10.64898/2026.07.27.741034)
+
+### 8
+**Gradual consolidation of skilled sequential movements in primary motor cortex of non-human primates**  
+Ohbayashi M., Picard N. (2024)  
+[bioRxiv:2024.10.06.616850](https://doi.org/10.1101/2024.10.06.616850)
+
+### 9
+**Creating true and false memories from forgotten information in Drosophila**  
+Yang W. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02381-2)
+
+### 10
+**All living things emit a faint glow. Could this light be useful?**  
+Marchant J. (2026)  
+[Nature 655:1116-1119](https://doi.org/10.1038/d41586-026-02311-z)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
