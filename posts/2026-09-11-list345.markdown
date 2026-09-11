@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Reading List 345"
+date:   2026-09-11 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## Job Posting: Postdoctoral Researcher
+
+The Pruszynski Laboratory at Western University is seeking a postdoctoral researcher to join a newly funded project investigating how the brain transforms sensory information into motor commands during reaching actions:
+
+[Job Posting](https://docs.google.com/document/d/1jUI5j0pwV2H101IKJwdVyvCwMhdkPm1UwcjjyIxtR_Q/edit?usp=sharing)
+
+---
+
+### 1
+**Inter-trial convergence of neural task states supports cognitive flexibility**  
+Ritz H., Jha A., Daw N. D., Cohen J. D. (2026)  
+[Current Biology 36:4245-4257.e11](https://doi.org/10.1016/j.cub.2026.07.028)
+
+### 2
+**A shared cortical manifold links sensory error to motor planning**  
+Zempolich G. W., Zhou W., Holey B. E., Williams A. H., Schneider D. M. (2026)  
+[bioRxiv:2026.08.02.742317](https://doi.org/10.64898/2026.08.02.742317)
+
+### 3
+**Temporally structured motor and auditory representations in covert syllable production**  
+Orpella J., Mantegna F., Oderbolz C., Assaneo M. F., Poeppel D. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2536563123)
+
+### 4
+**An explainable AI latent space of brain dynamics reveals a cerebello-prefrontal signature of schizophrenia symptoms**  
+Bonhoeffer M., Muratore P., Mathis M. W., Bègue I. (2026)  
+[bioRxiv:2026.08.25.746991](https://doi.org/10.64898/2026.08.25.746991)
+
+### 5
+**Heart rate deceleration reflects expectation violation during reaching**  
+Wu W. P., Nozaki D., Hayashi T. (2026)  
+[bioRxiv:2026.09.01.748501](https://doi.org/10.64898/2026.09.01.748501)
+
+### 6
+**Feedback-feedforward dynamics shape continuous motor learning**  
+Avraham C., Mawase F. (2025)  
+[bioRxiv:2025.04.10.648105](https://doi.org/10.1101/2025.04.10.648105)
+
+### 7
+**Dimensionality reduction beyond neural subspaces with slice tensor component analysis**  
+Pellegrino A., Stein H., Cayco-Gajic N. A. (2024)  
+[Nature Neuroscience 27:1199-1210](https://doi.org/10.1038/s41593-024-01626-2)
+
+### 8
+**Human learning of noninvasive brain–computer interfaces via manifold geometry**  
+Busch E. L., Fincke E. C., Lajoie G., Krishnaswamy S., Turk-Browne N. B. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02311-2)
+
+### 9
+**Fractal basins trap latent reasoning**  
+Lai J., Bao A., Quinn J., Gilpin W. (2026)  
+[arXiv:2609.04963 [cs.LG]](https://doi.org/10.48550/arXiv.2609.04963)
+
+### 10
+**Soft Matching Distance: A metric on neural representations that captures single-neuron tuning**  
+Khosla M., Williams A.H. (2024)  
+[PMLR 243:326-341](https://proceedings.mlr.press/v243/khosla24a)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
