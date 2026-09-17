@@ -10,7 +10,78 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Fri, 11 Sep 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 346</title>
+  <link>https://superlab.ca/posts/2026-09-18-list346.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<section id="job-posting-postdoctoral-researcher" class="level2">
+<h2 class="anchored" data-anchor-id="job-posting-postdoctoral-researcher">Job Posting: Postdoctoral Researcher</h2>
+<p>The Pruszynski Laboratory at Western University is seeking a postdoctoral researcher to join a newly funded project investigating how the brain transforms sensory information into motor commands during reaching actions:</p>
+<p><a href="https://docs.google.com/document/d/1jUI5j0pwV2H101IKJwdVyvCwMhdkPm1UwcjjyIxtR_Q/edit?usp=sharing">Job Posting</a></p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Developmental xenocortication using human-derived organoids in mice</strong><br>
+Kaganovsky K. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41586-026-11032-2">Nature</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Artificial intelligence is reshaping neuroscience across scales</strong><br>
+Mathis M. W. (2026)<br>
+<a href="https://doi.org/10.1016/j.conb.2026.103265">Current Opinion in Neurobiology 101:103265</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Simultaneous speech and gesture decoding for multimodal communication in paralysis</strong><br>
+Brosler S. C. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41593-026-02446-2">Nature Neuroscience</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Temporal Indexing of Motor Memory</strong><br>
+Sharma A., Hillman H., McDougle S. D. (2026)<br>
+<a href="https://doi.org/10.64898/2026.09.10.750443">bioRxiv:2026.09.10.750443</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Flexible reorientation of conserved neural dynamics underlies grasp control</strong><br>
+Ghulam-Jelani Z., Kaufman M. T. (2026)<br>
+<a href="https://doi.org/10.64898/2026.09.04.749537">bioRxiv:2026.09.04.749537</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>The continuous dynamics of planning and acting in a virtually embodied task</strong><br>
+Nuzzi D., Cisek P., Pezzulo G. (2026)<br>
+<a href="https://doi.org/10.1073/pnas.2602504123">Proceedings of the National Academy of Sciences 123</a></p>
+</section>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-09-18-list346.html</guid>
+  <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 345</title>
   <link>https://superlab.ca/posts/2026-09-11-list345.html</link>
@@ -1758,119 +1829,6 @@ Genkin M, Shenoy KV, Chandrasekaran C, Engel TA (2025)<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-03-27-list327.html</guid>
   <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 326</title>
-  <link>https://superlab.ca/posts/2026-03-20-list326.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>JEDI: Jointly embedded inference of neural dynamics</strong><br>
-Jamkhandi A, Korojy A, Codol O, Lajoie G, Perich MG (2026)<br>
-<a href="http://arxiv.org/abs/2603.10489">arXiv [q-bioNC]</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>A spinal substrate for modular control of natural behavior</strong><br>
-Nicola F, Li L, Riesenmy T, Pursley R, Roome RB, Markowitz JE, Levine AJ (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.03.12.711392v1.abstract">bioRxiv:2026.03.12.711392</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>Lifelong behavioral screen reveals an architecture of vertebrate aging</strong><br>
-Bedbrook CN, Nath RD, Zhang L, Linderman SW, Brunet A, Deisseroth K (2026)<br>
-<a href="http://dx.doi.org/10.1126/science.aea9795">Science 391:eaea9795</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Competitive interactions shape mammalian brain network dynamics and computation</strong><br>
-Luppi AI, Sanz Perl Y, Vohryzek J, Ali H, Mediano PAM, Rosas FE, Milisav F, Suárez LE, Gini S, Gutierrez-Barragan D, Yee Y, Froudist-Walsh S, Gozzi A, Misic B, Deco G, Kringelbach ML (2026)<br>
-<a href="http://dx.doi.org/10.1038/s41593-026-02205-3">Nat Neurosci:1–19</a></p>
-</section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">5</h3>
-<p><strong>Evolutionarily conserved neural dynamics across mice, monkeys, and humans</strong><br>
-Codol O, Asclipe M, Sobinov AR, Chen Z, Park J, Hatsopoulos NG, Dudman JT, Gallego JA, Lajoie G, Perich MG (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.03.06.709637v2.abstract">bioRxivorg:2026.03.06.709637</a></p>
-</section>
-<section id="section-5" class="level3">
-<h3 class="anchored" data-anchor-id="section-5">6</h3>
-<p><strong>Peripheral anatomy and central connectivity of proprioceptive sensory neurons in the Drosophila wing</strong><br>
-Lesser E, Moussa AJ, Tuthill JC (2026)<br>
-<a href="http://dx.doi.org/10.7554/eLife.107867">Elife 14</a></p>
-</section>
-<section id="section-6" class="level3">
-<h3 class="anchored" data-anchor-id="section-6">7</h3>
-<p><strong>Spatial transcriptomics reveals human cortical layer and area specification</strong><br>
-Qian X et al.&nbsp;(2025)<br>
-<a href="http://dx.doi.org/10.1038/s41586-025-09010-1">Nature:1–11</a></p>
-</section>
-<section id="section-7" class="level3">
-<h3 class="anchored" data-anchor-id="section-7">8</h3>
-<p><strong>Rapid integration of somatosensory feedback in planning tongue movements</strong><br>
-Kim JJ, Dong M, O’Connor DH (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.03.03.709371v1.abstract">bioRxivorg:2026.03.03.709371</a></p>
-</section>
-<section id="section-8" class="level3">
-<h3 class="anchored" data-anchor-id="section-8">9</h3>
-<p><strong>Tactile and pain mechanical sensitivity of the human hand</strong><br>
-Giner MJ, Mazar M, Aleixandre-Carrera F, Talavera K, Delicado-Miralles M, Miralles-Liborio V, Velasco E (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.02.23.707479v1.abstract">bioRxiv:2026.02.23.707479</a></p>
-</section>
-<section id="section-9" class="level3">
-<h3 class="anchored" data-anchor-id="section-9">10</h3>
-<p><strong>Dynamic engagement of the motor cortex in controlling movement</strong><br>
-Dragoi T, Loschinskey Z, Hasnain MA, DePasquale B, Economo MN (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699314v1.abstract">bioRxiv:2026.01.13.699314</a></p>
-</section>
-<section id="section-10" class="level3">
-<h3 class="anchored" data-anchor-id="section-10">11</h3>
-<p><strong>Linking neural manifolds to circuit structure in recurrent networks</strong><br>
-Pezon L, Schmutz V, Gerstner W (2026)<br>
-<a href="http://dx.doi.org/10.1016/j.neuron.2025.12.047">Neuron</a></p>
-</section>
-<section id="superlab-papers" class="level2">
-<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
-<p><strong>Multi-task fMRI outperforms resting-state fMRI for revealing task-invariant organization of the human brain</strong><br>
-Nettekoven C, Shahbazi A, Arafat B, Skenderija M, Xiang JD, Pinho AL, Diedrichsen J (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.03.09.710558v1.abstract">bioRxiv:2026.03.09.710558</a></p>
-<p><strong>Speed-dependent modulation of tactile edge orientation discrimination</strong><br>
-Sukumar V, Pruszynski JA (2026)<br>
-<a href="https://dx.doi.org/10.1152/jn.00499.2025">J Neurophysiol 135:725–732</a></p>
-</section>
-<section id="journal-club" class="level2">
-<h2 class="anchored" data-anchor-id="journal-club">Journal Club</h2>
-<p><a href="https://scholar.google.com/citations?user=R2o6H7MAAAAJ">Ryan Canfield</a>, recently graduated PhD student with <a href="https://faculty.washington.edu/aorsborn/">Dr.&nbsp;Amy Orsborn</a> and <a href="https://depts.washington.edu/horwitzlab">Dr.&nbsp;Gregory Horwitz</a> at University of Washington, joined us to talk about his recent paper:</p>
-<p><strong>The spatiotemporal structure of neural activity in motor cortex during reaching</strong><br>
-Canfield RA, Ouchi T, Fang H, Macagno B, Smith LI, Scholl LR, Orsborn AL (2025)<br>
-<a href="https://www.biorxiv.org/content/10.1101/2025.10.17.683171v1.abstract">bioRxiv:2025.10.17.683171</a></p>
-<p>YouTube video: <a href="https://youtu.be/F23AW0k4y_M">https://youtu.be/F23AW0k4y_M</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-03-20-list326.html</guid>
-  <pubDate>Fri, 20 Mar 2026 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

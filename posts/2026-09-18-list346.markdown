@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Reading List 346"
+date:   2026-09-18 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## Job Posting: Postdoctoral Researcher
+
+The Pruszynski Laboratory at Western University is seeking a postdoctoral researcher to join a newly funded project investigating how the brain transforms sensory information into motor commands during reaching actions:
+
+[Job Posting](https://docs.google.com/document/d/1jUI5j0pwV2H101IKJwdVyvCwMhdkPm1UwcjjyIxtR_Q/edit?usp=sharing)
+
+---
+
+### 1
+**Developmental xenocortication using human-derived organoids in mice**  
+Kaganovsky K. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-11032-2)
+
+### 2
+**Artificial intelligence is reshaping neuroscience across scales**  
+Mathis M. W. (2026)  
+[Current Opinion in Neurobiology 101:103265](https://doi.org/10.1016/j.conb.2026.103265)
+
+### 3
+**Simultaneous speech and gesture decoding for multimodal communication in paralysis**  
+Brosler S. C. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02446-2)
+
+### 4
+**Temporal Indexing of Motor Memory**  
+Sharma A., Hillman H., McDougle S. D. (2026)  
+[bioRxiv:2026.09.10.750443](https://doi.org/10.64898/2026.09.10.750443)
+
+### 5
+**Flexible reorientation of conserved neural dynamics underlies grasp control**  
+Ghulam-Jelani Z., Kaufman M. T. (2026)  
+[bioRxiv:2026.09.04.749537](https://doi.org/10.64898/2026.09.04.749537)
+
+### 6
+**The continuous dynamics of planning and acting in a virtually embodied task**  
+Nuzzi D., Cisek P., Pezzulo G. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2602504123)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
