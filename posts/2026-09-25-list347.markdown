@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "Reading List 347"
+date:   2026-09-25 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## Job Posting: Postdoctoral Researcher
+
+The Pruszynski Laboratory at Western University is seeking a postdoctoral researcher to join a newly funded project investigating how the brain transforms sensory information into motor commands during reaching actions:
+
+[Job Posting](https://docs.google.com/document/d/1jUI5j0pwV2H101IKJwdVyvCwMhdkPm1UwcjjyIxtR_Q/edit?usp=sharing)
+
+---
+
+### 1
+**Deviations from global coupling in adaptive oscillator networks: a mean-field theory for the variance of coupling weights**  
+Gast R., Takasu S., Kurths J., Kennedy A. (2026)  
+[arXiv:2609.22597](https://doi.org/10.48550/arxiv.2609.22597)
+
+### 2
+**Action potential waveforms are state-dependent**  
+Martin-Burgos B., Juavinett A., Riviere P. D., Hammonds R., Voytek B. (2026)  
+[bioRxiv:2026.09.15.751814](https://doi.org/10.64898/2026.09.15.751814)
+
+### 3
+**Two parallel neural ectoderm progenitors contribute to the developing brain**  
+Jokhai R. T. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02433-7)
+
+### 4
+**Deliberation is a controllable process governed by desirability and cognitive effort**  
+Calalo J. A. et al. (2026)  
+[Journal of Neurophysiology 136:1162-1170](https://doi.org/10.1152/jn.00193.2026)
+
+### 5
+**Cognitive Dark Matter: Measuring What AI Misses**  
+Mineault P. J., Griffiths T. L., Escola S. (2026)  
+[arXiv:2603.03414](https://doi.org/10.48550/arxiv.2603.03414)
+
+### 6
+**Observation-related activity in the human motor cortex increases with effector anthropomorphicity**  
+Gusman J. T. et al. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2537457123)
+
+### 7
+**Instrumental-Motor Transfer: The Relative Value of Competing Movement Goals Modulates Implicit Motor Learning**  
+Al-Fawakhiri N., Chib V. S., McDougle S. D. (2026)  
+[bioRxiv:2026.06.22.733849](https://doi.org/10.64898/2026.06.22.733849)
+
+### 8
+**Movement initiation-related signals differ across the caudal cingulate motor area, supplementary motor area, and primary motor cortex for contralateral but less so for ipsilateral movements in monkeys**  
+Nakayama Y., Yokoyama O., Nishimura Y. (2026)  
+[Neuroscience Research 105123](https://doi.org/10.1016/j.neures.2026.105123)
+
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
