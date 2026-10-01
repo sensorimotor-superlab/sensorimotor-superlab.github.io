@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Reading List 348"
+date:   2026-10-02 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+## Job Posting: Postdoctoral Researcher
+
+The Pruszynski Laboratory at Western University is seeking a postdoctoral researcher to join a newly funded project investigating how the brain transforms sensory information into motor commands during reaching actions:
+
+[Job Posting](https://docs.google.com/document/d/1jUI5j0pwV2H101IKJwdVyvCwMhdkPm1UwcjjyIxtR_Q/edit?usp=sharing)
+
+---
+
+### 1
+**Reversible, Sexually Dimorphic Sympathetic Aging: Distal Axon Withdrawal Shaped by Prepubertal Gonadal Influences**  
+Pangilinan G. R. et al. (2026)  
+[bioRxiv:2026.09.03.748995](https://doi.org/10.64898/2026.09.03.748995)
+
+### 2
+**A neural architecture for imagined and overt speech motor dynamics**  
+Zhao Z. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02456-0)
+
+### 3
+**Distinct sensorimotor encoding in tuft dendrites and somata associated with action, correction, and learning**  
+Scheib J. et al. (2026)  
+[eLife 15](https://doi.org/10.7554/elife.111876.3)
+
+### 4
+**Population coding under the scale invariance of high-dimensional noise**  
+Moosavi S. A., Hindupur S. S. R., Shimazaki H. (2026)  
+[Science Advances 12](https://doi.org/10.1126/sciadv.adz9632)
+
+### 5
+**Learning reveals invisible structure in low-rank RNNs**  
+Ger Y., Barak O. (2026)  
+[arXiv:2605.04115](https://doi.org/10.48550/arxiv.2605.04115)
+
+### 6
+**Motor learning refines premotor cortical constraint during skilled forelimb behavior**  
+Chen D., Jia F., Huang Q., Guo Y., Li Y. (2026)  
+[bioRxiv:2026.09.24.754238](https://doi.org/10.64898/2026.09.24.754238)
+
+### 7
+**Attractor dynamics underlie sequence working memory in data-constrained recurrent neural networks**  
+Pals M., Macke J. H. (2026)  
+[bioRxiv:2026.09.30.755565](https://doi.org/10.64898/2026.09.30.755565)
+
+### 8
+**Effects of modified proprioceptive feedback on intra-muscle synergies: An exploration using muscle vibration**  
+De S. D., Jahanian S., Sinha O., Latash M. L. (2026)  
+[bioRxiv:2026.09.24.754249](https://doi.org/10.64898/2026.09.24.754249)
+
+
+
+## Superlab Papers
+
+**Encoding of bimanual movement directions across the human sensorimotor system**  
+Ghavampour A. et al. (2026)  
+[bioRxiv:2026.09.18.752753](https://doi.org/10.64898/2026.09.18.752753)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
