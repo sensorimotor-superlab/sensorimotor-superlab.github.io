@@ -9,8 +9,74 @@
 <link>https://superlab.ca/</link>
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
-<generator>quarto-1.10.18</generator>
-<lastBuildDate>Fri, 02 Oct 2026 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.10.19</generator>
+<lastBuildDate>Fri, 09 Oct 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 349</title>
+  <link>https://superlab.ca/posts/2026-10-09-list349.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Probing inter-areal computations with a two-photon holographic mesoscope</strong><br>
+Abdeladim L., Jagadisan U. K., Shin H., Ogando M. B., Adesnik H. (2026)<br>
+<a href="https://doi.org/10.1038/s41593-026-02350-9">Nature Neuroscience 29:2023-2035</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>A split attractor design for rapidly writing a navigational goal</strong><br>
+Lanz A. J., Kathman N. D., Hao E., Ermentrout B., Nagel K. I. (2026)<br>
+<a href="https://doi.org/10.1038/s41586-026-11144-9">Nature</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Cognitive Expert Language Models Better Align with the Corresponding Brain Systems</strong><br>
+Sourati Z. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.48550/arxiv.2609.36239">arXiv:2609.36239</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates</strong><br>
+Yakubovskaya E., Ramezanpour H., Dunnhofer M., Kar K. (2026)<br>
+<a href="https://doi.org/10.1016/j.cub.2026.09.019">Current Biology</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion</strong><br>
+Simos M., Li C., Ziliotto B., Mathis A. (2026)<br>
+<a href="https://doi.org/10.48550/arxiv.2609.38653">arXiv:2609.38653</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Beyond single-cell sensory representations in cortex</strong><br>
+Willard K. J., Bruno R. M. (2026)<br>
+<a href="https://doi.org/10.1016/j.conb.2026.103280">Current Opinion in Neurobiology 101:103280</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-10-09-list349.html</guid>
+  <pubDate>Fri, 09 Oct 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 348</title>
   <link>https://superlab.ca/posts/2026-10-02-list348.html</link>
@@ -1675,90 +1741,6 @@ Dürr P et al.&nbsp;(2026)<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-04-24-list330.html</guid>
   <pubDate>Fri, 24 Apr 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 329</title>
-  <link>https://superlab.ca/posts/2026-04-17-list329.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>Striatum-wide dopamine encodes trajectory errors separated from value</strong><br>
-Brown EH, Zi Y, Vu MA et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41586-025-10083-1">Nature 652:424–433</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>Flexible integration of corollary discharge and sensory feedback signals in somatosensory cortex</strong><br>
-An X, Chowdhury RH, Blum KP, Miller LE, Glaser JI (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.04.02.716126v2">bioRxiv:2026.04.02.716126</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>Brain–computer interface–based neurofeedback training enables transferable control of cortical state switching in humans</strong><br>
-Iwama S, Matsuoka A, Ushiba J (2026)<br>
-<a href="https://doi.org/10.1073/pnas.2525769123">Proc Natl Acad Sci USA 123:e2525769123</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Translation of neurotechnologies</strong><br>
-Schalk G, Brunner P, Allison BZ et al.&nbsp;(2024)<br>
-<a href="https://doi.org/10.1038/s44222-024-00185-2">Nat Rev Bioeng 2:637–652</a></p>
-</section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">5</h3>
-<p><strong>Orbitofrontal cortex drives predictive filtering of sensory responses</strong><br>
-Tsukano H, Garcia MM, Dandu PR et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41593-026-02217-z">Nat Neurosci 29:888–900</a></p>
-</section>
-<section id="section-5" class="level3">
-<h3 class="anchored" data-anchor-id="section-5">6</h3>
-<p><strong>Categorization is ‘baked’ into the brain</strong><br>
-Barrett LF, Miller EK (2026)<br>
-<a href="https://doi.org/10.1038/s41583-026-01036-2">Nat Rev Neurosci</a></p>
-</section>
-<section id="section-6" class="level3">
-<h3 class="anchored" data-anchor-id="section-6">7</h3>
-<p><strong>Neural sequences underlying directed turning in Caenorhabditis elegans</strong><br>
-Kramer TS, Wan FK, Pugliese SM et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41593-026-02257-5">Nat Neurosci</a></p>
-</section>
-<section id="section-7" class="level3">
-<h3 class="anchored" data-anchor-id="section-7">8</h3>
-<p><strong>Neural representation of action grammar structure in primate frontal cortex</strong><br>
-Tian LY, Hanuska DJ, Garzón Gupta K, Liu Y, Wang XJ, Tenenbaum JB, Freiwald WA (2026)<br>
-<a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700235v2">bioRxiv:2026.01.18.700235</a></p>
-</section>
-<section id="section-8" class="level3">
-<h3 class="anchored" data-anchor-id="section-8">9</h3>
-<p><strong>Brainwide blood volume reflects opposing neural populations</strong><br>
-Landemard A, Krumin M, Harris KD et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41586-026-10350-9">Nature</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-04-17-list329.html</guid>
-  <pubDate>Fri, 17 Apr 2026 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Reading List 349"
+date:   2026-10-09 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Probing inter-areal computations with a two-photon holographic mesoscope**  
+Abdeladim L., Jagadisan U. K., Shin H., Ogando M. B., Adesnik H. (2026)  
+[Nature Neuroscience 29:2023-2035](https://doi.org/10.1038/s41593-026-02350-9)
+
+### 2
+**A split attractor design for rapidly writing a navigational goal**  
+Lanz A. J., Kathman N. D., Hao E., Ermentrout B., Nagel K. I. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-11144-9)
+
+### 3
+**Cognitive Expert Language Models Better Align with the Corresponding Brain Systems**  
+Sourati Z. et al. (2026)  
+[arXiv:2609.36239](https://doi.org/10.48550/arxiv.2609.36239)
+
+### 4
+**The macaque IT cortex but not current artificial vision networks encode object position in perceptually aligned coordinates**  
+Yakubovskaya E., Ramezanpour H., Dunnhofer M., Kar K. (2026)  
+[Current Biology](https://doi.org/10.1016/j.cub.2026.09.019)
+
+### 5
+**TERRA: Terrain-Aware Reconstruction, Retargeting and Control for Musculoskeletal Locomotion**  
+Simos M., Li C., Ziliotto B., Mathis A. (2026)  
+[arXiv:2609.38653](https://doi.org/10.48550/arxiv.2609.38653)
+
+### 6
+**Beyond single-cell sensory representations in cortex**  
+Willard K. J., Bruno R. M. (2026)  
+[Current Opinion in Neurobiology 101:103280](https://doi.org/10.1016/j.conb.2026.103280)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
