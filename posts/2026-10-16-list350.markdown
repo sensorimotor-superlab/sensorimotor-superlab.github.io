@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Reading List 350"
+date:   2026-10-16 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Eye versus hand effector-specificity in the parieto-frontal cortex and cerebellum in humans**  
+Rubino C., Masoudi K., Gallivan J., Crawford J. D. (2026)  
+[bioRxiv:2026.10.13.759011](https://doi.org/10.64898/2026.10.13.759011)
+
+### 2
+**Near-random behavior in strategic games**  
+Boger T., Amir D., Yousif S. R. (2027)  
+[Cognition 278:106737](https://doi.org/10.1016/j.cognition.2026.106737)
+
+### 3
+**Targeted stimulation of motor cortex ensembles drives learned movements**  
+Chen Q. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-11174-3)
+
+### 4
+**Neural circuit mechanisms for multi-tasking**  
+Beiran M. et al. (2026)  
+[bioRxiv:2026.10.01.755960](https://doi.org/10.64898/2026.10.01.755960)
+
+### 5
+**A high-dimensional population code in the bat motor cortex during natural dexterous flight**  
+Styr B., Qi K. K., Chen X., Liberti W. A., Yartsev M. M. (2026)  
+[Cell](https://doi.org/10.1016/j.cell.2026.09.029)
+
+### 6
+**Mitigating Partial Observability in Sequential Decision Processes via the Lambda Discrepancy**  
+Allen C. et al. (2024)  
+[arXiv:2407.07333](https://doi.org/10.48550/arxiv.2407.07333)
+
+### 7
+**Older adults do not have a higher metabolic cost than younger adults in outdoor overground walking**  
+van der Kruk E., Jongbloed K. J. P., Orlandi M., Miller M. F., Silverman A. K. (2026)  
+[Journal of Experimental Biology 229](https://doi.org/10.1242/jeb.252654)
+
+### 8
+**RoboJEPA: Scaling Robotic Latent World Models**  
+Zholus A. et al. (2026)  
+[arXiv:2610.10515](https://doi.org/10.48550/arxiv.2610.10515)
+
+### 9
+**Temporal prediction captures retinal spiking responses across animal species**  
+Taylor L., Zenke F., King A. J., Harper N. S. (2026)  
+[Nature Communications 17](https://doi.org/10.1038/s41467-026-77399-y)
+
+### 10
+**Human claustrum neurons encode uncertainty and prediction errors during aversive learning**  
+Hu M. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02475-x)
+
+### 11
+**Structured and flexible representations in medial-frontal cortex support goal-directed navigation**  
+Doohan P. T. et al. (2026)  
+[bioRxiv:2026.06.09.729603](https://doi.org/10.64898/2026.06.09.729603)
+
+### 12
+**A metric for comparing complex systems by their dynamics**  
+Ostrow M., Eisen A. J., Kozachkov L., Redman W. T., Fiete I. (2026)  
+[bioRxiv:2026.07.16.738953](https://doi.org/10.64898/2026.07.16.738953)
+
+### 13
+**Eyes on the prize: a neural basis of perceptual choking under pressure**  
+McDonnell M. E. et al. (2026)  
+[bioRxiv:2026.09.30.755534](https://doi.org/10.64898/2026.09.30.755534)
+
+
+## Superlab Papers
+
+###  
+**Reaching movements in virtual reality depend on the seen avatar arm and not just the acting arm**  
+Ipwanshek O., Babin K., Gribble P. L., Culham J. C. (2026)  
+[bioRxiv:2026.10.05.756878](https://doi.org/10.64898/2026.10.05.756878)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
