@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 351"
+date:   2026-10-23 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### 1
+**Koopman operator theory: fundamentals, control, and applications**  
+Mezić I., Cortés J., Worthmann K., Lazar M., Lederer A. (2026)  
+[arXiv:2607.01819](https://doi.org/10.48550/arxiv.2607.01819)
+
+### 2
+**Chunking: What working memory gains and loses**  
+Xie Y., Zhang H., Wang L. (2026)  
+[Current Biology 36:R1076-R1078](https://doi.org/10.1016/j.cub.2026.09.028)
+
+### 3
+**Functional architecture of the human insula**  
+Quabs J. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-11175-2)
+
+### 4
+**Ring attractor networks go full circle**  
+Mastrogiuseppe F., Ostojic S. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02394-x)
+
+### 5
+**A mechanistic theory of planning in prefrontal cortex**  
+Jensen K. T. et al. (2026)  
+[eLife 15](https://doi.org/10.7554/elife.109757.3)
+
+### 6
+**Dendritic computation for abstract rule-based flexible decision-making**  
+Zhang Y. et al. (2026)  
+[Science 394](https://doi.org/10.1126/science.adz5323)
+
+### 7
+**Cellular scaling laws in the mammalian brain**  
+Chen F., Macosko E. Z. (2026)  
+[Cell 189:6564-6573](https://doi.org/10.1016/j.cell.2026.08.044)
+
+### 8
+**A corticohypothalamic circuit that mediates maternal awakening to pup cries**  
+Tang P. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02458-y)
+
+### 9
+**Motor abstraction training generalizes to the refinement of specific movement patterns**  
+Sun Z., Xie Z., McDougle S. D. (2026)  
+[Nature Human Behaviour](https://doi.org/10.1038/s41562-026-02597-z)
+
+### 10
+**Rapid alternation of conscious and suppressed stimulus representations in the primate brain**  
+Hesse J. K. et al. (2026)  
+[bioRxiv:2026.10.15.759299](https://doi.org/10.64898/2026.10.15.759299)
+
+### 11
+**Complete or Sparse: A Tale of Two Identifiabilities**  
+Zhou J., Klindt D. (2026)  
+[arXiv:2610.20851](https://doi.org/10.48550/arxiv.2610.20851)
+
+### 12
+**Dynamics of dopamine transients in human olfactory epithelium during reward learning**  
+Paul Sands L. et al. (2026)  
+[bioRxiv:2026.10.07.757414](https://doi.org/10.64898/2026.10.07.757414)
+
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
