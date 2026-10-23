@@ -16,6 +16,18 @@ Enjoy!
 
 ---
 
+### Gradute Student Recruitment
+
+The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g. Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled `LastName_FirstName.pdf` directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:
+
+1. A CV (including publications and conference presentations).
+2. A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: [Diedrichsen](https://www.diedrichsenlab.org/publications.htm), [Pruszynski](https://www.pruszynskilab.com/publications.html), [Gribble](https://gribblelab.org/papers.html). 
+3. Names and contact information for three academic referees.
+
+The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.
+
+---
+
 ### 1
 **Koopman operator theory: fundamentals, control, and applications**  
 Mezić I., Cortés J., Worthmann K., Lazar M., Lederer A. (2026)  
