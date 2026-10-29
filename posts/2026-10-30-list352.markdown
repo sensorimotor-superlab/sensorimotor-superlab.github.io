@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "Reading List 352"
+date:   2026-10-30 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### Gradute Student Recruitment
+
+The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g. Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled `LastName_FirstName.pdf` directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:
+
+1. A CV (including publications and conference presentations).
+2. A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: [Diedrichsen](https://www.diedrichsenlab.org/publications.htm), [Pruszynski](https://www.pruszynskilab.com/publications.html), [Gribble](https://gribblelab.org/papers.html). 
+3. Names and contact information for three academic referees.
+
+The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.
+
+---
+
+### 1
+**Neural subspaces encode sequential working memory without detectable neural sequences**  
+Santo-Angles A. et al. (2026)  
+[Nature Communications](https://doi.org/10.1038/s41467-026-78895-x)
+
+### 2
+**A Mechanistic Theory Unifying Value and Schema in the Prefrontal Cortex**  
+Warren J., Jensen K. T., Behrens T. E. J., Whittington J. C. R. (2026)  
+[bioRxiv:2026.10.17.759791](https://doi.org/10.64898/2026.10.17.759791)
+
+### 3
+**Connectome simulations identify a central pattern generator for fly walking**  
+Pugliese S. M. et al. (2026)  
+[Nature](https://doi.org/10.1038/s41586-026-11195-y)
+
+### 4
+**Representational manifolds in olfactory cortex**  
+Friedrich R. W., Zenke F. (2026)  
+[Current Opinion in Neurobiology 101:103286](https://doi.org/10.1016/j.conb.2026.103286)
+
+### 5
+**Multitasking Recurrent Networks Utilize Compositional Strategies for Control of Movement**  
+Lazzari J., Saxena S. (2025)  
+[bioRxiv:2025.09.10.675375](https://doi.org/10.1101/2025.09.10.675375)
+
+### 6
+**Ultrarapid decision-making in an avian brain**  
+Schmidbauer P., Nieder A. (2026)  
+[Science 394:445-449](https://doi.org/10.1126/science.aed6459)
+
+### 7
+**Neuroscience gave AI its start. What happens now?**  
+Singer E. (2026)  
+[The Transmitter](https://doi.org/10.53053/zrta6912)
+
+### 8
+**AI and The Enclosure of the Scientific Commons**  
+Williams P. K. G. (2026)  
+[arXiv:2610.27251](https://doi.org/10.48550/arxiv.2610.27251)
+
+# Journal Club
+
+This week in the sensorimotor superlab lab meeting we welcomed [Mitchell Ostrow](https://mitchellostrow.github.io) from MIT to discuss recent work developing Dynamical Similarity Analysis:
+
+**A metric for comparing complex systems by their dynamics**  
+Ostrow M., Eisen A. J., Kozachkov L., Redman W. T., Fiete I. (2026)  
+[bioRxiv:2026.07.16.738953](https://doi.org/10.64898/2026.07.16.738953)
+
+Video: [https://youtu.be/vfLOn1arfQU?si=kTwJsBMHM0n-c7wa](https://youtu.be/vfLOn1arfQU?si=kTwJsBMHM0n-c7wa)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
