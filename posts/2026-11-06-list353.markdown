@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Reading List 353"
+date:   2026-11-06 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### Gradute Student Recruitment
+
+The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g. Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled `LastName_FirstName.pdf` directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:
+
+1. A CV (including publications and conference presentations).
+2. A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: [Diedrichsen](https://www.diedrichsenlab.org/publications.htm), [Pruszynski](https://www.pruszynskilab.com/publications.html), [Gribble](https://gribblelab.org/papers.html). 
+3. Names and contact information for three academic referees.
+
+The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.
+
+---
+
+### 1
+**Case Report: Representational geometry of multi-digit coordination in the macaque grasping network for intracortical BCIs**  
+Sheng W. A., Agudelo-Toro A., Dann B., Scherberger H. (2026)  
+[Frontiers in Neuroscience 20](https://doi.org/10.3389/fnins.2026.1933898)
+
+### 2
+**Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience**  
+Kwon D. (2026)  
+[Nature 659:259-261](https://doi.org/10.1038/d41586-026-03511-3)
+
+### 3
+**Peripersonal space: a neural system mapping self–environment interaction ‘here and now’**  
+Serino A. (2026)  
+[Trends in Cognitive Sciences](https://doi.org/10.1016/j.tics.2026.10.002)
+
+### 4
+**Somatostatin-excitatory coordination emerges with dexterous motor skill learning**  
+Wheeler Fox G., Wiener E. T., MacLean J. N. (2026)  
+[bioRxiv:2026.10.28.762594](https://doi.org/10.64898/2026.10.28.762594)
+
+### 5
+**Angular speed should not be used to test the speed–curvature power law**  
+Matic A. (2026)  
+[Behavior Research Methods 58](https://doi.org/10.3758/s13428-026-03227-2)
+
+### 6
+**Recurrent Spiking Neural Networks for Continuous Motor Control: A Biologically Plausible Model of Motor Cortex**  
+Imamura H., Imamura F., Igarashi J., Isomura Y., Hira R. (2026)  
+[bioRxiv:2026.10.26.756490](https://doi.org/10.64898/2026.10.26.756490)
+
+### 7
+**Pervasive patterns in bird songs resemble those in human speech and song and are independent of vocal learning**  
+James L. S. et al. (2026)  
+[Science 394:556-561](https://doi.org/10.1126/science.adr9983)
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
