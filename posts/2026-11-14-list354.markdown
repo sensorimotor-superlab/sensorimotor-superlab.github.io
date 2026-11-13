@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Reading List 354"
+date:   2026-11-13 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### Gradute Student Recruitment
+
+The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g. Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled `LastName_FirstName.pdf` directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:
+
+1. A CV (including publications and conference presentations).
+2. A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: [Diedrichsen](https://www.diedrichsenlab.org/publications.htm), [Pruszynski](https://www.pruszynskilab.com/publications.html), [Gribble](https://gribblelab.org/papers.html). 
+3. Names and contact information for three academic referees.
+
+The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.
+
+---
+
+### 1
+**Simple, static, spiking nonlinearities can account for seemingly complex interactions between visual, motor and cognitive variables in the visual cortex.**  
+Zajkowski W. K. et al. (2026)  
+[bioRxiv:2026.11.01.763479](https://doi.org/10.64898/2026.11.01.763479)
+
+### 2
+**Optimization principles, revisited**  
+Bialek W. (2026)  
+[arXiv:2611.14381](https://doi.org/10.48550/arxiv.2611.14381)
+
+### 3
+**Interpreting computational mechanism from multi-area neural recordings**  
+Versteeg C. et al. (2026)  
+[bioRxiv:2026.11.09.765426](https://doi.org/10.64898/2026.11.09.765426)
+
+### 4
+**Parkinson Disease vs Aging Features Impairments in Formation and Release of a Power Grip in Real and Pantomimed String-Pulling**  
+Kia M. et al. (2026)  
+[bioRxiv:2026.10.29.762925](https://doi.org/10.64898/2026.10.29.762925)
+
+### 5
+**Bayesian brain mapping: A population-informed framework for personalized functional network topography and connectivity**  
+Derman D. et al. (2026)  
+[Imaging Neuroscience 4](https://doi.org/10.1162/imag.a.1411)
+
+### 6
+**Dissociation of gravity and limb dynamics in motor control**  
+Gritsenko V. et al. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2613283123)
+
+### 7
+**Motivation-dependent communication between cortex and brainstem**  
+Machado T. A. et al. (2026)  
+[bioRxiv:2026.11.05.764652](https://doi.org/10.64898/2026.11.05.764652)
+
+### 8
+**Circuit mechanisms for disentangled representations and generalization in the hippocampus**  
+Tang W. et al. (2026)  
+[Nature Neuroscience](https://doi.org/10.1038/s41593-026-02491-x)
+
+### 9
+**Transient feedforward communication between somatosensory and premotor cortex supports goal-directed behavior**  
+Ranjbar-Slamloo Y., Kamigaki T. (2026)  
+[PLOS Biology 24:e3004095](https://doi.org/10.1371/journal.pbio.3004095)
+
+### 10
+**What can behavior tell us about neural dynamics?**  
+Cazettes F., Schölvinck M. L. (2026)  
+[Trends in Cognitive Sciences](https://doi.org/10.1016/j.tics.2026.10.003)
+
+### 11
+**Influence of force direction on motor-unit activity during low-force isometric contractions with the first dorsal interosseous muscle**  
+Koger K. et al. (2026)  
+[Journal of Neurophysiology 136:1392-1404](https://doi.org/10.1152/jn.00269.2026)
+
+### 12
+**Transcranial magnetic stimulation to the dorsolateral prefrontal cortex modulates single-neuron activity in humans**  
+Dickey C. W. et al. (2026)  
+[Proceedings of the National Academy of Sciences 123](https://doi.org/10.1073/pnas.2610803123)
+
+### 13
+**The first 1000 days: Modeling language learning from individual children’s everyday speech**  
+Raviv H. et al. (2026)  
+[Science 394](https://doi.org/10.1126/science.aeh9311)
+
+### 14
+**Increased activity without changes in coupling between somata and apical dendrites during visual mismatches**  
+Henley T. M. et al. (2026)  
+[bioRxiv:2026.11.04.764139](https://doi.org/10.64898/2026.11.04.764139)
+
+### 15
+**A ‘Basin of Attraction’ Theory of Speech Initiation and Stuttering**  
+Guenther F. H. H., Chang S. E., Cannon J. (2026)  
+[10.31234/osf.io/jf9eu_v2](https://doi.org/10.31234/osf.io/jf9eu_v2)
+
+
+### 16
+
+**OpenMotor: Open data for motor control and motor learning**  
+Tsay J., Padmanabhan S., Nyamsuren I.  
+[https://physicalintelligencelab.github.io/openmotor](https://physicalintelligencelab.github.io/openmotor)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
