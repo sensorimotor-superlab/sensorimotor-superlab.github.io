@@ -10,7 +10,144 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Fri, 06 Nov 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 354</title>
+  <link>https://superlab.ca/posts/2026-11-14-list354.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="gradute-student-recruitment" class="level3">
+<h3 class="anchored" data-anchor-id="gradute-student-recruitment">Gradute Student Recruitment</h3>
+<p>The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g.&nbsp;Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled <code>LastName_FirstName.pdf</code> directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:</p>
+<ol type="1">
+<li>A CV (including publications and conference presentations).</li>
+<li>A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: <a href="https://www.diedrichsenlab.org/publications.htm">Diedrichsen</a>, <a href="https://www.pruszynskilab.com/publications.html">Pruszynski</a>, <a href="https://gribblelab.org/papers.html">Gribble</a>.</li>
+<li>Names and contact information for three academic referees.</li>
+</ol>
+<p>The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.</p>
+<hr>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Simple, static, spiking nonlinearities can account for seemingly complex interactions between visual, motor and cognitive variables in the visual cortex.</strong><br>
+Zajkowski W. K. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.01.763479">bioRxiv:2026.11.01.763479</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Optimization principles, revisited</strong><br>
+Bialek W. (2026)<br>
+<a href="https://doi.org/10.48550/arxiv.2611.14381">arXiv:2611.14381</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Interpreting computational mechanism from multi-area neural recordings</strong><br>
+Versteeg C. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.09.765426">bioRxiv:2026.11.09.765426</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Parkinson Disease vs Aging Features Impairments in Formation and Release of a Power Grip in Real and Pantomimed String-Pulling</strong><br>
+Kia M. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.10.29.762925">bioRxiv:2026.10.29.762925</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Bayesian brain mapping: A population-informed framework for personalized functional network topography and connectivity</strong><br>
+Derman D. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1162/imag.a.1411">Imaging Neuroscience 4</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Dissociation of gravity and limb dynamics in motor control</strong><br>
+Gritsenko V. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1073/pnas.2613283123">Proceedings of the National Academy of Sciences 123</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Motivation-dependent communication between cortex and brainstem</strong><br>
+Machado T. A. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.05.764652">bioRxiv:2026.11.05.764652</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>Circuit mechanisms for disentangled representations and generalization in the hippocampus</strong><br>
+Tang W. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41593-026-02491-x">Nature Neuroscience</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Transient feedforward communication between somatosensory and premotor cortex supports goal-directed behavior</strong><br>
+Ranjbar-Slamloo Y., Kamigaki T. (2026)<br>
+<a href="https://doi.org/10.1371/journal.pbio.3004095">PLOS Biology 24:e3004095</a></p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">10</h3>
+<p><strong>What can behavior tell us about neural dynamics?</strong><br>
+Cazettes F., Schölvinck M. L. (2026)<br>
+<a href="https://doi.org/10.1016/j.tics.2026.10.003">Trends in Cognitive Sciences</a></p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">11</h3>
+<p><strong>Influence of force direction on motor-unit activity during low-force isometric contractions with the first dorsal interosseous muscle</strong><br>
+Koger K. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1152/jn.00269.2026">Journal of Neurophysiology 136:1392-1404</a></p>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">12</h3>
+<p><strong>Transcranial magnetic stimulation to the dorsolateral prefrontal cortex modulates single-neuron activity in humans</strong><br>
+Dickey C. W. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1073/pnas.2610803123">Proceedings of the National Academy of Sciences 123</a></p>
+</section>
+<section id="section-12" class="level3">
+<h3 class="anchored" data-anchor-id="section-12">13</h3>
+<p><strong>The first 1000 days: Modeling language learning from individual children’s everyday speech</strong><br>
+Raviv H. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1126/science.aeh9311">Science 394</a></p>
+</section>
+<section id="section-13" class="level3">
+<h3 class="anchored" data-anchor-id="section-13">14</h3>
+<p><strong>Increased activity without changes in coupling between somata and apical dendrites during visual mismatches</strong><br>
+Henley T. M. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.04.764139">bioRxiv:2026.11.04.764139</a></p>
+</section>
+<section id="section-14" class="level3">
+<h3 class="anchored" data-anchor-id="section-14">15</h3>
+<p><strong>A ‘Basin of Attraction’ Theory of Speech Initiation and Stuttering</strong><br>
+Guenther F. H. H., Chang S. E., Cannon J. (2026)<br>
+<a href="https://doi.org/10.31234/osf.io/jf9eu_v2">10.31234/osf.io/jf9eu_v2</a></p>
+</section>
+<section id="section-15" class="level3">
+<h3 class="anchored" data-anchor-id="section-15">16</h3>
+<p><strong>OpenMotor: Open data for motor control and motor learning</strong><br>
+Tsay J., Padmanabhan S., Nyamsuren I.<br>
+<a href="https://physicalintelligencelab.github.io/openmotor">https://physicalintelligencelab.github.io/openmotor</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-11-14-list354.html</guid>
+  <pubDate>Fri, 13 Nov 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 353</title>
   <link>https://superlab.ca/posts/2026-11-06-list353.html</link>
@@ -1623,72 +1760,6 @@ Shah N. P. et al.&nbsp;(2025)<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-05-29-list335.html</guid>
   <pubDate>Fri, 29 May 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 334</title>
-  <link>https://superlab.ca/posts/2026-05-22-list334.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>Simple input–output dependencies explain neuronal activity</strong><br>
-Lynn C. W. (2026)<br>
-<a href="https://doi.org/10.1038/s41567-026-03306-3">Nature Physics</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>This paper changed my life: Appreciating John Hopfield’s brilliant neural network</strong><br>
-Geffen M. (2026)<br>
-<a href="https://doi.org/10.53053/lhia1484">The Transmitter</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>Neural networks and physical systems with emergent collective computational abilities.</strong><br>
-Hopfield J. J. (1982)<br>
-<a href="https://doi.org/10.1073/pnas.79.8.2554">Proceedings of the National Academy of Sciences 79:2554-2558</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Neural representation of action symbols in primate frontal cortex</strong><br>
-Tian L. Y. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41586-026-10297-x">Nature</a></p>
-</section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">5</h3>
-<p><strong>Neural correlates of perceptual decision-making in the primary somatosensory cortex</strong><br>
-Armstrong A. G., Vlasov Y. (2026)<br>
-<a href="https://doi.org/10.1073/pnas.2514107123">Proceedings of the National Academy of Sciences 123</a></p>
-</section>
-<section id="section-5" class="level3">
-<h3 class="anchored" data-anchor-id="section-5">6</h3>
-<p><strong>Neural xenografts contribute to long-term recovery in stroke via molecular graft-host crosstalk</strong><br>
-Weber R. Z. et al.&nbsp;(2025)<br>
-<a href="https://doi.org/10.1038/s41467-025-63725-3">Nature Communications 16</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-05-22-list334.html</guid>
-  <pubDate>Fri, 22 May 2026 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
