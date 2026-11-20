@@ -10,7 +10,102 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Fri, 13 Nov 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 355</title>
+  <link>https://superlab.ca/posts/2026-11-20-list355.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="gradute-student-recruitment" class="level3">
+<h3 class="anchored" data-anchor-id="gradute-student-recruitment">Gradute Student Recruitment</h3>
+<p>The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g.&nbsp;Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled <code>LastName_FirstName.pdf</code> directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:</p>
+<ol type="1">
+<li>A CV (including publications and conference presentations).</li>
+<li>A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: <a href="https://www.diedrichsenlab.org/publications.htm">Diedrichsen</a>, <a href="https://www.pruszynskilab.com/publications.html">Pruszynski</a>, <a href="https://gribblelab.org/papers.html">Gribble</a>.</li>
+<li>Names and contact information for three academic referees.</li>
+</ol>
+<p>The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.</p>
+<hr>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>The hippocampus as a latent diffusion engine for memory, perception and cognitive dysfunction</strong><br>
+Jones D. T., Breakspear M. (2026)<br>
+<a href="https://doi.org/10.1093/brain/awag325">Brain</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>LUC3D: Multi-animal 3D pose tracking in the browser</strong><br>
+Leonardis E. J. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.17.767188">bioRxiv:2026.11.17.767188</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>A neural code for generative speech production in human Wernicke’s area</strong><br>
+Silva A. B. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1126/science.aef8963">Science 394</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Motor unit mechanisms of speed control in mouse locomotion</strong><br>
+Thomas K., Gibbs R., Marques H., Carey M. R., Sober S. J. (2026)<br>
+<a href="https://doi.org/10.7554/elife.105829.4">eLife 14</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Dissociable cerebellar pathways for reach correction and learning</strong><br>
+Dobrott C. I., Nashef A., Becker M. I., Person A. L. (2026)<br>
+<a href="https://doi.org/10.1016/j.neuron.2026.10.010">Neuron</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>Motor cortex retains and reorients neural dynamics during motor imagery</strong><br>
+Dekleva B. M. et al.&nbsp;(2024)<br>
+<a href="https://doi.org/10.1038/s41562-023-01804-5">Nature Human Behaviour 8:729-742</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Same Movements, Different Skills: How Context Shapes Learning in Humans and Neural Networks</strong><br>
+Gupta M. W., Taylor J. A. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.08.764653">bioRxiv:2026.11.08.764653</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>The transformer as a candidate canonical cortical microcircuit</strong><br>
+Shah Y., Yamins D. L. K. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.01.763457">bioRxiv:2026.11.01.763457</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>Development of appropriate sensorimotor recalibration for a de novo skill</strong><br>
+Wang T., Li Y., Taylor J. A., Ivry R. B. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.02.763836">bioRxiv:2026.11.02.763836</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-11-20-list355.html</guid>
+  <pubDate>Fri, 20 Nov 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 354</title>
   <link>https://superlab.ca/posts/2026-11-14-list354.html</link>
@@ -1680,86 +1775,6 @@ Shen Y. L. et al.&nbsp;(2025)<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-06-05-list336.html</guid>
   <pubDate>Fri, 05 Jun 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 335</title>
-  <link>https://superlab.ca/posts/2026-05-29-list335.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>Voluntary Dissociation of Motor Unit Activity in the Vastii Muscles</strong><br>
-Haller D. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1523/jneurosci.1982-25.2026">The Journal of Neuroscience e1982252026</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>Fixation duration on natural scenes is explained by memory encoding not processing demand</strong><br>
-Sulewski P., Amme C., Hebart M. N., König P., Kietzmann T. C. (2026)<br>
-<a href="https://doi.org/10.1038/s41593-026-02285-1">Nature Neuroscience</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>When anticipation is not enough: a mixture of robust and adaptive feedback control strategies improve reaching in dynamic environments</strong><br>
-Kalidindi H. T., Crevecoeur F. (2026)<br>
-<a href="https://doi.org/10.1523/jneurosci.2158-25.2026">The Journal of Neuroscience e2158252026</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Reward magnitude determines reinforcement learning efficiency</strong><br>
-Gong S., Martell A., Dudman J. T., Coddington L. T. (2026)<br>
-<a href="https://doi.org/10.1126/science.aeb0813">Science 392</a></p>
-</section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">5</h3>
-<p><strong>A critical initialization for biological neural networks</strong><br>
-Pachitariu M. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41586-026-10528-1">Nature</a></p>
-</section>
-<section id="section-5" class="level3">
-<h3 class="anchored" data-anchor-id="section-5">6</h3>
-<p><strong>A systematic investigation reveals dissociable effects of ageing on implicit and explicit components of sensorimotor learning</strong><br>
-Cisneros E., Karny S., Ivry R. B., Tsay J. S. (2026)<br>
-<a href="https://doi.org/10.1038/s41562-026-02468-7">Nature Human Behaviour</a></p>
-</section>
-<section id="superlab-papers" class="level2">
-<h2 class="anchored" data-anchor-id="superlab-papers">Superlab Papers</h2>
-<p><strong>SUITPy: A Python-based toolbox for the analysis of cerebellar functional and anatomical imaging data across the human lifespan</strong><br>
-Wang Y. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.64898/2026.05.14.724397">bioRxiv:2026.05.14.724397</a></p>
-</section>
-<section id="journal-club" class="level2">
-<h2 class="anchored" data-anchor-id="journal-club">Journal Club</h2>
-<p><a href="https://profiles.rice.edu/faculty/nishal-shah">Nishal Shah</a> (Rice Univ.) joined us to talk about his recent paper:</p>
-<p><strong>Pseudo-linear summation explains neural geometry of multi-finger movements in human premotor cortex</strong><br>
-Shah N. P. et al.&nbsp;(2025)<br>
-<a href="https://doi.org/10.1038/s41467-025-59039-z">Nature Communications 16</a></p>
-<p>YouTube video: <a href="https://youtu.be/4jd4eRIls0I">https://youtu.be/4jd4eRIls0I</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-05-29-list335.html</guid>
-  <pubDate>Fri, 29 May 2026 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

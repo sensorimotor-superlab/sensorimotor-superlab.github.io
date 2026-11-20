@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "Reading List 355"
+date:   2026-11-20 00:00:00
+categories: readinglist
+---
+
+---
+
+
+Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.  
+
+Enjoy!  
+
+---the superlab
+
+---
+
+### Gradute Student Recruitment
+
+The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g. Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled `LastName_FirstName.pdf` directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:
+
+1. A CV (including publications and conference presentations).
+2. A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: [Diedrichsen](https://www.diedrichsenlab.org/publications.htm), [Pruszynski](https://www.pruszynskilab.com/publications.html), [Gribble](https://gribblelab.org/papers.html). 
+3. Names and contact information for three academic referees.
+
+The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.
+
+---
+
+### 1
+**The hippocampus as a latent diffusion engine for memory, perception and cognitive dysfunction**  
+Jones D. T., Breakspear M. (2026)  
+[Brain](https://doi.org/10.1093/brain/awag325)
+
+### 2
+**LUC3D: Multi-animal 3D pose tracking in the browser**  
+Leonardis E. J. et al. (2026)  
+[bioRxiv:2026.11.17.767188](https://doi.org/10.64898/2026.11.17.767188)
+
+### 3
+**A neural code for generative speech production in human Wernicke’s area**  
+Silva A. B. et al. (2026)  
+[Science 394](https://doi.org/10.1126/science.aef8963)
+
+### 4
+**Motor unit mechanisms of speed control in mouse locomotion**  
+Thomas K., Gibbs R., Marques H., Carey M. R., Sober S. J. (2026)  
+[eLife 14](https://doi.org/10.7554/elife.105829.4)
+
+### 5
+**Dissociable cerebellar pathways for reach correction and learning**  
+Dobrott C. I., Nashef A., Becker M. I., Person A. L. (2026)  
+[Neuron](https://doi.org/10.1016/j.neuron.2026.10.010)
+
+### 6
+**Motor cortex retains and reorients neural dynamics during motor imagery**  
+Dekleva B. M. et al. (2024)  
+[Nature Human Behaviour 8:729-742](https://doi.org/10.1038/s41562-023-01804-5)
+
+### 7
+**Same Movements, Different Skills: How Context Shapes Learning in Humans and Neural Networks**  
+Gupta M. W., Taylor J. A. (2026)  
+[bioRxiv:2026.11.08.764653](https://doi.org/10.64898/2026.11.08.764653)
+
+### 8
+**The transformer as a candidate canonical cortical microcircuit**  
+Shah Y., Yamins D. L. K. (2026)  
+[bioRxiv:2026.11.01.763457](https://doi.org/10.64898/2026.11.01.763457)
+
+### 9
+**Development of appropriate sensorimotor recalibration for a de novo skill**  
+Wang T., Li Y., Taylor J. A., Ivry R. B. (2026)  
+[bioRxiv:2026.11.02.763836](https://doi.org/10.64898/2026.11.02.763836)
+
+
+## Archive
+You can look at an archive of our previous posts here: [https://superlab.ca](https://superlab.ca)
+
+
+## Disclaimer
+Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across---but, as always, please read with a critical eye.
