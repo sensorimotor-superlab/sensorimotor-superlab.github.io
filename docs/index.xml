@@ -10,7 +10,150 @@
 <atom:link href="https://superlab.ca/index.xml" rel="self" type="application/rss+xml"/>
 <description>Sensorimotor Superlab Reading List</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Fri, 20 Nov 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Reading List 356</title>
+  <link>https://superlab.ca/posts/2026-11-27-list356.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<hr>
+<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
+<p>Enjoy!</p>
+<p>—the superlab</p>
+<hr>
+<section id="gradute-student-recruitment" class="level3">
+<h3 class="anchored" data-anchor-id="gradute-student-recruitment">Gradute Student Recruitment</h3>
+<p>The Sensorimotor Superlab at Western University is now accepting applications for MSc / PhD students who want to join the lab in Fall 2027. The successful candidates will then apply in January to the graduate program appropriate for their interests (e.g.&nbsp;Neuroscience, Psychology, Computer Science, Statistics). Applications should be submitted electronically as a single PDF file entitled <code>LastName_FirstName.pdf</code> directly to one of the PIs (jdiedric@uwo.ca , andrew.pruszynski@uwo.ca, or pgribble@uwo.ca). The pdf must include:</p>
+<ol type="1">
+<li>A CV (including publications and conference presentations).</li>
+<li>A statement of research interest outlining current experience and plans for future research, not exceeding 2 pages. The statement should make clear how your interests fit with the ongoing work in each lab. Please see recent publications for each lab: <a href="https://www.diedrichsenlab.org/publications.htm">Diedrichsen</a>, <a href="https://www.pruszynskilab.com/publications.html">Pruszynski</a>, <a href="https://gribblelab.org/papers.html">Gribble</a>.</li>
+<li>Names and contact information for three academic referees.</li>
+</ol>
+<p>The review of applications will begin December 5th and continue until positions are filled. The successful candidates will then apply in January to the appropriate graduate program. Acceptance to the program is independently adjudicated and is required to join the laboratory.</p>
+<hr>
+</section>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1</h3>
+<p><strong>Addressing Inconsistency in Functional Neuroimaging: A Replicable Data‐Driven Multi‐Scale Functional Atlas for Canonical Brain Networks</strong><br>
+Jensen K. M., Turner J. A., Uddin L. Q., Calhoun V. D., Iraji A. (2026)<br>
+<a href="https://doi.org/10.1002/hbm.70695">Human Brain Mapping 47</a></p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2</h3>
+<p><strong>Multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings</strong><br>
+Yang X. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1038/s41562-026-02626-x">Nature Human Behaviour</a></p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">3</h3>
+<p><strong>Distributed Neural Dynamics Underlie the Shift from Movement Preparation to Execution</strong><br>
+Yin Z., Liu J. K., Kornysheva K. (2026)<br>
+<a href="https://doi.org/10.1162/jocn.a.2735">Journal of Cognitive Neuroscience 1-22</a></p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">4</h3>
+<p><strong>Shared and context-dependent cortico–striatal–cerebellar organization of temporal prediction</strong><br>
+Luísa Pinho A. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.21.768330">bioRxiv:2026.11.21.768330</a></p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">5</h3>
+<p><strong>Voluntary control of human motor units is more flexible in facial than limb muscles</strong><br>
+Kirk E. A. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.21.767708">bioRxiv:2026.11.21.767708</a></p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">6</h3>
+<p><strong>A Relational Code for Objects in Primate Frontal Cortex</strong><br>
+Watters N., Gabel J., Tenenbaum J., Jazayeri M. (2026)<br>
+<a href="https://doi.org/10.64898/2026.10.17.759839">bioRxiv:2026.10.17.759839</a></p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">7</h3>
+<p><strong>Motor learning engages intrinsic plasticity in the human cortex</strong><br>
+Clennell B. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.19.767269">bioRxiv:2026.11.19.767269</a></p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">8</h3>
+<p><strong>The hippocampus as a latent diffusion engine for memory, perception and cognitive dysfunction</strong><br>
+Jones D. T., Breakspear M. (2026)<br>
+<a href="https://doi.org/10.1093/brain/awag325">Brain</a></p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">9</h3>
+<p><strong>LUC3D: Multi-animal 3D pose tracking in the browser</strong><br>
+Leonardis E. J. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.64898/2026.11.17.767188">bioRxiv:2026.11.17.767188</a></p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">10</h3>
+<p><strong>A neural code for generative speech production in human Wernicke’s area</strong><br>
+Silva A. B. et al.&nbsp;(2026)<br>
+<a href="https://doi.org/10.1126/science.aef8963">Science 394</a></p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">11</h3>
+<p><strong>Motor unit mechanisms of speed control in mouse locomotion</strong><br>
+Thomas K., Gibbs R., Marques H., Carey M. R., Sober S. J. (2026)<br>
+<a href="https://doi.org/10.7554/elife.105829.4">eLife 14</a></p>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">12</h3>
+<p><strong>Structure learning and context inference emerge from next-state prediction in a cerebellar-medial temporal lobe circuit</strong><br>
+Bhatia C., Gershman S. J., Amematsro E. A. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.14.765964">bioRxiv:2026.11.14.765964</a></p>
+</section>
+<section id="section-12" class="level3">
+<h3 class="anchored" data-anchor-id="section-12">13</h3>
+<p><strong>Dissociable cerebellar pathways for reach correction and learning</strong><br>
+Dobrott C. I., Nashef A., Becker M. I., Person A. L. (2026)<br>
+<a href="https://doi.org/10.1016/j.neuron.2026.10.010">Neuron</a></p>
+</section>
+<section id="section-13" class="level3">
+<h3 class="anchored" data-anchor-id="section-13">14</h3>
+<p><strong>Motor cortex retains and reorients neural dynamics during motor imagery</strong><br>
+Dekleva B. M. et al.&nbsp;(2024)<br>
+<a href="https://doi.org/10.1038/s41562-023-01804-5">Nature Human Behaviour 8:729-742</a></p>
+</section>
+<section id="section-14" class="level3">
+<h3 class="anchored" data-anchor-id="section-14">15</h3>
+<p><strong>Same Movements, Different Skills: How Context Shapes Learning in Humans and Neural Networks</strong><br>
+Gupta M. W., Taylor J. A. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.08.764653">bioRxiv:2026.11.08.764653</a></p>
+</section>
+<section id="section-15" class="level3">
+<h3 class="anchored" data-anchor-id="section-15">16</h3>
+<p><strong>The transformer as a candidate canonical cortical microcircuit</strong><br>
+Shah Y., Yamins D. L. K. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.01.763457">bioRxiv:2026.11.01.763457</a></p>
+</section>
+<section id="section-16" class="level3">
+<h3 class="anchored" data-anchor-id="section-16">17</h3>
+<p><strong>Development of appropriate sensorimotor recalibration for a de novo skill</strong><br>
+Wang T., Li Y., Taylor J. A., Ivry R. B. (2026)<br>
+<a href="https://doi.org/10.64898/2026.11.02.763836">bioRxiv:2026.11.02.763836</a></p>
+</section>
+<section id="archive" class="level2">
+<h2 class="anchored" data-anchor-id="archive">Archive</h2>
+<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
+</section>
+<section id="disclaimer" class="level2">
+<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
+<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>readinglist</category>
+  <guid>https://superlab.ca/posts/2026-11-27-list356.html</guid>
+  <pubDate>Fri, 27 Nov 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Reading List 355</title>
   <link>https://superlab.ca/posts/2026-11-20-list355.html</link>
@@ -1715,66 +1858,6 @@ Diedrichsen J., Kashefi M., Nazerzadeh A., Pruszynski J. A. (2026)<br>
   <category>readinglist</category>
   <guid>https://superlab.ca/posts/2026-06-12-list337.html</guid>
   <pubDate>Fri, 12 Jun 2026 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Reading List 336</title>
-  <link>https://superlab.ca/posts/2026-06-05-list336.html</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<hr>
-<p>Trainees and PIs from the Sensorimotor Superlab at Western University contribute to this reading list. Here are the articles that have interested us this week.</p>
-<p>Enjoy!</p>
-<p>—the superlab</p>
-<hr>
-<section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">1</h3>
-<p><strong>Neuropixels Opto: combining high-resolution electrophysiology and optogenetics</strong><br>
-Lakunina A. A. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41592-026-03076-z">Nature Methods</a></p>
-</section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2</h3>
-<p><strong>Neural networks learn forward dynamics when freed from numerical integration</strong><br>
-Bahdasariants S., Yakovenko S. (2026)<br>
-<a href="https://doi.org/10.64898/2026.05.27.728310">bioRxiv:2026.05.27.728310</a></p>
-</section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">3</h3>
-<p><strong>Dynamic compression of whole-brain neural trajectories during human motor learning</strong><br>
-Mohseni H. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1073/pnas.2601546123">Proceedings of the National Academy of Sciences 123</a></p>
-</section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">4</h3>
-<p><strong>Spinal cord stimulation for upper limb motor function in people with chronic post-stroke hemiparesis: a feasibility trial</strong><br>
-de Freitas R. M. et al.&nbsp;(2026)<br>
-<a href="https://doi.org/10.1038/s41591-026-04435-1">Nature Medicine</a></p>
-</section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">5</h3>
-<p><strong>Neural similarity predicts whether strangers become friends</strong><br>
-Shen Y. L. et al.&nbsp;(2025)<br>
-<a href="https://doi.org/10.1038/s41562-025-02266-7">Nature Human Behaviour 9:2285-2298</a></p>
-</section>
-<section id="archive" class="level2">
-<h2 class="anchored" data-anchor-id="archive">Archive</h2>
-<p>You can look at an archive of our previous posts here: <a href="https://superlab.ca">https://superlab.ca</a></p>
-</section>
-<section id="disclaimer" class="level2">
-<h2 class="anchored" data-anchor-id="disclaimer">Disclaimer</h2>
-<p>Articles appear on this list because they caught our eye, but their appearance here is not necessarily an endorsement of the work. We hope that you find something on this list you might not otherwise have come across—but, as always, please read with a critical eye.</p>
-
-
-</section>
-
- ]]></description>
-  <category>readinglist</category>
-  <guid>https://superlab.ca/posts/2026-06-05-list336.html</guid>
-  <pubDate>Fri, 05 Jun 2026 04:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
